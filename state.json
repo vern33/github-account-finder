@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "phase": "personal_pages",
+  "searches": {},
+  "processed_repositories": [],
+  "stats": {
+    "runs": 0,
+    "repositories_seen": 0,
+    "repositories_inspected": 0,
+    "last_run_utc": null,
+    "last_error": null
+  }
+}

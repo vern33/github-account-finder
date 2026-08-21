@@ -1,0 +1,49 @@
+name: Search forgotten GitHub Pages account
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      max_api_requests:
+        description: Maximum core API requests in this run
+        required: false
+        default: "750"
+
+concurrency:
+  group: github-account-finder
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Search GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MAX_API_REQUESTS: ${{ github.event.inputs.max_api_requests || '750' }}
+        run: python finder.py
+
+      - name: Commit progress and candidates
+        run: |
+          if git diff --quiet -- state.json candidates.json candidates.md; then
+            echo "No result changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- state.json candidates.json candidates.md
+          git commit -m "chore: update account search results"
+          git push
