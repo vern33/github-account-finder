@@ -22,6 +22,7 @@ The first pass searches personal repositories named `owner.github.io`. Later pas
 - [`candidates.md`](candidates.md): human-readable candidates, highest score first.
 - [`candidates.json`](candidates.json): structured candidate evidence.
 - [`state.json`](state.json): durable pagination and deduplication state.
+- [`progress.md`](progress.md): completed search tasks, investigated accounts, API usage, and the current cursor.
 
 The scheduled workflow commits changes to these files after each run. It runs hourly and can also be started manually from the Actions tab.
 
@@ -31,4 +32,4 @@ The workflow uses only `${{ github.token }}`. Do not add a personal token unless
 
 ## Manual run
 
-Open **Actions → Search forgotten GitHub Pages account → Run workflow**. The optional request budget defaults to 750, below the normal 1,000 requests/hour limit for an Actions `GITHUB_TOKEN`.
+Open **Actions → Search forgotten GitHub Pages account → Run workflow**. The optional request budget defaults to 950. Every scheduled run reads the live API quota first and reserves 30 core requests instead of blindly assuming that the full hourly quota is available.

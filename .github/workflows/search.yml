@@ -8,7 +8,7 @@ on:
       max_api_requests:
         description: Maximum core API requests in this run
         required: false
-        default: "750"
+        default: "950"
 
 concurrency:
   group: github-account-finder
@@ -33,17 +33,17 @@ jobs:
       - name: Search GitHub
         env:
           GH_TOKEN: ${{ github.token }}
-          MAX_API_REQUESTS: ${{ github.event.inputs.max_api_requests || '750' }}
+          MAX_API_REQUESTS: ${{ github.event.inputs.max_api_requests || '950' }}
         run: python finder.py
 
       - name: Commit progress and candidates
         run: |
-          if git diff --quiet -- state.json candidates.json candidates.md; then
+          if git diff --quiet -- state.json candidates.json candidates.md progress.md; then
             echo "No result changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- state.json candidates.json candidates.md
+          git add -- state.json candidates.json candidates.md progress.md
           git commit -m "chore: update account search results"
           git push

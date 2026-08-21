@@ -24,6 +24,7 @@ CONFIG_PATH = ROOT / "config.json"
 STATE_PATH = ROOT / "state.json"
 CANDIDATES_PATH = ROOT / "candidates.json"
 REPORT_PATH = ROOT / "candidates.md"
+PROGRESS_PATH = ROOT / "progress.md"
 
 IMAGE_RE = re.compile(r"\.(?:jpe?g|png|webp|heic)$", re.I)
 REAL_PHOTO_RE = re.compile(r"(?:^|/)(?:img|images?|photos?|album|gallery|uploads?)/", re.I)
@@ -93,6 +94,16 @@ class GitHub:
     def search_repositories(self, query: str, page: int):
         params = urllib.parse.urlencode({"q": query, "per_page": 100, "page": page})
         return self.request(f"/search/repositories?{params}", search=True)
+
+    def reserve_from_live_limit(self, reserve: int = 30):
+        limits = self.request("/rate_limit") or {}
+        core = limits.get("resources", {}).get("core", {})
+        remaining = int(core.get("remaining", self.budget))
+        self.budget = min(self.budget, max(self.used, remaining - reserve))
+        if self.budget <= self.used:
+            raise BudgetExhausted(
+                f"core quota low: remaining={remaining}, reset={core.get('reset')}"
+            )
 
 
 def load_json(path: Path, default):
@@ -250,6 +261,42 @@ def render_report(candidates: list[dict], state: dict):
     REPORT_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
+def render_progress(plan: list[tuple[str, str]], state: dict, candidates: list[dict]):
+    searches = state.get("searches", {})
+    completed = sum(bool(searches.get(key, {}).get("complete")) for key, _ in plan)
+    active = next(
+        (
+            f"{key}, page {searches.get(key, {}).get('page', 1)}"
+            for key, _ in plan
+            if not searches.get(key, {}).get("complete")
+        ),
+        "complete",
+    )
+    repositories = state.get("processed_repositories", [])
+    owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
+    percent = (completed / len(plan) * 100) if plan else 100.0
+    stats = state.get("stats", {})
+    lines = [
+        "# Search progress",
+        "",
+        f"- Search tasks: **{completed:,} / {len(plan):,} ({percent:.1f}%)**",
+        f"- Current cursor: `{active}`",
+        f"- Repository results seen: **{stats.get('repositories_seen', 0):,}**",
+        f"- Unique repositories investigated: **{len(repositories):,}**",
+        f"- Unique account owners investigated: **{len(owners):,}**",
+        f"- Candidates recorded: **{len(candidates):,}**",
+        f"- Workflow runs: **{stats.get('runs', 0):,}**",
+        f"- Last run (UTC): `{stats.get('last_run_utc')}`",
+        f"- Last API requests used: **{stats.get('last_api_requests', 0):,}**",
+        f"- Last stop reason: `{stats.get('last_error') or 'none'}`",
+        "",
+        "The task percentage is exact for the current strategy. The account total is",
+        "dynamic because different queries overlap and GitHub does not expose a global",
+        "deduplicated total in advance.",
+    ]
+    PROGRESS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def main():
     token = os.environ.get("GH_TOKEN")
     if not token:
@@ -257,7 +304,8 @@ def main():
     config = load_json(CONFIG_PATH, {})
     state = load_json(STATE_PATH, {})
     candidates = load_json(CANDIDATES_PATH, [])
-    api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "750")))
+    api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
+    plan = build_search_plan(config)
     processed = set(state.get("processed_repositories", []))
     by_repo = {item["repository"].lower(): item for item in candidates}
     searches = state.setdefault("searches", {})
@@ -267,7 +315,8 @@ def main():
     stats["last_error"] = None
 
     try:
-        for key, query in build_search_plan(config):
+        api.reserve_from_live_limit()
+        for key, query in plan:
             cursor = searches.setdefault(key, {"page": 1, "complete": False})
             if cursor["complete"]:
                 continue
@@ -300,10 +349,14 @@ def main():
     except Exception as exc:  # Preserve progress and make the failure visible.
         stats["last_error"] = f"{type(exc).__name__}: {exc}"
     finally:
+        stats["last_api_requests"] = api.used
+        stats["last_api_budget"] = api.budget
         state["processed_repositories"] = sorted(processed)
         save_json(STATE_PATH, state)
-        save_json(CANDIDATES_PATH, list(by_repo.values()))
-        render_report(list(by_repo.values()), state)
+        candidate_list = list(by_repo.values())
+        save_json(CANDIDATES_PATH, candidate_list)
+        render_report(candidate_list, state)
+        render_progress(plan, state, candidate_list)
         print(f"API requests: {api.used}/{api.budget}")
         print(f"Processed repositories: {len(processed)}")
         print(f"Candidates: {len(by_repo)}")
