@@ -171,6 +171,13 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
     identity_hits = sorted({term for term in config["identity_terms"] if term in identity_haystack})
     content_hits = sorted({term for term in config["content_terms"] if term.lower() in searchable.lower()})
 
+    # The forgotten account is personal. Organization documentation sites
+    # dominate Pages results and produce overwhelming false positives.
+    if repo.get("owner", {}).get("type") != "User":
+        return None
+    if not (identity_hits or content_hits or post_files or len(probable_photos) >= config["minimum_photo_count"]):
+        return None
+
     score = 5  # Verified Pages workflow.
     if repo["name"].lower() == f"{repo['owner']['login'].lower()}.github.io":
         score += 5
@@ -272,6 +279,10 @@ def main():
                 items = result.get("items", [])
                 stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
                 for repo in items:
+                    if key.startswith("personal:") and repo["name"].lower() != (
+                        f"{repo['owner']['login'].lower()}.github.io"
+                    ):
+                        continue
                     full_name = repo["full_name"].lower()
                     if full_name in processed:
                         continue
