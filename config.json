@@ -12,7 +12,6 @@
     "hexo generate",
     "hugo --minify"
   ],
-  "content_terms": ["厦门", "xiamen", "鼓浪屿", "旅行", "游记", "国庆", "爬山", "登山", "hiking", "mountain", "travel", "trip"],
   "minimum_candidate_score": 8,
   "minimum_photo_count": 6
 }

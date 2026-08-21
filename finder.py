@@ -180,13 +180,11 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         [repo.get("owner", {}).get("login", ""), repo.get("name", ""), repo.get("description") or "", searchable]
     ).lower()
     identity_hits = sorted({term for term in config["identity_terms"] if term in identity_haystack})
-    content_hits = sorted({term for term in config["content_terms"] if term.lower() in searchable.lower()})
-
     # The forgotten account is personal. Organization documentation sites
     # dominate Pages results and produce overwhelming false positives.
     if repo.get("owner", {}).get("type") != "User":
         return None
-    if not (identity_hits or content_hits or post_files or len(probable_photos) >= config["minimum_photo_count"]):
+    if not (identity_hits or post_files or len(probable_photos) >= config["minimum_photo_count"]):
         return None
 
     score = 5  # Verified Pages workflow.
@@ -202,7 +200,6 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
     if post_files:
         score += 2
     score += min(5, len(identity_hits) * 3)
-    score += min(4, len(content_hits) * 2)
 
     if score < config["minimum_candidate_score"]:
         return None
@@ -220,7 +217,6 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         "pushed_at": pushed,
         "workflow_markers": markers,
         "identity_hits": identity_hits,
-        "content_hits": content_hits,
         "image_count": len(image_paths),
         "probable_photo_count": len(probable_photos),
         "sample_photos": probable_photos[:20],
@@ -252,7 +248,6 @@ def render_report(candidates: list[dict], state: dict):
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
             f"- Pages workflow: `{', '.join(item['workflow_markers'])}`",
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
-            f"- Content hits: `{', '.join(item['content_hits']) or 'none'}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
             f"- Sample posts: `{', '.join(item['sample_posts']) or 'none'}`",
             f"- Sample photos: `{', '.join(item['sample_photos']) or 'none'}`",
@@ -304,6 +299,11 @@ def main():
     config = load_json(CONFIG_PATH, {})
     state = load_json(STATE_PATH, {})
     candidates = load_json(CANDIDATES_PATH, [])
+    # Remove scores produced by the retired memory-based content keywords so
+    # old and new candidates remain comparable without rerunning searches.
+    for item in candidates:
+        old_hits = item.pop("content_hits", [])
+        item["score"] = max(0, item.get("score", 0) - min(4, len(old_hits) * 2))
     api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
     plan = build_search_plan(config)
     processed = set(state.get("processed_repositories", []))
