@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-22T23:08:47.801410+00:00`  
-Repositories inspected: `169`  
-Candidates: `166`
+Last run: `2026-08-22T23:36:24.045942+00:00`  
+Repositories inspected: `175`  
+Candidates: `172`
 
 <details>
 <summary><strong>Tier 2 · 17 points — <a href="https://github.com/liuzhongxuan99/waixinren-effective-computing-machine">liuzhongxuan99/waixinren-effective-computing-machine</a></strong> · probable photos 0 · identity liu, xuan</summary>
@@ -605,6 +605,42 @@ None.
 - `assets/images/contact.png`
 - `assets/images/movie-ranking.png`
 - `assets/images/movie.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/Julius-JiahaoLiu/eBay">Julius-JiahaoLiu/eBay</a></strong> · probable photos 4 · identity jliu, liu</summary>
+
+- Owner: [Julius-JiahaoLiu](https://github.com/Julius-JiahaoLiu)
+- Identity tier: **1**
+- Created / pushed: `2023-08-24T15:11:26Z` / `2023-12-21T06:16:56Z`
+- Account created: `2023-08-24T14:57:15Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Jiahao Liu`
+- Commit identity hits: `jliu, liu`
+- Latest commit author: `Jiahao Liu` / `jliu2620@usc.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `39` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `ebayBackNodeJS/public/assets/ebay_default.jpg`
+- `ebayBackNodeJS/public/assets/facebook.png`
+- `ebayWebAngular/src/assets/ebay_default.jpg`
+- `ebayWebAngular/src/assets/facebook.png`
 
 </details>
 
@@ -1555,6 +1591,40 @@ None.
 - `skin/images/1-1P320112H00-L.jpg`
 - `skin/images/1-1P320112I20-L.jpg`
 - `skin/images/1-1P320112J60-L.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/liujerry103/handybaby">liujerry103/handybaby</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [liujerry103](https://github.com/liujerry103)
+- Identity tier: **1**
+- Created / pushed: `2023-07-24T10:01:20Z` / `2023-07-24T11:30:52Z`
+- Account created: `2023-07-24T09:55:53Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liujerry103` / `140393223+liujerry103@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `img/SparkX-Skinny.png`
+- `img/scrot.png`
 
 </details>
 
@@ -4567,6 +4637,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/LiukLukas/LiukLukas.github.io">LiukLukas/LiukLukas.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LiukLukas](https://github.com/LiukLukas)
+- Identity tier: **1**
+- Created / pushed: `2023-07-25T06:26:46Z` / `2023-08-10T06:59:46Z`
+- Account created: `2023-07-25T06:17:51Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Lukas Lukauskas` / `lukauskaslukas.29@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 11 points — <a href="https://github.com/lxxvjk/lxxvjk.github.io">lxxvjk/lxxvjk.github.io</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [lxxvjk](https://github.com/lxxvjk)
@@ -5460,6 +5563,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/LiuShinYu/test">LiuShinYu/test</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LiuShinYu](https://github.com/LiuShinYu)
+- Identity tier: **1**
+- Created / pushed: `2023-08-08T02:57:52Z` / `2023-08-08T02:59:36Z`
+- Account created: `2023-08-08T02:54:36Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `LiuShinYu` / `141697986+LiuShinYu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 10 points — <a href="https://github.com/liutad/ChristHamsonwebsite.github.io">liutad/ChristHamsonwebsite.github.io</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [liutad](https://github.com/liutad)
@@ -5724,6 +5860,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/liuxhao66/xuexi">liuxhao66/xuexi</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuxhao66](https://github.com/liuxhao66)
+- Identity tier: **1**
+- Created / pushed: `2023-07-28T07:02:18Z` / `2023-07-28T07:42:44Z`
+- Account created: `2023-07-28T07:00:29Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuxhao66` / `140791879+liuxhao66@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 10 points — <a href="https://github.com/liuza-007/js-escrevenome">liuza-007/js-escrevenome</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [liuza-007](https://github.com/liuza-007)
@@ -5737,6 +5906,39 @@ None.
 - Profile name: `none`
 - Commit identity hits: `liu`
 - Latest commit author: `liuza-007` / `140745491+liuza-007@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/2629968923/Rotating-photo-wall">2629968923/Rotating-photo-wall</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [2629968923](https://github.com/2629968923)
+- Identity tier: **1**
+- Created / pushed: `2023-08-03T06:54:12Z` / `2023-08-03T06:54:51Z`
+- Account created: `2023-08-03T06:49:22Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Mr. Liu`
+- Commit identity hits: `none`
+- Latest commit author: `2629968923` / `141307165+2629968923@users.noreply.github.com`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
