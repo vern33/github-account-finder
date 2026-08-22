@@ -8696,5 +8696,1604 @@
     ],
     "description": null,
     "first_seen_utc": "2026-08-22T05:50:30.016332+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "zhou-X-boy",
+    "repository": "zhou-X-boy/blogs",
+    "url": "https://github.com/zhou-X-boy/blogs",
+    "pages_url": "https://zhou-X-boy.github.io/blogs/",
+    "created_at": "2023-08-30T08:02:31Z",
+    "pushed_at": "2023-08-30T08:25:32Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 11,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "src/.vuepress/public/assets/images/cover1.jpg",
+      "src/.vuepress/public/assets/images/cover2.jpg",
+      "src/.vuepress/public/assets/images/cover3.jpg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/posts/apple/1.md",
+      "src/posts/apple/2.md",
+      "src/posts/apple/3.md",
+      "src/posts/apple/4.md",
+      "src/posts/banana/1.md",
+      "src/posts/banana/2.md",
+      "src/posts/banana/3.md",
+      "src/posts/banana/4.md",
+      "src/posts/cherry.md",
+      "src/posts/dragonfruit.md",
+      "src/posts/strawberry.md",
+      "src/posts/tomato.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:00:43.747901+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "anyadya09",
+    "repository": "anyadya09/music-blog",
+    "url": "https://github.com/anyadya09/music-blog",
+    "pages_url": "https://anyadya09.github.io/music-blog/",
+    "created_at": "2023-08-30T02:59:04Z",
+    "pushed_at": "2023-09-19T00:46:48Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 83,
+    "probable_photo_count": 72,
+    "sample_photos": [
+      "assets/img/1.png",
+      "assets/img/17.png",
+      "assets/img/18.png",
+      "assets/img/2 2.png",
+      "assets/img/2.png",
+      "assets/img/3.png",
+      "assets/img/3bdr canggu.png",
+      "assets/img/Abritel.png",
+      "assets/img/Dubai.png",
+      "assets/img/Ibiza.png",
+      "assets/img/Love Bali Villa Instagram Post.png",
+      "assets/img/Love Bali Villa Reels-3.jpg",
+      "assets/img/Review Properties in Ibiza.jpg",
+      "assets/img/about.jpg",
+      "assets/img/anya/BALI.jpg",
+      "assets/img/anya/BALI.png",
+      "assets/img/anya/blog sec/5.jpg",
+      "assets/img/anya/blog sec/6.jpg",
+      "assets/img/anya/blog sec/7.jpg",
+      "assets/img/anya/blog sec/8.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:00:44.434225+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "felegy",
+    "repository": "felegy/kubectl.blog",
+    "url": "https://github.com/felegy/kubectl.blog",
+    "pages_url": "http://kubectl.blog/",
+    "created_at": "2023-08-30T18:02:01Z",
+    "pushed_at": "2024-07-18T07:20:07Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "_posts/2024-07-18-welcome-to-jekyll.markdown"
+    ],
+    "description": "A blog about Kubernetes, Docker, and other cloud native technologies in hungarian.",
+    "first_seen_utc": "2026-08-22T07:00:49.623800+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "qianyinggenian",
+    "repository": "qianyinggenian/myBlog",
+    "url": "https://github.com/qianyinggenian/myBlog",
+    "pages_url": "https://qianyinggenian.github.io/myBlog/",
+    "created_at": "2023-08-30T05:30:34Z",
+    "pushed_at": "2026-06-11T06:39:01Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 25,
+    "probable_photo_count": 25,
+    "sample_photos": [
+      "docs/public/img/1.png",
+      "docs/public/img/2.png",
+      "docs/public/img/3.png",
+      "docs/public/img/4.png",
+      "docs/public/img/5.png",
+      "docs/public/img/6.png",
+      "docs/public/img/7.png",
+      "docs/public/img/8.png",
+      "docs/public/img/ant-table列合并.png",
+      "docs/public/img/ant-table表格校验1.png",
+      "docs/public/img/ant-table表格校验2.png",
+      "docs/public/img/bpmn示例.jpg",
+      "docs/public/img/nginx-html目录.png",
+      "docs/public/img/nginx配置文件.png",
+      "docs/public/img/nginx配置端口与模板.png",
+      "docs/public/img/sass与less颜色函数效果.png",
+      "docs/public/img/svg存放目录.jpg",
+      "docs/public/img/启动nginx.png",
+      "docs/public/img/置灰前.png",
+      "docs/public/img/置灰后.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "个人博客",
+    "first_seen_utc": "2026-08-22T07:00:55.605813+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "qianyinggenian",
+    "repository": "qianyinggenian/vitePressBlog",
+    "url": "https://github.com/qianyinggenian/vitePressBlog",
+    "pages_url": "https://qianyinggenian.github.io/vitePressBlog/",
+    "created_at": "2023-08-30T08:54:34Z",
+    "pushed_at": "2025-03-01T03:07:14Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 10,
+    "probable_photo_count": 10,
+    "sample_photos": [
+      "docs/public/img/1.png",
+      "docs/public/img/2.png",
+      "docs/public/img/3.png",
+      "docs/public/img/4.png",
+      "docs/public/img/5.png",
+      "docs/public/img/6.png",
+      "docs/public/img/7.png",
+      "docs/public/img/8.png",
+      "docs/public/img/9.png",
+      "docs/public/img/createRepository.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "模板",
+    "first_seen_utc": "2026-08-22T07:01:02.270863+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "SangeshGupta",
+    "repository": "SangeshGupta/Personal-Blog-Website-Tea-time-journal-angular",
+    "url": "https://github.com/SangeshGupta/Personal-Blog-Website-Tea-time-journal-angular",
+    "pages_url": "https://SangeshGupta.github.io/Personal-Blog-Website-Tea-time-journal-angular/",
+    "created_at": "2023-08-30T09:05:55Z",
+    "pushed_at": "2024-03-11T11:44:21Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 14,
+    "probable_photo_count": 13,
+    "sample_photos": [
+      "src/assets/image/1-1-scaled-pup80fcaaqdlwdfz76touxszrgbdw142byh1rqst54.jpg",
+      "src/assets/image/2-scaled-pup85ym2jlye9peivkyljjipp5177v35rcrzielci0.jpg",
+      "src/assets/image/3-scaled-pup86vif6t7fk22qjh6jgt7uhmj1p9prjvlzb38kg8.jpg",
+      "src/assets/image/3053910-1-1536x1024.jpg",
+      "src/assets/image/4-pup89fmlskpj5ucxlkzz95z0pdx0nlvgkjjkc7fzig.jpg",
+      "src/assets/image/5-pup8bxv40o524epuyo05wj79qdk96jtowy66erq6x4.jpg",
+      "src/assets/image/6-scaled-pup8gm4800jdulxgo6qdsuqs2ciygddn82y3baspzc.jpg",
+      "src/assets/image/IMG_2448-pu9gduly5o6ffkaz0qspfuihrr2smt2kox18fycdyw.jpg",
+      "src/assets/image/V-img1.PNG",
+      "src/assets/image/V-img3.PNG",
+      "src/assets/image/V-img5.PNG",
+      "src/assets/image/getintouch.jpg",
+      "src/assets/image/home_1-2048x1365.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "Created a personal blog website using HTML, Bootstrap, and Angular. The website includes sections for \"Home,\" \"About Me,\" and \"Get in Touch.\" Implemented responsive design for various screen sizes and incorporated Angular forms for user interaction. Shared life hacks, self-care tips, and ideas to simplify life through engaging blog posts.",
+    "first_seen_utc": "2026-08-22T07:01:11.580621+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "YanFanCode",
+    "repository": "YanFanCode/blog",
+    "url": "https://github.com/YanFanCode/blog",
+    "pages_url": "https://YanFanCode.github.io/blog/",
+    "created_at": "2023-08-31T09:30:15Z",
+    "pushed_at": "2024-03-08T15:22:41Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 70,
+    "probable_photo_count": 60,
+    "sample_photos": [
+      "docs/.vuepress/public/assets/image/backend/server/001/step1-create-ssh.png",
+      "docs/.vuepress/public/assets/image/backend/server/001/step2-bind-ssh.png",
+      "docs/.vuepress/public/assets/image/backend/server/001/step3-add-port.png",
+      "docs/.vuepress/public/assets/image/backend/server/001/step4-pw-fail.png",
+      "docs/.vuepress/public/assets/image/backend/server/003/step1-install-bt.png",
+      "docs/.vuepress/public/assets/image/backend/server/003/step2-install-nginx.png",
+      "docs/.vuepress/public/assets/image/backend/server/004/step1-add-site.png",
+      "docs/.vuepress/public/assets/image/backend/server/004/step2-nginx-conf.png",
+      "docs/.vuepress/public/assets/image/backend/server/004/step3-code-runner.png",
+      "docs/.vuepress/public/assets/image/backend/server/004/step4-complete.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/006/HTTP.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/006/HTTPS.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/006/https-flow.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/006/mid-attack.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/007/four.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/007/three.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/010/DNS.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/010/TCP-IP.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/010/message.png",
+      "docs/.vuepress/public/assets/image/computer-science/networking/010/parse-url.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "blog",
+    "first_seen_utc": "2026-08-22T07:01:17.442856+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "ezzabuzaid",
+    "repository": "ezzabuzaid/blog",
+    "url": "https://github.com/ezzabuzaid/blog",
+    "pages_url": "https://ezzabuzaid.github.io/blog/",
+    "created_at": "2023-08-31T14:51:46Z",
+    "pushed_at": "2024-02-14T20:00:22Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 25,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/content/blog/_.md",
+      "src/content/blog/_bewary-of-infinity-scroll.md",
+      "src/content/blog/_conference-post-action.md",
+      "src/content/blog/_failed-developer-journey-startup-mistakes-product.md",
+      "src/content/blog/_seo-featured-snippets.md",
+      "src/content/blog/advance-angular-dynamic-component.md",
+      "src/content/blog/angular-infinity-scroll.md",
+      "src/content/blog/gentle-introduction-to-ESLint-rules.md",
+      "src/content/blog/gentle-introduction-to-typescript-compiler-api.md",
+      "src/content/blog/how-to-build-a-typeahead-component-using-rxjs.md",
+      "src/content/blog/migrating-from-until-destroy-to-takeUntilDestroyed.md",
+      "src/content/blog/react-context-in-angular.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:01:19.751758+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "lee20h",
+    "repository": "lee20h/blog",
+    "url": "https://github.com/lee20h/blog",
+    "pages_url": "https://20h.dev",
+    "created_at": "2023-08-31T12:38:54Z",
+    "pushed_at": "2026-01-01T11:59:02Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "static/images/profile.jpg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/post/_index.md",
+      "content/post/algorithm/binary-search.md",
+      "content/post/algorithm/binomial-coefficient.md",
+      "content/post/algorithm/bitmask.md",
+      "content/post/algorithm/ccw.md",
+      "content/post/algorithm/eratosthenes.md",
+      "content/post/algorithm/graph.md",
+      "content/post/algorithm/integer-partition.md",
+      "content/post/algorithm/kmp.md",
+      "content/post/algorithm/lca.md",
+      "content/post/algorithm/lcs.md",
+      "content/post/algorithm/lis.md"
+    ],
+    "description": "devops journey",
+    "first_seen_utc": "2026-08-22T07:01:22.236160+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "bryawnie",
+    "repository": "bryawnie/blog",
+    "url": "https://github.com/bryawnie/blog",
+    "pages_url": "https://bryawnie.github.io/blog/",
+    "created_at": "2023-08-31T17:58:23Z",
+    "pushed_at": "2026-08-01T03:28:51Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 30,
+    "probable_photo_count": 9,
+    "sample_photos": [
+      "static/img/git/pull_after_blacky.png",
+      "static/img/git/pull_after_master.png",
+      "static/img/git/pull_before_local.png",
+      "static/img/git/pull_before_remoto.png",
+      "static/img/git/pull_origin.png",
+      "themes/hugo-blog-awesome/images/dark.png",
+      "themes/hugo-blog-awesome/images/light.png",
+      "themes/hugo-blog-awesome/images/pagespeed.png",
+      "themes/hugo-blog-awesome/images/tn.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/posts/how-to-hugo.md",
+      "content/posts/my-first-post.md",
+      "content/posts/review-the-baltimore-book.md",
+      "content/posts/using-fp-ts.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/_index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/emoji-support/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/markdown-syntax/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/math-typesetting/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/placeholder-text/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/rich-content/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/de/posts/table-of-content/index.md",
+      "themes/hugo-blog-awesome/exampleSite/content/en/posts/_index.md"
+    ],
+    "description": "Personal blog",
+    "first_seen_utc": "2026-08-22T07:01:26.138198+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "retrychx",
+    "repository": "retrychx/blog",
+    "url": "https://github.com/retrychx/blog",
+    "pages_url": "https://retrychx.github.io/blog/",
+    "created_at": "2023-08-31T08:15:18Z",
+    "pushed_at": "2023-08-31T08:39:07Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 6,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "src/content/blog/first-post.md",
+      "src/content/blog/markdown-style-guide.md",
+      "src/content/blog/second-post.md",
+      "src/content/blog/third-post.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:01:27.298344+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "ohmypxl",
+    "repository": "ohmypxl/blog",
+    "url": "https://github.com/ohmypxl/blog",
+    "pages_url": "https://ohmypxl.github.io/blog/",
+    "created_at": "2023-08-31T03:01:34Z",
+    "pushed_at": "2023-08-31T03:54:11Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 8,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "assets/img/2022-08-25/final-size.png",
+      "assets/img/2022-08-25/first-size.png",
+      "assets/img/profile.png"
+    ],
+    "post_count_sampled": 9,
+    "sample_posts": [
+      "_posts/2022-08-21-Hello-World.md",
+      "_posts/2022-08-22-Starting-new-projects.md",
+      "_posts/2022-08-25-Pushing-AMX-size-limit.md",
+      "_posts/2022-09-06-Cleaning-up-projects.md",
+      "_posts/2022-09-13-Wonderful-Country.md",
+      "_posts/2023-02-04-New-year-more-problem.md",
+      "_posts/2023-02-06-New-blogging-template.md",
+      "_posts/2023-02-06-Writing-pawn-scripts.md",
+      "_posts/2023-08-31-Developing-SWDM.md"
+    ],
+    "description": "PxL open source blog",
+    "first_seen_utc": "2026-08-22T07:01:29.193613+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "luisintosh",
+    "repository": "luisintosh/viajejapon-blog",
+    "url": "https://github.com/luisintosh/viajejapon-blog",
+    "pages_url": "https://luisintosh.github.io/viajejapon-blog/",
+    "created_at": "2023-08-31T20:04:27Z",
+    "pushed_at": "2024-07-20T18:36:49Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 70,
+    "probable_photo_count": 67,
+    "sample_photos": [
+      "wp-content/uploads/2023/08/avion-vuelo-1024x768.jpg",
+      "wp-content/uploads/2023/08/avion-vuelo-1536x1152.jpg",
+      "wp-content/uploads/2023/08/avion-vuelo-300x225.jpg",
+      "wp-content/uploads/2023/08/avion-vuelo-768x576.jpg",
+      "wp-content/uploads/2023/08/avion-vuelo.jpg",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon-1024x478.png",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon-1536x717.png",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon-2048x956.png",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon-300x140.png",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon-768x359.png",
+      "wp-content/uploads/2023/08/boleto-jr-pass-japon.png",
+      "wp-content/uploads/2023/08/castillo-japon-1024x575.jpg",
+      "wp-content/uploads/2023/08/castillo-japon-300x169.jpg",
+      "wp-content/uploads/2023/08/castillo-japon-768x431.jpg",
+      "wp-content/uploads/2023/08/castillo-japon.jpg",
+      "wp-content/uploads/2023/08/comida-japonesa-1024x683.jpg",
+      "wp-content/uploads/2023/08/comida-japonesa-1536x1024.jpg",
+      "wp-content/uploads/2023/08/comida-japonesa-300x200.jpg",
+      "wp-content/uploads/2023/08/comida-japonesa-768x512.jpg",
+      "wp-content/uploads/2023/08/comida-japonesa.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "Static blog files from the wordpress project ViajeJapon",
+    "first_seen_utc": "2026-08-22T07:01:47.820941+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "hcoco1",
+    "repository": "hcoco1/hcoco1-blog",
+    "url": "https://github.com/hcoco1/hcoco1-blog",
+    "pages_url": "https://hcoco1.github.io/hcoco1-blog/",
+    "created_at": "2023-08-31T10:21:11Z",
+    "pushed_at": "2025-01-03T00:43:37Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 10,
+    "probable_photo_count": 9,
+    "sample_photos": [
+      "assets/images/change.jpeg",
+      "assets/images/code_cha.png",
+      "assets/images/flask-react-python.png",
+      "assets/images/hcoco1.jpg",
+      "assets/images/js.jpg",
+      "assets/images/js.png",
+      "assets/images/reac-table.jpg",
+      "assets/images/rss.png",
+      "assets/images/sqlalchemy.jpeg"
+    ],
+    "post_count_sampled": 7,
+    "sample_posts": [
+      "_posts/2023-02-01-changing-careers.md",
+      "_posts/2023-05-01-javascript-dynamic-list.md",
+      "_posts/2023-07-01-creating a dynamic-table-in-react.md",
+      "_posts/2023-08-27-aggregate-functions-In-SQLAlchemy.md",
+      "_posts/2023-09-04-whats-rss.md",
+      "_posts/2023-09-21-phase-4-challenge.md",
+      "_posts/2023-10-07-Phase-5-Final-Project-Blog.markdown"
+    ],
+    "description": "Ivan's Blog ",
+    "first_seen_utc": "2026-08-22T07:01:53.604392+00:00"
+  },
+  {
+    "score": 19,
+    "owner": "DabideBoi",
+    "repository": "DabideBoi/blog",
+    "url": "https://github.com/DabideBoi/blog",
+    "pages_url": "https://DabideBoi.github.io/blog/",
+    "created_at": "2023-09-01T06:29:07Z",
+    "pushed_at": "2023-10-04T04:46:59Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/posts/Android Apps I Want to Check Out.md",
+      "content/posts/Websites I found on Shorts or Reels or Wherever.md",
+      "content/posts/test.md",
+      "contents/posts/Hello.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:02:04.732670+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "pgil256",
+    "repository": "pgil256/blog",
+    "url": "https://github.com/pgil256/blog",
+    "pages_url": "https://pgil256.github.io/blog/",
+    "created_at": "2023-09-01T14:28:07Z",
+    "pushed_at": "2026-08-05T14:53:19Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 4,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "themes/archie/images/archie-dark.png",
+      "themes/archie/images/theme.png",
+      "themes/archie/images/tn.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/posts/kneespa-drx.md",
+      "content/posts/post-1.md",
+      "content/posts/post-2.md",
+      "content/posts/post-3.md",
+      "content/posts/post-4.md",
+      "content/posts/tabvision.md",
+      "themes/archie/exampleSite/content/posts/post-1.md",
+      "themes/archie/exampleSite/content/posts/post-2.md",
+      "themes/archie/exampleSite/content/posts/post-3.md",
+      "themes/archie/exampleSite/content/posts/post-4.md",
+      "themes/archie/exampleSite/content/posts/post-5.md",
+      "themes/archie/exampleSite/content/posts/post-6.md"
+    ],
+    "description": "Personal developer blog. Hugo, hosted on GitHub Pages.",
+    "first_seen_utc": "2026-08-22T07:02:07.411291+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "teacs1",
+    "repository": "teacs1/blog",
+    "url": "https://github.com/teacs1/blog",
+    "pages_url": "https://teacs1.github.io/blog/",
+    "created_at": "2023-09-01T08:48:04Z",
+    "pushed_at": "2024-01-23T10:24:10Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 5,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "source/_posts/hello-world.md"
+    ],
+    "description": "blog for study",
+    "first_seen_utc": "2026-08-22T07:02:08.165027+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "thecodingpapa",
+    "repository": "thecodingpapa/blog",
+    "url": "https://github.com/thecodingpapa/blog",
+    "pages_url": "https://blog-thecodingpapa.vercel.app",
+    "created_at": "2023-09-01T02:36:45Z",
+    "pushed_at": "2023-11-17T06:26:41Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 6,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "_posts/EDITED_20230913_build_and_release_android c64d8d1033fe411da4fe13d2d5ca4038.md",
+      "_posts/EDITED_20230915_build_and_release_ios ef0cf2fdd7a24eabab656e7ce653fad1.md",
+      "_posts/install-flutter-into-raspberry-pi.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:02:10.473410+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "tkdals1049",
+    "repository": "tkdals1049/blog2",
+    "url": "https://github.com/tkdals1049/blog2",
+    "pages_url": "https://tkdals1049.github.io/blog2/",
+    "created_at": "2023-09-01T01:44:27Z",
+    "pushed_at": "2023-09-15T09:02:15Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 13,
+    "probable_photo_count": 13,
+    "sample_photos": [
+      "img/bg.png",
+      "img/pic0.jpg",
+      "img/pic1.jpg",
+      "img/pic2.jpg",
+      "img/pic2.png",
+      "img/pic3.jpg",
+      "img/pic4.jpg",
+      "img/pic5.jpg",
+      "img/pro1.jpg",
+      "img/pro2.jpg",
+      "img/pro3.jpg",
+      "img/profilePic.jpg",
+      "img/stack-overflow.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:02:12.190685+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "GoForMusic",
+    "repository": "GoForMusic/XRD-X2-BlogDev",
+    "url": "https://github.com/GoForMusic/XRD-X2-BlogDev",
+    "pages_url": "https://goformusic.github.io/XRD-X2-BlogDev/",
+    "created_at": "2023-09-01T00:16:12Z",
+    "pushed_at": "2025-02-20T19:06:36Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 48,
+    "probable_photo_count": 48,
+    "sample_photos": [
+      "assets/img/Adrian-vr-code.png",
+      "assets/img/Adrian-vr-code2.png",
+      "assets/img/Marian-vr-scene.png",
+      "assets/img/Marian-vr-scene2.png",
+      "assets/img/Marty-HapticFeedBack.png",
+      "assets/img/XRD-introduction-conference meeting.jpeg",
+      "assets/img/animationPoseAnimatorUI.png",
+      "assets/img/animationPoseCode.png",
+      "assets/img/animationPoseEditorUI.png",
+      "assets/img/armory.png",
+      "assets/img/bakery.png",
+      "assets/img/canvas1-adrian.png",
+      "assets/img/canvas2-adrian.png",
+      "assets/img/canvas3-adrian.png",
+      "assets/img/canvas4-adrian.png",
+      "assets/img/cards.png",
+      "assets/img/city_center1.png",
+      "assets/img/city_center2.png",
+      "assets/img/city_center3.png",
+      "assets/img/city_center4.png"
+    ],
+    "post_count_sampled": 10,
+    "sample_posts": [
+      "_posts/2023-09-01-XRD-Introduction.md",
+      "_posts/2023-09-06-UnityGizmos.md",
+      "_posts/2023-09-13-AR-Project-Intro.md",
+      "_posts/2023-09-21-lab1.md",
+      "_posts/2023-10-26-VR-Project-Intro.md",
+      "_posts/2023-11-01-AR-Project-Final.md",
+      "_posts/2023-11-17-VR-Project-Progress.md",
+      "_posts/2023-11-23-VR-Project-Final.md",
+      "_posts/2023-11-24-Demos.md",
+      "_posts/2023-11-25-XRD-Reflections.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:02:19.396196+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "mihaigmarin",
+    "repository": "mihaigmarin/clojure-blog",
+    "url": "https://github.com/mihaigmarin/clojure-blog",
+    "pages_url": "https://mihaigmarin.github.io/clojure-blog/",
+    "created_at": "2023-09-01T17:28:22Z",
+    "pushed_at": "2024-10-03T20:32:03Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "docs/posts/hand-position-when-writing.html",
+      "resources/posts/hand-position-when-writing.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:02:27.755823+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "mariomeissner",
+    "repository": "mariomeissner/astro-blog",
+    "url": "https://github.com/mariomeissner/astro-blog",
+    "pages_url": "https://mariomeissner.dev/",
+    "created_at": "2023-09-01T09:12:41Z",
+    "pushed_at": "2026-05-15T04:03:33Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 17,
+    "probable_photo_count": 13,
+    "sample_photos": [
+      "src/assets/images/bias-variance/overfitting_range.jpg",
+      "src/assets/images/bias-variance/simple_complex.png",
+      "src/assets/images/bias-variance/simple_complex_ground.png",
+      "src/assets/images/dissected-attention/attention-network-80-1.png",
+      "src/assets/images/dissected-attention/attention-network-83-0.png",
+      "src/assets/images/japan-arrival/ghost-train.jpg",
+      "src/assets/images/japan-arrival/yokosuka.jpg",
+      "src/assets/images/profileimage.jpg",
+      "src/assets/images/thesis_explained/39.png",
+      "src/assets/images/thesis_explained/crop.png",
+      "src/assets/images/thesis_explained/interface3.png",
+      "src/assets/images/thesis_explained/networklayers.png",
+      "src/assets/images/thesis_explained/single_box.png"
+    ],
+    "post_count_sampled": 11,
+    "sample_posts": [
+      "src/data/blog/5-things-i-learned-from-reading-fluent-python.md",
+      "src/data/blog/a-gentle-introduction-to-backpropagation-in-neural-networks.md",
+      "src/data/blog/an-rnn-that-learns-to-talk-like-you.md",
+      "src/data/blog/bias-versus-variance-explained.md",
+      "src/data/blog/deep-turing-ocr-a-summary-of-my-bachelors-thesis.md",
+      "src/data/blog/how-to-write-an-ll1-parser.md",
+      "src/data/blog/im-starting-a-blog.md",
+      "src/data/blog/picking-the-right-database-for-your-llm-project.md",
+      "src/data/blog/the-dissected-attention-network.md",
+      "src/data/blog/vulcanus-in-japan-application.md",
+      "src/data/blog/vulcanus-in-japan-arrival.md"
+    ],
+    "description": "Personal blog using Astro 🚀",
+    "first_seen_utc": "2026-08-22T07:02:34.177387+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "anthonio9",
+    "repository": "anthonio9/blog",
+    "url": "https://github.com/anthonio9/blog",
+    "pages_url": "https://anthonio9.github.io/blog/",
+    "created_at": "2023-09-02T12:29:59Z",
+    "pushed_at": "2026-06-18T19:08:34Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 9,
+    "probable_photo_count": 7,
+    "sample_photos": [
+      "content/posts/bikes/giant-x-2000-1996/images/crankset-LX-sideview.jpg",
+      "content/posts/bikes/giant-x-2000-1996/images/crankset-LX.jpg",
+      "content/posts/bikes/giant-x-2000-1996/images/rd-collage.jpg",
+      "content/posts/bikes/giant-x-2000-1996/images/x-2000-bike.jpg",
+      "content/posts/bikes/giant-x-2000-1996/images/x-2000-frame.jpg",
+      "content/posts/computers/nvim-install-nerd-fonts/images/jetbrainsmono-nerd-font-preview.png",
+      "content/posts/computers/yocto-02-how-to-create-a-custom-meta-layer/images/basic-brown-brownie-recipe.png"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "content/posts/bikes/_index.md",
+      "content/posts/bikes/giant-boulder-500.md",
+      "content/posts/computers/_index.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:03:03.550611+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "imtaketa",
+    "repository": "imtaketa/blog",
+    "url": "https://github.com/imtaketa/blog",
+    "pages_url": "https://imtaketa.github.io/blog/",
+    "created_at": "2023-09-02T18:30:19Z",
+    "pushed_at": "2023-09-03T15:01:19Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 20,
+    "probable_photo_count": 4,
+    "sample_photos": [
+      "public/images/pexels-markus-spiske-1921326.jpg",
+      "public/images/woman-codes.jpg",
+      "static/images/pexels-markus-spiske-1921326.jpg",
+      "static/images/woman-codes.jpg"
+    ],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/posts/first_post.md",
+      "public/posts/first_post/index.html",
+      "public/posts/index.html",
+      "public/posts/page/1/index.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:03:04.551384+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "marshallshen",
+    "repository": "marshallshen/blog",
+    "url": "https://github.com/marshallshen/blog",
+    "pages_url": "https://babystep.io",
+    "created_at": "2023-09-03T23:16:30Z",
+    "pushed_at": "2026-02-22T23:18:32Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 10,
+    "probable_photo_count": 10,
+    "sample_photos": [
+      "images/pages/about.jpeg",
+      "images/pages/styleguide.jpg",
+      "images/posts/2017-08-26-the-math-of-logistic-classifier/neuron.png",
+      "images/posts/2017-09-05-the-math-neural-networks/2_layer_neural_network.png",
+      "images/posts/2017-09-05-the-math-neural-networks/L-layer-propagation.png",
+      "images/posts/2020-01-05-books-of-2019/books.png",
+      "images/posts/2021-02-14-handle-production-incidents-remotely/incident.png",
+      "images/posts/2022-01-12-participation/cover.png",
+      "images/posts/2023-09-18-cape-the-ikigai-of-business-onboarding/cover.png",
+      "images/posts/2023-12-26-prioritize-patiently/cover.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2017-08-26-the-math-of-logistic-classifier.md",
+      "_posts/2017-09-05-the-math-neural-networks.md",
+      "_posts/2020-01-05-books-of-2019.md",
+      "_posts/2020-03-29-operator-manager-and-leader.md",
+      "_posts/2020-03-31-thinking-and-experiencing.md",
+      "_posts/2020-04-11-internet-as-a-medium.md",
+      "_posts/2020-04-17-cultivate-habits.md",
+      "_posts/2020-04-20-a-roadmap-of-learning.md",
+      "_posts/2020-04-27-commit-a-lot-while-young.md",
+      "_posts/2020-05-03-embrace-cycles.md",
+      "_posts/2020-05-10-compound-knowledge.md",
+      "_posts/2020-05-19-on-pursuit.md"
+    ],
+    "description": "my corner of the internet",
+    "first_seen_utc": "2026-08-22T07:03:08.193651+00:00"
+  },
+  {
+    "score": 19,
+    "owner": "rdupplaw",
+    "repository": "rdupplaw/blog",
+    "url": "https://github.com/rdupplaw/blog",
+    "pages_url": "https://rdupplaw.github.io/blog/",
+    "created_at": "2023-09-03T21:35:32Z",
+    "pushed_at": "2024-09-07T20:22:51Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2021-03-28-starting-at-makers.md",
+      "_posts/2021-04-04-week-1-of-makers-pre-course.md",
+      "_posts/2021-04-11-week-2-of-makers-pre-course.md",
+      "_posts/2021-04-18-week-3-of-makers-pre-course.md",
+      "_posts/2021-04-25-week-4-of-makers-pre-course.md",
+      "_posts/2021-05-02-week-1-at-makers.md",
+      "_posts/2021-05-09-week-2-at-makers.md",
+      "_posts/2021-05-16-week-3-at-makers.md",
+      "_posts/2021-05-23-week-4-at-makers.md",
+      "_posts/2021-05-30-week-5-at-makers.md",
+      "_posts/2021-06-06-week-6-at-makers.md",
+      "_posts/2021-06-14-week-7-at-makers.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:03:12.769519+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "LeoYawoo",
+    "repository": "LeoYawoo/blogs",
+    "url": "https://github.com/LeoYawoo/blogs",
+    "pages_url": "https://amrf000.github.io/blogs/",
+    "created_at": "2023-09-03T08:06:22Z",
+    "pushed_at": "2023-10-08T16:36:30Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages",
+      "hugo --minify"
+    ],
+    "identity_hits": [
+      "liu"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/post/WSL中使用编译kernel并启用ccache.md",
+      "content/post/_index.md",
+      "content/post/docker_swarm无法传递--device问题.md",
+      "content/post/代码搜索工具和在线查看调研.md"
+    ],
+    "description": "new blogs",
+    "first_seen_utc": "2026-08-22T07:03:26.204814+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "sutin1234",
+    "repository": "sutin1234/hugo-blog",
+    "url": "https://github.com/sutin1234/hugo-blog",
+    "pages_url": "https://sutin1234.github.io/hugo-blog/",
+    "created_at": "2023-09-03T11:30:07Z",
+    "pushed_at": "2023-09-03T12:02:07Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "content/posts/my-first-post.md",
+      "content/posts/my-second-post.md"
+    ],
+    "description": "build static site with hugo frontendmatter",
+    "first_seen_utc": "2026-08-22T07:03:34.202978+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "gantrior",
+    "repository": "gantrior/tomas-panik-blog",
+    "url": "https://github.com/gantrior/tomas-panik-blog",
+    "pages_url": "https://gantrior.github.io/tomas-panik-blog/",
+    "created_at": "2023-09-03T08:45:41Z",
+    "pushed_at": "2023-12-25T12:56:23Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 66,
+    "probable_photo_count": 8,
+    "sample_photos": [
+      "content/en/about/images/profile.jpg",
+      "content/en/posts/custom-gpt-github/images/create-a-gpt.png",
+      "content/en/posts/custom-gpt-github/images/gpt-authentication.png",
+      "content/en/posts/custom-gpt-github/images/title-and-description.png",
+      "static/img/gradient-rotated.png",
+      "static/img/gradient.png",
+      "themes/hugo-geekblog/images/readme.png",
+      "themes/hugo-geekblog/images/tn.png"
+    ],
+    "post_count_sampled": 6,
+    "sample_posts": [
+      "content/cs/posts/chatgpt-api.md",
+      "content/cs/posts/custom-gpt-github/index.md",
+      "content/cs/posts/minimize-build-time-run-jest-tests-on-changed-code-only.md",
+      "content/en/posts/chatgpt-api.md",
+      "content/en/posts/custom-gpt-github/index.md",
+      "content/en/posts/minimize-build-time-run-jest-tests-on-changed-code-only.md"
+    ],
+    "description": "Tomáš Pánik's Blog",
+    "first_seen_utc": "2026-08-22T07:03:59.818896+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "crazydw4rf",
+    "repository": "crazydw4rf/blogger-gabut",
+    "url": "https://github.com/crazydw4rf/blogger-gabut",
+    "pages_url": "https://blogger-gabut.web.id",
+    "created_at": "2023-09-04T02:50:05Z",
+    "pushed_at": "2026-03-17T07:49:48Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 16,
+    "probable_photo_count": 15,
+    "sample_photos": [
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-ldap-conf-edit.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-confirm-db-remove.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-confirm-move-old-db.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-confirm-omit.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-input-admin-password.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-input-confirm-admin-password.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-input-dns.png",
+      "tutorial/02-Debian12/Active Directory/01-LDAP/img/ss-slapd-input-organization-name.png",
+      "tutorial/02-Debian12/Firewall/01-iptables/img/ss-block-http.png",
+      "tutorial/02-Debian12/Firewall/01-iptables/img/ss-block-ping.png",
+      "tutorial/02-Debian12/Firewall/01-iptables/img/ss-block-ssh-accept.png",
+      "tutorial/02-Debian12/Firewall/01-iptables/img/ss-block-ssh-drop.png",
+      "tutorial/02-Debian12/Firewall/01-iptables/img/ss-log-ping.png",
+      "tutorial/02-Debian12/Web Service/01-nginx/img/ss-client-web-browser-test.png",
+      "tutorial/02-Debian12/Web Service/02-apache/img/ss-client-browser-test.png"
+    ],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "blog/2022-12-23-first-blog/first.md"
+    ],
+    "description": "Blog, tutorial dan catatan belajar",
+    "first_seen_utc": "2026-08-22T07:04:19.345231+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "hernandomv92",
+    "repository": "hernandomv92/Blogpersonal",
+    "url": "https://github.com/hernandomv92/Blogpersonal",
+    "pages_url": "https://hernandomv92.github.io/Blogpersonal/",
+    "created_at": "2023-09-04T17:33:01Z",
+    "pushed_at": "2023-09-07T10:10:12Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 8,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 5,
+    "sample_posts": [
+      "src/content/blog/first-post.md",
+      "src/content/blog/markdown-style-guide.md",
+      "src/content/blog/nuevoRapidito.md",
+      "src/content/blog/second-post.md",
+      "src/content/blog/third-post.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:04:27.306786+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "jonathanmv",
+    "repository": "jonathanmv/patoland-blog",
+    "url": "https://github.com/jonathanmv/patoland-blog",
+    "pages_url": "https://jonathanmv.github.io/patoland-blog/",
+    "created_at": "2023-09-04T17:32:40Z",
+    "pushed_at": "2023-09-07T21:29:59Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 7,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 5,
+    "sample_posts": [
+      "src/content/blog/a-change-in-perspective.md",
+      "src/content/blog/markdown-style-guide.md",
+      "src/content/blog/renaming-a-table-in-prisma-and-planetscale.md",
+      "src/content/blog/second-post.md",
+      "src/content/blog/third-post.md"
+    ],
+    "description": "Blog for patoland.com",
+    "first_seen_utc": "2026-08-22T07:04:37.117313+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "Lazydd",
+    "repository": "Lazydd/lazy-blog",
+    "url": "https://github.com/Lazydd/lazy-blog",
+    "pages_url": "https://lazydd.github.io/lazy-blog/",
+    "created_at": "2023-09-04T08:23:14Z",
+    "pushed_at": "2026-08-22T01:28:01Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "docs/src/blog/docker/install.md",
+      "docs/src/blog/docker/java.md",
+      "docs/src/blog/docker/mysql.md",
+      "docs/src/blog/docker/nginx.md",
+      "docs/src/blog/docker/redis.md",
+      "docs/src/blog/docker/verdaccio.md",
+      "docs/src/blog/java/maven.md",
+      "docs/src/blog/node/mqtt.md",
+      "docs/src/blog/rust/install.md",
+      "docs/src/blog/utils/font-spider.md",
+      "docs/src/blog/utils/fvm.md",
+      "docs/src/blog/utils/git.md"
+    ],
+    "description": "lazy-blog",
+    "first_seen_utc": "2026-08-22T07:04:46.618232+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "lh-js",
+    "repository": "lh-js/my-blog",
+    "url": "https://github.com/lh-js/my-blog",
+    "pages_url": "https://lh-js.github.io/my-blog/",
+    "created_at": "2023-09-04T09:34:30Z",
+    "pushed_at": "2023-10-17T06:23:54Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 6,
+    "sample_posts": [
+      "docs/blog/js/a-download.md",
+      "docs/blog/js/apply-call-bind.md",
+      "docs/blog/js/array-deduplication.md",
+      "docs/blog/react/index.md",
+      "docs/blog/react/second.md",
+      "docs/blog/vue/index.md"
+    ],
+    "description": "a persional blog",
+    "first_seen_utc": "2026-08-22T07:04:50.430655+00:00"
+  },
+  {
+    "score": 19,
+    "owner": "zhuba-Ahhh",
+    "repository": "zhuba-Ahhh/Blog",
+    "url": "https://github.com/zhuba-Ahhh/Blog",
+    "pages_url": "https://zhuba-Ahhh.github.io/Blog/",
+    "created_at": "2023-09-05T04:44:33Z",
+    "pushed_at": "2023-09-07T12:41:05Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "pages/posts/hello-valaxy.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:05:30.915890+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "toddllm",
+    "repository": "toddllm/blog",
+    "url": "https://github.com/toddllm/blog",
+    "pages_url": "https://toddllm.github.io/blog/",
+    "created_at": "2023-09-05T01:56:52Z",
+    "pushed_at": "2023-09-05T02:12:43Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "public/images/gohugo-default-sample-hero-image.jpg"
+    ],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/posts/my-first-post.md",
+      "public/posts/index.html",
+      "public/posts/my-first-post/index.html",
+      "public/posts/page/1/index.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:05:33.815448+00:00"
+  },
+  {
+    "score": 19,
+    "owner": "francisco-magana",
+    "repository": "francisco-magana/blog",
+    "url": "https://github.com/francisco-magana/blog",
+    "pages_url": "https://francisco-magana.github.io/blog/",
+    "created_at": "2023-09-05T21:10:54Z",
+    "pushed_at": "2024-03-25T00:54:14Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "content/posts/sample.md"
+    ],
+    "description": "My personal blog.",
+    "first_seen_utc": "2026-08-22T07:05:34.558467+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "amanvig1",
+    "repository": "amanvig1/blog",
+    "url": "https://github.com/amanvig1/blog",
+    "pages_url": "https://amanvig1.github.io/blog/",
+    "created_at": "2023-09-05T06:29:47Z",
+    "pushed_at": "2023-09-07T08:07:35Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 12,
+    "probable_photo_count": 9,
+    "sample_photos": [
+      "static/images/aman.png",
+      "static/images/bg_head.jpg",
+      "static/images/guy.jpg",
+      "static/images/image1.jpeg",
+      "static/images/image2.jpeg",
+      "static/images/mac.jpg",
+      "static/images/s1.jpg",
+      "static/images/s2.jpg",
+      "static/images/sample_clients.png"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "content/post/price-discory-model.md",
+      "content/post/vivamus-lacus-mauris.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:05:35.304479+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "amanvig1",
+    "repository": "amanvig1/blog1",
+    "url": "https://github.com/amanvig1/blog1",
+    "pages_url": "https://amanvig1.github.io/blog1/",
+    "created_at": "2023-09-05T18:36:54Z",
+    "pushed_at": "2023-09-05T18:47:34Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "static/images/author.jpg"
+    ],
+    "post_count_sampled": 6,
+    "sample_posts": [
+      "content/post/_index.md",
+      "content/post/emoji-support.md",
+      "content/post/markdown-syntax.md",
+      "content/post/math-typesetting.md",
+      "content/post/placeholder-text.md",
+      "content/post/rich-content.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:05:39.699018+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "ViktorErema",
+    "repository": "ViktorErema/ProectBlog",
+    "url": "https://github.com/ViktorErema/ProectBlog",
+    "pages_url": "https://ViktorErema.github.io/ProectBlog/",
+    "created_at": "2023-09-05T16:17:24Z",
+    "pushed_at": "2023-09-15T09:33:37Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 8,
+    "probable_photo_count": 7,
+    "sample_photos": [
+      "static/ProectBlog/img/BlMhomyUVmY.jpg",
+      "static/ProectBlog/img/LM.png",
+      "static/ProectBlog/img/gleb.png",
+      "static/ProectBlog/img/image_512_1.png",
+      "static/ProectBlog/img/photo_2023-08-18_14-45-17.jpg",
+      "static/ProectBlog/img/vkGM.png",
+      "static/ProectBlog/img/Снимок_экрана_2023-08-15_025132.png"
+    ],
+    "post_count_sampled": 5,
+    "sample_posts": [
+      "blog/templates/blog/feedback.html",
+      "blog/templates/blog/post_detail.html",
+      "blog/templates/blog/post_edit.html",
+      "blog/templates/blog/post_list.html",
+      "blog/templates/blog/post_new.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T07:06:00.216521+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "nguyengiabach1201",
+    "repository": "nguyengiabach1201/blogs",
+    "url": "https://github.com/nguyengiabach1201/blogs",
+    "pages_url": "http://blogs.nguyengiabach.com/",
+    "created_at": "2023-09-06T13:47:57Z",
+    "pushed_at": "2026-06-03T08:47:06Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/data/blog/ai-in-pre-chatgpt-era.md",
+      "src/data/blog/creativity-sparks-from-normal-objects-and-the-ability-to-connect-them-together.md",
+      "src/data/blog/environmental-impacts-from-electric-vehicles-compared-to-Internal-combustion-engine-vehicles.md",
+      "src/data/blog/hello-world.md",
+      "src/data/blog/is-it-better-to-be-an-early-bird-or-a-night-owl.md",
+      "src/data/blog/natures-perfect-shield-why-the-south-atlantic-defies-the-storm.md",
+      "src/data/blog/peach-blossom-and-yellow-mai-vietnamese-symbols-of-luck.md",
+      "src/data/blog/poetic-appeal-and-aesthetic-of-khiem-mausoleum.md",
+      "src/data/blog/pointillism-and-its-futuristic-idea.md",
+      "src/data/blog/pornography-addictions-effect-on-brain-function.md",
+      "src/data/blog/reaching-net-zero-with-earths-lithium-quantity.md",
+      "src/data/blog/template.md"
+    ],
+    "description": "✍️ A store for all of my writings! ✍️",
+    "first_seen_utc": "2026-08-22T07:06:32.499668+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "rafa-carmo",
+    "repository": "rafa-carmo/Blog-Posts",
+    "url": "https://github.com/rafa-carmo/Blog-Posts",
+    "pages_url": "https://rafa-carmo.github.io/Blog-Posts/",
+    "created_at": "2023-09-06T02:11:48Z",
+    "pushed_at": "2023-09-15T20:22:44Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "html/posts/hello-world.md",
+      "html/posts/principais-mudancas-do-nextjs-13.md"
+    ],
+    "description": "Posts from blog in markdown",
+    "first_seen_utc": "2026-08-22T07:06:43.614975+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "juleni",
+    "repository": "juleni/blog-markdown",
+    "url": "https://github.com/juleni/blog-markdown",
+    "pages_url": "https://blog-markdown-peach.vercel.app",
+    "created_at": "2023-09-06T08:44:25Z",
+    "pushed_at": "2025-02-11T18:08:59Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "public/images/nufko.jpg"
+    ],
+    "post_count_sampled": 8,
+    "sample_posts": [
+      "posts/aws-basics.md",
+      "posts/fish-as-part-of-my-life.md",
+      "posts/laska-k-manualnej-praci-alebo-sebatryznenie.md",
+      "posts/living-with-dog-rr.md",
+      "posts/my-bike-trips.md",
+      "posts/parental-love.md",
+      "posts/return-to-programming.md",
+      "posts/tazke-lucenie-s-vernym-priatelom.md"
+    ],
+    "description": "Next.js Static Blog from Markdown Files",
+    "first_seen_utc": "2026-08-22T07:06:45.749913+00:00"
   }
 ]
