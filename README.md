@@ -20,7 +20,7 @@ then inspects those users' GitHub Pages repositories.
 Stages run in this order:
 
 1. **Users:** search every configured identity/name/number seed with GitHub's
-   `in:login,fullname`, `created:2023-06-01..2023-10-15`, and `type:user`
+   `in:login,name`, `created:2023-06-01..2023-10-15`, and `type:user`
    qualifiers. For each result, inspect up to 300 public repositories and keep
    every repository with Pages enabled.
 2. **Identity repository names:** search Pages candidates through repository

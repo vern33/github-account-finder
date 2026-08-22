@@ -189,8 +189,7 @@ def initialize_adaptive_tasks(state: dict, config: dict):
 def task_query(task: dict):
     created = f"created:{task['start']}..{task['end']}"
     if task["stage"] == "users":
-        # GitHub calls the public profile-name field `fullname` in user search.
-        return f"{task['term']} in:login,fullname {created} type:user"
+        return f"{task['term']} in:login,name {created} type:user"
     if task["stage"] == "personal":
         return f"github.io in:name {created}"
     return f"{task['term']} in:name {created}"
