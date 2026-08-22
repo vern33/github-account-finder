@@ -1,17 +1,17 @@
 # Search progress
 
 - Adaptive search ranges: **4 / 25 (16.0%)**
-- Current cursor: `users:jesse 2023-08-09..2023-10-15, page 1`
+- Current cursor: `users:jesse 2023-08-09..2023-10-15, page 4`
 - Repository results seen: **0**
-- User search results seen: **1,356**
-- Pages repositories found through users: **407**
-- Identity users fully checked: **1,124**
-- Unique repositories investigated: **315**
-- Unique account owners investigated: **76**
-- Candidates recorded: **314**
+- User search results seen: **1,756**
+- Pages repositories found through users: **770**
+- Identity users fully checked: **1,455**
+- Unique repositories investigated: **576**
+- Unique account owners investigated: **148**
+- Candidates recorded: **574**
 - Ranges stopped by result caps: **0**
-- Workflow runs: **2**
-- Last run (UTC): `2026-08-22T13:02:30.084892+00:00`
+- Workflow runs: **3**
+- Last run (UTC): `2026-08-22T13:45:20.489676+00:00`
 - Last API requests used: **950**
 - Last stop reason: `request budget exhausted`
 
