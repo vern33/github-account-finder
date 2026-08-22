@@ -466,7 +466,7 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
         or profile_identity_hits
         or post_files
         or len(probable_photos) >= config["minimum_photo_count"]
-        or (tree_truncated and is_personal_pages)
+        or is_personal_pages
     ):
         return None
 

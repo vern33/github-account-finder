@@ -18,6 +18,8 @@ Broad query groups have result caps so a generic word cannot consume the entire 
 
 GitHub Pages deployment workflows are supporting evidence, not a hard requirement. Repositories with truncated recursive trees are evaluated using the partial tree instead of being discarded. Photo paths include Hexo/Hugo/Jekyll conventions such as `source/_posts`, `content/posts`, `static`, `public`, and `assets`. Public owner profile fields are cached compactly and checked for identity fragments. Candidate-like repositories also inspect the latest commit author's name, email, and linked GitHub login.
 
+Every strict `owner.github.io` repository passes structural admission so its commit author can be evaluated even when no conventional post or photo paths are recognized. The final score threshold still rejects personal Pages repositories without enough date or identity evidence.
+
 The legacy processed-repository set is retained for audit, while the corrected inspection policy writes to a versioned v2 set. This lets high-value personal/user searches re-evaluate repositories that the former workflow/truncation hard filters may have rejected, without losing old progress.
 
 Location, language, remembered wording, article count, and activity after 2023 are **not** filters. No travel or place words are used for scoring because the remembered text is uncertain.
