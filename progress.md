@@ -1,17 +1,17 @@
 # Search progress
 
-- Adaptive search ranges: **12 / 31 (38.7%)**
-- Current cursor: `users:liu 2023-08-09..2023-08-25, page 1`
+- Adaptive search ranges: **15 / 32 (46.9%)**
+- Current cursor: `users:xuan 2023-06-01..2023-08-08, page 1`
 - Repository results seen: **0**
-- User search results seen: **4,678**
-- Pages repositories found through users: **616**
-- Identity users fully checked: **4,090**
-- Unique repositories investigated: **577**
-- Unique account owners investigated: **256**
-- Candidates recorded: **564**
-- Ranges stopped by result caps: **0**
-- Workflow runs: **6**
-- Last run (UTC): `2026-08-22T20:41:31.771141+00:00`
+- User search results seen: **5,276**
+- Pages repositories found through users: **762**
+- Identity users fully checked: **4,648**
+- Unique repositories investigated: **721**
+- Unique account owners investigated: **323**
+- Candidates recorded: **698**
+- Ranges stopped by result caps: **2**
+- Workflow runs: **7**
+- Last run (UTC): `2026-08-22T21:37:10.376699+00:00`
 - Last API requests used: **950**
 - Last stop reason: `request budget exhausted`
 
@@ -19,7 +19,7 @@
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| users: login/profile name + account created date | 12 / 21 | 57.1% |
+| users: login/profile name + account created date | 15 / 22 | 68.2% |
 | identity: repository names | 0 / 9 | 0.0% |
 | personal: strict username.github.io fallback | 0 / 1 | 0.0% |
 
