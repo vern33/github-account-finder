@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-22T21:37:10.376699+00:00`  
-Repositories inspected: `721`  
-Candidates: `698`
+Last run: `2026-08-22T22:39:40.626465+00:00`  
+Repositories inspected: `830`  
+Candidates: `785`
 
 <details>
 <summary><strong>Tier 2 · 29 points — <a href="https://github.com/SunLiuXuan/SunLiuXuan.github.io">SunLiuXuan/SunLiuXuan.github.io</a></strong> · probable photos 16 · identity liu, liuxuan, xuan</summary>
@@ -871,6 +871,41 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 20 points — <a href="https://github.com/xuanle1016/xuanle1016.github.io">xuanle1016/xuanle1016.github.io</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [xuanle1016](https://github.com/xuanle1016)
+- Identity tier: **1**
+- Created / pushed: `2026-05-11T06:08:56Z` / `2026-08-20T12:59:34Z`
+- Account created: `2023-06-05T14:54:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanle` / `xuanlesew@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `14` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `public/about_me.jpg`
+- `public/name_bg.jpg`
+- `public/profile.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 19 points — <a href="https://github.com/EighteenLiu/EighteenLiu.github.io">EighteenLiu/EighteenLiu.github.io</a></strong> · probable photos 2 · identity liu</summary>
 
 - Owner: [EighteenLiu](https://github.com/EighteenLiu)
@@ -1434,6 +1469,44 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 19 points — <a href="https://github.com/Xuan356/XuanLab">Xuan356/XuanLab</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [Xuan356](https://github.com/Xuan356)
+- Identity tier: **1**
+- Created / pushed: `2025-02-21T16:52:24Z` / `2025-02-21T17:00:56Z`
+- Account created: `2023-10-03T16:00:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan He`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan356` / `146864001+Xuan356@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2019-01-07-example-post-1.md`
+- `_posts/2021-09-30-example-post-2.md`
+- `_posts/2023-02-23-example-post-3.md`
+- `blog/index.md`
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `images/background.jpg`
+- `images/photo.jpg`
+- `images/share.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 18 points — <a href="https://github.com/Jessie-Merrifield/Jessie-Merrifield.github.io">Jessie-Merrifield/Jessie-Merrifield.github.io</a></strong> · probable photos 1 · identity jess, jessie</summary>
 
 - Owner: [Jessie-Merrifield](https://github.com/Jessie-Merrifield)
@@ -1735,6 +1808,58 @@ None.
 - `Images/mainPageSunset.jpg`
 - `Images/me.jpg`
 - `Images/xgbreg.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/LeVuXuanAn/levuxuanan.github.io">LeVuXuanAn/levuxuanan.github.io</a></strong> · probable photos 89 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-07-10T09:14:15Z` / `2024-07-10T09:57:47Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `318` / `89`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/1.week1/Picture1.png`
+- `images/1.week1/Picture2.png`
+- `images/2.week2/Pasted_image_20240626115137.png`
+- `images/2.week2/Pasted_image_20240626132936.png`
+- `images/2.week2/Pasted_image_20240626133123.png`
+- `images/2.week2/Pasted_image_20240626134324.png`
+- `images/2.week2/Pasted_image_20240626135544.png`
+- `images/2.week2/Pasted_image_20240626140628.png`
+- `images/2.week2/Pasted_image_20240626142133.png`
+- `images/2.week2/Pasted_image_20240626142524.png`
+- `images/2.week2/Pasted_image_20240628142445.png`
+- `images/2.week2/Pasted_image_20240628143636.png`
+- `images/2.week2/Pasted_image_20240628144825.png`
+- `images/2.week2/Pasted_image_20240628145656.png`
+- `images/2.week2/Pasted_image_20240628145733.png`
+- `images/2.week2/flow_logs_anatomy.png`
+- `images/2.week2/lab2_aligned_vpcs.png`
+- `images/2.week2/lab2_attachments.png`
+- `images/2.week2/lab2_cloudformation.png`
+- `images/2.week2/lab2_nacls.png`
 
 </details>
 
@@ -2152,6 +2277,101 @@ None.
 - `assets/img/symtime.png`
 - `html_source_file/assets/img/teaser_example.png`
 - `html_source_file/assets/img/teaser_example_2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/xuan9-9/xuan9-9.github.io">xuan9-9/xuan9-9.github.io</a></strong> · probable photos 16 · identity xuan</summary>
+
+- Owner: [xuan9-9](https://github.com/xuan9-9)
+- Identity tier: **1**
+- Created / pushed: `2025-03-28T15:44:58Z` / `2025-10-22T11:53:03Z`
+- Account created: `2023-10-15T09:59:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Jiaxuan Ren`
+- Commit identity hits: `xuan`
+- Latest commit author: `Jiaxuan Ren` / `xss0063@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `29` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `assets/images/blog-1.jpg`
+- `assets/images/blog-2.jpg`
+- `assets/images/blog-3.jpg`
+- `assets/images/blog-4.jpg`
+- `assets/images/blog-5.jpg`
+- `assets/images/blog-6.jpg`
+- `assets/images/image.png`
+- `assets/images/project-1.jpg`
+- `assets/images/project-2.png`
+- `assets/images/project-3.jpg`
+- `assets/images/project-4.png`
+- `assets/images/project-5.png`
+- `assets/images/project-6.png`
+- `assets/images/project-7.png`
+- `assets/images/project-8.jpg`
+- `assets/images/project-9.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/xuanyu2003/xuanyu2003.github.io">xuanyu2003/xuanyu2003.github.io</a></strong> · probable photos 15 · identity liu, xuan</summary>
+
+- Owner: [xuanyu2003](https://github.com/xuanyu2003)
+- Identity tier: **1**
+- Created / pushed: `2023-12-29T19:36:06Z` / `2026-04-01T11:43:02Z`
+- Account created: `2023-08-28T06:30:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `liu, xuan`
+- Profile name: `xuanyu liu`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `Xuanyu Liu` / `t3lixu00@studemts`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `test-site/images/photo/HighFive.png`
+- `test-site/images/photo/background.jpg`
+- `test-site/images/photo/bucksee.png`
+- `test-site/images/photo/movieapp.png`
+- `test-site/images/photo/petnotes.png`
+- `test-site/images/photo/portfolio.png`
+- `test-site/images/photo/profile photo.jpeg`
+- `test-site/images/photo/width profile.PNG`
+- `test-site/images/tutorial/step1.png`
+- `test-site/images/tutorial/step2.png`
+- `test-site/images/tutorial/step3.png`
+- `test-site/images/tutorial/step4.png`
+- `test-site/images/tutorial/step5.png`
+- `test-site/images/tutorial/step6.png`
+- `test-site/images/tutorial/step7.png`
 
 </details>
 
@@ -3665,6 +3885,134 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/xuan950721/xuan950721.github.io">xuan950721/xuan950721.github.io</a></strong> · probable photos 7 · identity xuan</summary>
+
+- Owner: [xuan950721](https://github.com/xuan950721)
+- Identity tier: **1**
+- Created / pushed: `2023-06-27T03:00:41Z` / `2023-06-27T03:09:31Z`
+- Account created: `2023-06-27T02:48:19Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan950721` / `137852190+xuan950721@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `assets/css/images/overlay.png`
+- `images/pic01.jpg`
+- `images/pic02.jpg`
+- `images/pic03.jpg`
+- `images/pic04.jpg`
+- `images/pic05.jpg`
+- `images/pic06.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/Xuande1998/Xuande1998.github.io">Xuande1998/Xuande1998.github.io</a></strong> · probable photos 58 · identity xuan</summary>
+
+- Owner: [Xuande1998](https://github.com/Xuande1998)
+- Identity tier: **1**
+- Created / pushed: `2023-08-06T16:50:54Z` / `2023-08-06T18:55:45Z`
+- Account created: `2023-08-06T16:48:50Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuande1998` / `141576312+Xuande1998@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `61` / `58`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/blog/3D-beach-art.jpg`
+- `img/blog/amazing-caves-coverimage.jpg`
+- `img/blog/bicycle.jpg`
+- `img/blog/user.jpg`
+- `img/meghna.png`
+- `img/old log.png`
+- `img/parallax/bike.jpg`
+- `img/parallax/city 1.jpg`
+- `img/parallax/city.jpg`
+- `img/parallax/contact.jpg`
+- `img/parallax/flower.jpg`
+- `img/parallax/nearby.jpg`
+- `img/parallax/parallax.jpg`
+- `img/parallax/skills 1.jpg`
+- `img/parallax/skills.jpg`
+- `img/parallax/twitter 1.jpg`
+- `img/parallax/twitter.jpg`
+- `img/portfolio/DSC02260.JPG`
+- `img/portfolio/DSC02351.JPG`
+- `img/portfolio/DSC02529.JPG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/xuanhhhhh/xuanhhhhh.github.io">xuanhhhhh/xuanhhhhh.github.io</a></strong> · probable photos 5 · identity xuan</summary>
+
+- Owner: [xuanhhhhh](https://github.com/xuanhhhhh)
+- Identity tier: **1**
+- Created / pushed: `2023-07-31T04:23:56Z` / `2023-10-14T01:17:58Z`
+- Account created: `2023-07-22T14:21:10Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanhhhhh` / `18035748708@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `images/background.png`
+- `images/docker1.png`
+- `images/head.png`
+- `images/wechat.png`
+- `images/zhifubao.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 17 points — <a href="https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io">jessie-kusumawardhani/jessie-kusumawardhani.github.io</a></strong> · probable photos 0 · identity jess, jessie</summary>
 
 - Owner: [jessie-kusumawardhani](https://github.com/jessie-kusumawardhani)
@@ -4180,6 +4528,108 @@ None.
 - `docs/assets/images/bio-photo-2.jpg`
 - `docs/assets/images/bio-photo.jpg`
 - `docs/assets/images/contrast-code-block.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/XuAnnie670/XuAnnie670.github.io">XuAnnie670/XuAnnie670.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [XuAnnie670](https://github.com/XuAnnie670)
+- Identity tier: **1**
+- Created / pushed: `2023-07-05T19:33:29Z` / `2023-07-05T21:00:59Z`
+- Account created: `2023-06-21T20:56:16Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `xuannie`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuannie` / `137340627+XuAnnie670@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/xuanxuanEcho/xuanxuanEcho.github.io">xuanxuanEcho/xuanxuanEcho.github.io</a></strong> · probable photos 2 · identity xuan</summary>
+
+- Owner: [xuanxuanEcho](https://github.com/xuanxuanEcho)
+- Identity tier: **1**
+- Created / pushed: `2023-07-01T11:04:30Z` / `2023-07-01T11:04:35Z`
+- Account created: `2023-06-30T02:34:19Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanxuanEcho` / `3282076524@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `posts/index.html`
+- `posts/myfirstarticles/index.html`
+- `posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `images/broken-image-error-msg.png`
+- `images/night-moon.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/xuanzang666/xuanzang666.github.io">xuanzang666/xuanzang666.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanzang666](https://github.com/xuanzang666)
+- Identity tier: **1**
+- Created / pushed: `2023-08-07T02:10:35Z` / `2023-08-07T02:11:29Z`
+- Account created: `2023-08-06T22:51:44Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Ceyuan Tan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Ceyuan Tan` / `141591937+xuanzang666@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -6393,6 +6843,314 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/create-serverless-chatbox">LeVuXuanAn/create-serverless-chatbox</a></strong> · probable photos 263 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-09-23T16:33:41Z` / `2024-09-23T16:37:30Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `265` / `263`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/1/1.1/1-1.png`
+- `images/1/1.1/1.png`
+- `images/1/1.1/2.png`
+- `images/1/1.1/3.png`
+- `images/1/1.1/4.png`
+- `images/1/1.1/5.png`
+- `images/1/1.1/6.png`
+- `images/1/1.1/7.png`
+- `images/1/1.1/8.png`
+- `images/1/1.1/9.png`
+- `images/1/1.3/1.png`
+- `images/1/1.3/10.png`
+- `images/1/1.3/11.png`
+- `images/1/1.3/12.png`
+- `images/1/1.3/13.png`
+- `images/1/1.3/14.png`
+- `images/1/1.3/15.png`
+- `images/1/1.3/16.png`
+- `images/1/1.3/17.png`
+- `images/1/1.3/18.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/levuxuanan.github.io-aws-serverless-developer">LeVuXuanAn/levuxuanan.github.io-aws-serverless-developer</a></strong> · probable photos 92 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-08-02T03:12:45Z` / `2024-08-02T03:21:55Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `323` / `92`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/1.week1/Picture1.png`
+- `images/1.week1/Picture2.png`
+- `images/2.week2/Pasted_image_20240626115137.png`
+- `images/2.week2/Pasted_image_20240626132936.png`
+- `images/2.week2/Pasted_image_20240626133123.png`
+- `images/2.week2/Pasted_image_20240626134324.png`
+- `images/2.week2/Pasted_image_20240626135544.png`
+- `images/2.week2/Pasted_image_20240626140628.png`
+- `images/2.week2/Pasted_image_20240626142133.png`
+- `images/2.week2/Pasted_image_20240626142524.png`
+- `images/2.week2/Pasted_image_20240628142445.png`
+- `images/2.week2/Pasted_image_20240628143636.png`
+- `images/2.week2/Pasted_image_20240628144825.png`
+- `images/2.week2/Pasted_image_20240628145656.png`
+- `images/2.week2/Pasted_image_20240628145733.png`
+- `images/2.week2/flow_logs_anatomy.png`
+- `images/2.week2/lab2_aligned_vpcs.png`
+- `images/2.week2/lab2_attachments.png`
+- `images/2.week2/lab2_cloudformation.png`
+- `images/2.week2/lab2_nacls.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/levuxuanan.github.io-create-a-serverless-chatbox">LeVuXuanAn/levuxuanan.github.io-create-a-serverless-chatbox</a></strong> · probable photos 263 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-09-23T16:28:09Z` / `2024-09-23T16:30:07Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `265` / `263`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/1/1.1/1-1.png`
+- `images/1/1.1/1.png`
+- `images/1/1.1/2.png`
+- `images/1/1.1/3.png`
+- `images/1/1.1/4.png`
+- `images/1/1.1/5.png`
+- `images/1/1.1/6.png`
+- `images/1/1.1/7.png`
+- `images/1/1.1/8.png`
+- `images/1/1.1/9.png`
+- `images/1/1.3/1.png`
+- `images/1/1.3/10.png`
+- `images/1/1.3/11.png`
+- `images/1/1.3/12.png`
+- `images/1/1.3/13.png`
+- `images/1/1.3/14.png`
+- `images/1/1.3/15.png`
+- `images/1/1.3/16.png`
+- `images/1/1.3/17.png`
+- `images/1/1.3/18.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/levuxuanan.github.io-REMOTE-DEVELOPMENT-WITH-VS-VSCODE-AND-EC2">LeVuXuanAn/levuxuanan.github.io-REMOTE-DEVELOPMENT-WITH-VS-VSCODE-AND-EC2</a></strong> · probable photos 247 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-08-11T10:07:56Z` / `2024-08-11T10:24:32Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `476` / `247`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/1.week1/Picture1.png`
+- `images/1.week1/Picture2.png`
+- `images/2.week2/Pasted_image_20240626115137.png`
+- `images/2.week2/Pasted_image_20240626132936.png`
+- `images/2.week2/Pasted_image_20240626133123.png`
+- `images/2.week2/Pasted_image_20240626134324.png`
+- `images/2.week2/Pasted_image_20240626135544.png`
+- `images/2.week2/Pasted_image_20240626140628.png`
+- `images/2.week2/Pasted_image_20240626142133.png`
+- `images/2.week2/Pasted_image_20240626142524.png`
+- `images/2.week2/Pasted_image_20240628142445.png`
+- `images/2.week2/Pasted_image_20240628143636.png`
+- `images/2.week2/Pasted_image_20240628144825.png`
+- `images/2.week2/Pasted_image_20240628145656.png`
+- `images/2.week2/Pasted_image_20240628145733.png`
+- `images/2.week2/flow_logs_anatomy.png`
+- `images/2.week2/lab2_aligned_vpcs.png`
+- `images/2.week2/lab2_attachments.png`
+- `images/2.week2/lab2_cloudformation.png`
+- `images/2.week2/lab2_nacls.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/levuxuanan.github.io-wsf-landingpage">LeVuXuanAn/levuxuanan.github.io-wsf-landingpage</a></strong> · probable photos 16 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-07-23T17:19:18Z` / `2024-08-03T04:13:54Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `assets/img/AGENDA 1.png`
+- `assets/img/AGENDA 2.png`
+- `assets/img/AGENDA 3.png`
+- `assets/img/COVER-FINAL.png`
+- `assets/img/Introduce-Topics.png`
+- `assets/img/bg-video.png`
+- `assets/img/bgheader.png`
+- `assets/img/info-file.png`
+- `assets/img/info-hsv.png`
+- `assets/img/info-timeline.png`
+- `assets/img/line.png`
+- `assets/img/new-3.jpg`
+- `assets/img/new-g1.jpg`
+- `assets/img/new-g2.jpg`
+- `assets/img/news-1.jpg`
+- `assets/img/news-2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/LeVuXuanAn/WebCV">LeVuXuanAn/WebCV</a></strong> · probable photos 20 · identity xuan</summary>
+
+- Owner: [LeVuXuanAn](https://github.com/LeVuXuanAn)
+- Identity tier: **1**
+- Created / pushed: `2024-04-26T01:32:16Z` / `2024-04-26T01:39:07Z`
+- Account created: `2023-06-21T13:55:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Le Vu Xuan An`
+- Commit identity hits: `xuan`
+- Latest commit author: `LeVuXuanAn` / `levuxuanan.work@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `20`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/bg-img-des.png`
+- `assets/img/bg-img.png`
+- `assets/img/hero-bg.jpg`
+- `assets/img/portfolio/portfolio-1.jpg`
+- `assets/img/portfolio/portfolio-2.jpg`
+- `assets/img/portfolio/portfolio-3.jpg`
+- `assets/img/portfolio/portfolio-4.jpg`
+- `assets/img/portfolio/portfolio-5.jpg`
+- `assets/img/portfolio/portfolio-6.jpg`
+- `assets/img/portfolio/portfolio-7.jpg`
+- `assets/img/portfolio/portfolio-8.jpg`
+- `assets/img/portfolio/portfolio-9.jpg`
+- `assets/img/portfolio/portfolio-details-1.jpg`
+- `assets/img/portfolio/portfolio-details-2.jpg`
+- `assets/img/portfolio/portfolio-details-3.jpg`
+- `assets/img/testimonials/testimonials-1.jpg`
+- `assets/img/testimonials/testimonials-2.jpg`
+- `assets/img/testimonials/testimonials-3.jpg`
+- `assets/img/testimonials/testimonials-4.jpg`
+- `assets/img/testimonials/testimonials-5.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 15 points — <a href="https://github.com/Liu7749/Lewis-blog">Liu7749/Lewis-blog</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [Liu7749](https://github.com/Liu7749)
@@ -7186,6 +7944,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/traphamxuan/gobs-docs">traphamxuan/gobs-docs</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [traphamxuan](https://github.com/traphamxuan)
+- Identity tier: **1**
+- Created / pushed: `2024-08-28T16:41:26Z` / `2024-08-28T17:55:07Z`
+- Account created: `2023-07-10T11:08:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Pham Xuan Tra`
+- Commit identity hits: `xuan`
+- Latest commit author: `Tra Pham Xuan` / `traphamxuan@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `content/blog/_index.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 15 points — <a href="https://github.com/tsddds/fusion">tsddds/fusion</a></strong> · probable photos 3 · identity liu</summary>
 
 - Owner: [tsddds](https://github.com/tsddds)
@@ -7307,6 +8098,197 @@ None.
 - `images/PXL_20250322_181058715.jpg`
 - `images/image.png`
 - `images/owen-profile.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/XuanDiep0310/Web_UTC2">XuanDiep0310/Web_UTC2</a></strong> · probable photos 115 · identity xuan</summary>
+
+- Owner: [XuanDiep0310](https://github.com/XuanDiep0310)
+- Identity tier: **1**
+- Created / pushed: `2024-10-05T15:58:14Z` / `2024-11-07T12:34:05Z`
+- Account created: `2023-09-22T12:11:14Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan Diep`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan Diep` / `diepp031005@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `116` / `115`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/image/010720240810_bZo1A.jpg`
+- `assets/image/010720240811_OgeLG.jpg`
+- `assets/image/010820230949_1L9mS_desktop.webp`
+- `assets/image/010820230951_0VlN9_desktop.webp`
+- `assets/image/010820230955_cwflT_desktop.webp`
+- `assets/image/010820240702_YzoOT.png`
+- `assets/image/030120241106_xnaJM_desktop.webp`
+- `assets/image/030120241107_E8Izi_desktop.webp`
+- `assets/image/030120241107_pHOvl_desktop.webp`
+- `assets/image/030120241107_rynvl_desktop.webp`
+- `assets/image/030120241108_4n29W_desktop.webp`
+- `assets/image/030820230302_Na4il_desktop.webp`
+- `assets/image/030820230304_K5gpJ_desktop.webp`
+- `assets/image/030820230307_KZNn0_desktop.webp`
+- `assets/image/030820230307_rgyzy_desktop.webp`
+- `assets/image/030820230311_0EKVX.png`
+- `assets/image/030820230320_6M5ZL_tablet.webp`
+- `assets/image/030820230323_brAB9_tablet.webp`
+- `assets/image/030820230326_Qr2SH_tablet.webp`
+- `assets/image/030820230340_pJBge.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Xuanhuy218972/PRJ301">Xuanhuy218972/PRJ301</a></strong> · probable photos 8 · identity xuan</summary>
+
+- Owner: [Xuanhuy218972](https://github.com/Xuanhuy218972)
+- Identity tier: **1**
+- Created / pushed: `2026-01-20T07:21:44Z` / `2026-04-09T16:48:54Z`
+- Account created: `2023-08-11T13:03:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Nguyen Xuan Huy`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanhuy218972` / `xuanhuy218972@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `src/main/webapp/assets/images/adidas.png`
+- `src/main/webapp/assets/images/background-auth-admin.jpg`
+- `src/main/webapp/assets/images/background-auth.jpg`
+- `src/main/webapp/assets/images/home-page.jpg`
+- `src/main/webapp/assets/images/konami.png`
+- `src/main/webapp/assets/images/search-result.jpg`
+- `src/main/webapp/assets/images/shop.jpg`
+- `src/main/webapp/assets/images/tiger.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuanmai2009/xuanmai.travel.com">xuanmai2009/xuanmai.travel.com</a></strong> · probable photos 44 · identity xuan</summary>
+
+- Owner: [xuanmai2009](https://github.com/xuanmai2009)
+- Identity tier: **1**
+- Created / pushed: `2023-06-10T04:49:15Z` / `2024-08-12T03:55:50Z`
+- Account created: `2023-06-07T03:07:06Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan Mai`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanmai2009` / `135791286+xuanmai2009@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `44`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/bangkokthailan.jpg`
+- `images/campuchia.jpg`
+- `images/dalat.jpg`
+- `images/danang.jpg`
+- `images/gallery1.jpg`
+- `images/gallery10.jpg`
+- `images/gallery11.jpg`
+- `images/gallery12.jpg`
+- `images/gallery13.jpg`
+- `images/gallery14.jpg`
+- `images/gallery2.jpg`
+- `images/gallery3.jpg`
+- `images/gallery4.jpg`
+- `images/gallery5.jpg`
+- `images/gallery6.jpg`
+- `images/gallery7.jpg`
+- `images/gallery8.jpg`
+- `images/gallery9.jpg`
+- `images/haiduong.jpg`
+- `images/hanquoc.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Xuanming-Guo/swimmer-app-website">Xuanming-Guo/swimmer-app-website</a></strong> · probable photos 15 · identity xuan</summary>
+
+- Owner: [Xuanming-Guo](https://github.com/Xuanming-Guo)
+- Identity tier: **1**
+- Created / pushed: `2026-01-01T19:19:45Z` / `2026-01-12T21:49:16Z`
+- Account created: `2023-09-10T16:43:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuanming`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanming` / `144616266+Xuanming-Guo@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `images/AddNewPBForSwimmer.jpeg`
+- `images/AddNewPBScrolledDownForSwimmer.jpeg`
+- `images/ClubHomeScreenForSwimmer.jpeg`
+- `images/ClubManagerForCoach.jpeg`
+- `images/ExampleOfTrainingEditingCoach.jpeg`
+- `images/HomeForSwimmer.jpeg`
+- `images/HomePageForCoach.jpeg`
+- `images/NotificationsForSwimmer.jpeg`
+- `images/PBPageForSwimmer.jpeg`
+- `images/PBPageForSwimmerLongCourse.jpeg`
+- `images/ProfilePageForCoach.jpeg`
+- `images/ProfilePageForSwimmer.jpeg`
+- `images/SquadPerformancePageForCoach.jpeg`
+- `images/TrainingScheduleForSquadCoach.jpeg`
+- `images/TrainingScheduleForSwimmer.jpeg`
 
 </details>
 
@@ -9031,6 +10013,314 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/XuanFeiIngrid/CCT360Lab10">XuanFeiIngrid/CCT360Lab10</a></strong> · probable photos 16 · identity xuan</summary>
+
+- Owner: [XuanFeiIngrid](https://github.com/XuanFeiIngrid)
+- Identity tier: **1**
+- Created / pushed: `2023-06-14T02:01:42Z` / `2023-06-14T02:05:46Z`
+- Account created: `2023-06-14T01:28:01Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanFeiIngrid` / `xuan.fei@mail.utoronto.ca`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `assets/img/anatomy.jpg`
+- `assets/img/athletes-and-models.jpg`
+- `assets/img/behavior.jpg`
+- `assets/img/cultural-importance.jpg`
+- `assets/img/ecology.jpg`
+- `assets/img/evolution.jpg`
+- `assets/img/health-benefits.jpg`
+- `assets/img/health-risks.jpg`
+- `assets/img/health.jpg`
+- `assets/img/inbreeding-depression.jpg`
+- `assets/img/main-bg.jpg`
+- `assets/img/more.jpg`
+- `assets/img/pets.jpg`
+- `assets/img/reproduction.jpg`
+- `assets/img/taxonomy.jpg`
+- `assets/img/workers.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuanphat212411/NFT-Marketplace">xuanphat212411/NFT-Marketplace</a></strong> · probable photos 23 · identity xuan</summary>
+
+- Owner: [xuanphat212411](https://github.com/xuanphat212411)
+- Identity tier: **1**
+- Created / pushed: `2023-08-03T12:36:06Z` / `2023-08-03T12:39:12Z`
+- Account created: `2023-08-03T06:24:42Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanphat212411` / `141305387+xuanphat212411@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `24` / `23`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/Asset 1.png`
+- `img/Asset 2.png`
+- `img/avt-1.jpg`
+- `img/avt-10.jpg`
+- `img/avt-2.jpg`
+- `img/avt-3.jpg`
+- `img/avt-4.jpg`
+- `img/avt-5.jpg`
+- `img/avt-6.jpg`
+- `img/avt-7.jpg`
+- `img/avt-8.jpg`
+- `img/avt-9.jpg`
+- `img/card-item-1.jpg`
+- `img/card-item-2.jpg`
+- `img/card-item-3.jpg`
+- `img/card-item-4.jpg`
+- `img/card-item-5.jpg`
+- `img/card-item-6.jpg`
+- `img/card-item-7.jpg`
+- `img/card-item-8.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuanphat212411/Only-One">xuanphat212411/Only-One</a></strong> · probable photos 56 · identity xuan</summary>
+
+- Owner: [xuanphat212411](https://github.com/xuanphat212411)
+- Identity tier: **1**
+- Created / pushed: `2023-12-03T09:10:02Z` / `2023-12-03T09:13:29Z`
+- Account created: `2023-08-03T06:24:42Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanphat212411` / `141305387+xuanphat212411@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `63` / `56`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/Home.png`
+- `img/LANDING PAGE.png`
+- `img/ade030f8106f5f3c87456e3427bfb747.jpg`
+- `img/d2137731a6673b3876094ee170c6dc1a.jpg`
+- `img/dress 1.png`
+- `img/dress 2.png`
+- `img/dress 3.png`
+- `img/dress 4.png`
+- `img/dress 5.png`
+- `img/dress 6.png`
+- `img/dress 7.png`
+- `img/dress 8.png`
+- `img/dress.png`
+- `img/flower 1.png`
+- `img/flower 2.png`
+- `img/flower 3.png`
+- `img/flower 4.png`
+- `img/flower 5.png`
+- `img/flower 6.png`
+- `img/flower 7.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuanphat212411/Portfolio">xuanphat212411/Portfolio</a></strong> · probable photos 40 · identity xuan</summary>
+
+- Owner: [xuanphat212411](https://github.com/xuanphat212411)
+- Identity tier: **1**
+- Created / pushed: `2023-08-18T10:12:08Z` / `2023-08-18T10:14:43Z`
+- Account created: `2023-08-03T06:24:42Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanphat212411` / `141305387+xuanphat212411@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `47` / `40`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/about-1.png`
+- `img/about-2.png`
+- `img/about-3.png`
+- `img/about-4.png`
+- `img/bg-header 1.png`
+- `img/bg-header 2.png`
+- `img/client-1.jpg`
+- `img/client-2.jpg`
+- `img/client-3.png`
+- `img/client-4.png`
+- `img/education-1.jpg`
+- `img/education-2.jpg`
+- `img/education-3.png`
+- `img/education-4.png`
+- `img/motion-1.jpg`
+- `img/motion-2.jpg`
+- `img/motion-3.jpg`
+- `img/motion-4.jpg`
+- `img/motion-5.jpg`
+- `img/motion-6.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuanphat212411/wd">xuanphat212411/wd</a></strong> · probable photos 37 · identity xuan</summary>
+
+- Owner: [xuanphat212411](https://github.com/xuanphat212411)
+- Identity tier: **1**
+- Created / pushed: `2023-08-03T06:47:05Z` / `2023-08-03T06:51:49Z`
+- Account created: `2023-08-03T06:24:42Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanphat212411` / `141305387+xuanphat212411@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `37`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/Chair1 (1).png`
+- `images/Chair1 (2).png`
+- `images/Chair1 (3).png`
+- `images/Chair1 (4).png`
+- `images/Chair1 (5).png`
+- `images/Chair1.png`
+- `images/Chair2.png`
+- `images/Chair3.png`
+- `images/Checkbox.png`
+- `images/Product-Img1.png`
+- `images/Product-Img2.png`
+- `images/Product-Main-Img (1).png`
+- `images/Product-Main-Img.png`
+- `images/Rectangle 25.png`
+- `images/Shop-Checkbox-tick.png`
+- `images/Table1.png`
+- `images/Table2.png`
+- `images/Table3.png`
+- `images/b-6 1.png`
+- `images/bg2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/Xuanthanhwork/shrek-juices">Xuanthanhwork/shrek-juices</a></strong> · probable photos 33 · identity xuan</summary>
+
+- Owner: [Xuanthanhwork](https://github.com/Xuanthanhwork)
+- Identity tier: **1**
+- Created / pushed: `2023-06-03T11:54:40Z` / `2023-06-04T13:17:23Z`
+- Account created: `2023-06-02T18:23:26Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanthanhwork` / `135365933+Xuanthanhwork@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `65` / `33`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/Careting/part1-1.jpg`
+- `img/Careting/part1-2.jpg`
+- `img/Careting/part1-3.jpg`
+- `img/Careting/part2-1.jpg`
+- `img/Careting/part2-2.jpg`
+- `img/Careting/part2-3.jpg`
+- `img/Careting/part2-4.jpg`
+- `img/Careting/part2-5.jpg`
+- `img/Careting/part2-6.jpg`
+- `img/Careting/part2-7.jpg`
+- `img/Careting/part2-8.jpg`
+- `img/Careting/part3-1.jpg`
+- `img/Careting/part3-2.jpg`
+- `img/Careting/part3-3.jpg`
+- `img/Careting/part4-1.jpg`
+- `img/Careting/part4-2.jpg`
+- `img/Careting/part4-3.jpg`
+- `img/Careting/part4-4.jpg`
+- `img/Fruit Juice/Apple.png`
+- `img/Fruit Juice/Carrot.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 14 points — <a href="https://github.com/XuanThinhTu/html-portfolio">XuanThinhTu/html-portfolio</a></strong> · probable photos 4 · identity xuan</summary>
 
 - Owner: [XuanThinhTu](https://github.com/XuanThinhTu)
@@ -10323,6 +11613,72 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/traphamxuan/gobs">traphamxuan/gobs</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [traphamxuan](https://github.com/traphamxuan)
+- Identity tier: **1**
+- Created / pushed: `2024-05-28T04:43:21Z` / `2024-07-06T16:13:26Z`
+- Account created: `2023-07-10T11:08:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Pham Xuan Tra`
+- Commit identity hits: `xuan`
+- Latest commit author: `Pham Xuan Tra` / `traphamxuan@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/Xuan03-THU/Xuan03-THU.github.io">Xuan03-THU/Xuan03-THU.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan03-THU](https://github.com/Xuan03-THU)
+- Identity tier: **1**
+- Created / pushed: `2024-08-11T06:55:35Z` / `2026-03-25T04:43:38Z`
+- Account created: `2023-06-24T14:15:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Li Yuxuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan03-THU` / `2955790949@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 14 points — <a href="https://github.com/XuanThinhTu/hcm202_mkt1702">XuanThinhTu/hcm202_mkt1702</a></strong> · probable photos 11 · identity xuan</summary>
 
 - Owner: [XuanThinhTu](https://github.com/XuanThinhTu)
@@ -10360,6 +11716,39 @@ None.
 - `assets/storm.png`
 - `assets/vietnam1.jpg`
 - `assets/wall.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/XuanXu9910/XuanXu9910.github.io">XuanXu9910/XuanXu9910.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [XuanXu9910](https://github.com/XuanXu9910)
+- Identity tier: **1**
+- Created / pushed: `2024-12-21T06:01:30Z` / `2024-12-22T15:30:06Z`
+- Account created: `2023-09-05T06:55:47Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan` / `144099370+XuanXu9910@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -10492,6 +11881,39 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/anonymousdjk/anonymousdjk.github.io">anonymousdjk/anonymousdjk.github.io</a></strong> · probable photos 1 · identity xuan</summary>
+
+- Owner: [anonymousdjk](https://github.com/anonymousdjk)
+- Identity tier: **1**
+- Created / pushed: `2023-07-26T09:18:05Z` / `2023-07-26T09:38:54Z`
+- Account created: `2023-07-25T03:59:07Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Vu Xuan Dat`
+- Commit identity hits: `none`
+- Latest commit author: `anonymousdjk` / `140475226+anonymousdjk@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/img/Slider/slider1.jpg`
 
 </details>
 
@@ -12285,6 +13707,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/xuanbac205/testgit">xuanbac205/testgit</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanbac205](https://github.com/xuanbac205)
+- Identity tier: **1**
+- Created / pushed: `2023-06-21T14:43:50Z` / `2023-06-21T14:49:37Z`
+- Account created: `2023-06-07T16:10:29Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `xuanbac05`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanbac2k5code` / `135859339+xuanbac2k5code@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 13 points — <a href="https://github.com/xuancuongdev/xuancuongdev.github.io">xuancuongdev/xuancuongdev.github.io</a></strong> · probable photos 0 · identity xuan</summary>
 
 - Owner: [xuancuongdev](https://github.com/xuancuongdev)
@@ -12301,6 +13756,72 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Xuanhuy218972/huyhieu2189">Xuanhuy218972/huyhieu2189</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuanhuy218972](https://github.com/Xuanhuy218972)
+- Identity tier: **1**
+- Created / pushed: `2023-08-14T14:42:15Z` / `2023-08-14T15:22:03Z`
+- Account created: `2023-08-11T13:03:52Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Nguyen Xuan Huy`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen Xuan Huy` / `xuanhuy21082023@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/yixuanhuang10/Yixuanhuang">yixuanhuang10/Yixuanhuang</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yixuanhuang10](https://github.com/yixuanhuang10)
+- Identity tier: **1**
+- Created / pushed: `2023-07-08T22:19:42Z` / `2023-08-06T18:04:48Z`
+- Account created: `2023-06-06T12:37:55Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Yi-Xuan Huang`
+- Commit identity hits: `xuan`
+- Latest commit author: `yixuanhuang10` / `caroline1012802@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -13068,6 +14589,58 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/VXuAnn/material-kit-react">VXuAnn/material-kit-react</a></strong> · probable photos 54 · identity xuan</summary>
+
+- Owner: [VXuAnn](https://github.com/VXuAnn)
+- Identity tier: **1**
+- Created / pushed: `2024-04-05T17:13:02Z` / `2024-04-11T14:20:02Z`
+- Account created: `2023-08-07T13:39:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `An Vu Xuan`
+- Commit identity hits: `none`
+- Latest commit author: `Nhut Nam` / `lenguyennhutnam91@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `92` / `54`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/assets/background/overlay_2.jpg`
+- `public/assets/background/overlay_3.jpg`
+- `public/assets/background/overlay_4.jpg`
+- `public/assets/illustrations/illustration_login.png`
+- `public/assets/images/covers/cover_1.jpg`
+- `public/assets/images/covers/cover_10.jpg`
+- `public/assets/images/covers/cover_11.jpg`
+- `public/assets/images/covers/cover_12.jpg`
+- `public/assets/images/covers/cover_13.jpg`
+- `public/assets/images/covers/cover_14.jpg`
+- `public/assets/images/covers/cover_15.jpg`
+- `public/assets/images/covers/cover_16.jpg`
+- `public/assets/images/covers/cover_17.jpg`
+- `public/assets/images/covers/cover_18.jpg`
+- `public/assets/images/covers/cover_19.jpg`
+- `public/assets/images/covers/cover_2.jpg`
+- `public/assets/images/covers/cover_20.jpg`
+- `public/assets/images/covers/cover_21.jpg`
+- `public/assets/images/covers/cover_22.jpg`
+- `public/assets/images/covers/cover_23.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 13 points — <a href="https://github.com/wuwuxiaoliu/bitcoin-order-app">wuwuxiaoliu/bitcoin-order-app</a></strong> · probable photos 6 · identity liu</summary>
 
 - Owner: [wuwuxiaoliu](https://github.com/wuwuxiaoliu)
@@ -13100,6 +14673,108 @@ None.
 - `src/assets/back5.jpg`
 - `src/assets/back6.jpg`
 - `src/assets/background.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/xuan9-9/CR-Diff">xuan9-9/CR-Diff</a></strong> · probable photos 2 · identity xuan</summary>
+
+- Owner: [xuan9-9](https://github.com/xuan9-9)
+- Identity tier: **1**
+- Created / pushed: `2026-04-04T02:20:31Z` / `2026-04-08T02:17:04Z`
+- Account created: `2023-10-15T09:59:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Jiaxuan Ren`
+- Commit identity hits: `xuan`
+- Latest commit author: `Jiaxuan Ren` / `147977754+xuan9-9@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `static/images/uestc.png`
+- `static/images/westlake.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/xuanling-zi/xuanling-zi.github.io">xuanling-zi/xuanling-zi.github.io</a></strong> · probable photos 2 · identity xuan</summary>
+
+- Owner: [xuanling-zi](https://github.com/xuanling-zi)
+- Identity tier: **1**
+- Created / pushed: `2023-06-08T10:25:11Z` / `2024-09-03T09:27:21Z`
+- Account created: `2023-06-08T10:21:46Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `blogs` / `676522146@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `img/404.jpg`
+- `img/灵宝归空决.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/xuanquoche/hospital-management-web-app">xuanquoche/hospital-management-web-app</a></strong> · probable photos 2 · identity xuan</summary>
+
+- Owner: [xuanquoche](https://github.com/xuanquoche)
+- Identity tier: **1**
+- Created / pushed: `2025-09-08T12:54:32Z` / `2026-05-24T13:23:29Z`
+- Account created: `2023-09-18T04:59:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Nguyen Trinh Xuan Quoc`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen Trinh Xuan Quoc` / `145316001+xuanquoche@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `public/images/doctor.png`
+- `public/images/patient.png`
 
 </details>
 
@@ -13730,6 +15405,135 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/doanxuandong/Aimax_lucky_card">doanxuandong/Aimax_lucky_card</a></strong> · probable photos 10 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-08-25T04:18:57Z` / `2025-08-25T04:34:56Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `doanxuandong` / `doanxuandong8303@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `assets/img/gift/next_lucky.jpg`
+- `assets/img/gift/product-1.png`
+- `assets/img/gift/product-2.png`
+- `assets/img/gift/product-3.png`
+- `assets/img/gift/product-4.png`
+- `assets/img/gift/product-5.jpg`
+- `assets/img/gift/product-6.jpg`
+- `assets/img/gift/product-7.jpg`
+- `assets/img/gift/voucher.png`
+- `assets/img/hidden.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/doanxuandong/gamefi">doanxuandong/gamefi</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-06-14T07:46:44Z` / `2025-06-14T07:57:42Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `Đoàn Xuân Đông` / `145097553+doanxuandong@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `images/Gau.png`
+- `images/bonus.png`
+- `images/lose.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/doanxuandong/MC_Group">doanxuandong/MC_Group</a></strong> · probable photos 46 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-04-24T08:19:08Z` / `2025-05-16T09:06:23Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `doanxuandong` / `doanxuandong8303@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `92` / `46`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/feedback_files/1746865050723-20 - 5 (1).png`
+- `public/feedback_files/1746876996038-20 - 5 (1).png`
+- `public/feedback_files/1746880783737-20 - 5.png`
+- `public/feedback_files/1746897855184-20 - 5 (1).png`
+- `public/feedback_files/1746898390810-20 - 5.png`
+- `public/image/1746842957473-20_5.jpg`
+- `public/image/1746843031904-20 - 5 (1).png`
+- `public/image/1746846185379-UI_Web_MC.png`
+- `public/image/1746846316893-UI_Web_MC.png`
+- `public/image/1746846467003-UI_Web_MC.png`
+- `public/image/1746856592789-UI_Web_MC.png`
+- `public/image/1746922739642-UI_Web_MC.png`
+- `public/image/1747015668774-UI_Web_MC.png`
+- `public/image/1747017212844-UI_Web_MC.png`
+- `public/image/1747017243045-20_5.jpg`
+- `public/image/1747105683951-20 - 5.png`
+- `public/image/1747125291835-20_5.jpg`
+- `public/image/1747370789572-20 - 5.png`
+- `public/image/1747378535871-UI_Web_MC.png`
+- `public/image/20 - 5 (1).png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 12 points — <a href="https://github.com/fedossijk/autopecas">fedossijk/autopecas</a></strong> · probable photos 17 · identity jess, jessie</summary>
 
 - Owner: [fedossijk](https://github.com/fedossijk)
@@ -13956,6 +15760,42 @@ None.
 - `src/assets/planking.png`
 - `src/assets/pushups.png`
 - `src/assets/running.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Khaiismyname/firstweb">Khaiismyname/firstweb</a></strong> · probable photos 4 · identity xuan</summary>
+
+- Owner: [Khaiismyname](https://github.com/Khaiismyname)
+- Identity tier: **1**
+- Created / pushed: `2026-01-08T19:12:39Z` / `2026-01-09T17:57:09Z`
+- Account created: `2023-07-07T10:22:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `XuanKhai`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanKhai` / `138873495+Khaiismyname@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `78` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `images/608493918_25477776121886644_2743607204899080184_n.jpg`
+- `images/610599787_1202941097975580_1390950082987140511_n.jpg`
+- `images/IMG20250822092707.jpg`
+- `images/z7414957865195_c77c1e0781d9c1d5640a0677f5e54f59.jpg`
 
 </details>
 
@@ -14967,6 +16807,162 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuandinh3101/8xwebs">xuandinh3101/8xwebs</a></strong> · probable photos 580 · identity xuan</summary>
+
+- Owner: [xuandinh3101](https://github.com/xuandinh3101)
+- Identity tier: **1**
+- Created / pushed: `2026-04-04T02:52:44Z` / `2026-06-30T09:18:47Z`
+- Account created: `2023-07-01T02:53:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `David Pham`
+- Commit identity hits: `xuan`
+- Latest commit author: `David Pham` / `138270265+xuandinh3101@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `814` / `580`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/Integration/hm8-bg01.webp`
+- `assets/images/Integration/hm8-line-shape01.webp`
+- `assets/images/Integration/hm8-line-shape02.webp`
+- `assets/images/about/emni .webp`
+- `assets/images/about/emni.webp`
+- `assets/images/about/hm1-img01.webp`
+- `assets/images/about/hm1-img02.webp`
+- `assets/images/about/hm1-img03.webp`
+- `assets/images/about/hm2-img01.webp`
+- `assets/images/about/hm2-img02.jpg`
+- `assets/images/about/hm2-img02.webp`
+- `assets/images/about/hm2-shape01.png`
+- `assets/images/about/hm2-shape01.webp`
+- `assets/images/about/hm2-spin01.webp`
+- `assets/images/about/hm3-img01.webp`
+- `assets/images/about/hm3-img02.webp`
+- `assets/images/about/hm3-shape1.png`
+- `assets/images/about/hm4-bg-shape1.webp`
+- `assets/images/about/hm4-img01.webp`
+- `assets/images/about/hm4-img02.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuandinh3101/efhn">xuandinh3101/efhn</a></strong> · probable photos 116 · identity xuan</summary>
+
+- Owner: [xuandinh3101](https://github.com/xuandinh3101)
+- Identity tier: **1**
+- Created / pushed: `2026-03-31T07:17:07Z` / `2026-08-05T07:35:46Z`
+- Account created: `2023-07-01T02:53:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `David Pham`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuandinh3101` / `138270265+xuandinh3101@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `149` / `116`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/background/background-news.jpg`
+- `images/background/bgBottomRight.png`
+- `images/background/bgTopLeft.png`
+- `images/background/blackbg.jpg`
+- `images/background/blackblueBg.jpg`
+- `images/background/counterBg.jpg`
+- `images/background/heroesBg.jpg`
+- `images/background/infoBg.jpg`
+- `images/background/innerpageBg.jpg`
+- `images/background/latestnews.jpg`
+- `images/background/playerdetailsBg.jpg`
+- `images/background/redBg.jpg`
+- `images/background/socialMediaHomeBg.jpg`
+- `images/background/ticketbooking.jpg`
+- `images/background/whiteBg.jpg`
+- `images/background/whiteBgBig.jpg`
+- `images/baolong.jpg`
+- `images/baoson.jpg`
+- `images/client01.png`
+- `images/client02.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xUankip/Project-QuizAi">xUankip/Project-QuizAi</a></strong> · probable photos 35 · identity xuan</summary>
+
+- Owner: [xUankip](https://github.com/xUankip)
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T12:40:01Z` / `2024-08-30T11:13:14Z`
+- Account created: `2023-08-21T05:01:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `xU`
+- Commit identity hits: `xuan`
+- Latest commit author: `xU` / `142771851+xUankip@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `48` / `35`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/dist/img/boxed-bg.jpg`
+- `public/dist/img/boxed-bg.png`
+- `public/dist/img/credit/american-express.png`
+- `public/dist/img/credit/cirrus.png`
+- `public/dist/img/credit/mastercard.png`
+- `public/dist/img/credit/paypal.png`
+- `public/dist/img/credit/paypal2.png`
+- `public/dist/img/credit/visa.png`
+- `public/dist/img/default-150x150.png`
+- `public/dist/img/photo1.png`
+- `public/dist/img/photo2.png`
+- `public/dist/img/photo3.jpg`
+- `public/dist/img/photo4.jpg`
+- `public/dist/img/prod-1.jpg`
+- `public/dist/img/prod-2.jpg`
+- `public/dist/img/prod-3.jpg`
+- `public/dist/img/prod-4.jpg`
+- `public/dist/img/prod-5.jpg`
+- `public/dist/img/user1-128x128.jpg`
+- `public/dist/img/user2-160x160.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanphamdev/seanblog">xuanphamdev/seanblog</a></strong> · probable photos 0 · identity xuan</summary>
 
 - Owner: [xuanphamdev](https://github.com/xuanphamdev)
@@ -14998,6 +16994,99 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanphat212411/Free_Fire">xuanphat212411/Free_Fire</a></strong> · probable photos 94 · identity xuan</summary>
+
+- Owner: [xuanphat212411](https://github.com/xuanphat212411)
+- Identity tier: **1**
+- Created / pushed: `2025-11-24T13:32:52Z` / `2025-11-24T13:36:47Z`
+- Account created: `2023-08-03T06:24:42Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanphat212411` / `141305387+xuanphat212411@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `100` / `94`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `IMG/01619af902dfaf762f816ed1028f5bbe.jpg`
+- `IMG/031e4a53c9562a273f1a3f158886abdf.png`
+- `IMG/052d08e5b1ad11e2e524e560ccf2ffb4.png`
+- `IMG/07f0873e3d4b524464df9a294ccd0216.png`
+- `IMG/0c0e8047ee07ecd45cb3cb638faff2e6.png`
+- `IMG/0c141cf65b9bf4983e893946f028bbd1.png`
+- `IMG/15f31c3f63841531600de1b3c73d0fbb.png`
+- `IMG/181faa683450fa82e5b7ffe068a9c7f9.png`
+- `IMG/18dc6bf0bd596759987b6855f2e96f87.jpg`
+- `IMG/1b23f609d2e2d45c4ce77614ccbc5e2d.png`
+- `IMG/1e8c2ba1703ad38f0efc56567b18762c.png`
+- `IMG/20ca50be91eaaa4c33a92777c8429b24.png`
+- `IMG/2d0fc806e92bee780bdea0fcc4bfbe96.png`
+- `IMG/2d63e2dc237f54e2b8c4e2d3a74aefd3.png`
+- `IMG/323b38548c505e6dc71025b107be3362.png`
+- `IMG/36188c3fe341f30389748e3b827b14ea.jpg`
+- `IMG/383px-Keyd_Stars_2017_allmode.png`
+- `IMG/3b0541045e4f1e25fbe6736cd6553233.png`
+- `IMG/3b94b7da654c4adf0ff8e08123f25ac0.png`
+- `IMG/3ef0c77fce62db0b69031633bdae4436.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanqisun/g1-humanoid-teleoperation">xuanqisun/g1-humanoid-teleoperation</a></strong> · probable photos 9 · identity xuan</summary>
+
+- Owner: [xuanqisun](https://github.com/xuanqisun)
+- Identity tier: **1**
+- Created / pushed: `2026-08-13T07:11:40Z` / `2026-08-17T12:14:04Z`
+- Account created: `2023-08-03T18:48:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `sunxuanqi` / `sunxuanqi625@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `9`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (9)</summary>
+
+- `assets/images/3pt-poster.jpg`
+- `assets/images/balance-poster.jpg`
+- `assets/images/camera-poster.jpg`
+- `assets/images/dance-video-motion-poster.jpg`
+- `assets/images/g1-cutout.png`
+- `assets/images/hero-poster.jpg`
+- `assets/images/kick-poster.jpg`
+- `assets/images/music-motion-poster.jpg`
+- `assets/images/pick-poster.jpg`
 
 </details>
 
@@ -18770,6 +20859,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/sonlexuan3000/nus-github-actions-workshop">sonlexuan3000/nus-github-actions-workshop</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [sonlexuan3000](https://github.com/sonlexuan3000)
+- Identity tier: **1**
+- Created / pushed: `2026-03-24T10:47:01Z` / `2026-03-24T11:53:00Z`
+- Account created: `2023-07-25T09:54:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Lê Xuân Sơn`
+- Commit identity hits: `xuan`
+- Latest commit author: `Le Xuan Son` / `lexuanson@Les-MacBook-Air.local`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 11 points — <a href="https://github.com/superlxh02/c-study">superlxh02/c-study</a></strong> · probable photos 1 · identity liu</summary>
 
 - Owner: [superlxh02](https://github.com/superlxh02)
@@ -18830,6 +20952,39 @@ None.
 <details><summary>Sample photos (1)</summary>
 
 - `img/404.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/traphamxuan/totp-storage">traphamxuan/totp-storage</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [traphamxuan](https://github.com/traphamxuan)
+- Identity tier: **1**
+- Created / pushed: `2025-12-03T15:24:30Z` / `2025-12-16T02:47:48Z`
+- Account created: `2023-07-10T11:08:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Pham Xuan Tra`
+- Commit identity hits: `xuan`
+- Latest commit author: `Tra Pham` / `traphamxuan@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -18902,6 +21057,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanbac205/kanji-jpd123">xuanbac205/kanji-jpd123</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanbac205](https://github.com/xuanbac205)
+- Identity tier: **1**
+- Created / pushed: `2026-07-22T06:40:32Z` / `2026-07-22T06:42:28Z`
+- Account created: `2023-06-07T16:10:29Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `xuanbac05`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanbac05` / `trieuxuanbac05@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanduong2711/cv">xuanduong2711/cv</a></strong> · probable photos 0 · identity xuan</summary>
 
 - Owner: [xuanduong2711](https://github.com/xuanduong2711)
@@ -18948,6 +21136,105 @@ None.
 - Profile name: ` Xuân Dương`
 - Commit identity hits: `xuan`
 - Latest commit author: `xuanduong2711` / `xuanduong271104@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Xuanhuy218972/Day_1">Xuanhuy218972/Day_1</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuanhuy218972](https://github.com/Xuanhuy218972)
+- Identity tier: **1**
+- Created / pushed: `2026-04-10T15:14:02Z` / `2026-04-10T17:18:51Z`
+- Account created: `2023-08-11T13:03:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Nguyen Xuan Huy`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanhuy218972` / `xuanhuy218972@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Xuanhuy218972/Dever-Todo-app">Xuanhuy218972/Dever-Todo-app</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuanhuy218972](https://github.com/Xuanhuy218972)
+- Identity tier: **1**
+- Created / pushed: `2024-12-13T10:19:36Z` / `2024-12-16T17:13:00Z`
+- Account created: `2023-08-11T13:03:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Nguyen Xuan Huy`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanhuy218972` / `xuanhuy21082023@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanle1016/BGP_CryptoGuardian">xuanle1016/BGP_CryptoGuardian</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanle1016](https://github.com/xuanle1016)
+- Identity tier: **1**
+- Created / pushed: `2025-12-13T13:13:54Z` / `2025-12-13T13:58:45Z`
+- Account created: `2023-06-05T14:54:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanle` / `xuanlesew@gmail.com`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
@@ -19050,6 +21337,39 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanyuying/dsh-mobile">xuanyuying/dsh-mobile</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanyuying](https://github.com/xuanyuying)
+- Identity tier: **1**
+- Created / pushed: `2026-08-17T14:06:02Z` / `2026-08-18T00:13:23Z`
+- Account created: `2023-06-23T12:50:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanyuying` / `137512120+xuanyuying@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -19200,6 +21520,171 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/yzzhixuan/3179_DV2_FiveDesignSheets">yzzhixuan/3179_DV2_FiveDesignSheets</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yzzhixuan](https://github.com/yzzhixuan)
+- Identity tier: **1**
+- Created / pushed: `2025-10-19T16:26:37Z` / `2025-10-19T16:29:46Z`
+- Account created: `2023-07-19T07:41:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Zhi Xuan` / `139955319+yzzhixuan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/yzzhixuan/3179_Visualisation2">yzzhixuan/3179_Visualisation2</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yzzhixuan](https://github.com/yzzhixuan)
+- Identity tier: **1**
+- Created / pushed: `2025-10-20T07:01:28Z` / `2025-10-20T07:07:49Z`
+- Account created: `2023-07-19T07:41:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Zhi Xuan` / `139955319+yzzhixuan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/yzzhixuan/3179_W10_Homework">yzzhixuan/3179_W10_Homework</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yzzhixuan](https://github.com/yzzhixuan)
+- Identity tier: **1**
+- Created / pushed: `2025-10-08T07:02:14Z` / `2025-10-08T07:04:50Z`
+- Account created: `2023-07-19T07:41:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Zhi Xuan` / `139955319+yzzhixuan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/yzzhixuan/3179_W11_Critique">yzzhixuan/3179_W11_Critique</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yzzhixuan](https://github.com/yzzhixuan)
+- Identity tier: **1**
+- Created / pushed: `2025-10-14T05:08:27Z` / `2025-10-14T05:09:14Z`
+- Account created: `2023-07-19T07:41:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Zhi Xuan` / `139955319+yzzhixuan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/yzzhixuan/3179_W9_Homework">yzzhixuan/3179_W9_Homework</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [yzzhixuan](https://github.com/yzzhixuan)
+- Identity tier: **1**
+- Created / pushed: `2025-09-24T07:18:37Z` / `2025-09-24T07:22:30Z`
+- Account created: `2023-07-19T07:41:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Zhi Xuan` / `139955319+yzzhixuan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -21100,6 +23585,171 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/phanxuannhat30/car-company-page">phanxuannhat30/car-company-page</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [phanxuannhat30](https://github.com/phanxuannhat30)
+- Identity tier: **1**
+- Created / pushed: `2023-08-17T17:08:05Z` / `2023-08-18T10:50:25Z`
+- Account created: `2023-08-02T03:25:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân Nhất`
+- Commit identity hits: `xuan`
+- Latest commit author: `Phan Xuân Nhất` / `nhatphanxuan2002@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/phanxuannhat30/codecademy-projects">phanxuannhat30/codecademy-projects</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [phanxuannhat30](https://github.com/phanxuannhat30)
+- Identity tier: **1**
+- Created / pushed: `2023-08-14T09:22:08Z` / `2023-08-14T09:23:22Z`
+- Account created: `2023-08-02T03:25:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân Nhất`
+- Commit identity hits: `xuan`
+- Latest commit author: `phanxuannhat30` / `nhatphanxuan2002@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/phanxuannhat30/odin-project">phanxuannhat30/odin-project</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [phanxuannhat30](https://github.com/phanxuannhat30)
+- Identity tier: **1**
+- Created / pushed: `2023-08-12T14:05:31Z` / `2023-08-12T14:24:09Z`
+- Account created: `2023-08-02T03:25:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân Nhất`
+- Commit identity hits: `xuan`
+- Latest commit author: `phanxuannhat30` / `nhatphanxuan2002@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/phanxuannhat30/odin-recipes">phanxuannhat30/odin-recipes</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [phanxuannhat30](https://github.com/phanxuannhat30)
+- Identity tier: **1**
+- Created / pushed: `2023-08-04T11:26:38Z` / `2023-08-04T12:33:46Z`
+- Account created: `2023-08-02T03:25:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân Nhất`
+- Commit identity hits: `xuan`
+- Latest commit author: `phanxuannhat30` / `nhatphanxuan2002@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/phanxuannhat30/SignUp-Form">phanxuannhat30/SignUp-Form</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [phanxuannhat30](https://github.com/phanxuannhat30)
+- Identity tier: **1**
+- Created / pushed: `2023-10-01T02:34:19Z` / `2023-10-01T02:39:01Z`
+- Account created: `2023-08-02T03:25:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân Nhất`
+- Commit identity hits: `xuan`
+- Latest commit author: `Phan Xuân Nhất` / `nhatphanxuan2002@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 10 points — <a href="https://github.com/xuandong1994/test">xuandong1994/test</a></strong> · probable photos 0 · identity xuan</summary>
 
 - Owner: [xuandong1994](https://github.com/xuandong1994)
@@ -21149,6 +23799,39 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `12` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/xUankip/Nhom4">xUankip/Nhom4</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xUankip](https://github.com/xUankip)
+- Identity tier: **1**
+- Created / pushed: `2023-10-04T02:01:04Z` / `2023-10-04T02:33:09Z`
+- Account created: `2023-08-21T05:01:18Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `xU`
+- Commit identity hits: `xuan`
+- Latest commit author: `xU` / `142771851+xUankip@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -21331,6 +24014,39 @@ None.
 
 - `assets/oakley1.jpg`
 - `assets/rayban1.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/jxxjx/FIT3179_Data_Visualisation2">jxxjx/FIT3179_Data_Visualisation2</a></strong> · probable photos 1 · identity xuan</summary>
+
+- Owner: [jxxjx](https://github.com/jxxjx)
+- Identity tier: **1**
+- Created / pushed: `2025-10-10T14:15:24Z` / `2026-08-22T13:39:40Z`
+- Account created: `2023-07-20T09:48:06Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Jing Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `jingxuan` / `140064548+jxxjx@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `image/download.jpg`
 
 </details>
 
@@ -21640,6 +24356,58 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/AnPhanX/demo">AnPhanX/demo</a></strong> · probable photos 85 · identity xuan</summary>
+
+- Owner: [AnPhanX](https://github.com/AnPhanX)
+- Identity tier: **1**
+- Created / pushed: `2024-05-09T05:50:05Z` / `2024-05-09T05:53:43Z`
+- Account created: `2023-07-18T14:24:01Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Phan Xuân An`
+- Commit identity hits: `xuan`
+- Latest commit author: `AnPhanX` / `phanxuanan282@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `196` / `85`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `admin/assets/images/auth/lockscreen-bg.jpg`
+- `admin/assets/images/auth/login-bg.jpg`
+- `admin/assets/images/auth/register-bg.jpg`
+- `admin/assets/images/dashboard/darkBG.png`
+- `admin/assets/images/dashboard/img_1.jpg`
+- `admin/assets/images/dashboard/img_2.jpg`
+- `admin/assets/images/dashboard/img_3.jpg`
+- `admin/assets/images/dashboard/profile-card.jpg`
+- `admin/assets/images/dashboard/progress-card-bg.jpg`
+- `admin/assets/images/dashboard/weather-card.jpg`
+- `admin/assets/images/faces/face1.jpg`
+- `admin/assets/images/faces/face10.jpg`
+- `admin/assets/images/faces/face11.jpg`
+- `admin/assets/images/faces/face12.jpg`
+- `admin/assets/images/faces/face13.jpg`
+- `admin/assets/images/faces/face14.jpg`
+- `admin/assets/images/faces/face15.jpg`
+- `admin/assets/images/faces/face16.jpg`
+- `admin/assets/images/faces/face17.jpg`
+- `admin/assets/images/faces/face18.jpg`
 
 </details>
 
@@ -22424,6 +25192,72 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/TungNguyen-003/tungnxph19782.github.io">TungNguyen-003/tungnxph19782.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [TungNguyen-003](https://github.com/TungNguyen-003)
+- Identity tier: **1**
+- Created / pushed: `2023-08-24T16:49:58Z` / `2023-08-24T18:33:34Z`
+- Account created: `2023-06-29T08:59:50Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `NguyenXuanTung`
+- Commit identity hits: `none`
+- Latest commit author: `@tungnxph19782` / `tungnxph19782@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/4110064003/PersonalWebPage0225">4110064003/PersonalWebPage0225</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [4110064003](https://github.com/4110064003)
+- Identity tier: **1**
+- Created / pushed: `2026-02-25T02:59:24Z` / `2026-02-25T03:27:55Z`
+- Account created: `2023-06-01T00:26:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `KU YI-XUAN `
+- Commit identity hits: `xuan`
+- Latest commit author: `4110064003` / `xuanku114nchu@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 8 points — <a href="https://github.com/Blindaaa/verc-notebook">Blindaaa/verc-notebook</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [Blindaaa](https://github.com/Blindaaa)
@@ -22470,6 +25304,39 @@ None.
 - Profile name: `Liu Yuhan`
 - Commit identity hits: `liu`
 - Latest commit author: `liu001` / `liu1025221459@sjtu.edu.cn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/carinasuka/CS6017_HW7">carinasuka/CS6017_HW7</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [carinasuka](https://github.com/carinasuka)
+- Identity tier: **1**
+- Created / pushed: `2024-08-02T17:00:26Z` / `2024-08-02T23:52:42Z`
+- Account created: `2023-08-21T15:49:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan Zhang`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan Zhang` / `u1484097@umail.utah.edu`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
@@ -22635,6 +25502,171 @@ None.
 - Profile name: `LIU Xikai`
 - Commit identity hits: `liu`
 - Latest commit author: `LIU Xikai` / `137738630+defAshton@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/doanxuandong/event">doanxuandong/event</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-05-30T03:08:50Z` / `2025-05-30T07:36:15Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `doanxuandong` / `doanxuandong8303@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/doanxuandong/Web_Noi_That">doanxuandong/Web_Noi_That</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-02-19T15:27:39Z` / `2025-02-19T15:33:20Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `doanxuandong` / `doanxuandong8303@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `130` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/doanxuandong/webapp">doanxuandong/webapp</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [doanxuandong](https://github.com/doanxuandong)
+- Identity tier: **1**
+- Created / pushed: `2025-06-16T10:45:12Z` / `2025-06-16T10:47:46Z`
+- Account created: `2023-09-15T06:09:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Đoàn Xuân Đông`
+- Commit identity hits: `xuan`
+- Latest commit author: `doanxuandong` / `doanxuandong8303@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/duongdx-kma/happy-new-year">duongdx-kma/happy-new-year</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [duongdx-kma](https://github.com/duongdx-kma)
+- Identity tier: **1**
+- Created / pushed: `2025-01-29T17:18:02Z` / `2025-01-29T17:47:02Z`
+- Account created: `2023-10-05T17:03:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Duong Dinh Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `duongdx-kma` / `duong.dinh.xuan998@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/duongdx-kma/helm-repository">duongdx-kma/helm-repository</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [duongdx-kma](https://github.com/duongdx-kma)
+- Identity tier: **1**
+- Created / pushed: `2024-03-30T07:09:14Z` / `2025-02-20T07:44:16Z`
+- Account created: `2023-10-05T17:03:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Duong Dinh Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Duong Dinh Xuan` / `147089206+duongdx-kma@users.noreply.github.com`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
@@ -23117,6 +26149,72 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jxxjx/FIT3179_Week10_Homework">jxxjx/FIT3179_Week10_Homework</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [jxxjx](https://github.com/jxxjx)
+- Identity tier: **1**
+- Created / pushed: `2025-10-06T14:21:32Z` / `2025-10-10T07:45:05Z`
+- Account created: `2023-07-20T09:48:06Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Jing Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `jingxuan` / `140064548+jxxjx@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jxxjx/FIT3179_Week9_Homework">jxxjx/FIT3179_Week9_Homework</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [jxxjx](https://github.com/jxxjx)
+- Identity tier: **1**
+- Created / pushed: `2025-09-24T06:16:08Z` / `2025-09-29T12:22:02Z`
+- Account created: `2023-07-20T09:48:06Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Jing Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `jingxuan` / `140064548+jxxjx@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 8 points — <a href="https://github.com/jyou106/WordHuntHTML">jyou106/WordHuntHTML</a></strong> · probable photos 0 · identity jess, jessie</summary>
 
 - Owner: [jyou106](https://github.com/jyou106)
@@ -23133,6 +26231,39 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Khaiismyname/check">Khaiismyname/check</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Khaiismyname](https://github.com/Khaiismyname)
+- Identity tier: **1**
+- Created / pushed: `2026-02-27T15:59:08Z` / `2026-02-27T16:04:26Z`
+- Account created: `2023-07-07T10:22:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `XuanKhai`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanKhai` / `138873495+Khaiismyname@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -25559,6 +28690,105 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuan0916/Wedding">Xuan0916/Wedding</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan0916](https://github.com/Xuan0916)
+- Identity tier: **1**
+- Created / pushed: `2024-05-12T23:22:22Z` / `2024-05-12T23:24:59Z`
+- Account created: `2023-07-06T07:57:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan0916` / `xwgoay@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuananhdeptrai/biatuoi11">xuananhdeptrai/biatuoi11</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuananhdeptrai](https://github.com/xuananhdeptrai)
+- Identity tier: **1**
+- Created / pushed: `2026-02-21T11:29:39Z` / `2026-02-21T11:31:44Z`
+- Account created: `2023-06-23T02:23:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `xanh`
+- Commit identity hits: `xuan`
+- Latest commit author: `xanh` / `137465981+xuananhdeptrai@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuananhdeptrai/quan-ly-quan-bia">xuananhdeptrai/quan-ly-quan-bia</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuananhdeptrai](https://github.com/xuananhdeptrai)
+- Identity tier: **1**
+- Created / pushed: `2026-02-21T08:29:33Z` / `2026-02-21T08:46:01Z`
+- Account created: `2023-06-23T02:23:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `xanh`
+- Commit identity hits: `xuan`
+- Latest commit author: `xanh` / `137465981+xuananhdeptrai@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuanbac12/nguyenxuanbac.io">Xuanbac12/nguyenxuanbac.io</a></strong> · probable photos 0 · identity xuan</summary>
 
 - Owner: [Xuanbac12](https://github.com/Xuanbac12)
@@ -25707,6 +28937,171 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuangb2004/christmas">xuangb2004/christmas</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuangb2004](https://github.com/xuangb2004)
+- Identity tier: **1**
+- Created / pushed: `2025-12-19T16:22:27Z` / `2025-12-19T16:23:15Z`
+- Account created: `2023-08-27T08:02:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuangb2004` / `143316187+xuangb2004@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanjt/continuum-mechanics">xuanjt/continuum-mechanics</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanjt](https://github.com/xuanjt)
+- Identity tier: **1**
+- Created / pushed: `2025-07-24T20:45:23Z` / `2025-07-24T20:50:40Z`
+- Account created: `2023-06-01T03:55:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanjt` / `beyasel4@sina.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanjt/family-pantry-web">xuanjt/family-pantry-web</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanjt](https://github.com/xuanjt)
+- Identity tier: **1**
+- Created / pushed: `2026-03-09T21:06:17Z` / `2026-03-09T21:36:56Z`
+- Account created: `2023-06-01T03:55:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanjt` / `beyasel4@sina.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanjt/GNN_for_A_share">xuanjt/GNN_for_A_share</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanjt](https://github.com/xuanjt)
+- Identity tier: **1**
+- Created / pushed: `2025-07-28T20:10:35Z` / `2025-07-28T20:15:55Z`
+- Account created: `2023-06-01T03:55:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanjt` / `135194799+xuanjt@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuankai-ZHANG/RB">Xuankai-ZHANG/RB</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuankai-ZHANG](https://github.com/Xuankai-ZHANG)
+- Identity tier: **1**
+- Created / pushed: `2026-05-12T02:13:39Z` / `2026-05-12T05:11:10Z`
+- Account created: `2023-08-08T14:41:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuankai-ZHANG` / `141750482+Xuankai-ZHANG@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
