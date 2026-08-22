@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Incrementally find photo-oriented GitHub Pages repositories from 2023.
+"""Find a newly-created 2023 GitHub identity and its Pages repositories.
 
 The built-in Actions GITHUB_TOKEN is intentionally used instead of a PAT.
 State and candidate reports are committed by the workflow after every run.
@@ -157,21 +157,14 @@ def seed_search_tasks(config: dict):
     start, end = config["target_created_from"], config["target_created_to"]
     tasks = []
     order = 0
-    tasks.append({"stage": "personal", "term": "", "start": start, "end": end, "order": order})
-    order += 1
-    for term in config["identity_terms"]:
+    for term in config["user_search_seeds"]:
         tasks.append({"stage": "users", "term": term, "start": start, "end": end, "order": order})
         order += 1
-    for term in ["pages", "blog"]:
-        if term in config["priority_name_terms"]:
-            tasks.append({"stage": term, "term": term, "start": start, "end": end, "order": order})
-            order += 1
-    for term in config["site_name_terms"]:
-        tasks.append({"stage": "other", "term": term, "start": start, "end": end, "order": order})
-        order += 1
-    for term in config["identity_terms"]:
+    identity = config["identity"]
+    for term in dict.fromkeys(identity["name_primary"] + identity["name_component"]):
         tasks.append({"stage": "identity", "term": term, "start": start, "end": end, "order": order})
         order += 1
+    tasks.append({"stage": "personal", "term": "", "start": start, "end": end, "order": order})
     return tasks
 
 
@@ -196,7 +189,8 @@ def initialize_adaptive_tasks(state: dict, config: dict):
 def task_query(task: dict):
     created = f"created:{task['start']}..{task['end']}"
     if task["stage"] == "users":
-        return f"{task['term']} in:login {created} type:user"
+        # GitHub calls the public profile-name field `fullname` in user search.
+        return f"{task['term']} in:login,fullname {created} type:user"
     if task["stage"] == "personal":
         return f"github.io in:name {created}"
     return f"{task['term']} in:name {created}"
@@ -258,104 +252,124 @@ def enforce_query_result_limits(tasks: dict, config: dict):
                     )
 
 
-def priority_name_evidence(repo_name: str, terms: list[str]):
-    name = repo_name.lower()
-    hits = [term.lower() for term in terms if term.lower() in name]
-    if any(name == term for term in hits):
-        return 8, hits
-    if any(name.startswith(term) or name.endswith(term) for term in hits):
-        return 6, hits
-    if hits:
-        return 4, hits
-    return 0, []
+def token_matches(token: str, source: str, numbers: set[str]):
+    token = token.lower()
+    source = source.lower()
+    if token in numbers:
+        return bool(re.search(rf"(?<![0-9]){re.escape(token)}(?![0-9])", source))
+    return token in source
 
 
-def identity_evidence(owner: str, repo_name: str, profile: dict, terms: list[str]):
-    direct_source = f"{owner} {repo_name}".lower()
-    direct_hits = sorted({term for term in terms if term in direct_source})
+def matching_tokens(source: str, terms: list[str], numbers: set[str]):
+    return sorted({term for term in terms if token_matches(term, source, numbers)})
+
+
+def identity_terms(config: dict):
+    identity = config["identity"]
+    return list(dict.fromkeys(
+        identity["name_primary"] + identity["name_component"] + identity["numbers"]
+    ))
+
+
+def identity_evidence(owner: str, profile: dict, config: dict):
+    terms = identity_terms(config)
+    numbers = set(config["identity"]["numbers"])
+    login_hits = matching_tokens(owner, terms, numbers)
     profile_source = " ".join(
         str(profile.get(field) or "")
-        for field in ("name", "bio", "blog", "email", "location", "twitter_username")
+        for field in ("name", "bio")
     ).lower()
-    profile_hits = []
-    for term in terms:
-        if term == "lx":
-            matched = bool(re.search(r"(?<![a-z0-9])lx(?![a-z0-9])", profile_source))
-        else:
-            matched = term in profile_source
-        if matched:
-            profile_hits.append(term)
-    return direct_hits, sorted(set(profile_hits))
+    return login_hits, matching_tokens(profile_source, terms, numbers)
 
 
-def commit_identity_evidence(commit_author: dict, terms: list[str]):
+def commit_identity_evidence(commit_author: dict, config: dict):
+    terms = identity_terms(config)
+    numbers = set(config["identity"]["numbers"])
     login = str(commit_author.get("login") or "").lower()
     metadata = " ".join(
         str(commit_author.get(field) or "")
         for field in ("name", "email")
     ).lower()
-    hits = []
-    for term in terms:
-        if term in login:
-            hits.append(term)
-            continue
-        if term == "lx":
-            matched = bool(re.search(r"(?<![a-z0-9])lx(?![a-z0-9])", metadata))
-        else:
-            matched = term in metadata
-        if matched:
-            hits.append(term)
-    return sorted(set(hits))
+    return sorted(set(
+        matching_tokens(login, terms, numbers)
+        + matching_tokens(metadata, terms, numbers)
+    ))
+
+
+def identity_tier(login: str, profile_hits: list[str], commit_hits: list[str], config: dict):
+    identity = config["identity"]
+    numbers = set(identity["numbers"])
+    login_hits = matching_tokens(login, identity_terms(config), numbers)
+    combined_words = {"jessieliu", "liujessie", "liuxuan", "xuanliu"}
+    if combined_words.intersection(login_hits):
+        return 2
+    families = set()
+    lowered = login.lower()
+    if "jess" in lowered or "jessie" in lowered or "jesse" in lowered:
+        families.add("jess")
+    if "liu" in lowered or "jliu" in lowered:
+        families.add("liu")
+    if "xuan" in lowered:
+        families.add("xuan")
+    number_hit = any(token_matches(term, lowered, numbers) for term in numbers)
+    if len(families) >= 2 or (families and number_hit):
+        return 2
+    return 1 if login_hits or profile_hits or commit_hits else 0
+
+
+def nickname_hits(login: str, profile: dict, config: dict):
+    source = " ".join((login, str(profile.get("name") or ""), str(profile.get("bio") or ""))).lower()
+    return sorted({term for term in config["identity"]["nickname_low"] if term in source})
 
 
 def calculate_score(item: dict, config: dict):
     score = 0
-    if item.get("workflow_markers"):
-        score += 5
-    if item.get("is_personal_pages"):
-        score += 5
-    created = (item.get("created_at") or "")[:10]
-    if config["target_created_from"] <= created <= config["target_created_to"]:
-        score += 4
-    if item.get("probable_photo_count", 0) >= config["minimum_photo_count"]:
-        score += 5
-    elif item.get("image_count", 0):
-        score += 1
-    if item.get("post_count_sampled", 0):
+    identity = config["identity"]
+    login_hits = set(item.get("identity_hits", []))
+    if item.get("identity_tier") == 2:
+        score += 10
+    else:
+        if login_hits.intersection(identity["name_primary"]):
+            score += 6
+        elif login_hits.intersection(identity["name_component"]):
+            score += 3
+        number_hits = login_hits.intersection(identity["numbers"])
+        if number_hits:
+            score += 5 if number_hits.intersection({"110503", "20110503"}) else 3
+    if item.get("profile_identity_hits"):
+        score += 3
+    if item.get("commit_identity_hits"):
         score += 2
-    score += min(5, len(item.get("identity_hits", [])) * 3)
-    score += min(4, len(item.get("profile_identity_hits", [])) * 2)
-    score += min(4, len(item.get("commit_identity_hits", [])) * 2)
-    score += int(item.get("priority_name_bonus", 0))
+    if item.get("nickname_hits"):
+        score += 2
+    if item.get("workflow_markers"):
+        score += 3
+    if item.get("is_personal_pages"):
+        score += 3
+    if item.get("account_created_in_window"):
+        score += 3
+    photos = item.get("probable_photo_count", 0)
+    if photos >= 1:
+        score += 2
+    if photos >= 3:
+        score += 2
+    if item.get("dormant"):
+        score += 2
+    if item.get("post_count_sampled", 0):
+        score += 1
+    if item.get("content_only_hits"):
+        score += 2
     return score
 
 
 def normalize_candidate_scores(candidates: list[dict], config: dict):
     for item in candidates:
-        old_content_hits = item.pop("content_hits", [])
-        item["score"] = max(
-            0, item.get("score", 0) - min(4, len(old_content_hits) * 2)
-        )
-        if "priority_name_bonus" not in item:
-            repo_name = item.get("repository", "/").split("/", 1)[-1]
-            bonus, hits = priority_name_evidence(
-                repo_name, config["priority_name_terms"]
-            )
-            item["priority_name_bonus"] = bonus
-            item["priority_name_hits"] = hits
-            item["score"] = item.get("score", 0) + bonus
         repo_name = item.get("repository", "").split("/", 1)[-1]
-        direct_hits, profile_hits = identity_evidence(
-            item.get("owner", ""),
-            repo_name,
-            item.get("owner_profile", {}),
-            config["identity_terms"],
-        )
+        direct_hits, profile_hits = identity_evidence(item.get("owner", ""), item.get("owner_profile", {}), config)
         item["identity_hits"] = direct_hits
         item["profile_identity_hits"] = profile_hits
-        item["commit_identity_hits"] = commit_identity_evidence(
-            item.get("commit_author", {}), config["identity_terms"]
-        )
+        item["commit_identity_hits"] = commit_identity_evidence(item.get("commit_author", {}), config)
+        item["identity_tier"] = identity_tier(item.get("owner", ""), profile_hits, item["commit_identity_hits"], config)
         item["is_personal_pages"] = repo_name.lower() == (
             f"{item.get('owner', '').lower()}.github.io"
         )
@@ -455,25 +469,31 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
         if markers:
             break
     profile = get_owner_profile(api, owner, profile_cache)
-    identity_hits, profile_identity_hits = identity_evidence(
-        owner, repo.get("name", ""), profile, config["identity_terms"]
-    )
-    priority_name_bonus, priority_name_hits = priority_name_evidence(
-        repo["name"], config["priority_name_terms"]
-    )
-    if not (
-        identity_hits
-        or profile_identity_hits
-        or post_files
-        or len(probable_photos) >= config["minimum_photo_count"]
-        or is_personal_pages
-    ):
-        return None
-
+    identity_hits, profile_identity_hits = identity_evidence(owner, profile, config)
     commit_author = get_commit_author(api, full_name)
-    commit_identity_hits = commit_identity_evidence(
-        commit_author, config["identity_terms"]
+    commit_identity_hits = commit_identity_evidence(commit_author, config)
+    tier = identity_tier(owner, profile_identity_hits, commit_identity_hits, config)
+    nick_hits = nickname_hits(owner, profile, config)
+    account_created = (profile.get("created_at") or "")[:10]
+    account_created_in_window = (
+        config["account_created_from"] <= account_created <= config["account_created_to"]
     )
+    repo_created = (repo.get("created_at") or "")[:10]
+    pushed_date = pushed[:10]
+    dormant = repo_created.startswith("2023-") and bool(pushed_date) and pushed_date <= "2023-12-31"
+    path_source = "\n".join(item["path"] for item in tree).lower()
+    content_only_hits = sorted({
+        term for term in config["identity"]["content_only"]
+        if term.lower() in path_source
+    })
+    fallback = (
+        is_personal_pages
+        and account_created_in_window
+        and len(probable_photos) >= config["minimum_photo_count"]
+        and bool(markers)
+    )
+    if tier < 1 and not fallback:
+        return None
 
     candidate = {
         "owner": owner,
@@ -492,8 +512,11 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
         "commit_identity_hits": commit_identity_hits,
         "commit_author": commit_author,
         "owner_profile": profile,
-        "priority_name_hits": priority_name_hits,
-        "priority_name_bonus": priority_name_bonus,
+        "identity_tier": tier,
+        "nickname_hits": nick_hits,
+        "content_only_hits": content_only_hits,
+        "account_created_in_window": account_created_in_window,
+        "dormant": dormant,
         "is_personal_pages": is_personal_pages,
         "tree_truncated": tree_truncated,
         "image_count": len(image_paths),
@@ -514,7 +537,7 @@ def render_report(candidates: list[dict], state: dict):
     lines = [
         "# Candidate accounts",
         "",
-        "Generated incrementally by GitHub Actions. Higher scores should be reviewed first.",
+        "Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.",
         "",
         f"Last run: `{state['stats'].get('last_run_utc')}`  ",
         f"Repositories inspected: `{state['stats'].get('repositories_inspected', 0)}`  ",
@@ -523,7 +546,7 @@ def render_report(candidates: list[dict], state: dict):
     ]
     if not candidates:
         lines.append("No candidates have been recorded yet.")
-    for item in sorted(candidates, key=lambda x: (-x["score"], x["repository"].lower())):
+    for item in sorted(candidates, key=candidate_sort_key):
         identity_summary = ", ".join(
             sorted(
                 set(
@@ -534,7 +557,7 @@ def render_report(candidates: list[dict], state: dict):
             )
         ) or "none"
         summary = (
-            f'<summary><strong>{item["score"]} points — '
+            f'<summary><strong>Tier {item.get("identity_tier", 0)} · {item["score"]} points — '
             f'<a href="{html.escape(item["url"], quote=True)}">'
             f'{html.escape(item["repository"])}</a></strong> · '
             f'probable photos {item["probable_photo_count"]} · '
@@ -545,14 +568,18 @@ def render_report(candidates: list[dict], state: dict):
             summary,
             "",
             f"- Owner: [{item['owner']}](https://github.com/{item['owner']})",
+            f"- Identity tier: **{item.get('identity_tier', 0)}**",
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
+            f"- Account created: `{item.get('owner_profile', {}).get('created_at') or 'unknown'}` · in window `{item.get('account_created_in_window', False)}`",
+            f"- Dormant signal: `{item.get('dormant', False)}`",
             f"- Pages workflow: `{', '.join(item['workflow_markers'])}`",
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
             f"- Profile identity hits: `{', '.join(item.get('profile_identity_hits', [])) or 'none'}`",
             f"- Profile name: `{item.get('owner_profile', {}).get('name') or 'none'}`",
             f"- Commit identity hits: `{', '.join(item.get('commit_identity_hits', [])) or 'none'}`",
             f"- Latest commit author: `{item.get('commit_author', {}).get('name') or 'none'}` / `{item.get('commit_author', {}).get('email') or 'none'}`",
-            f"- Priority-name hits / bonus: `{', '.join(item.get('priority_name_hits', [])) or 'none'}` / `+{item.get('priority_name_bonus', 0)}`",
+            f"- Nickname hits: `{', '.join(item.get('nickname_hits', [])) or 'none'}`",
+            f"- Content/path hints: `{', '.join(item.get('content_only_hits', [])) or 'none'}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
             f"- Tree truncated: `{item.get('tree_truncated', False)}`",
             "",
@@ -566,6 +593,15 @@ def render_report(candidates: list[dict], state: dict):
             lines += ["", "</details>", ""]
         lines += ["</details>", ""]
     REPORT_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+
+def candidate_sort_key(item: dict):
+    return (
+        -int(item.get("identity_tier", 0)),
+        -int(item.get("score", 0)),
+        -int(bool(item.get("dormant"))),
+        item["repository"].lower(),
+    )
 
 
 def render_progress(tasks: dict, state: dict, candidates: list[dict]):
@@ -584,13 +620,10 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
     owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
     percent = (completed / len(leaf_tasks) * 100) if leaf_tasks else 100.0
     stats = state.get("stats", {})
-    priority_terms = load_json(CONFIG_PATH, {}).get("priority_name_terms", [])
     stage_specs = [
-        ("username.github.io", "personal"),
-        ("identity user profiles", "users"),
-    ] + [(term, term) for term in ("pages", "blog") if term in priority_terms] + [
-        ("other site names", "other"),
-        ("identity fragments", "identity"),
+        ("users: login/profile name + account created date", "users"),
+        ("identity: repository names", "identity"),
+        ("personal: strict username.github.io fallback", "personal"),
     ]
     stage_rows = []
     for label, stage in stage_specs:
@@ -623,7 +656,7 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         "|---|---:|---:|",
         *stage_rows,
         "",
-        "Each stage starts as one three-month query. A range is split only when GitHub",
+        "Each seed starts with the configured account-creation window. A range is split only when GitHub",
         "reports more than 1,000 results, so the denominator may grow while a dense",
         "range is being subdivided. Already investigated repositories are never",
         "inspected again.",

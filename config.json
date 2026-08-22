@@ -1,15 +1,19 @@
 {
-  "target_created_from": "2023-08-01",
-  "target_created_to": "2023-10-31",
-  "identity_terms": ["jess", "jessie", "jesse", "liu", "xuan", "lx"],
-  "priority_name_terms": ["blog", "pages"],
-  "site_name_terms": ["photo", "photos", "album", "travel", "homepage", "home", "site", "hexo", "hugo", "jekyll"],
+  "account_created_from": "2023-06-01",
+  "account_created_to": "2023-10-15",
+  "target_created_from": "2023-06-01",
+  "target_created_to": "2023-10-15",
+  "identity": {
+    "name_primary": ["jessieliu", "liujessie", "jessie", "jesse", "liuxuan", "xuanliu"],
+    "name_component": ["jess", "liu", "xuan", "jliu"],
+    "numbers": ["20110503", "110503", "0503"],
+    "nickname_low": ["xiaxiatian", "xiatian", "littlesummer"],
+    "content_only": ["小夏天", "xiamen", "鼓浪屿", "gulangyu", "山", "mountain", "hike", "爬山"]
+  },
+  "user_search_seeds": ["jessieliu", "liujessie", "jessie", "jesse", "liuxuan", "xuanliu", "liu", "xuan", "jliu", "0503", "110503", "20110503", "xiaxiatian"],
   "query_result_limits": {
-    "blog": 20000,
-    "pages": 20000,
     "personal": 50000,
     "users": 5000,
-    "other": 10000,
     "identity": 10000
   },
   "workflow_markers": [
@@ -22,6 +26,6 @@
     "hugo --minify"
   ],
   "minimum_candidate_score": 8,
-  "minimum_photo_count": 6,
-  "user_repo_pages": 2
+  "minimum_photo_count": 1,
+  "user_repo_pages": 3
 }
