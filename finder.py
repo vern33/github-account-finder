@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import base64
 import datetime as dt
+import html
 import json
 import os
 import re
@@ -314,8 +315,17 @@ def render_report(candidates: list[dict], state: dict):
     if not candidates:
         lines.append("No candidates have been recorded yet.")
     for item in sorted(candidates, key=lambda x: (-x["score"], x["repository"].lower())):
+        identity_summary = ", ".join(item["identity_hits"]) or "none"
+        summary = (
+            f'<summary><strong>{item["score"]} points — '
+            f'<a href="{html.escape(item["url"], quote=True)}">'
+            f'{html.escape(item["repository"])}</a></strong> · '
+            f'probable photos {item["probable_photo_count"]} · '
+            f'identity {html.escape(identity_summary)}</summary>'
+        )
         lines += [
-            f"## {item['score']} points — [{item['repository']}]({item['url']})",
+            "<details>",
+            summary,
             "",
             f"- Owner: [{item['owner']}](https://github.com/{item['owner']})",
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
@@ -323,10 +333,16 @@ def render_report(candidates: list[dict], state: dict):
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
             f"- Priority-name hits / bonus: `{', '.join(item.get('priority_name_hits', [])) or 'none'}` / `+{item.get('priority_name_bonus', 0)}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
-            f"- Sample posts: `{', '.join(item['sample_posts']) or 'none'}`",
-            f"- Sample photos: `{', '.join(item['sample_photos']) or 'none'}`",
             "",
         ]
+        for label, paths in (("Sample posts", item["sample_posts"]), ("Sample photos", item["sample_photos"])):
+            lines += [f"<details><summary>{label} ({len(paths)})</summary>", ""]
+            if paths:
+                lines.extend(f"- `{path}`" for path in paths)
+            else:
+                lines.append("None.")
+            lines += ["", "</details>", ""]
+        lines += ["</details>", ""]
     REPORT_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
