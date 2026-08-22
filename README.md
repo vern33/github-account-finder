@@ -14,6 +14,8 @@ The workflow prioritizes repositories that:
 
 Search stages run in this order: repository name `blog`, repository name `pages`, strict `username.github.io`, other site-like names, then identity fragments. `blog` and `pages` affect ordering and score only; they are never required. An exact name earns 8 points, a prefix or suffix earns 6, and any other name occurrence earns 4. Each query starts with the full three-month range and is recursively split only when GitHub reports more than 1,000 results; the old fixed set of 1,748 daily queries is no longer used.
 
+Broad query groups have result caps so a generic word cannot consume the entire search budget. Identity fragments score only when present in the account login or repository name; occurrences inside article text do not count.
+
 Location, language, remembered wording, article count, and activity after 2023 are **not** filters. No travel or place words are used for scoring because the remembered text is uncertain.
 Organization-owned Pages sites are excluded because the missing account was a personal account. During the personal-site phase, a repository must be named exactly `owner.github.io`; this avoids spending API requests on unrelated repositories whose names merely contain `github.io`.
 

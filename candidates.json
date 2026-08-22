@@ -86,7 +86,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 24,
+    "score": 21,
     "owner": "honeyopp",
     "repository": "honeyopp/honeyopp.github.io",
     "url": "https://github.com/honeyopp/honeyopp.github.io",
@@ -97,9 +97,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "xuan"
-    ],
+    "identity_hits": [],
     "image_count": 94,
     "probable_photo_count": 84,
     "sample_photos": [
@@ -419,7 +417,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 20,
+    "score": 17,
     "owner": "gruexx",
     "repository": "gruexx/gruexx.github.io",
     "url": "https://github.com/gruexx/gruexx.github.io",
@@ -430,9 +428,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "image_count": 1,
     "probable_photo_count": 0,
     "sample_photos": [],
@@ -737,7 +733,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 20,
+    "score": 17,
     "owner": "ivaaaaann",
     "repository": "ivaaaaann/ivaaaaann.github.io",
     "url": "https://github.com/ivaaaaann/ivaaaaann.github.io",
@@ -747,9 +743,7 @@
     "workflow_markers": [
       "actions/deploy-pages"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "image_count": 8,
     "probable_photo_count": 0,
     "sample_photos": [],
@@ -918,7 +912,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 24,
+    "score": 21,
     "owner": "haquetarif",
     "repository": "haquetarif/haquetarif.github.io",
     "url": "https://github.com/haquetarif/haquetarif.github.io",
@@ -929,9 +923,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "jess"
-    ],
+    "identity_hits": [],
     "image_count": 16,
     "probable_photo_count": 6,
     "sample_photos": [
@@ -1177,7 +1169,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 20,
+    "score": 17,
     "owner": "volkovacodes",
     "repository": "volkovacodes/volkovacodes.github.io",
     "url": "https://github.com/volkovacodes/volkovacodes.github.io",
@@ -1188,9 +1180,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "image_count": 47,
     "probable_photo_count": 0,
     "sample_photos": [],
@@ -1209,7 +1199,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 26,
+    "score": 21,
     "owner": "hirseboy",
     "repository": "hirseboy/hirseboy.github.io",
     "url": "https://github.com/hirseboy/hirseboy.github.io",
@@ -1220,10 +1210,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu",
-      "lx"
-    ],
+    "identity_hits": [],
     "image_count": 34,
     "probable_photo_count": 26,
     "sample_photos": [
@@ -1400,7 +1387,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 24,
+    "score": 21,
     "owner": "luochenglcs",
     "repository": "luochenglcs/luochenglcs.github.io",
     "url": "https://github.com/luochenglcs/luochenglcs.github.io",
@@ -1411,9 +1398,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "image_count": 103,
     "probable_photo_count": 95,
     "sample_photos": [
@@ -1640,7 +1625,7 @@
     "priority_name_hits": []
   },
   {
-    "score": 27,
+    "score": 24,
     "owner": "Geo-Bit",
     "repository": "Geo-Bit/blog",
     "url": "https://github.com/Geo-Bit/blog",
@@ -1651,9 +1636,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -1775,7 +1758,7 @@
     "first_seen_utc": "2026-08-22T01:52:06.233563+00:00"
   },
   {
-    "score": 27,
+    "score": 24,
     "owner": "zhengyishen0",
     "repository": "zhengyishen0/blog",
     "url": "https://github.com/zhengyishen0/blog",
@@ -1786,9 +1769,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "jess"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -2708,7 +2689,7 @@
     "first_seen_utc": "2026-08-22T01:57:36.348203+00:00"
   },
   {
-    "score": 22,
+    "score": 19,
     "owner": "yonzilch",
     "repository": "yonzilch/blog",
     "url": "https://github.com/yonzilch/blog",
@@ -2719,9 +2700,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -2892,7 +2871,7 @@
     "first_seen_utc": "2026-08-22T01:58:14.446257+00:00"
   },
   {
-    "score": 29,
+    "score": 24,
     "owner": "torai55",
     "repository": "torai55/blog",
     "url": "https://github.com/torai55/blog",
@@ -2903,10 +2882,7 @@
       "peaceiris/actions-gh-pages",
       "hugo --minify"
     ],
-    "identity_hits": [
-      "lx",
-      "xuan"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -3070,7 +3046,7 @@
     "first_seen_utc": "2026-08-22T01:58:58.533340+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "Akshay-Rohatgi",
     "repository": "Akshay-Rohatgi/blog",
     "url": "https://github.com/Akshay-Rohatgi/blog",
@@ -3081,9 +3057,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -3147,7 +3121,7 @@
     "first_seen_utc": "2026-08-22T01:59:04.842228+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "kumaraditya1999",
     "repository": "kumaraditya1999/dev-blog",
     "url": "https://github.com/kumaraditya1999/dev-blog",
@@ -3158,9 +3132,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -3390,7 +3362,7 @@
     "first_seen_utc": "2026-08-22T03:08:55.120557+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "starrys147",
     "repository": "starrys147/blog",
     "url": "https://github.com/starrys147/blog",
@@ -3400,9 +3372,7 @@
     "workflow_markers": [
       "peaceiris/actions-gh-pages"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -3449,7 +3419,7 @@
     "first_seen_utc": "2026-08-22T03:08:57.292472+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "TOSUKUi",
     "repository": "TOSUKUi/blog",
     "url": "https://github.com/TOSUKUi/blog",
@@ -3459,9 +3429,7 @@
     "workflow_markers": [
       "actions/deploy-pages"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -3683,7 +3651,7 @@
     "first_seen_utc": "2026-08-22T03:09:18.127012+00:00"
   },
   {
-    "score": 21,
+    "score": 18,
     "owner": "Manicsteiner",
     "repository": "Manicsteiner/blog-stack-hexo",
     "url": "https://github.com/Manicsteiner/blog-stack-hexo",
@@ -3693,9 +3661,7 @@
     "workflow_markers": [
       "hexo generate"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -4173,7 +4139,7 @@
     "first_seen_utc": "2026-08-22T03:59:13.000792+00:00"
   },
   {
-    "score": 19,
+    "score": 16,
     "owner": "chunge16",
     "repository": "chunge16/vitepress-blogs",
     "url": "https://github.com/chunge16/vitepress-blogs",
@@ -4184,9 +4150,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -4515,7 +4479,7 @@
     "first_seen_utc": "2026-08-22T04:01:09.667767+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "MrVWY",
     "repository": "MrVWY/blog_data",
     "url": "https://github.com/MrVWY/blog_data",
@@ -4526,9 +4490,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -4637,7 +4599,7 @@
     "first_seen_utc": "2026-08-22T04:01:37.200660+00:00"
   },
   {
-    "score": 21,
+    "score": 18,
     "owner": "qlel",
     "repository": "qlel/blog2023",
     "url": "https://github.com/qlel/blog2023",
@@ -4648,9 +4610,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -4964,7 +4924,7 @@
     "first_seen_utc": "2026-08-22T04:03:33.223462+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "Takumi-Rai",
     "repository": "Takumi-Rai/plant-blog",
     "url": "https://github.com/Takumi-Rai/plant-blog",
@@ -4975,9 +4935,7 @@
       "peaceiris/actions-gh-pages",
       "hugo --minify"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -5456,7 +5414,7 @@
     "first_seen_utc": "2026-08-22T04:51:56.461227+00:00"
   },
   {
-    "score": 19,
+    "score": 16,
     "owner": "JiexiaoXu",
     "repository": "JiexiaoXu/JiexiaoXu_blog.github.io",
     "url": "https://github.com/JiexiaoXu/JiexiaoXu_blog.github.io",
@@ -5467,9 +5425,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "jess"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -6448,7 +6404,7 @@
     "first_seen_utc": "2026-08-22T04:56:33.793810+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "KeiTechNote",
     "repository": "KeiTechNote/blog__back",
     "url": "https://github.com/KeiTechNote/blog__back",
@@ -6459,9 +6415,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -6575,7 +6529,7 @@
     "first_seen_utc": "2026-08-22T04:57:17.792852+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "2paperstar",
     "repository": "2paperstar/blog",
     "url": "https://github.com/2paperstar/blog",
@@ -6586,9 +6540,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -6784,7 +6736,7 @@
     "first_seen_utc": "2026-08-22T04:57:56.820923+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "Ast3risk-ops",
     "repository": "Ast3risk-ops/blog",
     "url": "https://github.com/Ast3risk-ops/blog",
@@ -6795,9 +6747,7 @@
       "peaceiris/actions-gh-pages",
       "hugo --minify"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -7007,7 +6957,7 @@
     "first_seen_utc": "2026-08-22T04:59:19.138761+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "DewofyourYouth",
     "repository": "DewofyourYouth/dew-blog",
     "url": "https://github.com/DewofyourYouth/dew-blog",
@@ -7018,9 +6968,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -7138,7 +7086,7 @@
     "first_seen_utc": "2026-08-22T05:44:07.517390+00:00"
   },
   {
-    "score": 23,
+    "score": 20,
     "owner": "vablings",
     "repository": "vablings/blog",
     "url": "https://github.com/vablings/blog",
@@ -7150,9 +7098,7 @@
       "actions/upload-pages-artifact",
       "jekyll-build-pages"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -7386,7 +7332,7 @@
     "first_seen_utc": "2026-08-22T05:44:59.538344+00:00"
   },
   {
-    "score": 25,
+    "score": 20,
     "owner": "ak146",
     "repository": "ak146/FunnyBlog2.0",
     "url": "https://github.com/ak146/FunnyBlog2.0",
@@ -7398,10 +7344,7 @@
       "actions/upload-pages-artifact",
       "jekyll-build-pages"
     ],
-    "identity_hits": [
-      "liu",
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -7911,7 +7854,7 @@
     "first_seen_utc": "2026-08-22T05:47:30.085485+00:00"
   },
   {
-    "score": 21,
+    "score": 18,
     "owner": "riwn",
     "repository": "riwn/r-shiren2-blog",
     "url": "https://github.com/riwn/r-shiren2-blog",
@@ -7921,9 +7864,7 @@
     "workflow_markers": [
       "actions/deploy-pages"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -7950,7 +7891,7 @@
     "first_seen_utc": "2026-08-22T05:47:34.458500+00:00"
   },
   {
-    "score": 25,
+    "score": 20,
     "owner": "chn-lee-yumi",
     "repository": "chn-lee-yumi/blog",
     "url": "https://github.com/chn-lee-yumi/blog",
@@ -7961,11 +7902,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "jess",
-      "jessie",
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -8400,7 +8337,7 @@
     "first_seen_utc": "2026-08-22T05:49:37.473845+00:00"
   },
   {
-    "score": 25,
+    "score": 22,
     "owner": "JBaza12",
     "repository": "JBaza12/JaredsBlog",
     "url": "https://github.com/JBaza12/JaredsBlog",
@@ -8412,9 +8349,7 @@
       "actions/upload-pages-artifact",
       "jekyll-build-pages"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -8549,7 +8484,7 @@
     "first_seen_utc": "2026-08-22T05:50:21.199138+00:00"
   },
   {
-    "score": 27,
+    "score": 24,
     "owner": "yuedongze",
     "repository": "yuedongze/blog",
     "url": "https://github.com/yuedongze/blog",
@@ -8560,9 +8495,7 @@
       "actions/deploy-pages",
       "actions/upload-pages-artifact"
     ],
-    "identity_hits": [
-      "lx"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],
@@ -9727,7 +9660,7 @@
     "first_seen_utc": "2026-08-22T07:03:12.769519+00:00"
   },
   {
-    "score": 20,
+    "score": 17,
     "owner": "LeoYawoo",
     "repository": "LeoYawoo/blogs",
     "url": "https://github.com/LeoYawoo/blogs",
@@ -9738,9 +9671,7 @@
       "peaceiris/actions-gh-pages",
       "hugo --minify"
     ],
-    "identity_hits": [
-      "liu"
-    ],
+    "identity_hits": [],
     "priority_name_hits": [
       "blog"
     ],

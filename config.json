@@ -4,6 +4,13 @@
   "identity_terms": ["jess", "jessie", "jesse", "liu", "xuan", "lx"],
   "priority_name_terms": ["blog", "pages"],
   "site_name_terms": ["photo", "photos", "album", "travel", "homepage", "home", "site", "hexo", "hugo", "jekyll"],
+  "query_result_limits": {
+    "blog": 20000,
+    "pages": 20000,
+    "personal": 50000,
+    "other": 10000,
+    "identity": 10000
+  },
   "workflow_markers": [
     "actions/deploy-pages",
     "actions/upload-pages-artifact",

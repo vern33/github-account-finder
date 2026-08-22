@@ -6,6 +6,7 @@
 - Unique repositories investigated: **22,972**
 - Unique account owners investigated: **20,454**
 - Candidates recorded: **258**
+- Ranges stopped by result caps: **0**
 - Workflow runs: **9**
 - Last run (UTC): `2026-08-22T07:00:38.387602+00:00`
 - Last API requests used: **950**

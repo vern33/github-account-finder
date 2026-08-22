@@ -85,6 +85,11 @@ class GitHub:
                     continue
                 if exc.code in (404, 409, 422):
                     return None
+                if exc.code in (500, 502, 503, 504):
+                    if attempt == 3:
+                        raise
+                    time.sleep(2**attempt)
+                    continue
                 raise
             except (urllib.error.URLError, TimeoutError):
                 if attempt == 3:
@@ -196,6 +201,29 @@ def pending_tasks(tasks: dict):
     )
 
 
+def enforce_query_result_limits(tasks: dict, config: dict):
+    limits = config.get("query_result_limits", {})
+    groups = {}
+    for task in tasks.values():
+        if task.get("split"):
+            continue
+        groups.setdefault((task["stage"], task["term"]), []).append(task)
+    for (stage, _term), group in groups.items():
+        limit = int(limits.get(stage, 0))
+        completed_results = sum(
+            int(task.get("total_count", 0)) for task in group if task.get("complete")
+        )
+        if limit and completed_results >= limit:
+            for task in group:
+                if not task.get("complete"):
+                    task["complete"] = True
+                    task["capped"] = True
+                    task["stop_reason"] = (
+                        f"query group reached {completed_results:,} results "
+                        f"(limit {limit:,})"
+                    )
+
+
 def priority_name_evidence(repo_name: str, terms: list[str]):
     name = repo_name.lower()
     hits = [term.lower() for term in terms if term.lower() in name]
@@ -206,6 +234,35 @@ def priority_name_evidence(repo_name: str, terms: list[str]):
     if hits:
         return 4, hits
     return 0, []
+
+
+def normalize_candidate_scores(candidates: list[dict], config: dict):
+    for item in candidates:
+        old_content_hits = item.pop("content_hits", [])
+        item["score"] = max(
+            0, item.get("score", 0) - min(4, len(old_content_hits) * 2)
+        )
+        if "priority_name_bonus" not in item:
+            repo_name = item.get("repository", "/").split("/", 1)[-1]
+            bonus, hits = priority_name_evidence(
+                repo_name, config["priority_name_terms"]
+            )
+            item["priority_name_bonus"] = bonus
+            item["priority_name_hits"] = hits
+            item["score"] = item.get("score", 0) + bonus
+        old_identity_hits = item.get("identity_hits", [])
+        old_identity_bonus = min(5, len(old_identity_hits) * 3)
+        identity_source = " ".join(
+            [item.get("owner", ""), item.get("repository", "").split("/", 1)[-1]]
+        ).lower()
+        new_identity_hits = sorted(
+            {term for term in config["identity_terms"] if term in identity_source}
+        )
+        new_identity_bonus = min(5, len(new_identity_hits) * 3)
+        item["score"] = max(
+            0, item.get("score", 0) - old_identity_bonus + new_identity_bonus
+        )
+        item["identity_hits"] = new_identity_hits
 
 
 def decode_blob(api: GitHub, full_name: str, sha: str) -> str:
@@ -236,16 +293,24 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         if REAL_PHOTO_RE.search(path) and not NON_PHOTO_RE.search(path)
     ]
 
-    workflow_texts = [decode_blob(api, full_name, item["sha"]) for item in workflow_files[:8]]
-    workflow_text = "\n".join(workflow_texts)
-    markers = [marker for marker in config["workflow_markers"] if marker.lower() in workflow_text.lower()]
+    markers = []
+    for item in workflow_files[:8]:
+        workflow_text = decode_blob(api, full_name, item["sha"])
+        markers = [
+            marker
+            for marker in config["workflow_markers"]
+            if marker.lower() in workflow_text.lower()
+        ]
+        if markers:
+            break
     if not markers:
         return None
 
-    post_texts = [decode_blob(api, full_name, item["sha"])[:100_000] for item in post_files]
-    searchable = "\n".join(post_texts)
+    # Identity evidence must come from the account or repository name. Searching
+    # article bodies caused common code fragments such as "lx" and "liu" to
+    # create large numbers of false matches.
     identity_haystack = " ".join(
-        [repo.get("owner", {}).get("login", ""), repo.get("name", ""), repo.get("description") or "", searchable]
+        [repo.get("owner", {}).get("login", ""), repo.get("name", "")]
     ).lower()
     identity_hits = sorted({term for term in config["identity_terms"] if term in identity_haystack})
     priority_name_bonus, priority_name_hits = priority_name_evidence(
@@ -371,6 +436,7 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         done = sum(bool(task.get("complete")) for task in stage_tasks)
         stage_percent = (done / len(stage_tasks) * 100) if stage_tasks else 100.0
         stage_rows.append(f"| {label} | {done:,} / {len(stage_tasks):,} | {stage_percent:.1f}% |")
+    capped = sum(bool(task.get("capped")) for task in leaf_tasks)
     lines = [
         "# Search progress",
         "",
@@ -380,6 +446,7 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         f"- Unique repositories investigated: **{len(repositories):,}**",
         f"- Unique account owners investigated: **{len(owners):,}**",
         f"- Candidates recorded: **{len(candidates):,}**",
+        f"- Ranges stopped by result caps: **{capped:,}**",
         f"- Workflow runs: **{stats.get('runs', 0):,}**",
         f"- Last run (UTC): `{stats.get('last_run_utc')}`",
         f"- Last API requests used: **{stats.get('last_api_requests', 0):,}**",
@@ -406,19 +473,10 @@ def main():
     config = load_json(CONFIG_PATH, {})
     state = load_json(STATE_PATH, {})
     candidates = load_json(CANDIDATES_PATH, [])
-    # Remove scores produced by the retired memory-based content keywords so
-    # old and new candidates remain comparable without rerunning searches.
-    for item in candidates:
-        old_hits = item.pop("content_hits", [])
-        item["score"] = max(0, item.get("score", 0) - min(4, len(old_hits) * 2))
-        if "priority_name_bonus" not in item:
-            repo_name = item.get("repository", "/").split("/", 1)[-1]
-            bonus, hits = priority_name_evidence(repo_name, config["priority_name_terms"])
-            item["priority_name_bonus"] = bonus
-            item["priority_name_hits"] = hits
-            item["score"] = item.get("score", 0) + bonus
+    normalize_candidate_scores(candidates, config)
     api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
     tasks = initialize_adaptive_tasks(state, config)
+    enforce_query_result_limits(tasks, config)
     processed = set(state.get("processed_repositories", []))
     by_repo = {item["repository"].lower(): item for item in candidates}
     state.setdefault("searches", {})  # Retain legacy daily cursors as history.
@@ -439,6 +497,7 @@ def main():
                 cursor["total_count"] = int(result.get("total_count", 0))
                 if cursor["page"] == 1 and cursor["total_count"] > 1000:
                     if split_task(tasks, key, cursor):
+                        enforce_query_result_limits(tasks, config)
                         break
                 items = result.get("items", [])
                 stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
@@ -459,6 +518,7 @@ def main():
                     cursor["complete"] = True
                 else:
                     cursor["page"] += 1
+                enforce_query_result_limits(tasks, config)
     except BudgetExhausted as exc:
         stats["last_error"] = str(exc) or "request budget exhausted"
     except Exception as exc:  # Preserve progress and make the failure visible.
