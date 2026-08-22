@@ -1,7 +1,7 @@
 # Search progress
 
-- Search tasks: **2 / 1,748 (0.1%)**
-- Current cursor: `named:blog:2023-08-01, page 1`
+- Adaptive search ranges: **0 / 19 (0.0%)**
+- Current cursor: `blog:blog 2023-08-01..2023-10-31, page 1`
 - Repository results seen: **2,700**
 - Unique repositories investigated: **1,479**
 - Unique account owners investigated: **1,472**
@@ -15,12 +15,13 @@
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| blog | 0 / 92 | 0.0% |
-| pages | 0 / 92 | 0.0% |
-| username.github.io | 2 / 92 | 2.2% |
-| other site names | 0 / 920 | 0.0% |
-| identity fragments | 0 / 552 | 0.0% |
+| blog | 0 / 1 | 0.0% |
+| pages | 0 / 1 | 0.0% |
+| username.github.io | 0 / 1 | 0.0% |
+| other site names | 0 / 10 | 0.0% |
+| identity fragments | 0 / 6 | 0.0% |
 
-The task percentage is exact for the current strategy. The account total is
-dynamic because different queries overlap and GitHub does not expose a global
-deduplicated total in advance.
+Each stage starts as one three-month query. A range is split only when GitHub
+reports more than 1,000 results, so the denominator may grow while a dense
+range is being subdivided. Already investigated repositories are never
+inspected again.

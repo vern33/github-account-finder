@@ -125,24 +125,74 @@ def date_chunks(start: str, end: str):
         current += dt.timedelta(days=1)
 
 
-def build_search_plan(config: dict):
+def task_key(stage: str, term: str, start: str, end: str):
+    return f"adaptive:{stage}:{term or '-'}:{start}:{end}"
+
+
+def seed_search_tasks(config: dict):
     start, end = config["target_created_from"], config["target_created_to"]
-    plan = []
-    # Daily partitioning avoids GitHub's 1,000-result search ceiling.
-    # Keep the existing named:<term>:<day> state-key format so reordering a
-    # term never discards a cursor or repeats completed pages.
+    tasks = []
+    order = 0
     for term in config["priority_name_terms"]:
-        for day in date_chunks(start, end):
-            plan.append((f"named:{term}:{day}", f"{term} in:name created:{day}"))
-    for day in date_chunks(start, end):
-        plan.append((f"personal:{day}", f"github.io in:name created:{day}"))
+        tasks.append({"stage": term, "term": term, "start": start, "end": end, "order": order})
+        order += 1
+    tasks.append({"stage": "personal", "term": "", "start": start, "end": end, "order": order})
+    order += 1
     for term in config["site_name_terms"]:
-        for day in date_chunks(start, end):
-            plan.append((f"named:{term}:{day}", f"{term} in:name created:{day}"))
+        tasks.append({"stage": "other", "term": term, "start": start, "end": end, "order": order})
+        order += 1
     for term in config["identity_terms"]:
-        for day in date_chunks(start, end):
-            plan.append((f"identity:{term}:{day}", f"{term} in:name created:{day}"))
-    return plan
+        tasks.append({"stage": "identity", "term": term, "start": start, "end": end, "order": order})
+        order += 1
+    return tasks
+
+
+def initialize_adaptive_tasks(state: dict, config: dict):
+    tasks = state.setdefault("adaptive_searches", {})
+    for seed in seed_search_tasks(config):
+        key = task_key(seed["stage"], seed["term"], seed["start"], seed["end"])
+        tasks.setdefault(key, {**seed, "page": 1, "complete": False, "split": False})
+    return tasks
+
+
+def task_query(task: dict):
+    created = f"created:{task['start']}..{task['end']}"
+    if task["stage"] == "personal":
+        return f"github.io in:name {created}"
+    return f"{task['term']} in:name {created}"
+
+
+def split_task(tasks: dict, key: str, task: dict):
+    start = dt.date.fromisoformat(task["start"])
+    end = dt.date.fromisoformat(task["end"])
+    if start >= end:
+        return False
+    midpoint = start + (end - start) // 2
+    ranges = [(start, midpoint), (midpoint + dt.timedelta(days=1), end)]
+    for child_start, child_end in ranges:
+        child = {
+            "stage": task["stage"],
+            "term": task["term"],
+            "start": child_start.isoformat(),
+            "end": child_end.isoformat(),
+            "order": task["order"],
+            "page": 1,
+            "complete": False,
+            "split": False,
+        }
+        child_key = task_key(child["stage"], child["term"], child["start"], child["end"])
+        tasks.setdefault(child_key, child)
+    task["complete"] = True
+    task["split"] = True
+    task["total_count"] = task.get("total_count", 0)
+    return True
+
+
+def pending_tasks(tasks: dict):
+    return sorted(
+        ((key, task) for key, task in tasks.items() if not task.get("complete")),
+        key=lambda item: (item[1]["order"], item[1]["start"], item[1]["end"]),
+    )
 
 
 def priority_name_evidence(repo_name: str, terms: list[str]):
@@ -280,44 +330,35 @@ def render_report(candidates: list[dict], state: dict):
     REPORT_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
-def render_progress(plan: list[tuple[str, str]], state: dict, candidates: list[dict]):
-    searches = state.get("searches", {})
-    completed = sum(bool(searches.get(key, {}).get("complete")) for key, _ in plan)
-    active = next(
-        (
-            f"{key}, page {searches.get(key, {}).get('page', 1)}"
-            for key, _ in plan
-            if not searches.get(key, {}).get("complete")
-        ),
-        "complete",
+def render_progress(tasks: dict, state: dict, candidates: list[dict]):
+    leaf_tasks = [task for task in tasks.values() if not task.get("split")]
+    completed = sum(bool(task.get("complete")) for task in leaf_tasks)
+    pending = pending_tasks(tasks)
+    active = (
+        f"{pending[0][1]['stage']}:{pending[0][1]['term'] or 'username.github.io'} "
+        f"{pending[0][1]['start']}..{pending[0][1]['end']}, page {pending[0][1].get('page', 1)}"
+        if pending else "complete"
     )
     repositories = state.get("processed_repositories", [])
     owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
-    percent = (completed / len(plan) * 100) if plan else 100.0
+    percent = (completed / len(leaf_tasks) * 100) if leaf_tasks else 100.0
     stats = state.get("stats", {})
     priority_terms = load_json(CONFIG_PATH, {}).get("priority_name_terms", [])
-    stage_specs = [
-        (term, lambda key, term=term: key.startswith(f"named:{term}:"))
-        for term in priority_terms
-    ] + [
-        ("username.github.io", lambda key: key.startswith("personal:")),
-        (
-            "other site names",
-            lambda key: key.startswith("named:")
-            and not any(key.startswith(f"named:{term}:") for term in priority_terms),
-        ),
-        ("identity fragments", lambda key: key.startswith("identity:")),
+    stage_specs = [(term, term) for term in priority_terms] + [
+        ("username.github.io", "personal"),
+        ("other site names", "other"),
+        ("identity fragments", "identity"),
     ]
     stage_rows = []
-    for label, matches in stage_specs:
-        keys = [key for key, _ in plan if matches(key)]
-        done = sum(bool(searches.get(key, {}).get("complete")) for key in keys)
-        stage_percent = (done / len(keys) * 100) if keys else 100.0
-        stage_rows.append(f"| {label} | {done:,} / {len(keys):,} | {stage_percent:.1f}% |")
+    for label, stage in stage_specs:
+        stage_tasks = [task for task in leaf_tasks if task["stage"] == stage]
+        done = sum(bool(task.get("complete")) for task in stage_tasks)
+        stage_percent = (done / len(stage_tasks) * 100) if stage_tasks else 100.0
+        stage_rows.append(f"| {label} | {done:,} / {len(stage_tasks):,} | {stage_percent:.1f}% |")
     lines = [
         "# Search progress",
         "",
-        f"- Search tasks: **{completed:,} / {len(plan):,} ({percent:.1f}%)**",
+        f"- Adaptive search ranges: **{completed:,} / {len(leaf_tasks):,} ({percent:.1f}%)**",
         f"- Current cursor: `{active}`",
         f"- Repository results seen: **{stats.get('repositories_seen', 0):,}**",
         f"- Unique repositories investigated: **{len(repositories):,}**",
@@ -334,9 +375,10 @@ def render_progress(plan: list[tuple[str, str]], state: dict, candidates: list[d
         "|---|---:|---:|",
         *stage_rows,
         "",
-        "The task percentage is exact for the current strategy. The account total is",
-        "dynamic because different queries overlap and GitHub does not expose a global",
-        "deduplicated total in advance.",
+        "Each stage starts as one three-month query. A range is split only when GitHub",
+        "reports more than 1,000 results, so the denominator may grow while a dense",
+        "range is being subdivided. Already investigated repositories are never",
+        "inspected again.",
     ]
     PROGRESS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -360,10 +402,10 @@ def main():
             item["priority_name_hits"] = hits
             item["score"] = item.get("score", 0) + bonus
     api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
-    plan = build_search_plan(config)
+    tasks = initialize_adaptive_tasks(state, config)
     processed = set(state.get("processed_repositories", []))
     by_repo = {item["repository"].lower(): item for item in candidates}
-    searches = state.setdefault("searches", {})
+    state.setdefault("searches", {})  # Retain legacy daily cursors as history.
     stats = state.setdefault("stats", {})
     stats["runs"] = stats.get("runs", 0) + 1
     stats["last_run_utc"] = dt.datetime.now(dt.timezone.utc).isoformat()
@@ -371,28 +413,30 @@ def main():
 
     try:
         api.reserve_from_live_limit()
-        for key, query in plan:
-            cursor = searches.setdefault(key, {"page": 1, "complete": False})
-            if cursor["complete"]:
-                continue
+        while pending_tasks(tasks):
+            key, cursor = pending_tasks(tasks)[0]
             while not cursor["complete"]:
-                result = api.search_repositories(query, cursor["page"])
+                result = api.search_repositories(task_query(cursor), cursor["page"])
                 if not result:
                     cursor["complete"] = True
                     break
+                cursor["total_count"] = int(result.get("total_count", 0))
+                if cursor["page"] == 1 and cursor["total_count"] > 1000:
+                    if split_task(tasks, key, cursor):
+                        break
                 items = result.get("items", [])
                 stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
                 for repo in items:
-                    if key.startswith("personal:") and repo["name"].lower() != (
+                    if cursor["stage"] == "personal" and repo["name"].lower() != (
                         f"{repo['owner']['login'].lower()}.github.io"
                     ):
                         continue
                     full_name = repo["full_name"].lower()
                     if full_name in processed:
                         continue
+                    candidate = inspect_repository(api, repo, config)
                     processed.add(full_name)
                     stats["repositories_inspected"] = stats.get("repositories_inspected", 0) + 1
-                    candidate = inspect_repository(api, repo, config)
                     if candidate:
                         by_repo[full_name] = candidate
                 if len(items) < 100 or cursor["page"] >= 10:
@@ -411,7 +455,7 @@ def main():
         candidate_list = list(by_repo.values())
         save_json(CANDIDATES_PATH, candidate_list)
         render_report(candidate_list, state)
-        render_progress(plan, state, candidate_list)
+        render_progress(tasks, state, candidate_list)
         print(f"API requests: {api.used}/{api.budget}")
         print(f"Processed repositories: {len(processed)}")
         print(f"Candidates: {len(by_repo)}")
