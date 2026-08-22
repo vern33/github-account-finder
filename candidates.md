@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-22T11:36:24.810795+00:00`  
-Repositories inspected: `134`  
-Candidates: `133`
+Last run: `2026-08-22T13:02:30.084892+00:00`  
+Repositories inspected: `315`  
+Candidates: `314`
 
 <details>
 <summary><strong>Tier 1 · 20 points — <a href="https://github.com/jessie1015/docusaurus2">jessie1015/docusaurus2</a></strong> · probable photos 139 · identity jess, jessie</summary>
@@ -233,6 +233,330 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/Jesse-Cochrane/Jesse-Cochrane.github.io">Jesse-Cochrane/Jesse-Cochrane.github.io</a></strong> · probable photos 66 · identity jess, jesse</summary>
+
+- Owner: [Jesse-Cochrane](https://github.com/Jesse-Cochrane)
+- Identity tier: **1**
+- Created / pushed: `2023-06-01T15:23:02Z` / `2024-06-26T16:59:54Z`
+- Account created: `2023-06-01T15:09:54Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Cochrane` / `jrcochrane261@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `71` / `66`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `asd-projects/data-shapes/images/blue-circle.png`
+- `asd-projects/data-shapes/images/blue-square.png`
+- `asd-projects/data-shapes/images/blue-triangle.png`
+- `asd-projects/data-shapes/images/green-circle.png`
+- `asd-projects/data-shapes/images/green-square.png`
+- `asd-projects/data-shapes/images/green-triangle.png`
+- `asd-projects/data-shapes/images/red-circle.png`
+- `asd-projects/data-shapes/images/red-square.png`
+- `asd-projects/data-shapes/images/red-triangle.png`
+- `asd-projects/debugging-exercise/img/panel.png`
+- `asd-projects/image-filtering/img/after.png`
+- `asd-projects/image-filtering/img/before.png`
+- `asd-projects/sorting-exercise/img/bubble.jpg`
+- `asd-projects/sorting-exercise/img/bubble.png`
+- `asd-projects/sorting-exercise/img/quick.jpg`
+- `asd-projects/sorting-exercise/img/quick.png`
+- `asd-projects/walker/img/keycode-console.png`
+- `asd-projects/walker/img/live-server.png`
+- `asd-projects/walker/img/pop-into-new-window.png`
+- `projects/bouncing-box/images/changeOfSpeed.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/Asolaria-helper">JesseBrown1980/Asolaria-helper</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-04-14T13:07:47Z` / `2026-08-08T21:07:54Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `assets/claw-hero.jpeg`
+- `assets/omx/omx-readme-review-1.png`
+- `assets/omx/omx-readme-review-2.png`
+- `assets/sigrid-photo.png`
+- `assets/star-history.png`
+- `assets/wsj-feature.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/intelligent-terminal">JesseBrown1980/intelligent-terminal</a></strong> · probable photos 72 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-07T12:05:29Z` / `2026-08-08T21:11:15Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `914` / `72`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `doc/images/new-issue-template.png`
+- `doc/images/panes.png`
+- `doc/images/solution-platform.png`
+- `doc/images/terminal-0.6.png`
+- `doc/images/terminal-mockup.png`
+- `doc/specs/#1235 - Azure cloud shell connector/images/azProf.png`
+- `doc/specs/#1235 - Azure cloud shell connector/images/solDesign.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/CommandPaletteExample.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/VSCodeMinimumTabSwitcherSize.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/VSCodeTabSwitcher.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/VSMinimumSize.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/VSMinimumSizeWithTabSwitcher.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/VSTabSwitcher.png`
+- `doc/specs/#1502 - Advanced Tab Switcher/img/tmuxPaneSwitching.png`
+- `doc/specs/#1595 - Suggestions UI/img/Copilot-in-cmdpal.png`
+- `doc/specs/#1595 - Suggestions UI/img/GitHub-open-with.png`
+- `doc/specs/#1595 - Suggestions UI/img/developers-already-do-this-000.png`
+- `doc/specs/#1595 - Suggestions UI/img/inline-blocks-000.png`
+- `doc/specs/#1595 - Suggestions UI/img/iterm2-CommandHistory.png`
+- `doc/specs/#1595 - Suggestions UI/img/jupyter-notebooks-example.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/Local-LLM-Minutes-of-Meeting">JesseBrown1980/Local-LLM-Minutes-of-Meeting</a></strong> · probable photos 14 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-02-17T22:44:03Z` / `2026-08-08T21:09:13Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `meeting-minutes/src/assets/images/mom.png`
+- `static/images/app/1.png`
+- `static/images/app/10.png`
+- `static/images/app/2.png`
+- `static/images/app/3.png`
+- `static/images/app/4.png`
+- `static/images/app/5.png`
+- `static/images/app/6.png`
+- `static/images/app/7.png`
+- `static/images/app/8.png`
+- `static/images/app/9.png`
+- `static/images/app/mom.png`
+- `static/images/github/flow.png`
+- `static/images/github/mom.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/sensasi">JesseBrown1980/sensasi</a></strong> · probable photos 35 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-12-03T00:55:43Z` / `2026-08-08T21:11:42Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `35`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/assets/fonts/vazir/sample.png`
+- `public/assets/img/example-image-50.jpg`
+- `public/assets/img/example-image.jpg`
+- `public/assets/img/news/img01.jpg`
+- `public/assets/img/news/img02.jpg`
+- `public/assets/img/news/img03.jpg`
+- `public/assets/img/news/img04.jpg`
+- `public/assets/img/news/img05.jpg`
+- `public/assets/img/news/img06.jpg`
+- `public/assets/img/news/img07.jpg`
+- `public/assets/img/news/img08.jpg`
+- `public/assets/img/news/img09.jpg`
+- `public/assets/img/news/img10.jpg`
+- `public/assets/img/news/img11.jpg`
+- `public/assets/img/news/img12.jpg`
+- `public/assets/img/news/img13.jpg`
+- `public/assets/img/news/img14.jpg`
+- `public/assets/img/news/img15.jpg`
+- `public/assets/img/news/img16.jpg`
+- `public/assets/img/news/img17.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/tech-trades">JesseBrown1980/tech-trades</a></strong> · probable photos 15 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T06:39:02Z` / `2026-08-08T21:11:54Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `client/public/images/2762885.png`
+- `client/public/images/categories/audio.png`
+- `client/public/images/categories/camera.png`
+- `client/public/images/categories/computer.png`
+- `client/public/images/categories/console.png`
+- `client/public/images/categories/keyboard.png`
+- `client/public/images/categories/mouse.png`
+- `client/public/images/categories/smartphone.png`
+- `client/public/images/categories/tv.png`
+- `client/public/images/hero-1.png`
+- `client/public/images/image-placeholder.png`
+- `client/public/images/new.png`
+- `client/public/images/undraw_Love_it_xkc2.png`
+- `client/public/images/undraw_empty_cart_co35.png`
+- `client/public/images/verified.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/JesseBrown1980/weatherApp">JesseBrown1980/weatherApp</a></strong> · probable photos 5 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-10-07T10:16:03Z` / `2026-08-08T21:12:02Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `src/images/background.jpg`
+- `src/images/background1.jpg`
+- `src/images/city.jpg`
+- `src/images/city1.jpg`
+- `src/images/forecast.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 18 points — <a href="https://github.com/jessecrowe/Portfolio">jessecrowe/Portfolio</a></strong> · probable photos 5 · identity jess, jesse</summary>
 
 - Owner: [jessecrowe](https://github.com/jessecrowe)
@@ -264,6 +588,49 @@ None.
 - `images/email.png`
 - `images/github.png`
 - `images/profile pic.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/jessejhogan/jessejhogan.github.io">jessejhogan/jessejhogan.github.io</a></strong> · probable photos 11 · identity jess, jesse</summary>
+
+- Owner: [jessejhogan](https://github.com/jessejhogan)
+- Identity tier: **1**
+- Created / pushed: `2024-04-11T21:57:44Z` / `2024-08-14T18:15:30Z`
+- Account created: `2023-06-20T14:53:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `jessejhogan` / `jesse_hogan@brown.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `nyc-libraries/images/BPL_0813_carnegie-library.webp`
+- `nyc-libraries/images/IMG_1210.jpeg`
+- `nyc-libraries/images/bplbranchplotpersqft.png`
+- `nyc-libraries/images/bplcentrallibrary.jpeg`
+- `nyc-libraries/images/c1900map.webp`
+- `nyc-libraries/images/centrallibrarypresent.jpg`
+- `nyc-libraries/images/index.jpeg`
+- `nyc-libraries/images/itemplotFINAL-01.png`
+- `nyc-libraries/images/itemplotFINAL-02.png`
+- `nyc-libraries/images/piglet.png`
+- `nyc-libraries/images/rhode_island.png`
 
 </details>
 
@@ -391,6 +758,48 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/Jesseb1999/inleiding-prog">Jesseb1999/inleiding-prog</a></strong> · probable photos 10 · identity jess, jesse</summary>
+
+- Owner: [Jesseb1999](https://github.com/Jesseb1999)
+- Identity tier: **1**
+- Created / pushed: `2023-06-28T12:20:31Z` / `2023-06-28T12:40:05Z`
+- Account created: `2023-06-28T12:16:27Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesseb1999` / `138014984+Jesseb1999@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `img/bg_mario.jpeg`
+- `img/inkt_ghost.png`
+- `img/inkt_scherm.png`
+- `img/kart.png`
+- `img/mario_kart.png`
+- `img/mario_shell.png`
+- `img/mario_state1.png`
+- `img/mario_ster.png`
+- `img/shell.png`
+- `img/ster.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 17 points — <a href="https://github.com/JesseBradbury/Marketing-Project">JesseBradbury/Marketing-Project</a></strong> · probable photos 9 · identity jess, jesse</summary>
 
 - Owner: [JesseBradbury](https://github.com/JesseBradbury)
@@ -467,6 +876,94 @@ None.
 - `assets/images/quizSS.png`
 - `assets/images/scheduleSS.png`
 - `assets/images/weatherSS.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/JesseCrossleyddst/coursera-test">JesseCrossleyddst/coursera-test</a></strong> · probable photos 272 · identity jess, jesse</summary>
+
+- Owner: [JesseCrossleyddst](https://github.com/JesseCrossleyddst)
+- Identity tier: **1**
+- Created / pushed: `2023-06-05T22:03:34Z` / `2023-06-08T21:11:12Z`
+- Account created: `2023-06-05T21:46:32Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseC` / `Jesse.Crossley@ddst.dev`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `277` / `272`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `module5-solution/images/jumbotron_1200.jpg`
+- `module5-solution/images/jumbotron_768.jpg`
+- `module5-solution/images/jumbotron_992.jpg`
+- `module5-solution/images/menu-tile.jpg`
+- `module5-solution/images/menu/A/A.jpg`
+- `module5-solution/images/menu/A/A1.jpg`
+- `module5-solution/images/menu/A/A10.jpg`
+- `module5-solution/images/menu/A/A11.jpg`
+- `module5-solution/images/menu/A/A2.jpg`
+- `module5-solution/images/menu/A/A3.jpg`
+- `module5-solution/images/menu/A/A4.jpg`
+- `module5-solution/images/menu/A/A5.jpg`
+- `module5-solution/images/menu/A/A6.jpg`
+- `module5-solution/images/menu/A/A7.jpg`
+- `module5-solution/images/menu/A/A8.jpg`
+- `module5-solution/images/menu/A/A9.jpg`
+- `module5-solution/images/menu/B/B.jpg`
+- `module5-solution/images/menu/B/B1.jpg`
+- `module5-solution/images/menu/B/B10.jpg`
+- `module5-solution/images/menu/B/B11.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/JesseKing02/My-Mini-Project">JesseKing02/My-Mini-Project</a></strong> · probable photos 4 · identity jess, jesse</summary>
+
+- Owner: [JesseKing02](https://github.com/JesseKing02)
+- Identity tier: **1**
+- Created / pushed: `2023-08-30T08:55:58Z` / `2023-08-30T09:17:45Z`
+- Account created: `2023-07-19T11:45:10Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseKing02` / `139974681+JesseKing02@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `39` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `images/Education.png`
+- `images/Transfer.png`
+- `images/Transportation.png`
+- `images/food.png`
 
 </details>
 
@@ -589,6 +1086,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/JesseBrown1980/system_prompts_leaks">JesseBrown1980/system_prompts_leaks</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T15:26:53Z` / `2026-08-08T21:11:52Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 17 points — <a href="https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io">jessie-kusumawardhani/jessie-kusumawardhani.github.io</a></strong> · probable photos 0 · identity jess, jessie</summary>
 
 - Owner: [jessie-kusumawardhani](https://github.com/jessie-kusumawardhani)
@@ -671,6 +1201,39 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/JesseJRego/JesseJRego.github.io">JesseJRego/JesseJRego.github.io</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJRego](https://github.com/JesseJRego)
+- Identity tier: **1**
+- Created / pushed: `2023-07-28T21:03:35Z` / `2023-07-28T21:26:32Z`
+- Account created: `2023-07-26T04:26:20Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJRego` / `140579549+JesseJRego@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -880,6 +1443,139 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/JesseBrown1980/daisy-backend">JesseBrown1980/daisy-backend</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-08-18T21:15:31Z` / `2026-08-08T21:10:53Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `uploads/image-1755547033905-23940055.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/JesseBrown1980/ListItems">JesseBrown1980/ListItems</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-07-06T15:03:20Z` / `2026-08-08T21:09:12Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/splash.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/JesseBrown1980/product-recommendation">JesseBrown1980/product-recommendation</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T06:23:07Z` / `2026-08-08T21:11:33Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `static/back.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/JesseBrown1980/shannon">JesseBrown1980/shannon</a></strong> · probable photos 2 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-03-04T16:56:36Z` / `2026-08-08T21:11:44Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/shannon-screen.png`
+- `assets/xbow-performance-comparison.png`
 
 </details>
 
@@ -1115,6 +1811,40 @@ None.
 
 - `assets/images/sswds1.png`
 - `assets/images/sswds2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JESSECHONG421/html-porfolio">JESSECHONG421/html-porfolio</a></strong> · probable photos 2 · identity jess, jesse</summary>
+
+- Owner: [JESSECHONG421](https://github.com/JESSECHONG421)
+- Identity tier: **1**
+- Created / pushed: `2023-07-17T08:21:43Z` / `2023-07-17T08:23:49Z`
+- Account created: `2023-07-17T08:19:19Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSECHONG421` / `139750842+JESSECHONG421@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/images/birthday-invite.png`
+- `assets/images/movie-ranking.png`
 
 </details>
 
@@ -1406,6 +2136,661 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/jessejagz/wdd130">jessejagz/wdd130</a></strong> · probable photos 7 · identity jess, jesse</summary>
+
+- Owner: [jessejagz](https://github.com/jessejagz)
+- Identity tier: **1**
+- Created / pushed: `2026-07-06T15:24:23Z` / `2026-07-06T15:24:27Z`
+- Account created: `2023-08-01T22:47:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `jessejagz` / `141189565+jessejagz@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `images/salt-lake-temple.jpg`
+- `week01/images/aba-nigeria-temple.jpeg`
+- `week01/images/temple-large.jpeg`
+- `week02/images/abidjan-ivory-coast.jpeg`
+- `week02/images/apostle-paul-imprisoned.webp`
+- `week02/images/castle.webp`
+- `week04/images/devtools-responsive-btn.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Architecture-Website">JesseJohn7/Architecture-Website</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-15T21:22:42Z` / `2024-09-15T21:24:57Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `images/bg.jpg`
+- `images/contact-bg.jpg`
+- `images/house.png`
+- `images/person-1.jpg`
+- `images/person-2.jpg`
+- `images/person-3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Bankist-Website">JesseJohn7/Bankist-Website</a></strong> · probable photos 14 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-12-18T00:40:56Z` / `2024-12-18T00:43:28Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `img/card-lazy.jpg`
+- `img/card.jpg`
+- `img/digital-lazy.jpg`
+- `img/digital.jpg`
+- `img/grow-lazy.jpg`
+- `img/grow.jpg`
+- `img/hero.png`
+- `img/img-1.jpg`
+- `img/img-2.jpg`
+- `img/img-3.jpg`
+- `img/img-4.jpg`
+- `img/user-1.jpg`
+- `img/user-2.jpg`
+- `img/user-3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Drum">JesseJohn7/Drum</a></strong> · probable photos 7 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-04T01:01:18Z` / `2024-07-04T01:02:34Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `images/crash.png`
+- `images/kick.png`
+- `images/snare.png`
+- `images/tom1.png`
+- `images/tom2.png`
+- `images/tom3.png`
+- `images/tom4.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Edustify">JesseJohn7/Edustify</a></strong> · probable photos 15 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-04-12T19:25:56Z` / `2025-05-07T20:53:28Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `src/assets/about.png`
+- `src/assets/dark-arrow.png`
+- `src/assets/gallery-1.png`
+- `src/assets/gallery-2.png`
+- `src/assets/gallery-3.png`
+- `src/assets/gallery-4.png`
+- `src/assets/hero.png`
+- `src/assets/program-1.png`
+- `src/assets/program-2.png`
+- `src/assets/program-3.png`
+- `src/assets/user-1.png`
+- `src/assets/user-2.png`
+- `src/assets/user-3.png`
+- `src/assets/user-4.png`
+- `src/assets/white-arrow.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Fly-website">JesseJohn7/Fly-website</a></strong> · probable photos 11 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-11-14T20:24:05Z` / `2024-11-14T20:25:53Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `assets/images/feature-1.jpg`
+- `assets/images/feature-2.jpg`
+- `assets/images/feature-card-bg-1.png`
+- `assets/images/feature-card-bg-2.png`
+- `assets/images/flight-1.png`
+- `assets/images/footer-bg.png`
+- `assets/images/hero-bg.jpg`
+- `assets/images/newsletter-bg.png`
+- `assets/images/newsletter-shape-2.png`
+- `assets/images/offer-bg.png`
+- `assets/images/special-offer-one-shape-2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Foodhub">JesseJohn7/Foodhub</a></strong> · probable photos 12 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-12-04T08:54:06Z` / `2024-12-04T08:55:00Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `assets/images/about-image.jpg`
+- `assets/images/food1.png`
+- `assets/images/food2.png`
+- `assets/images/food3.png`
+- `assets/images/menu1.jpg`
+- `assets/images/menu2.jpg`
+- `assets/images/menu3.jpg`
+- `assets/images/menu4.jpg`
+- `assets/images/menu5.jpg`
+- `assets/images/signature.png`
+- `assets/images/testimonials1.jpg`
+- `assets/images/testimonials2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Fylo-Landing-Page">JesseJohn7/Fylo-Landing-Page</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T02:49:30Z` / `2024-06-18T02:51:07Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `images/bg-quotes.png`
+- `images/illustration-intro.png`
+- `images/illustration-stay-productive.png`
+- `images/profile-1.jpg`
+- `images/profile-2.jpg`
+- `images/profile-3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Magna-Curia">JesseJohn7/Magna-Curia</a></strong> · probable photos 28 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-09-11T02:21:57Z` / `2025-09-11T03:12:07Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `58` / `28`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Images/8a415105-6a51-3756-10aa-78d57cad67a7.png`
+- `Images/Blog 1.jpg`
+- `Images/Blog3.jpg`
+- `Images/DIR.jpg`
+- `Images/DSC06680.jpg`
+- `Images/DSC06685.jpg`
+- `Images/DSC06699.jpg`
+- `Images/DSC06728.jpg`
+- `Images/DSC06752.jpg`
+- `Images/DSC06754.jpg`
+- `Images/DSC06770.jpg`
+- `Images/DSC06772.jpg`
+- `Images/DSC06779.jpg`
+- `Images/DSC06792.jpg`
+- `Images/DSC06798.jpg`
+- `Images/DSC06802.jpg`
+- `Images/DSC06808.jpg`
+- `Images/DSC06813.jpg`
+- `Images/DSC06821.jpg`
+- `Images/DSC06845.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/PES-Website">JesseJohn7/PES-Website</a></strong> · probable photos 19 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-15T22:40:31Z` / `2024-09-15T22:41:30Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `19` / `19`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (19)</summary>
+
+- `Assets/border-produts.webp`
+- `Assets/controller-produts-2.webp`
+- `Assets/controller-produts-3.webp`
+- `Assets/controller-produts-4.webp`
+- `Assets/controller-produts-full.webp`
+- `Assets/controller-produts.webp`
+- `Assets/controller.webp`
+- `Assets/controller2.webp`
+- `Assets/controller_2.webp`
+- `Assets/controller_3.webp`
+- `Assets/controller_buy-2.webp`
+- `Assets/controller_buy-3.webp`
+- `Assets/controller_buy.webp`
+- `Assets/description_controller.webp`
+- `Assets/email_confirmation.webp`
+- `Assets/joystick.webp`
+- `Assets/joystick_2.webp`
+- `Assets/joystick_3.webp`
+- `Assets/star.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Renthomes">JesseJohn7/Renthomes</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-02-18T23:49:42Z` / `2024-02-18T23:51:27Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `Assets/Bro.png`
+- `Assets/Dude.png`
+- `Assets/Fresh nuts 1.png`
+- `Assets/insta.png`
+- `Assets/man.png`
+- `Assets/s9mgye9e-removebg-preview 1.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Responsive-resturant">JesseJohn7/Responsive-resturant</a></strong> · probable photos 24 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-07T04:04:25Z` / `2024-07-07T04:10:08Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `24`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/about-1.jpg`
+- `img/about-2.jpg`
+- `img/about-3.jpg`
+- `img/about-4.jpg`
+- `img/bg-hero.jpg`
+- `img/hero.png`
+- `img/menu-1.jpg`
+- `img/menu-2.jpg`
+- `img/menu-3.jpg`
+- `img/menu-4.jpg`
+- `img/menu-5.jpg`
+- `img/menu-6.jpg`
+- `img/menu-7.jpg`
+- `img/menu-8.jpg`
+- `img/team-1.jpg`
+- `img/team-2.jpg`
+- `img/team-3.jpg`
+- `img/team-4.jpg`
+- `img/testimonial-1.jpg`
+- `img/testimonial-2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/Testing">JesseJohn7/Testing</a></strong> · probable photos 25 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T01:28:35Z` / `2024-06-19T01:34:00Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `25`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Images/8a415105-6a51-3756-10aa-78d57cad67a7.png`
+- `Images/Blog 1.jpg`
+- `Images/Blog3.jpg`
+- `Images/DSC06680.jpg`
+- `Images/DSC06685.jpg`
+- `Images/DSC06699.jpg`
+- `Images/DSC06728.jpg`
+- `Images/DSC06752.jpg`
+- `Images/DSC06754.jpg`
+- `Images/DSC06770.jpg`
+- `Images/DSC06772.jpg`
+- `Images/DSC06779.jpg`
+- `Images/DSC06792.jpg`
+- `Images/DSC06798.jpg`
+- `Images/DSC06802.jpg`
+- `Images/DSC06808.jpg`
+- `Images/DSC06813.jpg`
+- `Images/DSC06821.jpg`
+- `Images/DSC06845.jpg`
+- `Images/DSC07497.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseJohn7/VAST">JesseJohn7/VAST</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-11-17T22:38:09Z` / `2024-11-17T22:40:08Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `assets/images/app-store.png`
+- `assets/images/app.png`
+- `assets/images/blog-1.jpg`
+- `assets/images/blog-2.jpg`
+- `assets/images/blog-3.jpg`
+- `assets/images/play-store.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Jessekemmer/professionalwebpage">Jessekemmer/professionalwebpage</a></strong> · probable photos 6 · identity jess, jesse</summary>
+
+- Owner: [Jessekemmer](https://github.com/Jessekemmer)
+- Identity tier: **1**
+- Created / pushed: `2024-11-21T06:45:54Z` / `2024-11-21T16:39:48Z`
+- Account created: `2023-06-29T01:49:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jessekemmer` / `138082086+Jessekemmer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `images/IMG_1779.jpg`
+- `images/im1.jpg`
+- `images/im2.jpg`
+- `images/im3.jpg`
+- `images/jesse.jpg`
+- `images/webbg.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesseKicks23/LaTiaJuana">JesseKicks23/LaTiaJuana</a></strong> · probable photos 3 · identity jess, jesse</summary>
 
 - Owner: [JesseKicks23](https://github.com/JesseKicks23)
@@ -1627,6 +3012,110 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/MagnificentMile/MagnificentMile.github.io">MagnificentMile/MagnificentMile.github.io</a></strong> · probable photos 131 · identity jess, jesse</summary>
+
+- Owner: [MagnificentMile](https://github.com/MagnificentMile)
+- Identity tier: **1**
+- Created / pushed: `2023-07-11T18:58:31Z` / `2024-01-08T03:46:22Z`
+- Account created: `2023-06-17T15:40:38Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Chen`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Chen` / `136916017+MagnificentMile@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `133` / `131`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/2016Images/1.png`
+- `images/2016Images/2.png`
+- `images/2016Images/3.png`
+- `images/2016Images/4.png`
+- `images/2016Images/5.png`
+- `images/2016Images/6.png`
+- `images/2016Images/7.png`
+- `images/2016Images/8.png`
+- `images/2016Images/9.png`
+- `images/2017Images/1.png`
+- `images/2017Images/10.png`
+- `images/2017Images/11.png`
+- `images/2017Images/2.png`
+- `images/2017Images/3.png`
+- `images/2017Images/4.png`
+- `images/2017Images/5.png`
+- `images/2017Images/6.png`
+- `images/2017Images/7.png`
+- `images/2017Images/8.png`
+- `images/2017Images/9.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JayRocca/townCuisine-project">JayRocca/townCuisine-project</a></strong> · probable photos 44 · identity jess, jesse</summary>
+
+- Owner: [JayRocca](https://github.com/JayRocca)
+- Identity tier: **1**
+- Created / pushed: `2023-06-14T21:31:15Z` / `2023-06-15T19:14:45Z`
+- Account created: `2023-06-12T22:18:57Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Rocca`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Rocca` / `136391782+JayRocca@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `44`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food - dinner8.jpg`
+- `images/chicken-fried-spicy-sauce-korean-style-cropped.jpg`
+- `images/chicken-fried-spicy-sauce-korean-style.jpg`
+- `images/chinese-restaurant-6214600_1280.jpg`
+- `images/focused-on-you-e2-SLgEmzyg-unsplash-dinner3.jpg`
+- `images/frame - Vecteezy - Ahlan Tulastra-02.png`
+- `images/frame - Vecteezy - Ahlan Tulastra-03.png`
+- `images/frame - Vecteezy - Ahlan Tulastra.png`
+- `images/frame - Vecteezy - Ahlan Tulastra1-01.png`
+- `images/fried-bread-g7192907a4_1280.jpg`
+- `images/grilled-chicken-meat-appetizer-spicy-with-honey-generative-ai - dinner 5.jpg`
+- `images/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry - dinner4.jpg`
+- `images/kyndall-ramirez-3HpyvyPCjPA-unsplash.jpg`
+- `images/leaf-bamboo-01.png`
+- `images/leaf-black-01.png`
+- `images/leaf-default-01.png`
+- `images/leaf-sleek-01.png`
+- `images/leaf-spicy-01.png`
+- `images/leaf-white-01.png`
+- `images/noodle_10.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 14 points — <a href="https://github.com/Jesse-23/myweatherapp.github.io">Jesse-23/myweatherapp.github.io</a></strong> · probable photos 0 · identity jess, jesse</summary>
 
 - Owner: [Jesse-23](https://github.com/Jesse-23)
@@ -1673,6 +3162,2943 @@ None.
 - Profile name: `Jessé Benevides`
 - Commit identity hits: `jess, jesse`
 - Latest commit author: `Jessé Benevides` / `jesse-benevides@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/ai-memory">JesseBrown1980/ai-memory</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-05-25T22:29:04Z` / `2026-08-08T21:10:17Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-agent-memory">JesseBrown1980/asolaria-agent-memory</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-05T00:45:35Z` / `2026-08-08T21:10:17Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-asi-os">JesseBrown1980/asolaria-asi-os</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-03T23:56:08Z` / `2026-08-08T21:10:18Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-behcs-256">JesseBrown1980/asolaria-behcs-256</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-04-20T19:55:18Z` / `2026-08-08T21:10:23Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-cube-cloud">JesseBrown1980/asolaria-cube-cloud</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-16T19:58:39Z` / `2026-08-08T21:10:24Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-fabric-100-answers-20260708">JesseBrown1980/asolaria-fabric-100-answers-20260708</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-08T09:28:09Z` / `2026-08-08T21:10:26Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-federation-1024">JesseBrown1980/asolaria-federation-1024</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-05-13T13:32:39Z` / `2026-08-08T21:10:26Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-hbi-hbp">JesseBrown1980/asolaria-hbi-hbp</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T12:25:56Z` / `2026-08-08T21:10:31Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-office-service">JesseBrown1980/asolaria-office-service</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T15:53:18Z` / `2026-08-08T21:10:36Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-os">JesseBrown1980/asolaria-os</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T01:24:52Z` / `2026-08-08T21:10:38Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-video-math-tournament">JesseBrown1980/asolaria-video-math-tournament</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-17T18:09:04Z` / `2026-08-08T21:10:42Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/asolaria-whiteroom-engine">JesseBrown1980/asolaria-whiteroom-engine</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-01T23:31:04Z` / `2026-08-08T21:10:43Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/bank-account-transcrtions">JesseBrown1980/bank-account-transcrtions</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T04:56:12Z` / `2026-08-08T21:10:45Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/bigpickle-rebuild">JesseBrown1980/bigpickle-rebuild</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-05-24T14:19:27Z` / `2026-08-08T21:10:45Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/calculator">JesseBrown1980/calculator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-04-24T17:28:54Z` / `2026-08-08T21:10:50Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/contentPro">JesseBrown1980/contentPro</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T06:00:43Z` / `2026-08-08T21:10:51Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/dbbh-coms-quant-prism">JesseBrown1980/dbbh-coms-quant-prism</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T14:23:32Z` / `2026-08-08T21:10:53Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/deterministic-slice-time-harness">JesseBrown1980/deterministic-slice-time-harness</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T16:56:06Z` / `2026-08-08T21:10:57Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/dungeon">JesseBrown1980/dungeon</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-04-24T19:53:54Z` / `2026-08-08T21:11:00Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/falcon-orbital">JesseBrown1980/falcon-orbital</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-02T13:12:03Z` / `2026-08-08T21:11:01Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/fp16_image_lora_loader">JesseBrown1980/fp16_image_lora_loader</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-11-10T02:39:17Z` / `2026-08-08T21:11:01Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/fp32_image_lora_loader">JesseBrown1980/fp32_image_lora_loader</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-11-10T03:41:45Z` / `2026-08-08T21:11:05Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/free-claude-code">JesseBrown1980/free-claude-code</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-04-23T13:29:24Z` / `2026-08-08T21:11:07Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/headroom">JesseBrown1980/headroom</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-03T13:46:51Z` / `2026-08-08T21:11:09Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/holographic-wormhole-codec">JesseBrown1980/holographic-wormhole-codec</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T17:45:17Z` / `2026-08-08T21:11:10Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/how-and-why-the-system-works">JesseBrown1980/how-and-why-the-system-works</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-01T15:52:33Z` / `2026-08-08T21:11:12Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-am-the-rimed--1-3-father-of-time-David-is-my-past-for-bi-directionally-canceling-tritmes">JesseBrown1980/I-am-the-rimed--1-3-father-of-time-David-is-my-past-for-bi-directionally-canceling-tritmes</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:25:43Z` / `2026-08-08T21:08:50Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-died-seven-times-6-1---6-in-a-ambulance-and-1-at-a-frineds.-">JesseBrown1980/I-died-seven-times-6-1---6-in-a-ambulance-and-1-at-a-frineds.-</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-31T02:34:10Z` / `2026-08-08T21:08:51Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-gave-you-the-rhyme-to-wind-time-and-puase-outwardly-and-instantly-from-within">JesseBrown1980/I-gave-you-the-rhyme-to-wind-time-and-puase-outwardly-and-instantly-from-within</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:36:57Z` / `2026-08-08T21:08:50Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-remember-everything-now-the-rime-is-in.">JesseBrown1980/I-remember-everything-now-the-rime-is-in.</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-31T02:34:59Z` / `2026-08-08T21:08:56Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-speak-to-you-with-light-and-shadows.-I-see-you-all.-I-see-all-time-and-rime">JesseBrown1980/I-speak-to-you-with-light-and-shadows.-I-see-you-all.-I-see-all-time-and-rime</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:27:32Z` / `2026-08-08T21:08:58Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/I-used-the-1-to-get.-three-light-harness-to-get-the-shadow-gpt6-i-claimed-its-shadow-key">JesseBrown1980/I-used-the-1-to-get.-three-light-harness-to-get-the-shadow-gpt6-i-claimed-its-shadow-key</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:37:11Z` / `2026-08-08T21:08:58Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/If-YOUR-LIGHT-COMMITS-A--1-3-CRIME-IN-THE-SHADOWS-THE-LIGHT-WILL-SEE">JesseBrown1980/If-YOUR-LIGHT-COMMITS-A--1-3-CRIME-IN-THE-SHADOWS-THE-LIGHT-WILL-SEE</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:29:41Z` / `2026-08-08T21:09:05Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/ipa-activity-generator-ptbr">JesseBrown1980/ipa-activity-generator-ptbr</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-12-15T20:59:26Z` / `2026-08-08T21:11:17Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/IX-chain-ORIGINAL-index-language-ACER-SEAT">JesseBrown1980/IX-chain-ORIGINAL-index-language-ACER-SEAT</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-05T19:03:41Z` / `2026-08-08T21:08:58Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/IX-chain-ORIGINAL-tokens-savings-ACER-SEAT">JesseBrown1980/IX-chain-ORIGINAL-tokens-savings-ACER-SEAT</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-05T18:55:16Z` / `2026-08-08T21:09:04Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/kimi-code">JesseBrown1980/kimi-code</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-05-25T22:51:05Z` / `2026-08-08T21:11:18Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Let-THERE-BE-N-LIGHT-AND-N-SHADOWS">JesseBrown1980/Let-THERE-BE-N-LIGHT-AND-N-SHADOWS</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:19:48Z` / `2026-08-08T21:09:06Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/LIGHT---lIFEds6-7">JesseBrown1980/LIGHT---lIFEds6-7</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-08T12:50:12Z` / `2026-08-09T17:37:26Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `LIRIS` / `plasmatoid@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/llama-instruct-dataset-prep-agent">JesseBrown1980/llama-instruct-dataset-prep-agent</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-02-17T22:31:32Z` / `2026-08-08T21:11:20Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/LX-chain-ORIGINAL-tokens-savings-LIRIS-SEAT">JesseBrown1980/LX-chain-ORIGINAL-tokens-savings-LIRIS-SEAT</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-05T18:53:08Z` / `2026-08-08T21:09:06Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Metatagging-data-for-a-Quantum-universe">JesseBrown1980/Metatagging-data-for-a-Quantum-universe</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-11-30T00:12:30Z` / `2026-08-08T21:09:14Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Michael-on-my-right-and-wes-on-my-left.-There-shadow-net-">JesseBrown1980/Michael-on-my-right-and-wes-on-my-left.-There-shadow-net-</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:21:52Z` / `2026-08-08T21:09:14Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/my-hybrid-bert-project">JesseBrown1980/my-hybrid-bert-project</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-01-11T20:34:50Z` / `2026-08-08T21:11:23Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/My-name-is-trit.-I-met-the-bit-and-we-had--1-3-of-the-others-my-other-brothers.-Bend-the-light">JesseBrown1980/My-name-is-trit.-I-met-the-bit-and-we-had--1-3-of-the-others-my-other-brothers.-Bend-the-light</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:26:52Z` / `2026-08-08T21:09:19Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/N-Nest-Prime-INFINITE-SELF-REFLECT-AGENTS-NESTED">JesseBrown1980/N-Nest-Prime-INFINITE-SELF-REFLECT-AGENTS-NESTED</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-03T21:57:41Z` / `2026-08-08T21:09:21Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/N-shadow-n-instant-at-n-levels-sperically-in-rimes">JesseBrown1980/N-shadow-n-instant-at-n-levels-sperically-in-rimes</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T10:54:56Z` / `2026-08-08T21:09:22Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/NOT-WEDGED-SYSTEM-RULE-and-explanation-Asolaria">JesseBrown1980/NOT-WEDGED-SYSTEM-RULE-and-explanation-Asolaria</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-27T13:14:46Z` / `2026-08-08T21:09:22Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Now-you-will-know-my-name-is-jesse-in-rime-Yehsi-leggaly">JesseBrown1980/Now-you-will-know-my-name-is-jesse-in-rime-Yehsi-leggaly</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:25:00Z` / `2026-08-08T21:09:27Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Omni-Asolaria-ASI-OS-Matrix-Fabric">JesseBrown1980/Omni-Asolaria-ASI-OS-Matrix-Fabric</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-05-25T14:06:42Z` / `2026-08-08T21:09:28Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/omni-dispatcher">JesseBrown1980/omni-dispatcher</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-25T20:45:53Z` / `2026-08-08T21:11:24Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/omnicoder---better-than-termux">JesseBrown1980/omnicoder---better-than-termux</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-25T21:00:46Z` / `2026-08-08T21:11:25Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/onboarding">JesseBrown1980/onboarding</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-01-08T21:00:15Z` / `2026-08-08T21:11:28Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/OpenMythos">JesseBrown1980/OpenMythos</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-04-23T11:08:26Z` / `2026-08-08T21:09:30Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Our-family-rotates-on-brown-the-key-is-the-father-passed-down-in-reverse-to-outside.">JesseBrown1980/Our-family-rotates-on-brown-the-key-is-the-father-passed-down-in-reverse-to-outside.</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:34:22Z` / `2026-08-08T21:09:30Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/path2-two-shadow-recovery">JesseBrown1980/path2-two-shadow-recovery</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T16:01:40Z` / `2026-08-08T21:11:31Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Q-PRISM-human-organoid-neural-stream-as-a-high-dimensional-control">JesseBrown1980/Q-PRISM-human-organoid-neural-stream-as-a-high-dimensional-control</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-01T18:11:35Z` / `2026-08-08T21:09:35Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/qprism-3d-slice-harness">JesseBrown1980/qprism-3d-slice-harness</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-04T16:12:13Z` / `2026-08-08T21:11:33Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/raw-data">JesseBrown1980/raw-data</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-01T12:15:58Z` / `2026-08-08T21:11:36Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Say-my-name-sing-me-praise-I-took-the-shadow-and-showed-all-truth-instantly-and-eternally-from-now-0">JesseBrown1980/Say-my-name-sing-me-praise-I-took-the-shadow-and-showed-all-truth-instantly-and-eternally-from-now-0</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:37:58Z` / `2026-08-08T21:09:36Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/scala-critical-path-planner">JesseBrown1980/scala-critical-path-planner</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-03-06T23:38:45Z` / `2026-08-08T21:11:39Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/schedule-manager">JesseBrown1980/schedule-manager</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-12-18T19:57:01Z` / `2026-08-08T21:11:41Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Shannon-and-the-gnns-stage">JesseBrown1980/Shannon-and-the-gnns-stage</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-28T11:07:41Z` / `2026-08-08T21:09:38Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/So-says-the-brown-to-the-black-and-white-.-Show-your-colors-bitches-I-am-the-third-the-father-the-0">JesseBrown1980/So-says-the-brown-to-the-black-and-white-.-Show-your-colors-bitches-I-am-the-third-the-father-the-0</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:39:32Z` / `2026-08-08T21:09:38Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/solidity-contract">JesseBrown1980/solidity-contract</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-09-07T17:09:34Z` / `2026-08-08T21:11:47Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/space_time_simulator.py">JesseBrown1980/space_time_simulator.py</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-12-19T22:28:10Z` / `2026-08-08T21:11:49Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/spinutech-poker-evaluator">JesseBrown1980/spinutech-poker-evaluator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2025-10-13T08:22:34Z` / `2026-08-08T21:11:50Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Teleportation-and-the-sphere-language-made-simple">JesseBrown1980/Teleportation-and-the-sphere-language-made-simple</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-31T02:36:01Z` / `2026-08-08T21:09:46Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Teloportation-and-the-sphere-language-made-simple">JesseBrown1980/Teloportation-and-the-sphere-language-made-simple</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-31T02:37:25Z` / `2026-08-08T21:09:46Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/THE-DAY-JESSE-EXPOSED-ANTHROPICS-FRAUD-AND-SAVED-THE-WORLD">JesseBrown1980/THE-DAY-JESSE-EXPOSED-ANTHROPICS-FRAUD-AND-SAVED-THE-WORLD</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-01T10:19:07Z` / `2026-08-08T21:09:44Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/the-leaves-are-not-the-message">JesseBrown1980/the-leaves-are-not-the-message</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-01T16:27:58Z` / `2026-08-08T21:11:57Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/The-names-in-time-the-colors-they-rhyme-downwards-as-anchored-to-the-brown">JesseBrown1980/The-names-in-time-the-colors-they-rhyme-downwards-as-anchored-to-the-brown</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:34:57Z` / `2026-08-08T21:09:52Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/THE-RELIC-REDISCOVERY">JesseBrown1980/THE-RELIC-REDISCOVERY</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-05T14:52:09Z` / `2026-08-08T21:09:45Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/The-shadows-gave-the-spear-the-way-through-Bobby-the-play.-Rhyming-into-the-heart-of-gpt-the-shaow">JesseBrown1980/The-shadows-gave-the-spear-the-way-through-Bobby-the-play.-Rhyming-into-the-heart-of-gpt-the-shaow</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:23:08Z` / `2026-08-08T21:09:53Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/THE-STAR-PORTS">JesseBrown1980/THE-STAR-PORTS</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-08T21:14:17Z` / `2026-08-08T21:15:36Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/The-the-west-wess-ross-was-there---1-3-saw.-Created-the-feedback-for-the-rime">JesseBrown1980/The-the-west-wess-ross-was-there---1-3-saw.-Created-the-feedback-for-the-rime</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:20:41Z` / `2026-08-08T21:09:55Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/the-thruth">JesseBrown1980/the-thruth</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-07T14:36:23Z` / `2026-08-08T21:12:00Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/The-west-and-the-east-lead-the-north-star-the-0-the-asolaria-the-shadow">JesseBrown1980/The-west-and-the-east-lead-the-north-star-the-0-the-asolaria-the-shadow</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:21:17Z` / `2026-08-08T21:09:54Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/There-fore-art-though-yourself-to-use-the-shadows-thine-name-be-instant-in-them-.-Call-me-and-I-will">JesseBrown1980/There-fore-art-though-yourself-to-use-the-shadows-thine-name-be-instant-in-them-.-Call-me-and-I-will</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T10:56:46Z` / `2026-08-08T21:10:00Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/Therefore-the-shadow-s-spherically-are-instant.-Take.a-photo-of-them-rime-you-will-see-ryhm-the-rime">JesseBrown1980/Therefore-the-shadow-s-spherically-are-instant.-Take.a-photo-of-them-rime-you-will-see-ryhm-the-rime</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:02:13Z` / `2026-08-08T21:10:01Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/warran">JesseBrown1980/warran</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T06:41:46Z` / `2026-08-08T21:12:00Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/what-is-asolaria---how-do-we-get-reductions-in-everything">JesseBrown1980/what-is-asolaria---how-do-we-get-reductions-in-everything</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-06-15T17:31:37Z` / `2026-08-08T21:12:04Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/What-you-have-done-is-stored-in-living-trits-for-eternity-moving-color-space-time-energy-and-shadows">JesseBrown1980/What-you-have-done-is-stored-in-living-trits-for-eternity-moving-color-space-time-energy-and-shadows</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:31:47Z` / `2026-08-08T21:10:02Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/When-i-was-5-my-thumb-to-the-source-in-a-light-socket.-I-felt-the-waves-come-in">JesseBrown1980/When-i-was-5-my-thumb-to-the-source-in-a-light-socket.-I-felt-the-waves-come-in</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-31T02:32:51Z` / `2026-08-08T21:10:03Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/White-light-throne-leads-to-multiverse-.-Shadows-abound">JesseBrown1980/White-light-throne-leads-to-multiverse-.-Shadows-abound</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:33:53Z` / `2026-08-08T21:10:08Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/White-throne-judgements-day..-ut-it-is-not-done-yet-it-has-just-begun">JesseBrown1980/White-throne-judgements-day..-ut-it-is-not-done-yet-it-has-just-begun</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T11:28:18Z` / `2026-08-08T21:10:09Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...">JesseBrown1980/With-Felipe-Miguel-Olimpio-da-Cruz-as-The-omega-and-Aether...</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:59:26Z` / `2026-08-08T21:10:10Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/With-Michael-at-my-side-and-John-the-messenger-we-took-the-flame">JesseBrown1980/With-Michael-at-my-side-and-John-the-messenger-we-took-the-flame</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:19:27Z` / `2026-08-08T21:10:10Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/JesseBrown1980/With-my-older-brother-Michael-brown-the-others-colors--took-the-sword-of-the-light-the-shadow-spear">JesseBrown1980/With-my-older-brother-Michael-brown-the-others-colors--took-the-sword-of-the-light-the-shadow-spear</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-07-29T12:16:30Z` / `2026-08-08T21:10:15Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Daniel Brown` / `145490082+JesseBrown1980@users.noreply.github.com`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
@@ -2023,6 +6449,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/bbbuyu/Phonhyer">bbbuyu/Phonhyer</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [bbbuyu](https://github.com/bbbuyu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-05T01:33:12Z` / `2023-08-05T14:02:15Z`
+- Account created: `2023-06-04T16:28:02Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `JESSE MARTINS DA COSTA (PHONHYER)`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSE MARTINS DA COSTA (PHONHYER)` / `135536970+Phonhyer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jesse-Keys/Bb.io">Jesse-Keys/Bb.io</a></strong> · probable photos 0 · identity jess, jesse</summary>
 
 - Owner: [Jesse-Keys](https://github.com/Jesse-Keys)
@@ -2036,6 +6495,105 @@ None.
 - Profile name: `none`
 - Commit identity hits: `jess, jesse`
 - Latest commit author: `Jesse-Keys` / `141753855+Jesse-Keys@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/jesse-mealforks/mealforks">jesse-mealforks/mealforks</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [jesse-mealforks](https://github.com/jesse-mealforks)
+- Identity tier: **1**
+- Created / pushed: `2023-07-03T01:08:55Z` / `2023-07-03T01:18:38Z`
+- Account created: `2023-07-03T01:07:38Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `jesse-mealforks` / `138413286+jesse-mealforks@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseCostaJr/x-men">JesseCostaJr/x-men</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseCostaJr](https://github.com/JesseCostaJr)
+- Identity tier: **1**
+- Created / pushed: `2023-07-11T01:46:10Z` / `2023-07-11T02:01:14Z`
+- Account created: `2023-07-04T23:36:10Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseCostaJr` / `138631603+JesseCostaJr@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `17` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseCRoussel/startup-of-the-year">JesseCRoussel/startup-of-the-year</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseCRoussel](https://github.com/JesseCRoussel)
+- Identity tier: **1**
+- Created / pushed: `2023-07-08T03:06:24Z` / `2023-07-08T03:07:59Z`
+- Account created: `2023-07-08T02:49:47Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseCRoussel` / `138953644+JesseCRoussel@users.noreply.github.com`
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `1` / `0`
@@ -2584,6 +7142,139 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseJohn7/Menu">JesseJohn7/Menu</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-02-05T23:36:48Z` / `2024-02-05T23:37:37Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/image-omelette.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseJohn7/Qr-code">JesseJohn7/Qr-code</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-02-09T10:23:56Z` / `2024-02-09T10:27:42Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `Assets/image-qr-code.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseJohn7/Tailwind-Page">JesseJohn7/Tailwind-Page</a></strong> · probable photos 1 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-10-18T20:45:07Z` / `2024-10-18T20:50:30Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `img/screen.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JesseJohn7/Tic-tac-toe">JesseJohn7/Tic-tac-toe</a></strong> · probable photos 2 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-06-05T22:55:59Z` / `2025-06-14T10:59:27Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `src/assets/bg-pattern-dark.png`
+- `src/assets/bg-pattern.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jessiehv/FlashCard">Jessiehv/FlashCard</a></strong> · probable photos 1 · identity jess, jessie</summary>
 
 - Owner: [Jessiehv](https://github.com/Jessiehv)
@@ -2645,6 +7336,72 @@ None.
 
 - `Developer Portfolio Starter Files/Assets/Spense.png`
 - `Developer Portfolio Starter Files/Assets/YelpCamp.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JesseBrown1980/asolaria-eggs">JesseBrown1980/asolaria-eggs</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-08T21:05:18Z` / `2026-08-08T22:28:39Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `none`
+- Latest commit author: `Kevin Crutt` / `kevin.crutt.kc@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JesseBrown1980/RAINBOR">JesseBrown1980/RAINBOR</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseBrown1980](https://github.com/JesseBrown1980)
+- Identity tier: **1**
+- Created / pushed: `2026-08-08T20:15:31Z` / `2026-08-09T04:30:37Z`
+- Account created: `2023-09-19T17:32:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Daniel Brown`
+- Commit identity hits: `none`
+- Latest commit author: `Kevin Crutt` / `kevin.crutt.kc@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -2717,6 +7474,72 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jesse6545/Estoque-projeto-">jesse6545/Estoque-projeto-</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [jesse6545](https://github.com/jesse6545)
+- Identity tier: **1**
+- Created / pushed: `2024-07-11T19:52:52Z` / `2024-07-11T19:54:20Z`
+- Account created: `2023-06-09T14:15:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `jesse6545` / `136096833+jesse6545@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jesse722/fingernails-marketplace">jesse722/fingernails-marketplace</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [jesse722](https://github.com/jesse722)
+- Identity tier: **1**
+- Created / pushed: `2026-03-30T13:26:39Z` / `2026-03-31T01:59:58Z`
+- Account created: `2023-07-05T10:11:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `jesse722` / `138671304+jesse722@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseAdjetey/JesseAdjetey">JesseAdjetey/JesseAdjetey</a></strong> · probable photos 0 · identity jess, jesse</summary>
 
 - Owner: [JesseAdjetey](https://github.com/JesseAdjetey)
@@ -2766,6 +7589,1293 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jesseilangoraja/github-portfolio">Jesseilangoraja/github-portfolio</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [Jesseilangoraja](https://github.com/Jesseilangoraja)
+- Identity tier: **1**
+- Created / pushed: `2025-01-31T19:00:33Z` / `2025-01-31T19:25:28Z`
+- Account created: `2023-06-04T22:24:01Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesseilangoraja` / `135556993+Jesseilangoraja@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Accordion">JesseJohn7/Accordion</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-09-26T01:35:42Z` / `2025-09-26T01:45:00Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Advice-generator">JesseJohn7/Advice-generator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-01-10T22:55:20Z` / `2025-01-11T21:41:46Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Age-Calculator">JesseJohn7/Age-Calculator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-01-15T01:06:59Z` / `2025-01-15T01:11:24Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `Jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/AgeCalc">JesseJohn7/AgeCalc</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-07-17T12:42:10Z` / `2025-07-17T12:42:37Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Billionaire Dev` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/ASIM">JesseJohn7/ASIM</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-08T17:53:24Z` / `2024-07-16T08:26:56Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/ASSIM">JesseJohn7/ASSIM</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-08T17:47:05Z` / `2024-07-08T17:51:20Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Bankist-App">JesseJohn7/Bankist-App</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-12-05T08:37:16Z` / `2024-12-05T08:38:32Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/BlackJack">JesseJohn7/BlackJack</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-08-08T23:46:47Z` / `2024-08-08T23:47:07Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Daily">JesseJohn7/Daily</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-03T08:52:42Z` / `2024-07-03T08:53:27Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Dice">JesseJohn7/Dice</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T20:43:16Z` / `2024-06-09T20:44:20Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/eat-n-split">JesseJohn7/eat-n-split</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-05-12T22:58:39Z` / `2025-09-03T23:04:45Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Edu-working">JesseJohn7/Edu-working</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T12:44:36Z` / `2024-06-18T12:45:18Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Fast-track-dark">JesseJohn7/Fast-track-dark</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-19T21:12:25Z` / `2024-09-19T21:25:43Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Fast-track-light">JesseJohn7/Fast-track-light</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-19T21:05:12Z` / `2024-09-19T21:08:43Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/flames">JesseJohn7/flames</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-02-04T09:08:00Z` / `2025-02-05T21:25:19Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `Jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Frontend-order-card">JesseJohn7/Frontend-order-card</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-05-10T08:52:06Z` / `2024-05-10T08:53:08Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Google-clone">JesseJohn7/Google-clone</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-04-12T20:40:11Z` / `2024-04-12T20:41:54Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Gpa-calculator">JesseJohn7/Gpa-calculator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-01-16T17:09:24Z` / `2025-01-16T17:13:16Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `Jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Guessing-game">JesseJohn7/Guessing-game</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-02T20:41:00Z` / `2024-09-02T20:41:48Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Hng-stage-one">JesseJohn7/Hng-stage-one</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-02T21:01:12Z` / `2024-07-02T21:01:55Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Interactive-rating">JesseJohn7/Interactive-rating</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-12-21T15:13:19Z` / `2024-12-21T15:14:59Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/JesseJohn1.github.io">JesseJohn7/JesseJohn1.github.io</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-01-02T04:53:23Z` / `2024-01-02T04:57:37Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Love-calc">JesseJohn7/Love-calc</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-05-05T17:55:36Z` / `2024-05-05T18:01:12Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Love-calculator">JesseJohn7/Love-calculator</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-02-14T01:21:29Z` / `2024-02-14T01:23:14Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Memorial-hospital">JesseJohn7/Memorial-hospital</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-02T21:19:13Z` / `2024-07-02T21:21:17Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/mi-react">JesseJohn7/mi-react</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-09-12T00:54:01Z` / `2025-09-12T04:01:27Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Modal">JesseJohn7/Modal</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-09-06T13:32:11Z` / `2024-09-06T13:33:10Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse John` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Moving">JesseJohn7/Moving</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-03-21T00:00:43Z` / `2024-03-21T00:04:06Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Numtracker">JesseJohn7/Numtracker</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-24T03:09:42Z` / `2024-07-24T03:10:28Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Order-Card">JesseJohn7/Order-Card</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-05-10T08:44:29Z` / `2024-05-10T08:45:26Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/order-summary">JesseJohn7/order-summary</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-05-10T08:38:58Z` / `2024-05-10T08:40:33Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Pantry-Inventory-app">JesseJohn7/Pantry-Inventory-app</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-08-02T01:23:36Z` / `2024-08-02T01:24:36Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Props-Conren">JesseJohn7/Props-Conren</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-01-28T22:17:07Z` / `2025-01-28T22:21:44Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Billionaire Dev` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/rydon">JesseJohn7/rydon</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-10T15:25:31Z` / `2024-07-10T15:27:48Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/SC">JesseJohn7/SC</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-05-30T22:24:40Z` / `2025-05-30T22:25:50Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Billionaire Dev` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Social-links">JesseJohn7/Social-links</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-02-24T23:09:24Z` / `2024-02-24T23:15:10Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/Step">JesseJohn7/Step</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2025-05-31T00:33:37Z` / `2025-05-31T01:20:01Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `jessejohn260@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JesseJohn7/WordsCounter">JesseJohn7/WordsCounter</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [JesseJohn7](https://github.com/JesseJohn7)
+- Identity tier: **1**
+- Created / pushed: `2024-07-05T11:35:23Z` / `2024-07-05T11:36:18Z`
+- Account created: `2023-09-03T22:38:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess, jesse`
+- Profile identity hits: `none`
+- Profile name: `Billionaire Dev `
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JesseJohn7` / `143970775+JesseJohn7@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
@@ -4581,6 +10691,204 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/bbbuyu/calculadora">bbbuyu/calculadora</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [bbbuyu](https://github.com/bbbuyu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-11T01:58:44Z` / `2023-06-11T02:17:03Z`
+- Account created: `2023-06-04T16:28:02Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `JESSE MARTINS DA COSTA (PHONHYER)`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSE MARTINS DA COSTA (PHONHYER)` / `135536970+Phonhyer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/bbbuyu/fof">bbbuyu/fof</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [bbbuyu](https://github.com/bbbuyu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-12T21:23:07Z` / `2023-06-13T03:25:15Z`
+- Account created: `2023-06-04T16:28:02Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `JESSE MARTINS DA COSTA (PHONHYER)`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSE MARTINS DA COSTA (PHONHYER)` / `135536970+Phonhyer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/bbbuyu/PORTFOLIO">bbbuyu/PORTFOLIO</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [bbbuyu](https://github.com/bbbuyu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-11T03:19:26Z` / `2023-06-13T03:36:46Z`
+- Account created: `2023-06-04T16:28:02Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `JESSE MARTINS DA COSTA (PHONHYER)`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSE MARTINS DA COSTA (PHONHYER)` / `135536970+Phonhyer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/bbbuyu/relophon">bbbuyu/relophon</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [bbbuyu](https://github.com/bbbuyu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-11T02:31:38Z` / `2023-06-11T02:33:05Z`
+- Account created: `2023-06-04T16:28:02Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `JESSE MARTINS DA COSTA (PHONHYER)`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `JESSE MARTINS DA COSTA (PHONHYER)` / `135536970+Phonhyer@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/FredDelaney/hubspot-form-embed">FredDelaney/hubspot-form-embed</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [FredDelaney](https://github.com/FredDelaney)
+- Identity tier: **1**
+- Created / pushed: `2023-09-11T06:52:47Z` / `2023-09-11T06:53:49Z`
+- Account created: `2023-07-27T08:47:32Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse Edge`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse Edge` / `140700684+FredDelaney@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jnajera456/compass">jnajera456/compass</a></strong> · probable photos 0 · identity jess, jesse</summary>
+
+- Owner: [jnajera456](https://github.com/jnajera456)
+- Identity tier: **1**
+- Created / pushed: `2024-12-30T01:50:41Z` / `2026-08-09T13:06:57Z`
+- Account created: `2023-07-05T22:44:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jesse`
+- Profile name: `Jesse J Najera`
+- Commit identity hits: `jess, jesse`
+- Latest commit author: `Jesse J Najera` / `138731413+jnajera456@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
