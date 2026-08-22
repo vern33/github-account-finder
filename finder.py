@@ -56,6 +56,7 @@ class GitHub:
         self.budget = budget
         self.used = 0
         self.search_last = 0.0
+        self.core_last = 0.0
 
     def request(self, path: str, *, search: bool = False, accept: str | None = None):
         if self.used >= self.budget:
@@ -64,6 +65,12 @@ class GitHub:
             # User/repository search allows 30 requests/minute. Staying below it
             # also reduces secondary-limit risk.
             delay = 2.2 - (time.monotonic() - self.search_last)
+            if delay > 0:
+                time.sleep(delay)
+        else:
+            # Stay below the documented secondary REST point ceiling instead
+            # of bursting tree/profile/commit requests back-to-back.
+            delay = 0.1 - (time.monotonic() - self.core_last)
             if delay > 0:
                 time.sleep(delay)
         url = path if path.startswith("https://") else f"https://api.github.com{path}"
@@ -78,6 +85,8 @@ class GitHub:
                 with urllib.request.urlopen(req, timeout=30) as response:
                     if search:
                         self.search_last = time.monotonic()
+                    else:
+                        self.core_last = time.monotonic()
                     return json.load(response)
             except urllib.error.HTTPError as exc:
                 if exc.code in (403, 429):
@@ -279,6 +288,26 @@ def identity_evidence(owner: str, repo_name: str, profile: dict, terms: list[str
     return direct_hits, sorted(set(profile_hits))
 
 
+def commit_identity_evidence(commit_author: dict, terms: list[str]):
+    login = str(commit_author.get("login") or "").lower()
+    metadata = " ".join(
+        str(commit_author.get(field) or "")
+        for field in ("name", "email")
+    ).lower()
+    hits = []
+    for term in terms:
+        if term in login:
+            hits.append(term)
+            continue
+        if term == "lx":
+            matched = bool(re.search(r"(?<![a-z0-9])lx(?![a-z0-9])", metadata))
+        else:
+            matched = term in metadata
+        if matched:
+            hits.append(term)
+    return sorted(set(hits))
+
+
 def calculate_score(item: dict, config: dict):
     score = 0
     if item.get("workflow_markers"):
@@ -296,6 +325,7 @@ def calculate_score(item: dict, config: dict):
         score += 2
     score += min(5, len(item.get("identity_hits", [])) * 3)
     score += min(4, len(item.get("profile_identity_hits", [])) * 2)
+    score += min(4, len(item.get("commit_identity_hits", [])) * 2)
     score += int(item.get("priority_name_bonus", 0))
     return score
 
@@ -323,6 +353,9 @@ def normalize_candidate_scores(candidates: list[dict], config: dict):
         )
         item["identity_hits"] = direct_hits
         item["profile_identity_hits"] = profile_hits
+        item["commit_identity_hits"] = commit_identity_evidence(
+            item.get("commit_author", {}), config["identity_terms"]
+        )
         item["is_personal_pages"] = repo_name.lower() == (
             f"{item.get('owner', '').lower()}.github.io"
         )
@@ -349,8 +382,43 @@ def get_owner_profile(api: GitHub, login: str, profile_cache: dict):
                 "name", "bio", "blog", "email", "location", "twitter_username",
                 "created_at",
             )
+            if data.get(field) not in (None, "")
         }
     return profile_cache[key]
+
+
+def get_commit_author(api: GitHub, full_name: str):
+    params = urllib.parse.urlencode({"per_page": 1})
+    commits = api.request(f"/repos/{full_name}/commits?{params}") or []
+    if not commits:
+        return {}
+    commit = commits[0]
+    author = commit.get("commit", {}).get("author", {}) or {}
+    github_author = commit.get("author") or {}
+    return {
+        key: value
+        for key, value in {
+            "name": author.get("name"),
+            "email": author.get("email"),
+            "login": github_author.get("login"),
+        }.items()
+        if value not in (None, "")
+    }
+
+
+def get_user_pages_repositories(api: GitHub, login: str, max_pages: int):
+    repositories = []
+    for page in range(1, max_pages + 1):
+        params = urllib.parse.urlencode(
+            {"per_page": 100, "page": page, "type": "owner", "sort": "updated"}
+        )
+        items = api.request(
+            f"/users/{urllib.parse.quote(login, safe='')}/repos?{params}"
+        ) or []
+        repositories.extend(repo for repo in items if repo.get("has_pages"))
+        if len(items) < 100:
+            break
+    return repositories
 
 
 def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dict):
@@ -402,6 +470,11 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
     ):
         return None
 
+    commit_author = get_commit_author(api, full_name)
+    commit_identity_hits = commit_identity_evidence(
+        commit_author, config["identity_terms"]
+    )
+
     candidate = {
         "owner": owner,
         "repository": full_name,
@@ -416,6 +489,8 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
         "workflow_markers": markers,
         "identity_hits": identity_hits,
         "profile_identity_hits": profile_identity_hits,
+        "commit_identity_hits": commit_identity_hits,
+        "commit_author": commit_author,
         "owner_profile": profile,
         "priority_name_hits": priority_name_hits,
         "priority_name_bonus": priority_name_bonus,
@@ -450,7 +525,13 @@ def render_report(candidates: list[dict], state: dict):
         lines.append("No candidates have been recorded yet.")
     for item in sorted(candidates, key=lambda x: (-x["score"], x["repository"].lower())):
         identity_summary = ", ".join(
-            sorted(set(item["identity_hits"] + item.get("profile_identity_hits", [])))
+            sorted(
+                set(
+                    item["identity_hits"]
+                    + item.get("profile_identity_hits", [])
+                    + item.get("commit_identity_hits", [])
+                )
+            )
         ) or "none"
         summary = (
             f'<summary><strong>{item["score"]} points — '
@@ -469,6 +550,8 @@ def render_report(candidates: list[dict], state: dict):
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
             f"- Profile identity hits: `{', '.join(item.get('profile_identity_hits', [])) or 'none'}`",
             f"- Profile name: `{item.get('owner_profile', {}).get('name') or 'none'}`",
+            f"- Commit identity hits: `{', '.join(item.get('commit_identity_hits', [])) or 'none'}`",
+            f"- Latest commit author: `{item.get('commit_author', {}).get('name') or 'none'}` / `{item.get('commit_author', {}).get('email') or 'none'}`",
             f"- Priority-name hits / bonus: `{', '.join(item.get('priority_name_hits', [])) or 'none'}` / `+{item.get('priority_name_bonus', 0)}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
             f"- Tree truncated: `{item.get('tree_truncated', False)}`",
@@ -522,6 +605,9 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         f"- Adaptive search ranges: **{completed:,} / {len(leaf_tasks):,} ({percent:.1f}%)**",
         f"- Current cursor: `{active}`",
         f"- Repository results seen: **{stats.get('repositories_seen', 0):,}**",
+        f"- User search results seen: **{stats.get('users_seen', 0):,}**",
+        f"- Pages repositories found through users: **{stats.get('user_pages_repositories_seen', 0):,}**",
+        f"- Identity users fully checked: **{len(state.get('processed_identity_users', [])):,}**",
         f"- Unique repositories investigated: **{len(repositories):,}**",
         f"- Unique account owners investigated: **{len(owners):,}**",
         f"- Candidates recorded: **{len(candidates):,}**",
@@ -560,7 +646,14 @@ def main():
     # for audit/progress, but allow high-value searches to re-evaluate repos
     # that an older strategy may have incorrectly rejected.
     processed = set(state.get("processed_repositories_v2", []))
+    processed_identity_users = set(state.get("processed_identity_users", []))
     profile_cache = state.setdefault("owner_profiles", {})
+    for login, profile in list(profile_cache.items()):
+        profile_cache[login] = {
+            field: value
+            for field, value in profile.items()
+            if value not in (None, "")
+        }
     by_repo = {item["repository"].lower(): item for item in candidates}
     state.setdefault("searches", {})  # Retain legacy daily cursors as history.
     stats = state.setdefault("stats", {})
@@ -586,32 +679,39 @@ def main():
                         enforce_query_result_limits(tasks, config)
                         break
                 items = result.get("items", [])
-                stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
+                if cursor["stage"] == "users":
+                    stats["users_seen"] = stats.get("users_seen", 0) + len(items)
+                else:
+                    stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
                 for item in items:
                     if cursor["stage"] == "users":
                         login = item.get("login", "")
-                        if not login:
+                        if not login or login.lower() in processed_identity_users:
                             continue
-                        repo = api.request(
-                            f"/repos/{urllib.parse.quote(login, safe='')}/"
-                            f"{urllib.parse.quote(login + '.github.io', safe='')}"
+                        repositories_to_check = get_user_pages_repositories(
+                            api, login, int(config.get("user_repo_pages", 2))
                         )
-                        if not repo:
-                            continue
+                        stats["user_pages_repositories_seen"] = (
+                            stats.get("user_pages_repositories_seen", 0)
+                            + len(repositories_to_check)
+                        )
                     else:
-                        repo = item
-                    if cursor["stage"] == "personal" and repo["name"].lower() != (
-                        f"{repo['owner']['login'].lower()}.github.io"
-                    ):
-                        continue
-                    full_name = repo["full_name"].lower()
-                    if full_name in processed:
-                        continue
-                    candidate = inspect_repository(api, repo, config, profile_cache)
-                    processed.add(full_name)
-                    stats["repositories_inspected"] = stats.get("repositories_inspected", 0) + 1
-                    if candidate:
-                        by_repo[full_name] = candidate
+                        repositories_to_check = [item]
+                    for repo in repositories_to_check:
+                        if cursor["stage"] == "personal" and repo["name"].lower() != (
+                            f"{repo['owner']['login'].lower()}.github.io"
+                        ):
+                            continue
+                        full_name = repo["full_name"].lower()
+                        if full_name in processed:
+                            continue
+                        candidate = inspect_repository(api, repo, config, profile_cache)
+                        processed.add(full_name)
+                        stats["repositories_inspected"] = stats.get("repositories_inspected", 0) + 1
+                        if candidate:
+                            by_repo[full_name] = candidate
+                    if cursor["stage"] == "users":
+                        processed_identity_users.add(login.lower())
                 if len(items) < 100 or cursor["page"] >= 10:
                     cursor["complete"] = True
                 else:
@@ -625,6 +725,7 @@ def main():
         stats["last_api_requests"] = api.used
         stats["last_api_budget"] = api.budget
         state["processed_repositories_v2"] = sorted(processed)
+        state["processed_identity_users"] = sorted(processed_identity_users)
         save_json(STATE_PATH, state)
         candidate_list = list(by_repo.values())
         save_json(CANDIDATES_PATH, candidate_list)

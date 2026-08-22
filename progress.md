@@ -3,6 +3,9 @@
 - Adaptive search ranges: **40 / 74 (54.1%)**
 - Current cursor: `personal:username.github.io 2023-08-01..2023-08-01, page 9`
 - Repository results seen: **25,883**
+- User search results seen: **0**
+- Pages repositories found through users: **0**
+- Identity users fully checked: **0**
 - Unique repositories investigated: **23,210**
 - Unique account owners investigated: **20,684**
 - Candidates recorded: **398**

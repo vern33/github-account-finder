@@ -22,5 +22,6 @@
     "hugo --minify"
   ],
   "minimum_candidate_score": 8,
-  "minimum_photo_count": 6
+  "minimum_photo_count": 6,
+  "user_repo_pages": 2
 }
