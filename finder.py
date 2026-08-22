@@ -129,6 +129,11 @@ def build_search_plan(config: dict):
     start, end = config["target_created_from"], config["target_created_to"]
     plan = []
     # Daily partitioning avoids GitHub's 1,000-result search ceiling.
+    # Keep the existing named:<term>:<day> state-key format so reordering a
+    # term never discards a cursor or repeats completed pages.
+    for term in config["priority_name_terms"]:
+        for day in date_chunks(start, end):
+            plan.append((f"named:{term}:{day}", f"{term} in:name created:{day}"))
     for day in date_chunks(start, end):
         plan.append((f"personal:{day}", f"github.io in:name created:{day}"))
     for term in config["site_name_terms"]:
@@ -138,6 +143,18 @@ def build_search_plan(config: dict):
         for day in date_chunks(start, end):
             plan.append((f"identity:{term}:{day}", f"{term} in:name created:{day}"))
     return plan
+
+
+def priority_name_evidence(repo_name: str, terms: list[str]):
+    name = repo_name.lower()
+    hits = [term.lower() for term in terms if term.lower() in name]
+    if any(name == term for term in hits):
+        return 8, hits
+    if any(name.startswith(term) or name.endswith(term) for term in hits):
+        return 6, hits
+    if hits:
+        return 4, hits
+    return 0, []
 
 
 def decode_blob(api: GitHub, full_name: str, sha: str) -> str:
@@ -180,6 +197,9 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         [repo.get("owner", {}).get("login", ""), repo.get("name", ""), repo.get("description") or "", searchable]
     ).lower()
     identity_hits = sorted({term for term in config["identity_terms"] if term in identity_haystack})
+    priority_name_bonus, priority_name_hits = priority_name_evidence(
+        repo["name"], config["priority_name_terms"]
+    )
     # The forgotten account is personal. Organization documentation sites
     # dominate Pages results and produce overwhelming false positives.
     if repo.get("owner", {}).get("type") != "User":
@@ -200,6 +220,7 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
     if post_files:
         score += 2
     score += min(5, len(identity_hits) * 3)
+    score += priority_name_bonus
 
     if score < config["minimum_candidate_score"]:
         return None
@@ -217,6 +238,8 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         "pushed_at": pushed,
         "workflow_markers": markers,
         "identity_hits": identity_hits,
+        "priority_name_hits": priority_name_hits,
+        "priority_name_bonus": priority_name_bonus,
         "image_count": len(image_paths),
         "probable_photo_count": len(probable_photos),
         "sample_photos": probable_photos[:20],
@@ -248,6 +271,7 @@ def render_report(candidates: list[dict], state: dict):
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
             f"- Pages workflow: `{', '.join(item['workflow_markers'])}`",
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
+            f"- Priority-name hits / bonus: `{', '.join(item.get('priority_name_hits', [])) or 'none'}` / `+{item.get('priority_name_bonus', 0)}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
             f"- Sample posts: `{', '.join(item['sample_posts']) or 'none'}`",
             f"- Sample photos: `{', '.join(item['sample_photos']) or 'none'}`",
@@ -271,6 +295,25 @@ def render_progress(plan: list[tuple[str, str]], state: dict, candidates: list[d
     owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
     percent = (completed / len(plan) * 100) if plan else 100.0
     stats = state.get("stats", {})
+    priority_terms = load_json(CONFIG_PATH, {}).get("priority_name_terms", [])
+    stage_specs = [
+        (term, lambda key, term=term: key.startswith(f"named:{term}:"))
+        for term in priority_terms
+    ] + [
+        ("username.github.io", lambda key: key.startswith("personal:")),
+        (
+            "other site names",
+            lambda key: key.startswith("named:")
+            and not any(key.startswith(f"named:{term}:") for term in priority_terms),
+        ),
+        ("identity fragments", lambda key: key.startswith("identity:")),
+    ]
+    stage_rows = []
+    for label, matches in stage_specs:
+        keys = [key for key, _ in plan if matches(key)]
+        done = sum(bool(searches.get(key, {}).get("complete")) for key in keys)
+        stage_percent = (done / len(keys) * 100) if keys else 100.0
+        stage_rows.append(f"| {label} | {done:,} / {len(keys):,} | {stage_percent:.1f}% |")
     lines = [
         "# Search progress",
         "",
@@ -284,6 +327,12 @@ def render_progress(plan: list[tuple[str, str]], state: dict, candidates: list[d
         f"- Last run (UTC): `{stats.get('last_run_utc')}`",
         f"- Last API requests used: **{stats.get('last_api_requests', 0):,}**",
         f"- Last stop reason: `{stats.get('last_error') or 'none'}`",
+        "",
+        "## Progress by stage",
+        "",
+        "| Stage | Completed | Progress |",
+        "|---|---:|---:|",
+        *stage_rows,
         "",
         "The task percentage is exact for the current strategy. The account total is",
         "dynamic because different queries overlap and GitHub does not expose a global",
@@ -304,6 +353,12 @@ def main():
     for item in candidates:
         old_hits = item.pop("content_hits", [])
         item["score"] = max(0, item.get("score", 0) - min(4, len(old_hits) * 2))
+        if "priority_name_bonus" not in item:
+            repo_name = item.get("repository", "/").split("/", 1)[-1]
+            bonus, hits = priority_name_evidence(repo_name, config["priority_name_terms"])
+            item["priority_name_bonus"] = bonus
+            item["priority_name_hits"] = hits
+            item["score"] = item.get("score", 0) + bonus
     api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
     plan = build_search_plan(config)
     processed = set(state.get("processed_repositories", []))

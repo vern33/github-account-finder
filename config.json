@@ -2,7 +2,8 @@
   "target_created_from": "2023-08-01",
   "target_created_to": "2023-10-31",
   "identity_terms": ["jess", "jessie", "jesse", "liu", "xuan", "lx"],
-  "site_name_terms": ["blog", "photo", "photos", "album", "travel", "homepage", "home", "site", "hexo", "hugo", "jekyll"],
+  "priority_name_terms": ["blog", "pages"],
+  "site_name_terms": ["photo", "photos", "album", "travel", "homepage", "home", "site", "hexo", "hugo", "jekyll"],
   "workflow_markers": [
     "actions/deploy-pages",
     "actions/upload-pages-artifact",
