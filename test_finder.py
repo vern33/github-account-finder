@@ -56,6 +56,8 @@ class FinderTests(unittest.TestCase):
         self.assertEqual(tasks[0]["stage"], "users")
         self.assertEqual(tasks[-1]["stage"], "personal")
         self.assertFalse({task["stage"] for task in tasks} & {"blog", "pages", "other"})
+        self.assertNotIn("jesse", self.config["identity"]["name_primary"])
+        self.assertNotIn("jesse", self.config["user_search_seeds"])
         self.assertIn("in:login,name", finder.task_query(tasks[0]))
 
     def test_identity_tiers_and_number_boundaries(self):

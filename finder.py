@@ -304,7 +304,7 @@ def identity_tier(login: str, profile_hits: list[str], commit_hits: list[str], c
         return 2
     families = set()
     lowered = login.lower()
-    if "jess" in lowered or "jessie" in lowered or "jesse" in lowered:
+    if "jess" in lowered or "jessie" in lowered:
         families.add("jess")
     if "liu" in lowered or "jliu" in lowered:
         families.add("liu")
