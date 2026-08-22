@@ -10,7 +10,7 @@
     "nickname_low": ["xiaxiatian", "xiatian", "littlesummer"],
     "content_only": ["小夏天", "xiamen", "鼓浪屿", "gulangyu", "山", "mountain", "hike", "爬山"]
   },
-  "user_search_seeds": ["jessieliu", "liujessie", "jessie", "liuxuan", "xuanliu", "liu", "xuan", "jliu", "0503", "110503", "20110503", "xiaxiatian"],
+  "user_search_seeds": ["liuxuan", "xuanliu", "jessieliu", "liujessie", "20110503", "110503", "0503", "jliu", "jessie", "liu", "xuan", "jess", "xiaxiatian"],
   "query_result_limits": {
     "personal": 50000,
     "users": 5000,

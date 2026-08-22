@@ -419,16 +419,33 @@ def get_commit_author(api: GitHub, full_name: str):
     }
 
 
-def get_user_pages_repositories(api: GitHub, login: str, max_pages: int):
+def get_user_pages_repositories(
+    api: GitHub,
+    login: str,
+    max_pages: int,
+    created_from: str,
+    created_to: str,
+):
     repositories = []
     for page in range(1, max_pages + 1):
         params = urllib.parse.urlencode(
-            {"per_page": 100, "page": page, "type": "owner", "sort": "updated"}
+            {
+                "per_page": 100,
+                "page": page,
+                "type": "owner",
+                "sort": "created",
+                "direction": "desc",
+            }
         )
         items = api.request(
             f"/users/{urllib.parse.quote(login, safe='')}/repos?{params}"
         ) or []
-        repositories.extend(repo for repo in items if repo.get("has_pages"))
+        for repo in items:
+            if not repo.get("has_pages"):
+                continue
+            created = (repo.get("created_at") or "")[:10]
+            if created_from <= created <= created_to:
+                repositories.append(repo)
         if len(items) < 100:
             break
     return repositories
@@ -721,7 +738,11 @@ def main():
                         if not login or login.lower() in processed_identity_users:
                             continue
                         repositories_to_check = get_user_pages_repositories(
-                            api, login, int(config.get("user_repo_pages", 2))
+                            api,
+                            login,
+                            int(config.get("user_repo_pages", 2)),
+                            config["target_created_from"],
+                            config["target_created_to"],
                         )
                         stats["user_pages_repositories_seen"] = (
                             stats.get("user_pages_repositories_seen", 0)

@@ -54,11 +54,31 @@ class FinderTests(unittest.TestCase):
     def test_user_centric_stage_order_and_query(self):
         tasks = finder.seed_search_tasks(self.config)
         self.assertEqual(tasks[0]["stage"], "users")
+        self.assertEqual(tasks[0]["term"], "liuxuan")
+        self.assertEqual(tasks[1]["term"], "xuanliu")
         self.assertEqual(tasks[-1]["stage"], "personal")
         self.assertFalse({task["stage"] for task in tasks} & {"blog", "pages", "other"})
         self.assertNotIn("jesse", self.config["identity"]["name_primary"])
         self.assertNotIn("jesse", self.config["user_search_seeds"])
         self.assertIn("in:login,name", finder.task_query(tasks[0]))
+
+    def test_user_pages_repositories_are_date_filtered_before_inspection(self):
+        class RepoListAPI:
+            def request(self, path, **_kwargs):
+                self.path = path
+                return [
+                    {"name": "target", "has_pages": True, "created_at": "2023-08-20T00:00:00Z"},
+                    {"name": "future", "has_pages": True, "created_at": "2026-01-01T00:00:00Z"},
+                    {"name": "not-pages", "has_pages": False, "created_at": "2023-09-01T00:00:00Z"},
+                ]
+
+        api = RepoListAPI()
+        repositories = finder.get_user_pages_repositories(
+            api, "someone", 3, "2023-06-01", "2023-10-15"
+        )
+        self.assertEqual([repo["name"] for repo in repositories], ["target"])
+        self.assertIn("sort=created", api.path)
+        self.assertIn("direction=desc", api.path)
 
     def test_identity_tiers_and_number_boundaries(self):
         self.assertEqual(finder.identity_tier("liuxuan0503", [], [], self.config), 2)

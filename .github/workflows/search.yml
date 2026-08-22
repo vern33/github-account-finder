@@ -8,7 +8,7 @@ on:
       max_api_requests:
         description: Maximum core API requests in this run
         required: false
-        default: "950"
+        default: "4500"
 
 concurrency:
   group: github-account-finder
@@ -20,7 +20,7 @@ permissions:
 jobs:
   search:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v5
         with:
@@ -32,8 +32,8 @@ jobs:
 
       - name: Search GitHub
         env:
-          GH_TOKEN: ${{ github.token }}
-          MAX_API_REQUESTS: ${{ github.event.inputs.max_api_requests || '950' }}
+          GH_TOKEN: ${{ secrets.SEARCH_PAT || github.token }}
+          MAX_API_REQUESTS: ${{ github.event.inputs.max_api_requests || '4500' }}
         run: python finder.py
 
       - name: Commit progress and candidates

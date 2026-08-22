@@ -22,7 +22,8 @@ Stages run in this order:
 1. **Users:** search every configured identity/name/number seed with GitHub's
    `in:login,name`, `created:2023-06-01..2023-10-15`, and `type:user`
    qualifiers. For each result, inspect up to 300 public repositories and keep
-   every repository with Pages enabled.
+   every Pages repository created inside the target 2023 window. Later Pages
+   repositories are discarded before tree, commit, profile, or workflow reads.
 2. **Identity repository names:** search Pages candidates through repository
    names containing the primary and component name tokens.
 3. **Strict personal Pages fallback:** search `github.io in:name` last and only
@@ -63,9 +64,10 @@ longer unrelated number.
 - [`state.json`](state.json): durable cursors and de-duplication state.
 - [`progress.md`](progress.md): overall and per-stage progress.
 
-The scheduled workflow runs hourly and commits changed outputs. It uses only the
-repository-scoped `${{ github.token }}` and does not consume a local or
-personal GitHub API quota.
+The scheduled workflow runs hourly and commits changed outputs. Search API calls
+use the read-only `SEARCH_PAT` Actions secret when configured and otherwise fall
+back to the repository-scoped `${{ github.token }}`. Checkout and result pushes
+continue to use `github.token`; the PAT is exposed only to the Python search step.
 
 ## Manual run
 
