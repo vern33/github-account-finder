@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Higher scores should be reviewed first.
 
-Last run: `2026-08-22T07:00:38.387602+00:00`  
-Repositories inspected: `22972`  
-Candidates: `258`
+Last run: `2026-08-22T08:49:00.958432+00:00`  
+Repositories inspected: `23210`  
+Candidates: `261`
 
 <details>
 <summary><strong>24 points — <a href="https://github.com/75py/blog">75py/blog</a></strong> · probable photos 7 · identity none</summary>
@@ -1124,6 +1124,112 @@ Candidates: `258`
 - `assets/img/creative-coding-like-an-artist-aa762c84.png`
 - `assets/img/creative-coding-like-an-artist-e55d0807.png`
 - `assets/img/creative-coding-like-an-artist-preview-aa762c84.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>22 points — <a href="https://github.com/3colorr/Mizuame-pages">3colorr/Mizuame-pages</a></strong> · probable photos 19 · identity none</summary>
+
+- Owner: [3colorr](https://github.com/3colorr)
+- Created / pushed: `2023-08-01T12:11:58Z` / `2025-12-19T03:07:11Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `pages` / `+6`
+- Images / probable photos: `20` / `19`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/en/post/Important.md`
+- `content/en/post/New-Release.-Mizuame-v0.1.0.md`
+- `content/en/post/New-Release.-Mizuame-v1.0.2.md`
+- `content/en/post/New-Release.-Mizuame-v1.1.0.md`
+- `content/en/post/New-Release.-Mizuame-v1.1.1.md`
+- `content/en/post/New-Release.-Mizuame-v1.1.3.md`
+- `content/en/post/New-Release.-Mizuame-v1.2.0.md`
+- `content/en/post/New-Release.-Mizuame-v1.2.1.md`
+- `content/en/post/New-Release.-Mizuame-v1.2.2.md`
+- `content/en/post/New-Release.-Mizuame-v1.2.3.md`
+- `content/en/post/New-Release.-Mizuame-v1.3.0.md`
+- `content/en/post/New-Release.-Mizuame-v1.3.1.md`
+
+</details>
+
+<details><summary>Sample photos (19)</summary>
+
+- `static/images/bold-itaric-codeblock.png`
+- `static/images/formula.png`
+- `static/images/header.png`
+- `static/images/hidden-menu.png`
+- `static/images/list.png`
+- `static/images/mizuame-app-512x512.png`
+- `static/images/ordered-list.png`
+- `static/images/sample-bar-image.png`
+- `static/images/sample-dark.png`
+- `static/images/sample-light.png`
+- `static/images/sample-markdown-double-click.png`
+- `static/images/sample-markdown-menu-1.png`
+- `static/images/sample-markdown-menu-2.png`
+- `static/images/sample-markdown-note.png`
+- `static/images/sample-markdown-view.png`
+- `static/images/sample-theme-image-blue.png`
+- `static/images/sample-theme-image-gray.png`
+- `static/images/sample-theme-image-pink.png`
+- `static/images/tab-help-markdown-syntax.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>22 points — <a href="https://github.com/AddonSBC/Lupo-Pages">AddonSBC/Lupo-Pages</a></strong> · probable photos 61 · identity none</summary>
+
+- Owner: [AddonSBC](https://github.com/AddonSBC)
+- Created / pushed: `2023-08-10T21:23:19Z` / `2023-09-16T20:42:18Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `pages` / `+6`
+- Images / probable photos: `79` / `61`
+
+<details><summary>Sample posts (11)</summary>
+
+- `_posts/2021-01-25-single-neuron-perceptron.markdown`
+- `_posts/2021-02-10-conways-game-of-life.markdown`
+- `_posts/2021-02-28-ML-Library-from-scratch.md`
+- `_posts/2021-03-12-neural-network-optimization-methods.markdown`
+- `_posts/2021-03-18-deep-q-learning-tic-tac-toe.md`
+- `_posts/2021-03-24-starting-the-adventure.md`
+- `_posts/2021-04-02-back-to-basics.md`
+- `_posts/2021-04-20-AI-and-intellectual-property.md`
+- `_posts/About.md`
+- `_posts/Services.md`
+- `_posts/Speakers.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/404.jpg`
+- `assets/img/404_small.jpg`
+- `assets/img/Myself_Neon.jpg`
+- `assets/img/Myself_Neon_grey.jpg`
+- `assets/img/branding/background.jpg`
+- `assets/img/posts/20210125/Learning_1000_points_per_iteration.jpg`
+- `assets/img/posts/20210125/Perceptron.jpg`
+- `assets/img/posts/20210125/Perceptron.png`
+- `assets/img/posts/20210210/300px-TRS-80_Color_Computer_3.jpg`
+- `assets/img/posts/20210210/GameOfLife2.png`
+- `assets/img/posts/20210210/Game_of_Life.jpg`
+- `assets/img/posts/20210228/Final_XOR_Plot.jpg`
+- `assets/img/posts/20210228/MLLibrary.jpg`
+- `assets/img/posts/20210228/ML_cloud.jpg`
+- `assets/img/posts/20210228/Surface_XOR.jpg`
+- `assets/img/posts/20210228/xor_problem.png`
+- `assets/img/posts/20210312/nnet_optimization.jpg`
+- `assets/img/posts/20210318/Game_Screen.png`
+- `assets/img/posts/20210318/Game_Screen2.png`
+- `assets/img/posts/20210318/LR_cycle_decay.png`
 
 </details>
 
@@ -6955,6 +7061,31 @@ None.
 - `public/assets/img/img-blogs/img-desktop/microsoft-build-full.webp`
 - `public/assets/img/img-blogs/img-desktop/platzi-conf-22-full.webp`
 - `public/assets/img/img-blogs/img-desktop/platzi-conf-full.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/ejoghems/pages-site">ejoghems/pages-site</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [ejoghems](https://github.com/ejoghems)
+- Created / pushed: `2023-08-09T13:56:11Z` / `2023-08-09T16:10:36Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `pages` / `+6`
+- Images / probable photos: `2` / `1`
+
+<details><summary>Sample posts (2)</summary>
+
+- `site/content/posts/post-001.md`
+- `site/content/posts/post-002.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `site/themes/hugo-PaperMod-7.0/images/tn.png`
 
 </details>
 

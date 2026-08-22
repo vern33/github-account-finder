@@ -10226,5 +10226,151 @@
     ],
     "description": "Next.js Static Blog from Markdown Files",
     "first_seen_utc": "2026-08-22T07:06:45.749913+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "3colorr",
+    "repository": "3colorr/Mizuame-pages",
+    "url": "https://github.com/3colorr/Mizuame-pages",
+    "pages_url": "https://3colorr.github.io/Mizuame-pages/",
+    "created_at": "2023-08-01T12:11:58Z",
+    "pushed_at": "2025-12-19T03:07:11Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "pages"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 20,
+    "probable_photo_count": 19,
+    "sample_photos": [
+      "static/images/bold-itaric-codeblock.png",
+      "static/images/formula.png",
+      "static/images/header.png",
+      "static/images/hidden-menu.png",
+      "static/images/list.png",
+      "static/images/mizuame-app-512x512.png",
+      "static/images/ordered-list.png",
+      "static/images/sample-bar-image.png",
+      "static/images/sample-dark.png",
+      "static/images/sample-light.png",
+      "static/images/sample-markdown-double-click.png",
+      "static/images/sample-markdown-menu-1.png",
+      "static/images/sample-markdown-menu-2.png",
+      "static/images/sample-markdown-note.png",
+      "static/images/sample-markdown-view.png",
+      "static/images/sample-theme-image-blue.png",
+      "static/images/sample-theme-image-gray.png",
+      "static/images/sample-theme-image-pink.png",
+      "static/images/tab-help-markdown-syntax.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/en/post/Important.md",
+      "content/en/post/New-Release.-Mizuame-v0.1.0.md",
+      "content/en/post/New-Release.-Mizuame-v1.0.2.md",
+      "content/en/post/New-Release.-Mizuame-v1.1.0.md",
+      "content/en/post/New-Release.-Mizuame-v1.1.1.md",
+      "content/en/post/New-Release.-Mizuame-v1.1.3.md",
+      "content/en/post/New-Release.-Mizuame-v1.2.0.md",
+      "content/en/post/New-Release.-Mizuame-v1.2.1.md",
+      "content/en/post/New-Release.-Mizuame-v1.2.2.md",
+      "content/en/post/New-Release.-Mizuame-v1.2.3.md",
+      "content/en/post/New-Release.-Mizuame-v1.3.0.md",
+      "content/en/post/New-Release.-Mizuame-v1.3.1.md"
+    ],
+    "description": "Home page about the Mizuame",
+    "first_seen_utc": "2026-08-22T08:49:24.949279+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "ejoghems",
+    "repository": "ejoghems/pages-site",
+    "url": "https://github.com/ejoghems/pages-site",
+    "pages_url": "https://ejoghems.github.io/pages-site/",
+    "created_at": "2023-08-09T13:56:11Z",
+    "pushed_at": "2023-08-09T16:10:36Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "pages"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "site/themes/hugo-PaperMod-7.0/images/tn.png"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "site/content/posts/post-001.md",
+      "site/content/posts/post-002.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T08:49:36.893512+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "AddonSBC",
+    "repository": "AddonSBC/Lupo-Pages",
+    "url": "https://github.com/AddonSBC/Lupo-Pages",
+    "pages_url": "https://AddonSBC.github.io/Lupo-Pages/",
+    "created_at": "2023-08-10T21:23:19Z",
+    "pushed_at": "2023-09-16T20:42:18Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "pages"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 79,
+    "probable_photo_count": 61,
+    "sample_photos": [
+      "assets/img/404.jpg",
+      "assets/img/404_small.jpg",
+      "assets/img/Myself_Neon.jpg",
+      "assets/img/Myself_Neon_grey.jpg",
+      "assets/img/branding/background.jpg",
+      "assets/img/posts/20210125/Learning_1000_points_per_iteration.jpg",
+      "assets/img/posts/20210125/Perceptron.jpg",
+      "assets/img/posts/20210125/Perceptron.png",
+      "assets/img/posts/20210210/300px-TRS-80_Color_Computer_3.jpg",
+      "assets/img/posts/20210210/GameOfLife2.png",
+      "assets/img/posts/20210210/Game_of_Life.jpg",
+      "assets/img/posts/20210228/Final_XOR_Plot.jpg",
+      "assets/img/posts/20210228/MLLibrary.jpg",
+      "assets/img/posts/20210228/ML_cloud.jpg",
+      "assets/img/posts/20210228/Surface_XOR.jpg",
+      "assets/img/posts/20210228/xor_problem.png",
+      "assets/img/posts/20210312/nnet_optimization.jpg",
+      "assets/img/posts/20210318/Game_Screen.png",
+      "assets/img/posts/20210318/Game_Screen2.png",
+      "assets/img/posts/20210318/LR_cycle_decay.png"
+    ],
+    "post_count_sampled": 11,
+    "sample_posts": [
+      "_posts/2021-01-25-single-neuron-perceptron.markdown",
+      "_posts/2021-02-10-conways-game-of-life.markdown",
+      "_posts/2021-02-28-ML-Library-from-scratch.md",
+      "_posts/2021-03-12-neural-network-optimization-methods.markdown",
+      "_posts/2021-03-18-deep-q-learning-tic-tac-toe.md",
+      "_posts/2021-03-24-starting-the-adventure.md",
+      "_posts/2021-04-02-back-to-basics.md",
+      "_posts/2021-04-20-AI-and-intellectual-property.md",
+      "_posts/About.md",
+      "_posts/Services.md",
+      "_posts/Speakers.md"
+    ],
+    "description": "Test",
+    "first_seen_utc": "2026-08-22T08:49:48.876473+00:00"
   }
 ]
