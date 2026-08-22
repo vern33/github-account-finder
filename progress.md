@@ -1,21 +1,21 @@
 # Search progress
 
-- Adaptive search ranges: **6 / 31 (19.4%)**
-- Current cursor: `blog:blog 2023-08-07..2023-08-07, page 4`
-- Repository results seen: **6,636**
-- Unique repositories investigated: **5,406**
-- Unique account owners investigated: **5,055**
-- Candidates recorded: **82**
-- Workflow runs: **4**
-- Last run (UTC): `2026-08-22T01:51:24.956899+00:00`
-- Last API requests used: **950**
-- Last stop reason: `request budget exhausted`
+- Adaptive search ranges: **8 / 31 (25.8%)**
+- Current cursor: `blog:blog 2023-08-09..2023-08-09, page 2`
+- Repository results seen: **7,675**
+- Unique repositories investigated: **6,354**
+- Unique account owners investigated: **5,905**
+- Candidates recorded: **97**
+- Workflow runs: **5**
+- Last run (UTC): `2026-08-22T03:08:29.912918+00:00`
+- Last API requests used: **296**
+- Last stop reason: `HTTPError: HTTP Error 502: Bad Gateway`
 
 ## Progress by stage
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| blog | 6 / 13 | 46.2% |
+| blog | 8 / 13 | 61.5% |
 | pages | 0 / 1 | 0.0% |
 | username.github.io | 0 / 1 | 0.0% |
 | other site names | 0 / 10 | 0.0% |
