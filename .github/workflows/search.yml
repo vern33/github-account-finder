@@ -46,4 +46,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- state.json candidates.json candidates.md progress.md
           git commit -m "chore: update account search results"
+          git pull --rebase origin main
           git push

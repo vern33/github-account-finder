@@ -1,7 +1,7 @@
 # Search progress
 
-- Adaptive search ranges: **40 / 61 (65.6%)**
-- Current cursor: `pages:pages 2023-08-01..2023-08-12, page 3`
+- Adaptive search ranges: **40 / 67 (59.7%)**
+- Current cursor: `personal:username.github.io 2023-08-01..2023-10-31, page 1`
 - Repository results seen: **24,983**
 - Unique repositories investigated: **23,210**
 - Unique account owners investigated: **20,684**
@@ -16,9 +16,10 @@
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| blog | 40 / 40 | 100.0% |
-| pages | 0 / 4 | 0.0% |
 | username.github.io | 0 / 1 | 0.0% |
+| identity user profiles | 0 / 6 | 0.0% |
+| pages | 0 / 4 | 0.0% |
+| blog | 40 / 40 | 100.0% |
 | other site names | 0 / 10 | 0.0% |
 | identity fragments | 0 / 6 | 0.0% |
 

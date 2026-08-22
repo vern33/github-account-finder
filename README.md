@@ -12,9 +12,13 @@ The workflow prioritizes repositories that:
 4. contain blog posts and multiple likely photographs;
 5. contain identity fragments such as `jess`, `jessie`, `jesse`, `liu`, `xuan`, or `lx` in repository content or ownership metadata.
 
-Search stages run in this order: repository name `blog`, repository name `pages`, strict `username.github.io`, other site-like names, then identity fragments. `blog` and `pages` affect ordering and score only; they are never required. An exact name earns 8 points, a prefix or suffix earns 6, and any other name occurrence earns 4. Each query starts with the full three-month range and is recursively split only when GitHub reports more than 1,000 results; the old fixed set of 1,748 daily queries is no longer used.
+Search stages run in this order: strict `username.github.io`, user logins containing identity fragments, repository name `pages`, repository name `blog`, other site-like names, then repository-name identity fragments. `blog` and `pages` affect score only; they are never required. An exact name earns 8 points, a prefix or suffix earns 6, and any other name occurrence earns 4. Each query starts with the full three-month range and is recursively split only when GitHub reports more than 1,000 results; the old fixed set of 1,748 daily queries is no longer used.
 
-Broad query groups have result caps so a generic word cannot consume the entire search budget. Identity fragments score only when present in the account login or repository name; occurrences inside article text do not count.
+Broad query groups have result caps so a generic word cannot consume the entire search budget. Identity fragments score only when present in the account login, repository name, or public owner profile fields; occurrences inside article text do not count.
+
+GitHub Pages deployment workflows are supporting evidence, not a hard requirement. Repositories with truncated recursive trees are evaluated using the partial tree instead of being discarded. Photo paths include Hexo/Hugo/Jekyll conventions such as `source/_posts`, `content/posts`, `static`, `public`, and `assets`. Public owner profile fields are cached and checked for identity fragments.
+
+The legacy processed-repository set is retained for audit, while the corrected inspection policy writes to a versioned v2 set. This lets high-value personal/user searches re-evaluate repositories that the former workflow/truncation hard filters may have rejected, without losing old progress.
 
 Location, language, remembered wording, article count, and activity after 2023 are **not** filters. No travel or place words are used for scoring because the remembered text is uncertain.
 Organization-owned Pages sites are excluded because the missing account was a personal account. During the personal-site phase, a repository must be named exactly `owner.github.io`; this avoids spending API requests on unrelated repositories whose names merely contain `github.io`.

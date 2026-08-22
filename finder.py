@@ -10,6 +10,7 @@ from __future__ import annotations
 import base64
 import datetime as dt
 import html
+import http.client
 import json
 import os
 import re
@@ -28,7 +29,11 @@ REPORT_PATH = ROOT / "candidates.md"
 PROGRESS_PATH = ROOT / "progress.md"
 
 IMAGE_RE = re.compile(r"\.(?:jpe?g|png|webp|heic)$", re.I)
-REAL_PHOTO_RE = re.compile(r"(?:^|/)(?:img|images?|photos?|album|gallery|uploads?)/", re.I)
+REAL_PHOTO_RE = re.compile(
+    r"(?:^|/)(?:img|images?|photos?|album|gallery|uploads?|assets|static|public|"
+    r"source/_posts|content/posts?|posts?)/",
+    re.I,
+)
 NON_PHOTO_RE = re.compile(
     r"(?:favicon|logo|icon|screenshot|screen[-_ ]?shot|banner|avatar|diagram|"
     r"chart|graph|sprite|texture|node_modules|vendor|assets?/icons?)",
@@ -91,7 +96,7 @@ class GitHub:
                     time.sleep(2**attempt)
                     continue
                 raise
-            except (urllib.error.URLError, TimeoutError):
+            except (urllib.error.URLError, TimeoutError, http.client.RemoteDisconnected):
                 if attempt == 3:
                     raise
                 time.sleep(2**attempt)
@@ -100,6 +105,10 @@ class GitHub:
     def search_repositories(self, query: str, page: int):
         params = urllib.parse.urlencode({"q": query, "per_page": 100, "page": page})
         return self.request(f"/search/repositories?{params}", search=True)
+
+    def search_users(self, query: str, page: int):
+        params = urllib.parse.urlencode({"q": query, "per_page": 100, "page": page})
+        return self.request(f"/search/users?{params}", search=True)
 
     def reserve_from_live_limit(self, reserve: int = 30):
         limits = self.request("/rate_limit") or {}
@@ -139,11 +148,15 @@ def seed_search_tasks(config: dict):
     start, end = config["target_created_from"], config["target_created_to"]
     tasks = []
     order = 0
-    for term in config["priority_name_terms"]:
-        tasks.append({"stage": term, "term": term, "start": start, "end": end, "order": order})
-        order += 1
     tasks.append({"stage": "personal", "term": "", "start": start, "end": end, "order": order})
     order += 1
+    for term in config["identity_terms"]:
+        tasks.append({"stage": "users", "term": term, "start": start, "end": end, "order": order})
+        order += 1
+    for term in ["pages", "blog"]:
+        if term in config["priority_name_terms"]:
+            tasks.append({"stage": term, "term": term, "start": start, "end": end, "order": order})
+            order += 1
     for term in config["site_name_terms"]:
         tasks.append({"stage": "other", "term": term, "start": start, "end": end, "order": order})
         order += 1
@@ -158,11 +171,23 @@ def initialize_adaptive_tasks(state: dict, config: dict):
     for seed in seed_search_tasks(config):
         key = task_key(seed["stage"], seed["term"], seed["start"], seed["end"])
         tasks.setdefault(key, {**seed, "page": 1, "complete": False, "split": False})
+    # Strategy upgrades may reorder existing persisted tasks. Refresh order
+    # from the current seed plan without clearing any cursor or completion data.
+    current_orders = {
+        (seed["stage"], seed["term"]): seed["order"]
+        for seed in seed_search_tasks(config)
+    }
+    for task in tasks.values():
+        task["order"] = current_orders.get(
+            (task["stage"], task["term"]), task.get("order", 9999)
+        )
     return tasks
 
 
 def task_query(task: dict):
     created = f"created:{task['start']}..{task['end']}"
+    if task["stage"] == "users":
+        return f"{task['term']} in:login {created} type:user"
     if task["stage"] == "personal":
         return f"github.io in:name {created}"
     return f"{task['term']} in:name {created}"
@@ -236,6 +261,45 @@ def priority_name_evidence(repo_name: str, terms: list[str]):
     return 0, []
 
 
+def identity_evidence(owner: str, repo_name: str, profile: dict, terms: list[str]):
+    direct_source = f"{owner} {repo_name}".lower()
+    direct_hits = sorted({term for term in terms if term in direct_source})
+    profile_source = " ".join(
+        str(profile.get(field) or "")
+        for field in ("name", "bio", "blog", "email", "location", "twitter_username")
+    ).lower()
+    profile_hits = []
+    for term in terms:
+        if term == "lx":
+            matched = bool(re.search(r"(?<![a-z0-9])lx(?![a-z0-9])", profile_source))
+        else:
+            matched = term in profile_source
+        if matched:
+            profile_hits.append(term)
+    return direct_hits, sorted(set(profile_hits))
+
+
+def calculate_score(item: dict, config: dict):
+    score = 0
+    if item.get("workflow_markers"):
+        score += 5
+    if item.get("is_personal_pages"):
+        score += 5
+    created = (item.get("created_at") or "")[:10]
+    if config["target_created_from"] <= created <= config["target_created_to"]:
+        score += 4
+    if item.get("probable_photo_count", 0) >= config["minimum_photo_count"]:
+        score += 5
+    elif item.get("image_count", 0):
+        score += 1
+    if item.get("post_count_sampled", 0):
+        score += 2
+    score += min(5, len(item.get("identity_hits", [])) * 3)
+    score += min(4, len(item.get("profile_identity_hits", [])) * 2)
+    score += int(item.get("priority_name_bonus", 0))
+    return score
+
+
 def normalize_candidate_scores(candidates: list[dict], config: dict):
     for item in candidates:
         old_content_hits = item.pop("content_hits", [])
@@ -250,19 +314,19 @@ def normalize_candidate_scores(candidates: list[dict], config: dict):
             item["priority_name_bonus"] = bonus
             item["priority_name_hits"] = hits
             item["score"] = item.get("score", 0) + bonus
-        old_identity_hits = item.get("identity_hits", [])
-        old_identity_bonus = min(5, len(old_identity_hits) * 3)
-        identity_source = " ".join(
-            [item.get("owner", ""), item.get("repository", "").split("/", 1)[-1]]
-        ).lower()
-        new_identity_hits = sorted(
-            {term for term in config["identity_terms"] if term in identity_source}
+        repo_name = item.get("repository", "").split("/", 1)[-1]
+        direct_hits, profile_hits = identity_evidence(
+            item.get("owner", ""),
+            repo_name,
+            item.get("owner_profile", {}),
+            config["identity_terms"],
         )
-        new_identity_bonus = min(5, len(new_identity_hits) * 3)
-        item["score"] = max(
-            0, item.get("score", 0) - old_identity_bonus + new_identity_bonus
+        item["identity_hits"] = direct_hits
+        item["profile_identity_hits"] = profile_hits
+        item["is_personal_pages"] = repo_name.lower() == (
+            f"{item.get('owner', '').lower()}.github.io"
         )
-        item["identity_hits"] = new_identity_hits
+        item["score"] = calculate_score(item, config)
 
 
 def decode_blob(api: GitHub, full_name: str, sha: str) -> str:
@@ -275,15 +339,34 @@ def decode_blob(api: GitHub, full_name: str, sha: str) -> str:
         return ""
 
 
-def inspect_repository(api: GitHub, repo: dict, config: dict):
+def get_owner_profile(api: GitHub, login: str, profile_cache: dict):
+    key = login.lower()
+    if key not in profile_cache:
+        data = api.request(f"/users/{urllib.parse.quote(login, safe='')}") or {}
+        profile_cache[key] = {
+            field: data.get(field)
+            for field in (
+                "name", "bio", "blog", "email", "location", "twitter_username",
+                "created_at",
+            )
+        }
+    return profile_cache[key]
+
+
+def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dict):
     full_name = repo["full_name"]
     pushed = repo.get("pushed_at") or ""
     if not repo.get("has_pages"):
         return None
+    if repo.get("owner", {}).get("type") != "User":
+        return None
+    owner = repo.get("owner", {}).get("login", "")
+    is_personal_pages = repo["name"].lower() == f"{owner.lower()}.github.io"
     branch = repo.get("default_branch") or "main"
     tree_data = api.request(f"/repos/{full_name}/git/trees/{urllib.parse.quote(branch, safe='')}?recursive=1")
-    if not tree_data or tree_data.get("truncated"):
+    if not tree_data:
         return None
+    tree_truncated = bool(tree_data.get("truncated"))
     tree = [item for item in tree_data.get("tree", []) if item.get("type") == "blob"]
     workflow_files = [item for item in tree if WORKFLOW_RE.search(item["path"])]
     post_files = [item for item in tree if POST_RE.search(item["path"])][:12]
@@ -294,7 +377,7 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
     ]
 
     markers = []
-    for item in workflow_files[:8]:
+    for item in workflow_files[:2]:
         workflow_text = decode_blob(api, full_name, item["sha"])
         markers = [
             marker
@@ -303,46 +386,24 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         ]
         if markers:
             break
-    if not markers:
-        return None
-
-    # Identity evidence must come from the account or repository name. Searching
-    # article bodies caused common code fragments such as "lx" and "liu" to
-    # create large numbers of false matches.
-    identity_haystack = " ".join(
-        [repo.get("owner", {}).get("login", ""), repo.get("name", "")]
-    ).lower()
-    identity_hits = sorted({term for term in config["identity_terms"] if term in identity_haystack})
+    profile = get_owner_profile(api, owner, profile_cache)
+    identity_hits, profile_identity_hits = identity_evidence(
+        owner, repo.get("name", ""), profile, config["identity_terms"]
+    )
     priority_name_bonus, priority_name_hits = priority_name_evidence(
         repo["name"], config["priority_name_terms"]
     )
-    # The forgotten account is personal. Organization documentation sites
-    # dominate Pages results and produce overwhelming false positives.
-    if repo.get("owner", {}).get("type") != "User":
-        return None
-    if not (identity_hits or post_files or len(probable_photos) >= config["minimum_photo_count"]):
+    if not (
+        identity_hits
+        or profile_identity_hits
+        or post_files
+        or len(probable_photos) >= config["minimum_photo_count"]
+        or (tree_truncated and is_personal_pages)
+    ):
         return None
 
-    score = 5  # Verified Pages workflow.
-    if repo["name"].lower() == f"{repo['owner']['login'].lower()}.github.io":
-        score += 5
-    created = repo.get("created_at", "")[:10]
-    if config["target_created_from"] <= created <= config["target_created_to"]:
-        score += 4
-    if len(probable_photos) >= config["minimum_photo_count"]:
-        score += 5
-    elif image_paths:
-        score += 1
-    if post_files:
-        score += 2
-    score += min(5, len(identity_hits) * 3)
-    score += priority_name_bonus
-
-    if score < config["minimum_candidate_score"]:
-        return None
-    return {
-        "score": score,
-        "owner": repo["owner"]["login"],
+    candidate = {
+        "owner": owner,
         "repository": full_name,
         "url": repo["html_url"],
         "pages_url": repo.get("homepage") or (
@@ -354,8 +415,12 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         "pushed_at": pushed,
         "workflow_markers": markers,
         "identity_hits": identity_hits,
+        "profile_identity_hits": profile_identity_hits,
+        "owner_profile": profile,
         "priority_name_hits": priority_name_hits,
         "priority_name_bonus": priority_name_bonus,
+        "is_personal_pages": is_personal_pages,
+        "tree_truncated": tree_truncated,
         "image_count": len(image_paths),
         "probable_photo_count": len(probable_photos),
         "sample_photos": probable_photos[:20],
@@ -364,6 +429,10 @@ def inspect_repository(api: GitHub, repo: dict, config: dict):
         "description": repo.get("description"),
         "first_seen_utc": dt.datetime.now(dt.timezone.utc).isoformat(),
     }
+    candidate["score"] = calculate_score(candidate, config)
+    if candidate["score"] < config["minimum_candidate_score"]:
+        return None
+    return candidate
 
 
 def render_report(candidates: list[dict], state: dict):
@@ -380,7 +449,9 @@ def render_report(candidates: list[dict], state: dict):
     if not candidates:
         lines.append("No candidates have been recorded yet.")
     for item in sorted(candidates, key=lambda x: (-x["score"], x["repository"].lower())):
-        identity_summary = ", ".join(item["identity_hits"]) or "none"
+        identity_summary = ", ".join(
+            sorted(set(item["identity_hits"] + item.get("profile_identity_hits", [])))
+        ) or "none"
         summary = (
             f'<summary><strong>{item["score"]} points — '
             f'<a href="{html.escape(item["url"], quote=True)}">'
@@ -396,8 +467,11 @@ def render_report(candidates: list[dict], state: dict):
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
             f"- Pages workflow: `{', '.join(item['workflow_markers'])}`",
             f"- Identity hits: `{', '.join(item['identity_hits']) or 'none'}`",
+            f"- Profile identity hits: `{', '.join(item.get('profile_identity_hits', [])) or 'none'}`",
+            f"- Profile name: `{item.get('owner_profile', {}).get('name') or 'none'}`",
             f"- Priority-name hits / bonus: `{', '.join(item.get('priority_name_hits', [])) or 'none'}` / `+{item.get('priority_name_bonus', 0)}`",
             f"- Images / probable photos: `{item['image_count']}` / `{item['probable_photo_count']}`",
+            f"- Tree truncated: `{item.get('tree_truncated', False)}`",
             "",
         ]
         for label, paths in (("Sample posts", item["sample_posts"]), ("Sample photos", item["sample_photos"])):
@@ -420,13 +494,18 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         f"{pending[0][1]['start']}..{pending[0][1]['end']}, page {pending[0][1].get('page', 1)}"
         if pending else "complete"
     )
-    repositories = state.get("processed_repositories", [])
+    repositories = sorted(
+        set(state.get("processed_repositories", []))
+        | set(state.get("processed_repositories_v2", []))
+    )
     owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
     percent = (completed / len(leaf_tasks) * 100) if leaf_tasks else 100.0
     stats = state.get("stats", {})
     priority_terms = load_json(CONFIG_PATH, {}).get("priority_name_terms", [])
-    stage_specs = [(term, term) for term in priority_terms] + [
+    stage_specs = [
         ("username.github.io", "personal"),
+        ("identity user profiles", "users"),
+    ] + [(term, term) for term in ("pages", "blog") if term in priority_terms] + [
         ("other site names", "other"),
         ("identity fragments", "identity"),
     ]
@@ -477,7 +556,11 @@ def main():
     api = GitHub(token, int(os.environ.get("MAX_API_REQUESTS", "950")))
     tasks = initialize_adaptive_tasks(state, config)
     enforce_query_result_limits(tasks, config)
-    processed = set(state.get("processed_repositories", []))
+    # Version the inspection set when hard filters change. Keep the legacy set
+    # for audit/progress, but allow high-value searches to re-evaluate repos
+    # that an older strategy may have incorrectly rejected.
+    processed = set(state.get("processed_repositories_v2", []))
+    profile_cache = state.setdefault("owner_profiles", {})
     by_repo = {item["repository"].lower(): item for item in candidates}
     state.setdefault("searches", {})  # Retain legacy daily cursors as history.
     stats = state.setdefault("stats", {})
@@ -490,7 +573,10 @@ def main():
         while pending_tasks(tasks):
             key, cursor = pending_tasks(tasks)[0]
             while not cursor["complete"]:
-                result = api.search_repositories(task_query(cursor), cursor["page"])
+                if cursor["stage"] == "users":
+                    result = api.search_users(task_query(cursor), cursor["page"])
+                else:
+                    result = api.search_repositories(task_query(cursor), cursor["page"])
                 if not result:
                     cursor["complete"] = True
                     break
@@ -501,7 +587,19 @@ def main():
                         break
                 items = result.get("items", [])
                 stats["repositories_seen"] = stats.get("repositories_seen", 0) + len(items)
-                for repo in items:
+                for item in items:
+                    if cursor["stage"] == "users":
+                        login = item.get("login", "")
+                        if not login:
+                            continue
+                        repo = api.request(
+                            f"/repos/{urllib.parse.quote(login, safe='')}/"
+                            f"{urllib.parse.quote(login + '.github.io', safe='')}"
+                        )
+                        if not repo:
+                            continue
+                    else:
+                        repo = item
                     if cursor["stage"] == "personal" and repo["name"].lower() != (
                         f"{repo['owner']['login'].lower()}.github.io"
                     ):
@@ -509,7 +607,7 @@ def main():
                     full_name = repo["full_name"].lower()
                     if full_name in processed:
                         continue
-                    candidate = inspect_repository(api, repo, config)
+                    candidate = inspect_repository(api, repo, config, profile_cache)
                     processed.add(full_name)
                     stats["repositories_inspected"] = stats.get("repositories_inspected", 0) + 1
                     if candidate:
@@ -526,7 +624,7 @@ def main():
     finally:
         stats["last_api_requests"] = api.used
         stats["last_api_budget"] = api.budget
-        state["processed_repositories"] = sorted(processed)
+        state["processed_repositories_v2"] = sorted(processed)
         save_json(STATE_PATH, state)
         candidate_list = list(by_repo.values())
         save_json(CANDIDATES_PATH, candidate_list)
