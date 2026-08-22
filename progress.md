@@ -1,17 +1,17 @@
 # Search progress
 
-- Adaptive search ranges: **40 / 74 (54.1%)**
-- Current cursor: `personal:username.github.io 2023-08-01..2023-08-01, page 9`
-- Repository results seen: **25,883**
+- Adaptive search ranges: **41 / 74 (55.4%)**
+- Current cursor: `personal:username.github.io 2023-08-02..2023-08-02, page 5`
+- Repository results seen: **26,583**
 - User search results seen: **0**
 - Pages repositories found through users: **0**
 - Identity users fully checked: **0**
 - Unique repositories investigated: **23,210**
 - Unique account owners investigated: **20,684**
-- Candidates recorded: **398**
+- Candidates recorded: **694**
 - Ranges stopped by result caps: **5**
-- Workflow runs: **11**
-- Last run (UTC): `2026-08-22T09:43:59.551833+00:00`
+- Workflow runs: **12**
+- Last run (UTC): `2026-08-22T10:41:42.029198+00:00`
 - Last API requests used: **950**
 - Last stop reason: `request budget exhausted`
 
@@ -19,7 +19,7 @@
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| username.github.io | 0 / 8 | 0.0% |
+| username.github.io | 1 / 8 | 12.5% |
 | identity user profiles | 0 / 6 | 0.0% |
 | pages | 0 / 4 | 0.0% |
 | blog | 40 / 40 | 100.0% |
