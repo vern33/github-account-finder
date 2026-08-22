@@ -7093,5 +7093,1608 @@
     ],
     "description": "low effort, Wasm based blog",
     "first_seen_utc": "2026-08-22T04:59:37.826241+00:00"
+  },
+  {
+    "score": 16,
+    "owner": "rliao569",
+    "repository": "rliao569/Ryan-Blog-theREAL",
+    "url": "https://github.com/rliao569/Ryan-Blog-theREAL",
+    "pages_url": "https://rliao569.github.io/Ryan-Blog-theREAL/",
+    "created_at": "2023-08-22T05:35:50Z",
+    "pushed_at": "2024-02-28T06:21:35Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 5,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/extensions.png",
+      "images/instancesAWS.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-01-11-TeamTeachTicket_IPYNB_2_.md",
+      "_posts/2023-08-15-Tools_Sprint.md",
+      "_posts/2023-08-16-Tools_Equipment.md",
+      "_posts/2023-08-17-AP-pseudo-vs-python_IPYNB_2_.md",
+      "_posts/2023-08-21-GitHub_Pages.md",
+      "_posts/2023-08-21-VSCode-GitHub_Pages_IPYNB_2_.md",
+      "_posts/2023-08-28-basics-home_IPYNB_2_.md",
+      "_posts/2023-08-28-basics-html_IPYNB_2_.md",
+      "_posts/2023-08-29-basics-of-js_IPYNB_2_.md",
+      "_posts/2023-08-30-basics-js-data-types_IPYNB_2_.md",
+      "_posts/2023-08-30-basics-js-with-html_IPYNB_2_.md",
+      "_posts/2023-08-30-snake_IPYNB_2_.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:44:07.517390+00:00"
+  },
+  {
+    "score": 23,
+    "owner": "vablings",
+    "repository": "vablings/blog",
+    "url": "https://github.com/vablings/blog",
+    "pages_url": "https://vablings.github.io/blog/",
+    "created_at": "2023-08-23T08:01:43Z",
+    "pushed_at": "2026-01-01T00:02:14Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 1,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-01-01-Log Report1.md",
+      "_posts/2023-01-01-Log Report12.md",
+      "_posts/2023-01-01-Log Report14.md",
+      "_posts/2023-01-01-Log Report2.md",
+      "_posts/2023-01-01-Log Report4.md",
+      "_posts/2023-01-01-Log Report6.md",
+      "_posts/2023-01-01-Log Report7.md",
+      "_posts/2023-01-01-Log Report8.md",
+      "_posts/2023-01-01-Log Report9.md",
+      "_posts/2025-03-30-Inventor.md",
+      "_posts/2025-11-30-Dioxus-auth-guide.md",
+      "_posts/2025-12-10-Yubikey-sudo-auth.md"
+    ],
+    "description": "My clone repository",
+    "first_seen_utc": "2026-08-22T05:44:22.054991+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "tanayp327",
+    "repository": "tanayp327/bloggy",
+    "url": "https://github.com/tanayp327/bloggy",
+    "pages_url": "https://tanayp327.github.io/bloggy/",
+    "created_at": "2023-08-23T07:54:01Z",
+    "pushed_at": "2024-04-26T05:11:23Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 9,
+    "probable_photo_count": 7,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/discord.jpg",
+      "images/extensions.png",
+      "images/freeform.png",
+      "images/instancesAWS.png",
+      "images/photo.jpg",
+      "images/tanayTalking.jpeg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-08-16-week-zero-plans.md",
+      "_posts/2023-08-22-ghpAnatomy.md",
+      "_posts/2023-08-23-week-one-plans copy.md",
+      "_posts/2023-08-24-Tools-Equipment.md",
+      "_posts/2023-08-28-week-two-plans.md",
+      "_posts/2023-08-30-PBL-FE-life.md",
+      "_posts/2023-08-30-PBL-FE-snake.md",
+      "_posts/2023-10-02-testAPI.md",
+      "_posts/2023-12-09-scssHacks.md",
+      "_posts/2023-12-19-RequirementsAndBrainstorm.md",
+      "_posts/2023-12-21-CBquiz.md",
+      "_posts/2024-01-11-KeyAssets.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:44:30.580163+00:00"
+  },
+  {
+    "score": 19,
+    "owner": "llxpy",
+    "repository": "llxpy/llxpy-blog",
+    "url": "https://github.com/llxpy/llxpy-blog",
+    "pages_url": "https://github.com/llxpy",
+    "created_at": "2023-08-23T04:18:02Z",
+    "pushed_at": "2026-08-16T13:16:39Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 3,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "基于 GitHub 数据的开发者个人博客：项目作品集 + 技术文章 + 个人理念，月之暗面式暗色设计。",
+    "first_seen_utc": "2026-08-22T05:44:35.354382+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "Vapb",
+    "repository": "Vapb/vapb-blog",
+    "url": "https://github.com/Vapb/vapb-blog",
+    "pages_url": "https://Vapb.github.io/vapb-blog/",
+    "created_at": "2023-08-23T23:50:09Z",
+    "pushed_at": "2026-03-28T22:50:39Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 113,
+    "probable_photo_count": 108,
+    "sample_photos": [
+      "content/en/posts/images/aws-first-steps/01_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/02_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/03_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/04_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/05_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/06_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/07_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/08_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/09_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/10_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/11_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/12_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/13_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/14_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/15_create_aws_ac.png",
+      "content/en/posts/images/aws-first-steps/16_create_aws_ac.png",
+      "content/en/posts/images/d3js-learning/01_Add_Document_Elements_with_D3.png",
+      "content/en/posts/images/d3js-learning/02_Change_Text_Click_Events.png",
+      "content/en/posts/images/d3js-learning/02_Select_a_Group_of_Elements_with_D3.png",
+      "content/en/posts/images/d3js-learning/03_Get_JSON_JavaScript_XMLHttpRequest_Method.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/en/posts/aws-first-steps.md",
+      "content/en/posts/d3js-learning.md",
+      "content/en/posts/ec2-pricing.md",
+      "content/en/posts/ec2-right-sizing.md",
+      "content/en/posts/normalization.md",
+      "content/en/posts/pg-architecture.md",
+      "content/en/posts/rds-aurora-overview.md",
+      "content/en/posts/rds-availability-rd.md",
+      "content/en/posts/rds-fundamentals.md",
+      "content/en/posts/teams-webhook.md",
+      "content/pt/posts/aurora-features.md",
+      "content/pt/posts/autovacuum-dms-postgresql-incidente.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:44:39.272287+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "t-isaac",
+    "repository": "t-isaac/blog-de-tisaac",
+    "url": "https://github.com/t-isaac/blog-de-tisaac",
+    "pages_url": "https://t-isaac.github.io/blog-de-tisaac",
+    "created_at": "2023-08-23T10:47:24Z",
+    "pushed_at": "2025-11-23T20:54:10Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "images/1015px-Twee_Thalys-treinen_op_Amsterdam_Centraal.jpeg"
+    ],
+    "post_count_sampled": 11,
+    "sample_posts": [
+      "_posts/2023-06-13-scribouilli.md",
+      "_posts/2023-07-03-covid-19 et transport public quel impact a long terme -.md",
+      "_posts/2023-07-04-confiner est-il forcement negatif pour l'economie -.md",
+      "_posts/2023-07-06-pedagogie et reussite une impossible quete -.md",
+      "_posts/2023-07-17-la gratuite des transports publics, une evidence -.md",
+      "_posts/2023-07-20-reponse a ploum (sur le dopage ethique).md",
+      "_posts/2023-09-10-la liberalisation du rail ne commence qu’aujourd’hui.md",
+      "_posts/2024-01-30-continuons de parler de gafam.md",
+      "_posts/2025-07-05-des trains, des voyageurs, des comptages et des petites gares.md",
+      "_posts/2025-08-19-t'es bien gentil avec ton petit velo.md",
+      "_posts/2025-11-23-copresidence ecolo, stop ou encore -.md"
+    ],
+    "description": "Mon site Scribouilli",
+    "first_seen_utc": "2026-08-22T05:44:58.526039+00:00"
+  },
+  {
+    "score": 16,
+    "owner": "liangkyle08",
+    "repository": "liangkyle08/csp-blog-OLD",
+    "url": "https://github.com/liangkyle08/csp-blog-OLD",
+    "pages_url": "https://liangkyle08.github.io/csp-blog-OLD/",
+    "created_at": "2023-08-23T22:39:26Z",
+    "pushed_at": "2023-08-28T21:49:41Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 6,
+    "probable_photo_count": 4,
+    "sample_photos": [
+      "images/2435550.webp",
+      "images/EC2.png",
+      "images/extensions.png",
+      "images/instancesAWS.png"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "_posts/2023-08-15-Tools_Sprint.md",
+      "_posts/2023-08-16-Tools_Equipment.md",
+      "_posts/2023-08-21-GitHub_Pages.md"
+    ],
+    "description": "\"The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.\" - Albert Camus",
+    "first_seen_utc": "2026-08-22T05:44:59.538344+00:00"
+  },
+  {
+    "score": 25,
+    "owner": "ak146",
+    "repository": "ak146/FunnyBlog2.0",
+    "url": "https://github.com/ak146/FunnyBlog2.0",
+    "pages_url": "https://ak146.github.io/FunnyBlog2.0/",
+    "created_at": "2023-08-23T19:46:47Z",
+    "pushed_at": "2024-06-03T17:14:42Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [
+      "liu",
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 13,
+    "probable_photo_count": 7,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/Godzilla test img.jpeg",
+      "images/Test2.png",
+      "images/The Drawing.png",
+      "images/city.jpg",
+      "images/extensions.png",
+      "images/instancesAWS.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-08-15-Tools_Sprint.md",
+      "_posts/2023-08-16-Tools_Equipment.md",
+      "_posts/2023-08-17-AP-pseudo-vs-python_IPYNB_2_.md",
+      "_posts/2023-08-17-Routing-And-Computing_IPYNB_2_.md",
+      "_posts/2023-08-21-GitHub_Pages.md",
+      "_posts/2023-08-21-VSCode-GitHub_Pages_IPYNB_2_.md",
+      "_posts/2023-08-21-snake-game.md",
+      "_posts/2023-08-23-Tanglibles-Week-0_IPYNB_2_.md",
+      "_posts/2023-08-25-Tangibles-Week-1_IPYNB_2_.md",
+      "_posts/2023-08-28-basics-home_IPYNB_2_.md",
+      "_posts/2023-08-28-basics-html_IPYNB_2_.md",
+      "_posts/2023-08-29-basics-of-js_IPYNB_2_.md"
+    ],
+    "description": "personal blog for AP CSP",
+    "first_seen_utc": "2026-08-22T05:45:06.680088+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "mustafa-sadiq",
+    "repository": "mustafa-sadiq/blog",
+    "url": "https://github.com/mustafa-sadiq/blog",
+    "pages_url": "https://blog.mustafasadiq.com/",
+    "created_at": "2023-08-24T00:12:38Z",
+    "pushed_at": "2024-09-17T14:40:39Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "blog.mustafasadiq.com/src/images/profile-pic.png"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "blog.mustafasadiq.com/content/blog/hello-world/index.md",
+      "blog.mustafasadiq.com/content/blog/learning-markdown/index.md"
+    ],
+    "description": "My personal blog",
+    "first_seen_utc": "2026-08-22T05:45:37.499211+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "mvfeng",
+    "repository": "mvfeng/blog",
+    "url": "https://github.com/mvfeng/blog",
+    "pages_url": "https://mvfeng.github.io/blog/",
+    "created_at": "2023-08-24T11:40:18Z",
+    "pushed_at": "2023-09-09T08:31:25Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 61,
+    "probable_photo_count": 31,
+    "sample_photos": [
+      "public/images/404.webp",
+      "public/images/about.webp",
+      "public/images/ainav.png",
+      "public/images/alipay.webp",
+      "public/images/bg.webp",
+      "public/images/bg_dark.webp",
+      "public/images/comment.webp",
+      "public/images/comment_dark.webp",
+      "public/images/psr.webp",
+      "public/images/site_head.png",
+      "public/images/thumb/thumb_1.webp",
+      "public/images/thumb/thumb_10.webp",
+      "public/images/thumb/thumb_11.webp",
+      "public/images/thumb/thumb_12.webp",
+      "public/images/thumb/thumb_13.webp",
+      "public/images/thumb/thumb_14.webp",
+      "public/images/thumb/thumb_15.webp",
+      "public/images/thumb/thumb_16.webp",
+      "public/images/thumb/thumb_17.webp",
+      "public/images/thumb/thumb_18.webp"
+    ],
+    "post_count_sampled": 9,
+    "sample_posts": [
+      "node_modules/.pnpm/hexo-cli@4.3.1/node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+      "node_modules/.pnpm/hexo@6.3.0/node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+      "node_modules/.pnpm/node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+      "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+      "source/_posts/hexo的wikitten主题添加畅言评论.md",
+      "source/_posts/office全家桶激活软件一个就够了，OfficeToolPlus部署管理工具下载.md",
+      "source/_posts/《吾爱算电阻》 V2.0.3（原《多功能电阻色环计算工具》.md",
+      "source/_posts/盘点B站视频下载神器biliDown支持8K+Hi-Res音效及字幕去水印.md",
+      "source/_posts/酷我音乐PC版本破解版免费下载，畅享高品质会员特权.md"
+    ],
+    "description": "web博客",
+    "first_seen_utc": "2026-08-22T05:45:41.343610+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "h4seeb-cmd",
+    "repository": "h4seeb-cmd/CSA-BLOG",
+    "url": "https://github.com/h4seeb-cmd/CSA-BLOG",
+    "pages_url": "https://h4seeb-cmd.github.io/CSA-BLOG/",
+    "created_at": "2023-08-24T03:10:38Z",
+    "pushed_at": "2024-06-03T16:02:13Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 38,
+    "probable_photo_count": 35,
+    "sample_photos": [
+      "_notebooks/image/q39.png",
+      "_notebooks/image/rubric1.png",
+      "images/EC2.png",
+      "images/carIMG1.jpg",
+      "images/demo!!!.jpg",
+      "images/envSC1.png",
+      "images/envSC2.png",
+      "images/envSC3.png",
+      "images/envSC4.png",
+      "images/extensions.png",
+      "images/instancesAWS.png",
+      "images/jwtioPROOF.png",
+      "images/magnum_opus.jpg",
+      "images/mikuTypeBeat.jpg",
+      "images/pokemonfornerds.jpg",
+      "images/postmanPROOF.png",
+      "images/proofCORS.png",
+      "images/proofPICOCTF.png",
+      "images/q10.png",
+      "images/q12.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2022-07-08-PBL-FE-life.md",
+      "_posts/2022-07-08-PBL-FE-snake.md",
+      "_posts/2023-08-15-Tools_Plans_Sample.md",
+      "_posts/2023-08-15-Tools_Sprint.md",
+      "_posts/2023-08-16-Tools_Equipment.md",
+      "_posts/2023-08-16-Tools_Hacks_Sample.md",
+      "_posts/2023-08-16-Tools_Help.md",
+      "_posts/2023-08-21-GitHub_Pages.md",
+      "_posts/2023-08-21-GitHub_Pages_Plans.md",
+      "_posts/2023-08-21-GitHub_Pages_Tangibles.md",
+      "_posts/2023-08-23-calculator.md",
+      "_posts/2023-08-23-javascript-calculator.md"
+    ],
+    "description": "Blog for the various things I get up to in Mr. Mortensen's APCSA Class. Code Code Code",
+    "first_seen_utc": "2026-08-22T05:45:55.971841+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "mhr77777",
+    "repository": "mhr77777/csp-blog",
+    "url": "https://github.com/mhr77777/csp-blog",
+    "pages_url": "https://mhr77777.github.io/csp-blog/",
+    "created_at": "2023-08-24T20:10:37Z",
+    "pushed_at": "2023-09-29T20:23:30Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 5,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/extensions.png",
+      "images/instancesAWS.png"
+    ],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "_posts/2023-08-30-doom.md"
+    ],
+    "description": "My blog for APCSP 2023-2024",
+    "first_seen_utc": "2026-08-22T05:45:56.678896+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "ako",
+    "repository": "ako/blog",
+    "url": "https://github.com/ako/blog",
+    "pages_url": "https://ako.github.io/blog/",
+    "created_at": "2023-08-25T10:06:26Z",
+    "pushed_at": "2023-08-29T06:48:22Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 1,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "_posts/2023-08-25-json-transformations.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:46:23.553391+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "PrathikVijaykumar",
+    "repository": "PrathikVijaykumar/blog",
+    "url": "https://github.com/PrathikVijaykumar/blog",
+    "pages_url": "https://PrathikVijaykumar.github.io/blog/",
+    "created_at": "2023-08-25T20:06:04Z",
+    "pushed_at": "2023-08-28T15:31:41Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 86,
+    "probable_photo_count": 21,
+    "sample_photos": [
+      "resources/_gen/images/authors/admin/lens_hubb3ac56b1be7af607b20d146287a7ca4_82701_897x251_fill_q75_lanczos_smart1.jpg",
+      "resources/_gen/images/event/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_h2_lanczos.webp",
+      "resources/_gen/images/event/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_lanczos.jpg",
+      "resources/_gen/images/event/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_720x2500_fit_q75_h2_lanczos.webp",
+      "resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x2500_fit_q75_h2_lanczos.webp",
+      "resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_h2_lanczos.webp",
+      "resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp",
+      "resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x2500_fit_q75_h2_lanczos.webp",
+      "resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_h2_lanczos.webp",
+      "resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x2500_fit_q75_h2_lanczos.webp",
+      "resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q75_h2_lanczos_smart1.webp",
+      "static/img/SDT_text1.jpeg",
+      "static/img/cookingphoto.jpg",
+      "static/img/footer.png",
+      "static/img/gaming_disorder_results.png",
+      "static/img/groundedTheoryModel.png",
+      "static/img/lakensSkillsTweet.png",
+      "static/img/openScience.jpg",
+      "static/img/potato-chip-aisle.jpg",
+      "static/img/scansoc.jpg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/blog/2019-01-01-aboutme/2019-01-01-aboutme.md",
+      "content/blog/2019-03-25-welcome/2019-03-25-welcome.md",
+      "content/blog/2019-06-25-imposter-syndrome/2019-06-25-imposter-syndrome.md",
+      "content/blog/2020-02-28-misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/2020-02-28-misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs.html",
+      "content/blog/2020-02-28-misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/2020-02-28-misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs.md",
+      "content/blog/2021-01-14-quicksand/2021-01-14-quicksand.md",
+      "content/blog/2022-04-04-contentedness/2022-04-04-contentedness.md",
+      "content/blog/2022-06-28-genealogy/2022-06-28-genealogy.md",
+      "content/blog/2022-07-25-needFrustration/2022-07-25-needFrustration.html",
+      "content/blog/2022-07-25-needFrustration/2022-07-25-needFrustration.md",
+      "content/blog/2022-10-13-disconnection-on-twitter/2022-10-13-disconnection-on-twitter.html",
+      "content/blog/2022-10-13-disconnection-on-twitter/2022-10-13-disconnection-on-twitter.md"
+    ],
+    "description": "This will store all the files for the website",
+    "first_seen_utc": "2026-08-22T05:46:26.419498+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "guilhermebezerrads",
+    "repository": "guilhermebezerrads/blogui",
+    "url": "https://github.com/guilhermebezerrads/blogui",
+    "pages_url": "https://guilhermebezerrads.github.io/blogui/",
+    "created_at": "2023-08-25T20:09:21Z",
+    "pushed_at": "2023-08-26T00:25:00Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/posts/my-first-post.md",
+      "public/posts/index.html",
+      "public/posts/my-first-post/index.html",
+      "public/posts/page/1/index.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:46:33.136772+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "MihneaMoso",
+    "repository": "MihneaMoso/moso-blog",
+    "url": "https://github.com/MihneaMoso/moso-blog",
+    "pages_url": "https://MihneaMoso.github.io/moso-blog/",
+    "created_at": "2023-08-25T16:23:21Z",
+    "pushed_at": "2023-08-30T17:09:30Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 72,
+    "probable_photo_count": 70,
+    "sample_photos": [
+      "public/images/about/actior.png",
+      "public/images/author.png",
+      "public/images/blog/4508.png",
+      "public/images/blog/blog-single.png",
+      "public/images/blog/blog-thum-1.png",
+      "public/images/blog/blog-thum-10.png",
+      "public/images/blog/blog-thum-11.png",
+      "public/images/blog/blog-thum-2.png",
+      "public/images/blog/blog-thum-3.png",
+      "public/images/blog/blog-thum-4.png",
+      "public/images/blog/blog-thum-5.png",
+      "public/images/blog/blog-thum-6.png",
+      "public/images/blog/blog-thum-7.png",
+      "public/images/blog/blog-thum-8.png",
+      "public/images/blog/blog-thum-9.png",
+      "public/images/blog/blog-widget-1.png",
+      "public/images/blog/case-studies-1.png",
+      "public/images/blog/case-studies-2.png",
+      "public/images/blog/case-studies-3.png",
+      "public/images/blog/case-studies-4.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/posts/2nd-blog-post.md",
+      "content/posts/Today-new-post.md",
+      "content/posts/breaking-news-post.md",
+      "content/posts/my-blog-post.md",
+      "content/posts/my-new-post.md",
+      "content/posts/my-personal-post.md",
+      "content/posts/new-blog-post.md",
+      "content/posts/officel-first-post.md",
+      "content/posts/officel-post.md",
+      "content/posts/welcome-to-my-personal-blog.md",
+      "public/posts/2nd-blog-post/index.html",
+      "public/posts/breaking-news-post/index.html"
+    ],
+    "description": "Mo$o's Legendary Blog ",
+    "first_seen_utc": "2026-08-22T05:46:35.644131+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "Paillat-dev",
+    "repository": "Paillat-dev/blog.paillat.dev",
+    "url": "https://github.com/Paillat-dev/blog.paillat.dev",
+    "pages_url": "https://Paillat-dev.github.io/blog.paillat.dev/",
+    "created_at": "2023-08-25T18:44:37Z",
+    "pushed_at": "2023-09-13T14:09:42Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 4,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "_posts/2023-08-25-make-discord-bots.md"
+    ],
+    "description": "Stuff",
+    "first_seen_utc": "2026-08-22T05:46:53.878176+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "nonexistent9",
+    "repository": "nonexistent9/blog_1",
+    "url": "https://github.com/nonexistent9/blog_1",
+    "pages_url": "https://nonexistent9.github.io/blog_1/",
+    "created_at": "2023-08-26T18:24:47Z",
+    "pushed_at": "2023-12-27T00:09:40Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2018-08-22-Contrast.md",
+      "_posts/2021-04-20-Time-and-Space.md",
+      "_posts/2022-06-10-Why MMA is unlike any other sport.md",
+      "_posts/2023-05-20-Did you write it with your blood.md",
+      "_posts/2023-08-26-Moving to github pages.md",
+      "_posts/2023-09-07-How to become a product marketer.md",
+      "_posts/2023-09-12-Hats off to devs!.md",
+      "_posts/2023-09-19-Memories (Blog Portfolio).md",
+      "_posts/2023-09-30-This time it's different.md",
+      "_posts/2023-10-01-Learning in Public - Machine Learning.md",
+      "_posts/2023-10-09-Building Pong in Python.md",
+      "_posts/2023-12-10-So you are a designer now.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:47:15.126487+00:00"
+  },
+  {
+    "score": 17,
+    "owner": "anxornot",
+    "repository": "anxornot/blog-hugo",
+    "url": "https://github.com/anxornot/blog-hugo",
+    "pages_url": "https://anxornot.github.io/blog-hugo/",
+    "created_at": "2023-08-26T12:08:04Z",
+    "pushed_at": "2023-08-26T12:48:13Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "content/posts/first-post.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:47:21.869779+00:00"
+  },
+  {
+    "score": 16,
+    "owner": "nikelaz",
+    "repository": "nikelaz/nextjs-blog-deployment",
+    "url": "https://github.com/nikelaz/nextjs-blog-deployment",
+    "pages_url": "https://nikelaz.github.io/nextjs-blog-deployment/",
+    "created_at": "2023-08-26T13:36:38Z",
+    "pushed_at": "2023-08-26T13:53:34Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 12,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "_posts/dynamic-routing.md",
+      "_posts/hello-world.md",
+      "_posts/preview.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:47:30.085485+00:00"
+  },
+  {
+    "score": 21,
+    "owner": "riwn",
+    "repository": "riwn/r-shiren2-blog",
+    "url": "https://github.com/riwn/r-shiren2-blog",
+    "pages_url": "https://riwn.github.io/r-shiren2-blog/",
+    "created_at": "2023-08-26T18:05:02Z",
+    "pushed_at": "2024-02-26T10:59:46Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 7,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/content/blog/chart/golden-catsle-speedrun-chart.md",
+      "src/content/blog/chart/new-story-chart.md",
+      "src/content/blog/chart/story-chart-for-beginner.md",
+      "src/content/blog/competition/17-anniversary-announcement.md",
+      "src/content/blog/competition/18-anniversary-announcement.md",
+      "src/content/blog/competition/19-anniversary-announcement.md",
+      "src/content/blog/competition/20-anniversary-announcement.md",
+      "src/content/blog/competition/21-anniversary-announcement.md",
+      "src/content/blog/competition/golden-castle-tournament-announcement.md",
+      "src/content/blog/competition/golden-castle-tournament-participant.md",
+      "src/content/blog/competition/golden-castle-tournament-result.md",
+      "src/content/blog/events/shiren2-perfect-guide-radio.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:47:34.458500+00:00"
+  },
+  {
+    "score": 25,
+    "owner": "chn-lee-yumi",
+    "repository": "chn-lee-yumi/blog",
+    "url": "https://github.com/chn-lee-yumi/blog",
+    "pages_url": "https://blog.gcc.ac.cn/",
+    "created_at": "2023-08-27T14:03:13Z",
+    "pushed_at": "2026-08-03T09:27:55Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [
+      "jess",
+      "jessie",
+      "liu"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 302,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/post/2016/安卓nginx负载均衡集群的搭建/index.md",
+      "content/post/2016/极路由使用fping（交叉编译）.md",
+      "content/post/2016/极路由内网缓存服务器插件开发过程.md",
+      "content/post/2016/树莓派超频后性能与功耗的关系及提高每瓦性能的方法.md",
+      "content/post/2017/在路由器上跑Debian.md",
+      "content/post/2017/基于51单片机的打飞机游戏机.md",
+      "content/post/2017/树莓派一些传感器的使用/index.md",
+      "content/post/2018/CentOS入门笔记.md",
+      "content/post/2018/FFmpeg转换m3u8视频的方法.md",
+      "content/post/2018/Python大量调用Popen导致服务器sy占用很大的处理思路.md",
+      "content/post/2018/Win10远程桌面账号正确但连接失败的解决方法（使用微软AzureAD的账号）.md",
+      "content/post/2018/pillow安装出错的解决办法.md"
+    ],
+    "description": "My blog repo. https://blog.gcc.ac.cn/",
+    "first_seen_utc": "2026-08-22T05:47:52.510234+00:00"
+  },
+  {
+    "score": 24,
+    "owner": "75py",
+    "repository": "75py/blog",
+    "url": "https://github.com/75py/blog",
+    "pages_url": "https://75py.github.io/blog/",
+    "created_at": "2023-08-27T08:38:48Z",
+    "pushed_at": "2026-08-18T12:49:32Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 14,
+    "probable_photo_count": 7,
+    "sample_photos": [
+      "src/images/categories/ai.png",
+      "src/images/categories/ai_202309.png",
+      "src/images/categories/android.png",
+      "src/images/categories/books.png",
+      "src/images/categories/ios.png",
+      "src/images/categories/mac.png",
+      "src/images/categories/programming.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/content/blog/2023/08/aicommits.md",
+      "src/content/blog/2023/08/books-android-ensemble.md",
+      "src/content/blog/2023/08/books-app-tech-frontline.md",
+      "src/content/blog/2023/08/books-compose-recette.md",
+      "src/content/blog/2023/08/books-inside.md",
+      "src/content/blog/2023/09/02-xcode-shortcut.md",
+      "src/content/blog/2023/09/03-analyze-github-pr-comments.md",
+      "src/content/blog/2023/09/09-open-interpreter.md",
+      "src/content/blog/2023/09/10-chatgpt-ai-image-prompting.md",
+      "src/content/blog/2023/09/16-astro-ogp-image-tips.md",
+      "src/content/blog/2023/09/17-droidkaigi-spreadsheet.md",
+      "src/content/blog/2023/09/18-iosdc-memo.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:47:55.700566+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "chepo92",
+    "repository": "chepo92/blog-hugo-CaiJimmy",
+    "url": "https://github.com/chepo92/blog-hugo-CaiJimmy",
+    "pages_url": "https://chepo92.github.io/blog-hugo-CaiJimmy/",
+    "created_at": "2023-08-27T18:49:38Z",
+    "pushed_at": "2023-10-12T01:09:21Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 8,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 6,
+    "sample_posts": [
+      "content/post/debugging-arduino/index.md",
+      "content/post/first-post/index.md",
+      "content/post/hw/index.md",
+      "content/post/image-gallery/index.md",
+      "content/post/math-typesetting/index.md",
+      "content/post/shortcodes/index.md"
+    ],
+    "description": "General Blog",
+    "first_seen_utc": "2026-08-22T05:48:21.279361+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "sollecitom",
+    "repository": "sollecitom/software-product-development-blog",
+    "url": "https://github.com/sollecitom/software-product-development-blog",
+    "pages_url": "https://sollecitom.github.io/software-product-development-blog/",
+    "created_at": "2023-08-27T08:14:45Z",
+    "pushed_at": "2026-01-22T09:24:13Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 7,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "themes/hugo-kiera/images/tn.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "content/posts/2023/2023-06-28-why.md",
+      "content/posts/2023/2023-06-29-lifers-and-politicians.md",
+      "content/posts/2023/2023-06-29-models.md",
+      "content/posts/2023/2023-07-01-a-categorization-of-whats-knowable.md",
+      "content/posts/2023/2023-07-02-traits-of-great-employees.md",
+      "content/posts/2023/2023-07-09-management-by-objectives-is-wishful-thinking.md",
+      "content/posts/2023/2023-07-15-demand-capacity-outcomes.md",
+      "content/posts/2023/2023-07-21-to-modularise-or-not-to-modularise.md",
+      "content/posts/2023/2023-08-06-tdd-confessions.md",
+      "content/posts/2023/2023-08-27-array-sorters-arent-problem-solvers.md",
+      "content/posts/2023/2023-08-31-developer-productivity-fuss.md",
+      "content/posts/2023/2023-09-07-stop-writing-unit-tests.md"
+    ],
+    "description": "A blog about software product development",
+    "first_seen_utc": "2026-08-22T05:48:23.628791+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "side-realms",
+    "repository": "side-realms/blog",
+    "url": "https://github.com/side-realms/blog",
+    "pages_url": "https://side-realms.github.io/blog/",
+    "created_at": "2023-08-28T08:13:38Z",
+    "pushed_at": "2026-08-17T02:34:21Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 249,
+    "probable_photo_count": 236,
+    "sample_photos": [
+      "docs/images/ATR.jpg",
+      "docs/images/B-2.jpg",
+      "docs/images/DooD.png",
+      "docs/images/KLUE.jpg",
+      "docs/images/LIFE.jpg",
+      "docs/images/RIAA.jpg",
+      "docs/images/TiaPan.jpg",
+      "docs/images/WhatMe.jpg",
+      "docs/images/YMO.jpg",
+      "docs/images/anarkey.jpg",
+      "docs/images/andymori.jpg",
+      "docs/images/artschool.jpg",
+      "docs/images/band.jpg",
+      "docs/images/bind.png",
+      "docs/images/bind2.png",
+      "docs/images/bishow.jpg",
+      "docs/images/blue.jpg",
+      "docs/images/blue2.jpg",
+      "docs/images/boowy.jpg",
+      "docs/images/budou.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:48:30.920098+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "Aditi99b",
+    "repository": "Aditi99b/blog",
+    "url": "https://github.com/Aditi99b/blog",
+    "pages_url": "https://Aditi99b.github.io/blog/",
+    "created_at": "2023-08-28T21:58:37Z",
+    "pushed_at": "2023-08-28T22:32:53Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 9,
+    "probable_photo_count": 5,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/biskey.jpg",
+      "images/extensions.png",
+      "images/family.jpg",
+      "images/instancesAWS.png"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "_posts/2023-08-15-Tools_Sprint.md",
+      "_posts/2023-08-16-Tools_Equipment.md",
+      "_posts/2023-08-21-GitHub_Pages.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:48:33.269083+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "tclaudel",
+    "repository": "tclaudel/blog",
+    "url": "https://github.com/tclaudel/blog",
+    "pages_url": "https://tclaudel.github.io/blog/",
+    "created_at": "2023-08-28T16:17:34Z",
+    "pushed_at": "2024-02-15T13:06:58Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 5,
+    "probable_photo_count": 4,
+    "sample_photos": [
+      "static/images/content/hexagonal_architecture_with_go/domain.png",
+      "static/images/content/hexagonal_architecture_with_go/ports.png",
+      "static/images/gopherize.png",
+      "static/images/profile.jpg"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "content/posts/golang_testing_unreachable_dependencies.en.md",
+      "content/posts/golang_testing_unreachable_dependencies.fr.md",
+      "content/posts/hexagonal_architecture_applied_to_go.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:48:34.462564+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "Kanishk-py",
+    "repository": "Kanishk-py/blogs",
+    "url": "https://github.com/Kanishk-py/blogs",
+    "pages_url": "https://Kanishk-py.github.io/blogs/",
+    "created_at": "2023-08-28T15:08:10Z",
+    "pushed_at": "2023-08-29T10:44:39Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 10,
+    "probable_photo_count": 4,
+    "sample_photos": [
+      "assets/img/Kanishk.jpg",
+      "assets/img/pruning-types_accuracy_v_prune_ratio.png",
+      "assets/img/pruning-visualization-1.png",
+      "assets/img/pruning-visualization-2.png"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "_posts/2023-08-29-pruning-impl.md",
+      "_posts/2023-08-29-pruning-types.md",
+      "_posts/2023-08-29-pruning-visualization.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:48:42.639043+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "kgmyshin",
+    "repository": "kgmyshin/kgmyshin-blog",
+    "url": "https://github.com/kgmyshin/kgmyshin-blog",
+    "pages_url": "https://kgmyshin.blog/",
+    "created_at": "2023-08-28T13:30:03Z",
+    "pushed_at": "2025-12-29T13:49:44Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 74,
+    "probable_photo_count": 69,
+    "sample_photos": [
+      "content/posts/2024-12/image/aws.png",
+      "content/posts/2024-12/image/dailychallenge.png",
+      "content/posts/2024-12/image/dish1.jpg",
+      "content/posts/2024-12/image/dish2.jpg",
+      "content/posts/2024-12/image/dish3.jpg",
+      "content/posts/2024-12/image/dish4.jpg",
+      "content/posts/2024-12/image/dish5.jpg",
+      "content/posts/2024-12/image/dish6.jpg",
+      "content/posts/2024-12/image/dish7.jpg",
+      "content/posts/2024-12/image/dish8.jpg",
+      "content/posts/2024-12/image/k8s.png",
+      "content/posts/2024-12/image/k8s_2.png",
+      "content/posts/2024-12/image/leetcode.png",
+      "content/posts/2024-12/image/looker.png",
+      "content/posts/2025-12/image/aws.jpeg",
+      "content/posts/2025-12/image/botamochi.jpg",
+      "content/posts/2025-12/image/dish1.jpg",
+      "content/posts/2025-12/image/dish2.jpg",
+      "content/posts/2025-12/image/dish3.jpg",
+      "content/posts/2025-12/image/dish4.jpg"
+    ],
+    "post_count_sampled": 8,
+    "sample_posts": [
+      "content/posts/2023-09/index.md",
+      "content/posts/2024-12/index.md",
+      "content/posts/2025-12/index.md",
+      "docs/posts/2023-09/index.html",
+      "docs/posts/2024-12/index.html",
+      "docs/posts/2025-12/index.html",
+      "docs/posts/index.html",
+      "docs/posts/page/1/index.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:48:56.708492+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "wusfe",
+    "repository": "wusfe/blog",
+    "url": "https://github.com/wusfe/blog",
+    "pages_url": "https://wusfe.github.io/blog/",
+    "created_at": "2023-08-29T04:34:01Z",
+    "pushed_at": "2023-12-06T12:16:52Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 4,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "source/_posts/hello-world.md"
+    ],
+    "description": "wusfe’s blog web life",
+    "first_seen_utc": "2026-08-22T05:49:17.800352+00:00"
+  },
+  {
+    "score": 22,
+    "owner": "liangkyle08",
+    "repository": "liangkyle08/csp-blog",
+    "url": "https://github.com/liangkyle08/csp-blog",
+    "pages_url": "https://liangkyle08.github.io/csp-blog/",
+    "created_at": "2023-08-29T21:51:14Z",
+    "pushed_at": "2024-05-30T16:32:15Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 26,
+    "probable_photo_count": 24,
+    "sample_photos": [
+      "images/CB-Indigo-Binary.png",
+      "images/CB-Metadata.png",
+      "images/CB-Q5-Reasonable-Time-Algo.png",
+      "images/EC2.png",
+      "images/PXL_20240216_030422907.jpg",
+      "images/PXL_20240216_031854860.jpg",
+      "images/Test_Emoji_1.png",
+      "images/cat1.jpg",
+      "images/cat2.jpg",
+      "images/cat3.jpg",
+      "images/data_structures/pandas_dataframe.png",
+      "images/dog1.jpg",
+      "images/dog2.jpg",
+      "images/dog3.jpg",
+      "images/dog4.jpg",
+      "images/dog5.jpg",
+      "images/extensions.png",
+      "images/fault.png",
+      "images/ian.jpg",
+      "images/ian.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-08-15-Tools_Plans_Sample.md",
+      "_posts/2023-08-16-Tools_Hacks_Sample.md",
+      "_posts/2023-08-16-Tools_Help.md",
+      "_posts/2023-08-21-GitHub_Pages_Plans.md",
+      "_posts/2023-08-21-GitHub_Pages_Tangibles.md",
+      "_posts/2023-08-26-GitHub_Sync.md",
+      "_posts/2023-08-30-Calculator.md",
+      "_posts/2023-08-30-Classical_Snake_Game.md",
+      "_posts/2023-08-30-Game_Of_Life.md",
+      "_posts/2023-08-31-Tic_Tac_Toe.md",
+      "_posts/2023-08-31-Week_2_Plan.md",
+      "_posts/2023-09-01-Week_2_Review.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:49:37.473845+00:00"
+  },
+  {
+    "score": 25,
+    "owner": "JBaza12",
+    "repository": "JBaza12/JaredsBlog",
+    "url": "https://github.com/JBaza12/JaredsBlog",
+    "pages_url": "https://JBaza12.github.io/JaredsBlog/",
+    "created_at": "2023-08-29T21:51:39Z",
+    "pushed_at": "2024-05-28T16:11:10Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 57,
+    "probable_photo_count": 44,
+    "sample_photos": [
+      "images/2021mcq1.png",
+      "images/2021mcq2.png",
+      "images/2021mcq3.png",
+      "images/2021mcq4.png",
+      "images/2021mcq5.png",
+      "images/2021mcq6.png",
+      "images/Blastoise.jpeg",
+      "images/Charizard.jpeg",
+      "images/EC2.png",
+      "images/IMG_0564.JPG",
+      "images/IMG_0567.jpg",
+      "images/Pikachu.jpeg",
+      "images/Snorlax.png",
+      "images/Venusaur.jpeg",
+      "images/apiuserslol.png",
+      "images/aws.jpg",
+      "images/battle_arena.jpeg",
+      "images/debug.png",
+      "images/debug1.png",
+      "images/debuggingss.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-01-22-SASS_Javascript_Login.md",
+      "_posts/2023-01-22-Signup_page_demographics.md",
+      "_posts/2023-08-15-Week0.md",
+      "_posts/2023-08-16-Tools_Help.md",
+      "_posts/2023-08-17-Button?.md",
+      "_posts/2023-08-21-GIF.md",
+      "_posts/2023-08-21-W1Problems.md",
+      "_posts/2023-08-21-Week1.md",
+      "_posts/2023-08-26-W2Problems.md",
+      "_posts/2023-08-30-Calculator.md",
+      "_posts/2023-08-30-Snake.md",
+      "_posts/2023-08-30-Week2.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:49:40.762252+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "SoniDhenuva",
+    "repository": "SoniDhenuva/SoniBlogCSSEtri1",
+    "url": "https://github.com/SoniDhenuva/SoniBlogCSSEtri1",
+    "pages_url": "https://sonidhenuva.github.io/SoniBlogCSSEtri1/",
+    "created_at": "2023-08-29T18:28:24Z",
+    "pushed_at": "2024-03-06T06:21:27Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 13,
+    "probable_photo_count": 10,
+    "sample_photos": [
+      "images/EC2.png",
+      "images/Spiderman.jpg",
+      "images/The Code Mode Gang.png",
+      "images/background1.jpg",
+      "images/extensions.png",
+      "images/instancesAWS.png",
+      "images/ironman.jpg",
+      "images/push.jpg",
+      "images/red-apple-emoji-1779x2048-aklr8hg9.png",
+      "images/wireframe.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-08-09-dailyPlansW4.md",
+      "_posts/2023-08-09-hacksWeek4.md",
+      "_posts/2023-08-09-ninjaanimationW6.md",
+      "_posts/2023-08-09-summaryW4.md",
+      "_posts/2023-08-11-calculatorW4.md",
+      "_posts/2023-08-15-Tools_Plans_Sample.md",
+      "_posts/2023-08-15-dailyplan.md",
+      "_posts/2023-08-16-Tools_Hacks_Sample.md",
+      "_posts/2023-08-16-Tools_Help.md",
+      "_posts/2023-08-21-GitHub_Pages_Plans.md",
+      "_posts/2023-08-21-GitHub_Pages_Tangibles.md",
+      "_posts/2023-08-26-GitHub_Sync.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:49:55.777234+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "johnmcguin",
+    "repository": "johnmcguin/blog",
+    "url": "https://github.com/johnmcguin/blog",
+    "pages_url": "https://johnmcguin.github.io/blog/",
+    "created_at": "2023-08-30T01:21:26Z",
+    "pushed_at": "2024-08-23T17:10:51Z",
+    "workflow_markers": [
+      "actions/deploy-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 9,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "src/content/post/1693948700-bitwarden-jq/index.md",
+      "src/content/post/1694016765-bitwarden-session/index.md",
+      "src/content/post/1694018806-cleanup-local-git/index.md",
+      "src/content/post/1694548221-flypg-migration/index.md",
+      "src/content/post/1694568442-script-astro-blog-template/index.md",
+      "src/content/post/1695934719-deploy-astro-to-github-pages/index.md",
+      "src/content/post/1696622808-how-to-use-virtual-env-in-jupyter-notebook/index.md",
+      "src/content/post/1704930065-better-cd/index.md",
+      "src/content/post/1705257880-time-travel/index.md",
+      "src/content/post/1718388210-docker-psql-shell/index.md",
+      "src/content/post/1718388844-docker-dadbod-ui/index.md",
+      "src/content/post/1718389570-authenticated-requests-with-shopify-ui-extensions/index.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:50:21.199138+00:00"
+  },
+  {
+    "score": 27,
+    "owner": "yuedongze",
+    "repository": "yuedongze/blog",
+    "url": "https://github.com/yuedongze/blog",
+    "pages_url": "https://yuedongze.github.io/blog/",
+    "created_at": "2023-08-30T20:11:33Z",
+    "pushed_at": "2026-07-07T07:54:54Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [
+      "lx"
+    ],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 8,
+    "image_count": 34,
+    "probable_photo_count": 32,
+    "sample_photos": [
+      "assets/images/1500.jpg",
+      "assets/images/bio.jpg",
+      "assets/images/ntt/monet_2.png",
+      "assets/images/ntt/monet_3.png",
+      "assets/images/ntt/monet_painting_of_convolution.png",
+      "assets/images/risks.png",
+      "assets/images/zkpub_01/01.png",
+      "assets/images/zkpub_01/02.png",
+      "assets/images/zkpub_01/03.png",
+      "assets/images/zkpub_01/04.png",
+      "assets/images/zkpub_01/05.png",
+      "assets/images/zkpub_01/06.png",
+      "assets/images/zkpub_01/07.png",
+      "assets/images/zkpub_01/08.png",
+      "assets/images/zkpub_01/09.png",
+      "assets/images/zkpub_01/10.png",
+      "assets/images/zkpub_01/11.png",
+      "assets/images/zkpub_01/12.png",
+      "assets/images/zkpub_01/13.png",
+      "assets/images/zkpub_02/01.png"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2019-12-27-zkpub_01.markdown",
+      "_posts/2020-01-02-zkpub_02.markdown",
+      "_posts/2020-03-15-zkpub_03.markdown",
+      "_posts/2020-05-14-chameleon_sig.markdown",
+      "_posts/2020-06-16-fhe_01.markdown",
+      "_posts/2020-06-22-fhe_02.markdown",
+      "_posts/2020-07-02-fhe_03.markdown",
+      "_posts/2022-02-14-hello-world.md",
+      "_posts/2022-02-16-pkp.md",
+      "_posts/2023-03-22-ntt-01.md",
+      "_posts/2023-06-23-ntt-02.md",
+      "_posts/2023-08-31-new-blog.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:50:24.666152+00:00"
+  },
+  {
+    "score": 18,
+    "owner": "zhuba-Ahhh",
+    "repository": "zhuba-Ahhh/HexoBlog",
+    "url": "https://github.com/zhuba-Ahhh/HexoBlog",
+    "pages_url": "https://zhuba-Ahhh.github.io/HexoBlog/",
+    "created_at": "2023-08-30T08:45:33Z",
+    "pushed_at": "2023-09-02T16:53:00Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 6,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "themes/butterfly/source/img/404.jpg"
+    ],
+    "post_count_sampled": 1,
+    "sample_posts": [
+      "source/_posts/hello-world.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:50:27.626312+00:00"
+  },
+  {
+    "score": 20,
+    "owner": "RonitT1234",
+    "repository": "RonitT1234/CSP_BLOG_RT",
+    "url": "https://github.com/RonitT1234/CSP_BLOG_RT",
+    "pages_url": "https://RonitT1234.github.io/CSP_BLOG_RT/",
+    "created_at": "2023-08-30T21:11:12Z",
+    "pushed_at": "2024-05-28T20:04:10Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "priority_name_hits": [
+      "blog"
+    ],
+    "priority_name_bonus": 4,
+    "image_count": 33,
+    "probable_photo_count": 31,
+    "sample_photos": [
+      "images/Dante.png",
+      "images/EC2.png",
+      "images/IMG_3369.JPG",
+      "images/IMG_3999.JPG",
+      "images/IMG_4002.JPG",
+      "images/IMG_4005.JPG",
+      "images/Q18.png",
+      "images/Q37.png",
+      "images/Q42.png",
+      "images/Q44.png",
+      "images/Q54.png",
+      "images/Q9.png",
+      "images/art.jpg",
+      "images/aws.jpg",
+      "images/batman.jpg",
+      "images/batmaninvaders.jpg",
+      "images/binary.jpg",
+      "images/charmander.jpg",
+      "images/chatgpt.png",
+      "images/drawing.jpg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2023-08-15-Week-0-plan.md",
+      "_posts/2023-08-15-Week-3-plan.md",
+      "_posts/2023-08-15-Week-4-plan.md",
+      "_posts/2023-08-15-Week-5.md",
+      "_posts/2023-08-15-Week-6-plan.md",
+      "_posts/2023-08-15-Week-7-plan.md",
+      "_posts/2023-08-16-Tools_Hacks_Sample.md",
+      "_posts/2023-08-16-Tools_Help.md",
+      "_posts/2023-08-21-GitHub_Pages_Tangibles.md",
+      "_posts/2023-08-21-Week-1-plan.md",
+      "_posts/2023-08-26-GitHub_Sync.md",
+      "_posts/2023-08-30-Calculator.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-22T05:50:30.016332+00:00"
   }
 ]
