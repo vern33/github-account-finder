@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Higher scores should be reviewed first.
 
-Last run: `2026-08-22T03:08:29.912918+00:00`  
-Repositories inspected: `6354`  
-Candidates: `97`
+Last run: `2026-08-22T03:57:29.764811+00:00`  
+Repositories inspected: `10484`  
+Candidates: `133`
 
 <details>
 <summary><strong>29 points — <a href="https://github.com/torai55/blog">torai55/blog</a></strong> · probable photos 476 · identity lx, xuan</summary>
@@ -269,6 +269,163 @@ Candidates: `97`
 </details>
 
 <details>
+<summary><strong>25 points — <a href="https://github.com/MrVWY/blog_data">MrVWY/blog_data</a></strong> · probable photos 471 · identity lx</summary>
+
+- Owner: [MrVWY](https://github.com/MrVWY)
+- Created / pushed: `2023-08-12T09:29:13Z` / `2023-08-19T04:45:50Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `lx`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `476` / `471`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/zh-CN/post/C language - TCPIP .h file and use Xdp.md`
+- `content/zh-CN/post/CommonJS-AMD-and-RequireJS.md`
+- `content/zh-CN/post/Disjoint-set.md`
+- `content/zh-CN/post/EVPN.md`
+- `content/zh-CN/post/Go compile mode.md`
+- `content/zh-CN/post/Go 基础知识点.md`
+- `content/zh-CN/post/Go中的defer.md`
+- `content/zh-CN/post/Linux nf_conntrack.md`
+- `content/zh-CN/post/Linux virtual devices.md`
+- `content/zh-CN/post/Linux-Route-Flags-and-Types.md`
+- `content/zh-CN/post/Linux-cgroup.md`
+- `content/zh-CN/post/MPLS.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/images/CommonJS-AMD-and-RequireJS/CommonJS-AMD-and-RequireJS-1.png`
+- `public/images/Context in Go/20200609041008165-100x100.png`
+- `public/images/Context in Go/20200609041008165-1024x465.png`
+- `public/images/Context in Go/20200609041008165-150x150.png`
+- `public/images/Context in Go/20200609041008165-1536x697.png`
+- `public/images/Context in Go/20200609041008165-300x136.png`
+- `public/images/Context in Go/20200609041008165-768x349.png`
+- `public/images/Context in Go/20200609041008165.png`
+- `public/images/Context in Go/20200609041455723-100x100.png`
+- `public/images/Context in Go/20200609041455723-150x150.png`
+- `public/images/Context in Go/20200609041455723-300x205.png`
+- `public/images/Context in Go/20200609041455723.png`
+- `public/images/EVPN/ARP泛洪抑制示意图.png`
+- `public/images/Go compile mode/20200826095532942-300x33.png`
+- `public/images/Go compile mode/20200826095532942.png`
+- `public/images/Go compile mode/20200826095638331.png`
+- `public/images/Go compile mode/20200828140739493-100x81.png`
+- `public/images/Go compile mode/20200828140739493-150x81.png`
+- `public/images/Go compile mode/20200828140739493-300x39.png`
+- `public/images/Go compile mode/20200828140739493.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>25 points — <a href="https://github.com/Takumi-Rai/plant-blog">Takumi-Rai/plant-blog</a></strong> · probable photos 240 · identity lx</summary>
+
+- Owner: [Takumi-Rai](https://github.com/Takumi-Rai)
+- Created / pushed: `2023-08-14T15:43:59Z` / `2024-04-13T17:06:35Z`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `lx`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `249` / `240`
+
+<details><summary>Sample posts (7)</summary>
+
+- `content/posts/first-post.md`
+- `content/posts/heliamphora-heterdoxa-x-ionasi-x-minor-var-pilosa-02-aw.md/index.md`
+- `content/posts/meow.md`
+- `content/posts/test-meow.md/index.md`
+- `content/posts/總覽/index.md`
+- `content/posts/菲律賓豬籠草/index.md`
+- `content/posts/葫蘆寶特瓶豬籠草A/index.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `content/posts/heliamphora-heterdoxa-x-ionasi-x-minor-var-pilosa-02-aw.md/images/2023-06-29.jpg`
+- `content/posts/heliamphora-heterdoxa-x-ionasi-x-minor-var-pilosa-02-aw.md/images/2023-07-24.jpg`
+- `content/posts/總覽/images/BVB.jpg`
+- `content/posts/總覽/images/LBVMV.jpg`
+- `content/posts/總覽/images/TC.jpg`
+- `content/posts/總覽/images/TCLC-2.jpg`
+- `content/posts/總覽/images/TCLC.jpg`
+- `content/posts/總覽/images/TLC-summer.jpg`
+- `content/posts/總覽/images/TLC-summer2.jpg`
+- `content/posts/總覽/images/TLC-winter.jpg`
+- `content/posts/總覽/images/TSLT.jpg`
+- `content/posts/總覽/images/TVB.jpg`
+- `content/posts/總覽/images/alata-b.jpg`
+- `content/posts/總覽/images/alataxspec-lower.jpg`
+- `content/posts/總覽/images/alataxspec-upper.jpg`
+- `content/posts/總覽/images/banana (2).jpg`
+- `content/posts/總覽/images/banana.jpg`
+- `content/posts/總覽/images/belxrob.jpg`
+- `content/posts/總覽/images/burxveit-spp (2).jpg`
+- `content/posts/總覽/images/burxveit-spp.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>24 points — <a href="https://github.com/afetmin/blog">afetmin/blog</a></strong> · probable photos 709 · identity none</summary>
+
+- Owner: [afetmin](https://github.com/afetmin)
+- Created / pushed: `2023-08-15T23:31:28Z` / `2026-07-20T13:27:10Z`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `802` / `709`
+
+<details><summary>Sample posts (12)</summary>
+
+- `source/_posts/01 什么是神经网络？.md`
+- `source/_posts/01 训练集（Train）、开发集（Dev）和测试集（Test）.md`
+- `source/_posts/02 Bias（偏差）与 Variance（方差）.md`
+- `source/_posts/02 监督学习与神经网络.md`
+- `source/_posts/03 为什么深度学习现在才真正起飞？.md`
+- `source/_posts/03 机器学习基本配方（Basic Recipe for Machine Learning）.md`
+- `source/_posts/04 神经网络中的正则化（Regularization in Neural Networks）.md`
+- `source/_posts/04 神经网络编程基础 — 二元分类（Binary Classification）.md`
+- `source/_posts/05 为什么正则化能减少过拟合？.md`
+- `source/_posts/05 逻辑回归.md`
+- `source/_posts/06 Dropout 正则化.md`
+- `source/_posts/06 逻辑回归成本函数.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `source/images/assets/e999ec2b844443469599017c7bd792fdtplv-73owjymdk6-jj-mark-v1_0_0_0_0_5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YmN56uvX-aYpeesiw_q75-Photoroom 1-20250212081848-6geuy3r.png`
+- `source/images/assets/image-20250212081014-ekwghax.png`
+- `source/images/assets/image-20250212081032-avtgge0.png`
+- `source/images/assets/image-20260318200402-waofo84.png`
+- `source/images/assets/image-20260318200934-h58stb9.png`
+- `source/images/assets/image-20260318201207-iawr5ty.png`
+- `source/images/assets/image-20260318201900-ntwyint.png`
+- `source/images/assets/image-20260318202019-wj078rx.png`
+- `source/images/assets/image-20260318202031-myfz47b.png`
+- `source/images/assets/image-20260318202219-ttp1xkk.png`
+- `source/images/assets/image-20260318202335-mx3f98u.png`
+- `source/images/assets/image-20260318202411-w9d8f0w.png`
+- `source/images/assets/image-20260318202425-kr6ws48.png`
+- `source/images/assets/image-20260318202457-6dqkrby.png`
+- `source/images/assets/image-20260318202743-m6xgkbq.png`
+- `source/images/assets/image-20260318202838-i24d88d.png`
+- `source/images/assets/image-20260318202847-25x4wf9.png`
+- `source/images/assets/image-20260318202921-r4qu91j.png`
+- `source/images/assets/image-20260318203219-0h0caox.png`
+- `source/images/assets/image-20260318204506-2hgissg.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>24 points — <a href="https://github.com/bruce965/blog">bruce965/blog</a></strong> · probable photos 53 · identity none</summary>
 
 - Owner: [bruce965](https://github.com/bruce965)
@@ -317,6 +474,45 @@ Candidates: `97`
 - `assets/img/posts/2023/smesh-1-join-dark.png`
 - `assets/img/posts/2023/smesh-1-join-light.png`
 - `assets/img/posts/2023/smesh-10-config.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>24 points — <a href="https://github.com/ElvaRivle/Blog">ElvaRivle/Blog</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [ElvaRivle](https://github.com/ElvaRivle)
+- Created / pushed: `2023-08-14T16:36:14Z` / `2026-08-06T20:31:24Z`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `14` / `10`
+
+<details><summary>Sample posts (7)</summary>
+
+- `posts/Blocking and Non Blocking IO.md`
+- `posts/Concurrency and Parallelism.md`
+- `posts/Feign - Handle errors from the response body.md`
+- `posts/Local containerized mail server and client.md`
+- `posts/Optimize Docker image build process.md`
+- `posts/Parametrized bookmarks.md`
+- `posts/Test execution order and flaky tests.md`
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `img/blocking-and-nonblocking-io/blocking.png`
+- `img/blocking-and-nonblocking-io/nonblocking.png`
+- `img/concurrency-and-parallelism/CNP.png`
+- `img/concurrency-and-parallelism/CP.png`
+- `img/concurrency-and-parallelism/NCNP.png`
+- `img/concurrency-and-parallelism/NCP.png`
+- `img/containerized-mail-server-post/test-mail-send.png`
+- `img/parametrized-bookmarks-post/bookmark-address-bar-firefox.png`
+- `img/parametrized-bookmarks-post/new-bookmark-chrome.png`
+- `img/parametrized-bookmarks-post/new-bookmark-firefox.png`
 
 </details>
 
@@ -640,6 +836,60 @@ Candidates: `97`
 </details>
 
 <details>
+<summary><strong>24 points — <a href="https://github.com/markp112/blog">markp112/blog</a></strong> · probable photos 40 · identity none</summary>
+
+- Owner: [markp112](https://github.com/markp112)
+- Created / pushed: `2023-08-11T10:04:12Z` / `2023-08-12T11:03:24Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `45` / `40`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/post/2023-08-10-git-commands.md`
+- `content/post/2023-08-12-Openshift-on-podman.md`
+- `themes/clean-white/exampleSite/content/post/2017-11-03-hello-world.md`
+- `themes/clean-white/exampleSite/content/post/2017-11-04-istio-install_and_example.md`
+- `themes/clean-white/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md`
+- `themes/clean-white/exampleSite/content/post/2017-11-08-istio-canary-release.md`
+- `themes/clean-white/exampleSite/content/post/2017-11-28-access-application-from-outside.md`
+- `themes/clean-white/exampleSite/content/post/2018-01-02-nginmesh-install.md`
+- `themes/clean-white/exampleSite/content/post/2018-02-03-authentication-and-authorization-of-microservice.md`
+- `themes/clean-white/exampleSite/content/post/2018-02-09-docker-without-sudo.md`
+- `themes/clean-white/exampleSite/content/post/2018-02-09-vim-tips.md`
+- `themes/clean-white/exampleSite/content/post/2018-03-13-use-docker-behind-http-proxy.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `static/img/home-bg.jpg`
+- `static/img/tree-in-snow.jpg`
+- `themes/clean-white/exampleSite/static/img/404-bg.jpg`
+- `themes/clean-white/exampleSite/static/img/contact-bg.jpg`
+- `themes/clean-white/exampleSite/static/img/disqus.png`
+- `themes/clean-white/exampleSite/static/img/home-bg-jeep.jpg`
+- `themes/clean-white/exampleSite/static/img/post-bg-coffee.jpeg`
+- `themes/clean-white/exampleSite/static/img/post-bg-unix-linux.jpg`
+- `themes/clean-white/exampleSite/static/img/post.png`
+- `themes/clean-white/exampleSite/static/img/rewards.png`
+- `themes/clean-white/exampleSite/static/img/search.png`
+- `themes/clean-white/exampleSite/static/img/sitesearch.png`
+- `themes/clean-white/exampleSite/static/img/tag-bg.jpg`
+- `themes/clean-white/exampleSite/static/img/tn.png`
+- `themes/clean-white/exampleSite/static/img/wechat_qrcode.jpg`
+- `themes/clean-white/exampleSite/static/img/zhaohuabing.png`
+- `themes/clean-white/images/archive.png`
+- `themes/clean-white/images/bilibili.png`
+- `themes/clean-white/images/disqus.png`
+- `themes/clean-white/images/mindmap.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>24 points — <a href="https://github.com/PakkuDon/blog">PakkuDon/blog</a></strong> · probable photos 68 · identity none</summary>
 
 - Owner: [PakkuDon](https://github.com/PakkuDon)
@@ -827,6 +1077,55 @@ None.
 </details>
 
 <details>
+<summary><strong>22 points — <a href="https://github.com/ArdhanKurniawan/blog-ardhan">ArdhanKurniawan/blog-ardhan</a></strong> · probable photos 22 · identity none</summary>
+
+- Owner: [ArdhanKurniawan](https://github.com/ArdhanKurniawan)
+- Created / pushed: `2023-08-10T09:32:29Z` / `2023-09-26T23:47:30Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `22` / `22`
+
+<details><summary>Sample posts (7)</summary>
+
+- `content/post/jumat.md`
+- `content/post/kamis.md`
+- `content/post/minggu.md`
+- `content/post/rabu.md`
+- `content/post/sabtu.md`
+- `content/post/selasa.md`
+- `content/post/senin.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `static/images/ardhan.webp`
+- `static/images/jumat/cls_website.webp`
+- `static/images/jumat/cls_website2.webp`
+- `static/images/jumat/daftar_cpns.webp`
+- `static/images/jumat/daftar_cpns2.webp`
+- `static/images/kamis/belajar_wordpress.webp`
+- `static/images/kamis/belajar_wordpress2.webp`
+- `static/images/kamis/logika_mat.webp`
+- `static/images/me&boys.webp`
+- `static/images/minggu/kuburan_sunset.webp`
+- `static/images/minggu/rumah_mbah.webp`
+- `static/images/placeholder.webp`
+- `static/images/rabu/gor_usm.webp`
+- `static/images/rabu/gor_usm2.webp`
+- `static/images/sabtu/listen_music.webp`
+- `static/images/sabtu/mie_instant.webp`
+- `static/images/sabtu/youtube_makan.webp`
+- `static/images/selasa/foto_zoom.webp`
+- `static/images/selasa/kuis_alprog.webp`
+- `static/images/selasa/sunset_cafe_awan.webp`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>22 points — <a href="https://github.com/CLRT19/blog.github.io">CLRT19/blog.github.io</a></strong> · probable photos 10 · identity none</summary>
 
 - Owner: [CLRT19](https://github.com/CLRT19)
@@ -854,6 +1153,60 @@ None.
 - `images/mstile-70x70.png`
 - `images/profile.png`
 - `images/safari-pinned-tab.svg.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>22 points — <a href="https://github.com/egonw/blog2">egonw/blog2</a></strong> · probable photos 526 · identity none</summary>
+
+- Owner: [egonw](https://github.com/egonw)
+- Created / pushed: `2023-08-12T07:35:20Z` / `2026-08-16T16:32:28Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `561` / `526`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2005-10-15-chem-bla-ics.markdown`
+- `_posts/2005-10-15-single-pdfs-for-cdk-news-articles.markdown`
+- `_posts/2005-10-17-cia-statistics-for-blue-obelisk.markdown`
+- `_posts/2005-10-18-cdk-taverna-fully-recognized.markdown`
+- `_posts/2005-10-19-inchi-meta-data-with-kfilechemical.markdown`
+- `_posts/2005-10-19-jmols-fah-team-in-top-800.markdown`
+- `_posts/2005-10-20-cdk-news-23-and-inchis.markdown`
+- `_posts/2005-10-21-viagra-saves-environment.markdown`
+- `_posts/2005-10-23-wrapping-up.markdown`
+- `_posts/2005-10-24-jchempaint-applet-download-size-538kb.markdown`
+- `_posts/2005-10-25-more-cdkinterfaces-updates.markdown`
+- `_posts/2005-10-27-my-birthday-31-and-adsense.markdown`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/(R)-bromo(chloro)iodomethane.png`
+- `assets/images/(S)-bromo(chloro)iodomethane.png`
+- `assets/images/0-768x768.jpg`
+- `assets/images/1-s2.0-S2452074817301398-gr1.png`
+- `assets/images/1000px-GitHub.svg.png`
+- `assets/images/13023_2023_2683_Fig4_HTML.png`
+- `assets/images/13321_2024_833_Fig1_HTML.png`
+- `assets/images/15528-illustration-of-a-ten-of-clubs-playing-card-pv.png`
+- `assets/images/1fcfb8438f21422e.png`
+- `assets/images/2006_slide.png`
+- `assets/images/270716cef8d30481.png`
+- `assets/images/41597_2024_3324_Fig3_HTML.png`
+- `assets/images/430px-Wp18summit.png`
+- `assets/images/4a0a20557574c3ae.png`
+- `assets/images/6-2018-7215-8416.png`
+- `assets/images/800px-Global_key-route_main_paths_for_a_citation_network.svg.png`
+- `assets/images/CID3612285.png`
+- `assets/images/CIMG0503_s.JPG`
+- `assets/images/Cmlrss_bioclipse.png`
+- `assets/images/DSCI0007.JPG`
 
 </details>
 
@@ -1102,6 +1455,98 @@ None.
 - `themes/ananke/images/tn.png`
 - `themes/ananke/static/images/gohugo-default-sample-hero-image.jpg`
 - `themes/hugo-theme-monochrome/images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>22 points — <a href="https://github.com/vrod24official/blogmd">vrod24official/blogmd</a></strong> · probable photos 19 · identity none</summary>
+
+- Owner: [vrod24official](https://github.com/vrod24official)
+- Created / pushed: `2023-08-14T19:58:59Z` / `2023-08-17T03:35:52Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `49` / `19`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/posts/Data Analytics Capstone Project/maui.md`
+- `themes/LoveIt/exampleSite/content/posts/basic-markdown-syntax/index.en.md`
+- `themes/LoveIt/exampleSite/content/posts/basic-markdown-syntax/index.zh-cn.md`
+- `themes/LoveIt/exampleSite/content/posts/emoji-support/index.en.md`
+- `themes/LoveIt/exampleSite/content/posts/emoji-support/index.zh-cn.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-basics/index.en.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-basics/index.zh-cn.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-bilibili-shortcode/index.en.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-bilibili-shortcode/index.zh-cn.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-built-in-shortcodes/index.en.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-built-in-shortcodes/index.zh-cn.md`
+- `themes/LoveIt/exampleSite/content/posts/theme-documentation-content/index.en.md`
+
+</details>
+
+<details><summary>Sample photos (19)</summary>
+
+- `assets/images/image1.png`
+- `assets/images/image2.png`
+- `assets/images/image3.png`
+- `assets/images/image4.png`
+- `assets/images/image5.png`
+- `assets/images/image6.png`
+- `assets/images/image7.png`
+- `assets/images/image8.png`
+- `assets/images/image9.png`
+- `assets/images/jen.jpg`
+- `themes/LoveIt/exampleSite/assets/images/Apple-Devices-Preview.png`
+- `themes/LoveIt/exampleSite/assets/images/Wavelength.jpg`
+- `themes/LoveIt/exampleSite/assets/images/lighthouse-large.jpg`
+- `themes/LoveIt/exampleSite/assets/images/lighthouse-small.jpg`
+- `themes/LoveIt/exampleSite/assets/images/lighthouse.jpg`
+- `themes/LoveIt/images/Alipay.jpg`
+- `themes/LoveIt/images/Apple-Devices-Preview.png`
+- `themes/LoveIt/images/Wechat.jpg`
+- `themes/LoveIt/images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>22 points — <a href="https://github.com/WilberC/blog.wilberc.io">WilberC/blog.wilberc.io</a></strong> · probable photos 13 · identity none</summary>
+
+- Owner: [WilberC](https://github.com/WilberC)
+- Created / pushed: `2023-08-11T04:00:15Z` / `2024-04-15T02:02:58Z`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `20` / `13`
+
+<details><summary>Sample posts (4)</summary>
+
+- `blog/about-me/README.md`
+- `blog/links/README.md`
+- `blog/posts/2024-03-08-azure-apim.md`
+- `blog/posts/README.md`
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `blog/.vuepress/public/img/home-bg/1.jpg`
+- `blog/.vuepress/public/img/home-bg/2.jpg`
+- `blog/.vuepress/public/img/home-bg/3.jpg`
+- `blog/.vuepress/public/img/home-bg/4.jpg`
+- `blog/.vuepress/public/img/in-post/2023-08-19/header.jpg`
+- `blog/.vuepress/public/img/links/rick-and-morty.png`
+- `blog/.vuepress/public/img/links/unknown-person.jpg`
+- `blog/.vuepress/public/img/links/web-scraping.jpg`
+- `blog/.vuepress/public/img/pages/about.jpg`
+- `blog/.vuepress/public/img/pages/projects.jpg`
+- `blog/.vuepress/public/img/pages/tags.jpg`
+- `blog/.vuepress/public/img/thumbnails/thumbnail.jpg`
+- `blog/.vuepress/public/img/thumbnails/thumbnail2.jpg`
 
 </details>
 
@@ -1652,6 +2097,31 @@ None.
 </details>
 
 <details>
+<summary><strong>21 points — <a href="https://github.com/Peipeixuan/blog_1">Peipeixuan/blog_1</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Peipeixuan](https://github.com/Peipeixuan)
+- Created / pushed: `2023-08-10T02:09:34Z` / `2024-03-17T11:01:24Z`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `xuan`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `6` / `0`
+
+<details><summary>Sample posts (2)</summary>
+
+- `source/_posts/nifi-component-executeSQL.md`
+- `source/_posts/nifi-component-wait_notify.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>21 points — <a href="https://github.com/pvlachas/pvlachas.github.io">pvlachas/pvlachas.github.io</a></strong> · probable photos 29 · identity none</summary>
 
 - Owner: [pvlachas](https://github.com/pvlachas)
@@ -1700,6 +2170,41 @@ None.
 - `assets/img/publication_preview/2018-vlachas2018data-lstm.png`
 - `assets/img/publication_preview/2018-wan2018data-galerkin.png`
 - `assets/img/publication_preview/2020-varoli2020improved-memlearn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>21 points — <a href="https://github.com/qlel/blog2023">qlel/blog2023</a></strong> · probable photos 0 · identity lx</summary>
+
+- Owner: [qlel](https://github.com/qlel)
+- Created / pushed: `2023-08-13T07:21:47Z` / `2023-12-24T13:18:33Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `lx`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `46` / `0`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/post/Bash-One-Liners_Part_3_关于重定向翻译理解/index.md`
+- `content/post/Git中submodule的使用.md`
+- `content/post/Linux_Process_substitution_进程替换.md`
+- `content/post/Linux_exec.md`
+- `content/post/Linux_ps.md`
+- `content/post/Linux_systemd/index.md`
+- `content/post/Linux_top/index.md`
+- `content/post/Linux命名管道FIFO/index.md`
+- `content/post/Linux硬盘分区和挂载/index.md`
+- `content/post/TCP的三次握手和四次挥手/index.md`
+- `content/post/date.md`
+- `content/post/dirname和basename.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -1839,6 +2344,30 @@ None.
 </details>
 
 <details>
+<summary><strong>20 points — <a href="https://github.com/AsterismH/blog">AsterismH/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [AsterismH](https://github.com/AsterismH)
+- Created / pushed: `2023-08-10T03:04:23Z` / `2023-08-10T04:11:16Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `5` / `0`
+
+<details><summary>Sample posts (1)</summary>
+
+- `content/posts/test.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>20 points — <a href="https://github.com/be-rock/blog">be-rock/blog</a></strong> · probable photos 0 · identity none</summary>
 
 - Owner: [be-rock](https://github.com/be-rock)
@@ -1862,6 +2391,34 @@ None.
 - `content/posts/2025/the-role-of-plaintext-and-markdown-files-in-ai/index.md`
 - `content/posts/2026/databricks-vector-search/index.md`
 - `content/posts/2026/sync-data-with-lakebase-postgres/index.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/bestsamuel/blog">bestsamuel/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [bestsamuel](https://github.com/bestsamuel)
+- Created / pushed: `2023-08-16T01:41:28Z` / `2023-09-19T02:47:34Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `11` / `0`
+
+<details><summary>Sample posts (5)</summary>
+
+- `_posts/2020-07-08-language-tests.md`
+- `_posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md`
+- `_posts/2020-07-09-post-example-with-headings-and-toc.md`
+- `_posts/2021-01-08-code.md`
+- `_posts/2021-03-04-soopr.md`
 
 </details>
 
@@ -1983,6 +2540,101 @@ None.
 
 - `public/images/zsh/after.png`
 - `public/images/zsh/before.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/dirkwBlog/blog">dirkwBlog/blog</a></strong> · probable photos 4 · identity none</summary>
+
+- Owner: [dirkwBlog](https://github.com/dirkwBlog)
+- Created / pushed: `2023-08-14T16:16:26Z` / `2023-08-16T15:01:10Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `27` / `4`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/posts/2023-08-16-GithubActionsandThousandEyes.md`
+- `content/posts/2023-08-16-HugoCLI.md`
+- `content/posts/HugoAndGitHubActions.md`
+- `content/posts/_index.md`
+- `layouts/posts/list.html`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/_index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/emoji-support/index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/markdown-syntax/index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/math-typesetting/index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/placeholder-text/index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/rich-content/index.md`
+- `themes/hugo-blog-awesome/exampleSite/content/posts/table-of-content/index.md`
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `themes/hugo-blog-awesome/images/dark.png`
+- `themes/hugo-blog-awesome/images/light.png`
+- `themes/hugo-blog-awesome/images/pagespeed.png`
+- `themes/hugo-blog-awesome/images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/eledah/blog">eledah/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [eledah](https://github.com/eledah)
+- Created / pushed: `2023-08-15T12:39:41Z` / `2023-09-26T19:02:35Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `6` / `0`
+
+<details><summary>Sample posts (6)</summary>
+
+- `posts/copying.md`
+- `posts/index.md`
+- `posts/majhool.md`
+- `posts/nahad.md`
+- `posts/pattern.md`
+- `posts/zaban.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/GeorgeDong32/Blog">GeorgeDong32/Blog</a></strong> · probable photos 2 · identity none</summary>
+
+- Owner: [GeorgeDong32](https://github.com/GeorgeDong32)
+- Created / pushed: `2023-08-15T08:13:05Z` / `2023-09-20T06:05:22Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `11` / `2`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2023-06-13-test.md`
+- `_posts/2023-07-03-大模型本地部署指北.md`
+- `_posts/2023-7-14-自制PIP包指北.md`
+- `_posts/2023-8-11-Dev Drive.md`
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/img/GoodPass-CLI-bg1.png`
+- `assets/img/GoodPass-GUI-bg1.png`
 
 </details>
 
@@ -2164,6 +2816,41 @@ None.
 </details>
 
 <details>
+<summary><strong>20 points — <a href="https://github.com/KevinT3Hu/blog">KevinT3Hu/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [KevinT3Hu](https://github.com/KevinT3Hu)
+- Created / pushed: `2023-08-16T00:59:55Z` / `2023-11-16T16:00:57Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `5` / `0`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2023-06-29-bangumi_april_summary.markdown`
+- `_posts/2023-08-19-sfw_august_comments.markdown`
+- `_posts/2023-09-16-bangumi_2023_oct_watchlist.markdown`
+- `_posts/2023-09-30-bangumi_july_summary.markdown`
+- `_posts/2023-10-08-sfw_sep_comments.markdown`
+- `_posts/2023-11-16-sfw_oct_comments.markdown`
+- `_posts/2023-3-27-first_blog.markdown`
+- `_posts/2023-3-29-bangumi_january_summary.markdown`
+- `_posts/2023-3-29-sfw_march_comments.markdown`
+- `_posts/2023-3-30-bangumi_april_watchlist.markdown`
+- `_posts/2023-5-28-sfw_april_comments.markdown`
+- `_posts/2023-6-22-bangumi_july_watchlist.markdown`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>20 points — <a href="https://github.com/khanhnguyendev/vuepress-blog-gungnir">khanhnguyendev/vuepress-blog-gungnir</a></strong> · probable photos 7 · identity none</summary>
 
 - Owner: [khanhnguyendev](https://github.com/khanhnguyendev)
@@ -2190,6 +2877,156 @@ None.
 - `blog/.vuepress/public/img/in-post/2023-08-04/database-replication-configuration-guide_1.png`
 - `blog/.vuepress/public/img/in-post/2023-08-04/database-replication-configuration-guide_2.png`
 - `blog/.vuepress/public/img/links/profile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/leoleor/Lion_Blog">leoleor/Lion_Blog</a></strong> · probable photos 92 · identity none</summary>
+
+- Owner: [leoleor](https://github.com/leoleor)
+- Created / pushed: `2023-08-10T12:35:42Z` / `2026-06-08T07:50:20Z`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `100` / `92`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `src/.vuepress/public/assets/images/cover1.jpg`
+- `src/.vuepress/public/assets/images/cover2.jpg`
+- `src/.vuepress/public/assets/images/cover3.jpg`
+- `src/.vuepress/public/images/browser/script.jpg`
+- `src/.vuepress/public/images/browser/三次握手.png`
+- `src/.vuepress/public/images/browser/协商缓存1.jpg`
+- `src/.vuepress/public/images/browser/协商缓存2.jpg`
+- `src/.vuepress/public/images/browser/四次挥手.jpg`
+- `src/.vuepress/public/images/browser/强缓存.jpg`
+- `src/.vuepress/public/images/browser/浏览器存储.jpg`
+- `src/.vuepress/public/images/browser/解决跨域_Jsonp.jpg`
+- `src/.vuepress/public/images/browser/解决跨域_前端Proxy.jpg`
+- `src/.vuepress/public/images/claudeCode/01.webp`
+- `src/.vuepress/public/images/claudeCode/02.webp`
+- `src/.vuepress/public/images/claudeCode/03.webp`
+- `src/.vuepress/public/images/claudeCode/04.webp`
+- `src/.vuepress/public/images/claudeCode/05.webp`
+- `src/.vuepress/public/images/claudeCode/06.webp`
+- `src/.vuepress/public/images/claudeCode/07.webp`
+- `src/.vuepress/public/images/claudeCode/08.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/marekfs/blog-gh-pages">marekfs/blog-gh-pages</a></strong> · probable photos 315 · identity none</summary>
+
+- Owner: [marekfs](https://github.com/marekfs)
+- Created / pushed: `2023-08-14T08:36:19Z` / `2023-08-22T09:57:35Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog, pages` / `+6`
+- Images / probable photos: `595` / `315`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/static/images/canada/lake.jpg`
+- `public/static/images/canada/maple.jpg`
+- `public/static/images/canada/mountains.jpg`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-10.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-1080.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-1200.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-128.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-16.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-1920.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-2048.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-256.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-32.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-384.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-3840.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-48.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-64.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-640.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-750.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-828.WEBP`
+- `public/static/images/canada/nextImageExportOptimizer/lake-opt-96.WEBP`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/quochuy93/first_blog">quochuy93/first_blog</a></strong> · probable photos 11 · identity none</summary>
+
+- Owner: [quochuy93](https://github.com/quochuy93)
+- Created / pushed: `2023-08-10T21:34:00Z` / `2023-08-10T21:37:18Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `18` / `11`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `assets/images/inspiron/inspiration1.jpg`
+- `assets/images/inspiron/inspiration2.jpg`
+- `assets/images/inspiron/inspiration3jpg.jpg`
+- `assets/images/inspiron/inspiration4.jpg`
+- `assets/images/person1.jpg`
+- `assets/images/popular/popular1.jpg`
+- `assets/images/popular/popular2.jpg`
+- `assets/images/popular/popular3.jpg`
+- `assets/images/story1.jpg`
+- `assets/images/story2.jpg`
+- `assets/images/story3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>20 points — <a href="https://github.com/RuchitJagodara/Quarto-Website-Blog">RuchitJagodara/Quarto-Website-Blog</a></strong> · probable photos 7 · identity none</summary>
+
+- Owner: [RuchitJagodara](https://github.com/RuchitJagodara)
+- Created / pushed: `2023-08-16T09:44:05Z` / `2023-08-28T15:43:52Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `21` / `7`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `img/Eq_lonlikelihood.png`
+- `img/img1.png`
+- `img/img2.png`
+- `img/img3.png`
+- `img/img4.png`
+- `img/img_normal_distribution_11.png`
+- `img/self.jpg`
 
 </details>
 
@@ -2369,6 +3206,31 @@ None.
 </details>
 
 <details>
+<summary><strong>19 points — <a href="https://github.com/Beek-Labs/blog">Beek-Labs/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [Beek-Labs](https://github.com/Beek-Labs)
+- Created / pushed: `2023-08-10T20:37:26Z` / `2025-08-20T19:33:38Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `0` / `0`
+
+<details><summary>Sample posts (2)</summary>
+
+- `_posts/2025-08-20-stored-xss-to-account-takeover-jquery-github-cdn.md`
+- `_posts/2025-08-20-undocumented-password-reset-account-takeover.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>19 points — <a href="https://github.com/chrsdavis/chrsdavis.github.io">chrsdavis/chrsdavis.github.io</a></strong> · probable photos 7 · identity none</summary>
 
 - Owner: [chrsdavis](https://github.com/chrsdavis)
@@ -2393,6 +3255,41 @@ None.
 - `content/resume/img/wolvsec.png`
 - `resources/_gen/images/wales_square_hu8d48b3f43cf66f9a0ba2d42f34d60cfa_387859_192x192_fill_q75_box_center.jpeg`
 - `resources/_gen/images/wales_square_hu8d48b3f43cf66f9a0ba2d42f34d60cfa_387859_288x288_fill_q75_box_center.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>19 points — <a href="https://github.com/chunge16/vitepress-blogs">chunge16/vitepress-blogs</a></strong> · probable photos 0 · identity lx</summary>
+
+- Owner: [chunge16](https://github.com/chunge16)
+- Created / pushed: `2023-08-10T03:20:45Z` / `2026-06-03T14:59:02Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `lx`
+- Priority-name hits / bonus: `blog` / `+4`
+- Images / probable photos: `36` / `0`
+
+<details><summary>Sample posts (12)</summary>
+
+- `docs/blog/archives.md`
+- `docs/blog/authors/chunge.md`
+- `docs/blog/index.md`
+- `docs/blog/posts/2023/git.md`
+- `docs/blog/posts/2023/unload-LVSecurityAgent.md`
+- `docs/blog/posts/2023/vitepress-Algolia.md`
+- `docs/blog/posts/2023/vitepress-blog-theme.md`
+- `docs/blog/posts/2023/vitepress-plugin-comment-with-giscus.md`
+- `docs/blog/posts/2023/前端工程化配置.md`
+- `docs/blog/posts/2024/Jetbrains-crack.md`
+- `docs/blog/posts/2024/中国电信机顶盒安装指南.md`
+- `docs/blog/posts/2026/codex-install-and-usage-guide.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -2854,6 +3751,66 @@ None.
 </details>
 
 <details>
+<summary><strong>19 points — <a href="https://github.com/yesccx/blog">yesccx/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [yesccx](https://github.com/yesccx)
+- Created / pushed: `2023-08-12T19:10:53Z` / `2023-08-12T19:45:34Z`
+- Pages workflow: `hugo --minify`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `0` / `0`
+
+<details><summary>Sample posts (2)</summary>
+
+- `posts/Coding/PHP/Framework/Laravel9/UpdateLogs/laravel9及PHP8的相关新特性(一).md`
+- `posts/Studys/BlogBuild/个人博客搭建.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>19 points — <a href="https://github.com/yuanguangshan/blog">yuanguangshan/blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [yuanguangshan](https://github.com/yuanguangshan)
+- Created / pushed: `2023-08-14T09:58:28Z` / `2024-08-16T04:31:24Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+8`
+- Images / probable photos: `0` / `0`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2013-07-12-GPG加密算法.md`
+- `_posts/2023-08-08-APP要开始备案了.md`
+- `_posts/2023-08-08-Unleash-Your-Potential.md`
+- `_posts/2023-08-10-航运价格的影响因素有哪些.md`
+- `_posts/2023-08-15-Echarts功能介绍.md`
+- `_posts/2023-08-15-git常用命令及用法.md`
+- `_posts/2023-08-15-navidia.md`
+- `_posts/2023-08-15-px-future.md`
+- `_posts/2023-08-15-sublime快捷键大全.md`
+- `_posts/2023-08-15-中国海运贸易情况.md`
+- `_posts/2023-08-15-影响棉花价格的主要因素.md`
+- `_posts/2023-08-16-20-12-49.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>19 points — <a href="https://github.com/yxt66/blog">yxt66/blog</a></strong> · probable photos 0 · identity none</summary>
 
 - Owner: [yxt66](https://github.com/yxt66)
@@ -2881,6 +3838,80 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/AccordingLove/AccordingLove.Blog">AccordingLove/AccordingLove.Blog</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [AccordingLove](https://github.com/AccordingLove)
+- Created / pushed: `2023-08-09T14:21:54Z` / `2024-03-07T08:48:46Z`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `14` / `1`
+
+<details><summary>Sample posts (8)</summary>
+
+- `content/post/blog.md`
+- `themes/stack/exampleSite/content/post/chinese-test/index.zh-cn.md`
+- `themes/stack/exampleSite/content/post/emoji-support/index.md`
+- `themes/stack/exampleSite/content/post/markdown-syntax/index.md`
+- `themes/stack/exampleSite/content/post/math-typesetting/index.md`
+- `themes/stack/exampleSite/content/post/placeholder-text/index.ar.md`
+- `themes/stack/exampleSite/content/post/placeholder-text/index.md`
+- `themes/stack/exampleSite/content/post/rich-content/index.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `themes/stack/images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/DanielLenoz/DanielLenoz-blogV3">DanielLenoz/DanielLenoz-blogV3</a></strong> · probable photos 42 · identity none</summary>
+
+- Owner: [DanielLenoz](https://github.com/DanielLenoz)
+- Created / pushed: `2023-08-14T20:54:53Z` / `2023-11-20T16:13:13Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+4`
+- Images / probable photos: `42` / `42`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/assets/img/img-area/img-desktop/background-Blogs-desktop.webp`
+- `public/assets/img/img-area/img-desktop/background-Events-desktop.webp`
+- `public/assets/img/img-area/img-desktop/background-Projects-desktop.webp`
+- `public/assets/img/img-area/img-iphone/background-Blogs-iphone.webp`
+- `public/assets/img/img-area/img-iphone/background-Events-iphone.webp`
+- `public/assets/img/img-area/img-iphone/background-Projects-iphone.webp`
+- `public/assets/img/img-blogs/img-desktop/AI-amiga-full.webp`
+- `public/assets/img/img-blogs/img-desktop/batata-bit-full.webp`
+- `public/assets/img/img-blogs/img-desktop/blog-v2-full.webp`
+- `public/assets/img/img-blogs/img-desktop/ducha-fria-full.webp`
+- `public/assets/img/img-blogs/img-desktop/first-animacion-full.webp`
+- `public/assets/img/img-blogs/img-desktop/gospel-full.webp`
+- `public/assets/img/img-blogs/img-desktop/influencia-web-full.webp`
+- `public/assets/img/img-blogs/img-desktop/la-luz-full.webp`
+- `public/assets/img/img-blogs/img-desktop/lectura-ligera-full.webp`
+- `public/assets/img/img-blogs/img-desktop/mente-cresimiento-full.webp`
+- `public/assets/img/img-blogs/img-desktop/metaverso-full.webp`
+- `public/assets/img/img-blogs/img-desktop/microsoft-build-full.webp`
+- `public/assets/img/img-blogs/img-desktop/platzi-conf-22-full.webp`
+- `public/assets/img/img-blogs/img-desktop/platzi-conf-full.webp`
 
 </details>
 
@@ -2940,6 +3971,31 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/jpsuero/nextjs-blog">jpsuero/nextjs-blog</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [jpsuero](https://github.com/jpsuero)
+- Created / pushed: `2023-08-11T18:12:00Z` / `2023-08-11T21:57:43Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `1` / `1`
+
+<details><summary>Sample posts (2)</summary>
+
+- `posts/pre-rendering.md`
+- `posts/ssg-ssr.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/images/profile.jpg`
 
 </details>
 
@@ -3105,6 +4161,49 @@ None.
 </details>
 
 <details>
+<summary><strong>18 points — <a href="https://github.com/LuydmilaKolesnikova/react-app-blogtop">LuydmilaKolesnikova/react-app-blogtop</a></strong> · probable photos 59 · identity none</summary>
+
+- Owner: [LuydmilaKolesnikova](https://github.com/LuydmilaKolesnikova)
+- Created / pushed: `2023-08-11T09:45:29Z` / `2023-10-24T10:17:13Z`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+4`
+- Images / probable photos: `75` / `59`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `src/images/art-collection/art-gallery-interior.jpg`
+- `src/images/art-collection/art-gallery.jpg`
+- `src/images/art-collection/bicycle-art.jpg`
+- `src/images/art-collection/blobs-of-purple.jpg`
+- `src/images/art-collection/interior-decor.jpg`
+- `src/images/art-collection/looking-at-painting.jpg`
+- `src/images/art-collection/marigolds.jpg`
+- `src/images/art-collection/synagogue.jpg`
+- `src/images/badges/badge1.png`
+- `src/images/badges/badge2.png`
+- `src/images/badges/badge3.png`
+- `src/images/badges/badge4.png`
+- `src/images/badges/badge5.png`
+- `src/images/badges/badge6.png`
+- `src/images/dashboard/comments.png`
+- `src/images/dashboard/postViews.png`
+- `src/images/dashboard/profileViews.png`
+- `src/images/dashboard/upvotes.png`
+- `src/images/header-bg.jpg`
+- `src/images/pictures/image1.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>18 points — <a href="https://github.com/missyjcat/tech-blog">missyjcat/tech-blog</a></strong> · probable photos 0 · identity none</summary>
 
 - Owner: [missyjcat](https://github.com/missyjcat)
@@ -3117,6 +4216,34 @@ None.
 <details><summary>Sample posts (1)</summary>
 
 - `content/post/hello-world/index.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/mwtaylor/DevelopmentBlog">mwtaylor/DevelopmentBlog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [mwtaylor](https://github.com/mwtaylor)
+- Created / pushed: `2023-08-12T04:47:57Z` / `2023-09-25T04:52:59Z`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `7` / `0`
+
+<details><summary>Sample posts (5)</summary>
+
+- `archetypes/posts/index.md`
+- `content/posts/mastodon-basic-monitoring/index.md`
+- `content/posts/mastodon-federation/index.md`
+- `content/posts/mastodon-setup/index.md`
+- `content/posts/mastodon-storage-management/index.md`
 
 </details>
 
@@ -3153,6 +4280,40 @@ None.
 </details>
 
 <details>
+<summary><strong>18 points — <a href="https://github.com/ranabd36/nexusweb-blog">ranabd36/nexusweb-blog</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [ranabd36](https://github.com/ranabd36)
+- Created / pushed: `2023-08-11T18:00:26Z` / `2024-08-23T08:55:19Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `4` / `1`
+
+<details><summary>Sample posts (11)</summary>
+
+- `content/posts/my-post-10.md`
+- `content/posts/my-post-2.md`
+- `content/posts/my-post-3.md`
+- `content/posts/my-post-4.md`
+- `content/posts/my-post-5.md`
+- `content/posts/my-post-6.md`
+- `content/posts/my-post-7.md`
+- `content/posts/my-post-8.md`
+- `content/posts/my-post-9.md`
+- `content/posts/my-post.md`
+- `content/posts/test-post.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `static/img/default-og-image.webp`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>18 points — <a href="https://github.com/roebi/roebi-halter-in-blog">roebi/roebi-halter-in-blog</a></strong> · probable photos 0 · identity none</summary>
 
 - Owner: [roebi](https://github.com/roebi)
@@ -3176,6 +4337,58 @@ None.
 - `src/content/blog/03-01-transition-to-minisforum-fedora-silverblue.md`
 - `src/content/blog/datasafety.md`
 - `src/content/blog/impressum.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/swapless/blog.swapless.dev">swapless/blog.swapless.dev</a></strong> · probable photos 3 · identity none</summary>
+
+- Owner: [swapless](https://github.com/swapless)
+- Created / pushed: `2023-08-13T12:14:52Z` / `2026-06-08T10:57:47Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `3` / `3`
+
+<details><summary>Sample posts (3)</summary>
+
+- `content/posts/profiling.md`
+- `content/posts/recommendations.md`
+- `content/posts/weird-git.md`
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `static/images/profiling-f4.png`
+- `static/images/profiling-f5.png`
+- `static/images/profiling-f7.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>18 points — <a href="https://github.com/winters0x64/old_blog">winters0x64/old_blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [winters0x64](https://github.com/winters0x64)
+- Created / pushed: `2023-08-13T14:43:42Z` / `2024-06-27T14:31:15Z`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `6` / `0`
+
+<details><summary>Sample posts (1)</summary>
+
+- `.next/server/app/blog/posts/2024/MakingOfThisSite.html`
 
 </details>
 
@@ -3450,6 +4663,33 @@ None.
 </details>
 
 <details>
+<summary><strong>17 points — <a href="https://github.com/tbouzza/personal-blog">tbouzza/personal-blog</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [tbouzza](https://github.com/tbouzza)
+- Created / pushed: `2023-08-12T08:04:44Z` / `2023-08-13T10:44:11Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `0` / `0`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/ai-education.md`
+- `public/posts/ai-education/index.html`
+- `public/posts/index.html`
+- `public/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>17 points — <a href="https://github.com/TobGerken/tobgerken.github.io">TobGerken/tobgerken.github.io</a></strong> · probable photos 1 · identity none</summary>
 
 - Owner: [TobGerken](https://github.com/TobGerken)
@@ -3509,6 +4749,79 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>17 points — <a href="https://github.com/yedong666/blogs">yedong666/blogs</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [yedong666](https://github.com/yedong666)
+- Created / pushed: `2023-08-09T03:09:35Z` / `2024-10-05T03:15:43Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Priority-name hits / bonus: `blog` / `+6`
+- Images / probable photos: `0` / `0`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2020-12-19-初学编程感受.md`
+- `_posts/2021-06-23-人生的意义.md`
+- `_posts/2021-09-03-Linux常用命令总结.md`
+- `_posts/2021-12-28-Java与多线程.md`
+- `_posts/2022-02-13-Mysql与B+树(1).md`
+- `_posts/2022-02-15-Mysql与B+树(2).md`
+- `_posts/2022-02-20-Mysql与B+树(3).md`
+- `_posts/2022-08-09-签名与加密.md`
+- `_posts/2022-10-23-Redis与缓存三大问题.md`
+- `_posts/2022-10-23-前端常用代码.md`
+- `_posts/2023-02-18-Spring与IOC、AOP.md`
+- `_posts/2023-05-28-Mysql的一些性能优化机制.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>16 points — <a href="https://github.com/ancient-blog/hugo.github.io">ancient-blog/hugo.github.io</a></strong> · probable photos 8 · identity none</summary>
+
+- Owner: [ancient-blog](https://github.com/ancient-blog)
+- Created / pushed: `2023-08-15T13:27:19Z` / `2023-10-07T07:13:17Z`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Priority-name hits / bonus: `none` / `+0`
+- Images / probable photos: `9` / `8`
+
+<details><summary>Sample posts (8)</summary>
+
+- `content/posts/bedtime-story.md`
+- `content/posts/composit-action.md`
+- `content/posts/docker-voicevox-tutorial.md`
+- `content/posts/hugo-blog.md`
+- `content/posts/hugo-google-analytics-configuration.md`
+- `content/posts/hugo-markdown-image-insertion.md`
+- `content/posts/hugo-plantuml-tutorial.md`
+- `content/posts/my-first-post.md`
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `content/images/add-new-deploy-key.PNG`
+- `content/images/generate-key-pair-for-public-key-authentication-in-windows10-and-connect-to-server-with-ssh-01.png`
+- `content/images/github-actions-beta.PNG`
+- `content/images/github-hugo-workflow.PNG`
+- `content/images/github-use-a-suggested-workflow.PNG`
+- `content/images/github-user-name.PNG`
+- `content/images/test_1.PNG`
+- `content/posts/images/test_2.PNG`
 
 </details>
 
