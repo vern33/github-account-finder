@@ -1,19 +1,19 @@
 # Search progress
 
 - Adaptive search ranges: **15 / 43 (34.9%)**
-- Current cursor: `users:liu 2023-07-23..2023-08-08, page 3`
+- Current cursor: `users:liu 2023-07-23..2023-08-08, page 9`
 - Repository results seen: **0**
-- User search results seen: **4,113**
-- Pages repositories found through users: **169**
-- Identity users fully checked: **4,090**
-- Unique repositories investigated: **169**
-- Unique account owners investigated: **97**
-- Candidates recorded: **167**
+- User search results seen: **4,813**
+- Pages repositories found through users: **174**
+- Identity users fully checked: **4,639**
+- Unique repositories investigated: **174**
+- Unique account owners investigated: **102**
+- Candidates recorded: **172**
 - Ranges stopped by result caps: **0**
-- Workflow runs: **1**
-- Last run (UTC): `2026-08-23T16:10:51.538949+00:00`
-- Last API requests used: **4,500**
-- Last stop reason: `request budget exhausted`
+- Workflow runs: **2**
+- Last run (UTC): `2026-08-23T16:44:22.590530+00:00`
+- Last API requests used: **569**
+- Last stop reason: `rate limit reset=1787505052`
 
 ## Progress by stage
 
