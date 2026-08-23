@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-23T13:46:47.654934+00:00`  
-Repositories inspected: `19687`  
-Candidates: `1250`
+Last run: `2026-08-23T14:41:56.179947+00:00`  
+Repositories inspected: `21315`  
+Candidates: `1263`
 
 <details>
 <summary><strong>Tier 2 · 24 points — <a href="https://github.com/liufanxuan/liufanxuan.github.io">liufanxuan/liufanxuan.github.io</a></strong> · probable photos 8 · identity liu, xuan</summary>
@@ -2549,6 +2549,58 @@ None.
 - `images/6.jpg`
 - `images/7.jpg`
 - `images/8.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/Cesarliuu/Cesarliuu.github.io">Cesarliuu/Cesarliuu.github.io</a></strong> · probable photos 91 · identity liu</summary>
+
+- Owner: [Cesarliuu](https://github.com/Cesarliuu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-28T01:26:39Z` / `2023-06-29T03:17:26Z`
+- Account created: `2023-06-28T01:23:45Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Cesarliuu` / `137967136+Cesarliuu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `92` / `91`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `CSS responsive-contact-form-with-google-map/images/1.jpg`
+- `CSS responsive-contact-form-with-google-map/images/2.jpg`
+- `Nosotros/img/costos.jpg`
+- `Nosotros/img/header.jpg`
+- `Nosotros/img/mapa.png`
+- `Nosotros/img/pic1.jpg`
+- `Nosotros/img/pic2.jpg`
+- `Nosotros/img/pic3.jpg`
+- `images/1.jpg`
+- `images/10.jpg`
+- `images/11.jpg`
+- `images/12.jpg`
+- `images/13.jpg`
+- `images/14.jpg`
+- `images/15.jpg`
+- `images/16.jpg`
+- `images/17.jpg`
+- `images/18.jpg`
+- `images/19.jpg`
+- `images/2.jpg`
 
 </details>
 
@@ -7272,6 +7324,39 @@ None.
 - `assets/img/testimonials/testimonials-4.jpg`
 - `assets/img/testimonials/testimonials-5.jpg`
 - `assets/img/weixin.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/taoliujun/taoliujun.github.io">taoliujun/taoliujun.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [taoliujun](https://github.com/taoliujun)
+- Identity tier: **1**
+- Created / pushed: `2023-06-27T01:41:59Z` / `2023-07-31T03:29:23Z`
+- Account created: `2013-10-15T07:50:11Z` · in window `False`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `taoliujun`
+- Commit identity hits: `liu`
+- Latest commit author: `taoliujun` / `290762903@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -29318,6 +29403,50 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/YangLiuRegina/yangliuregina.github.io">YangLiuRegina/yangliuregina.github.io</a></strong> · probable photos 12 · identity liu</summary>
+
+- Owner: [YangLiuRegina](https://github.com/YangLiuRegina)
+- Identity tier: **1**
+- Created / pushed: `2023-06-28T04:31:57Z` / `2023-06-29T16:48:16Z`
+- Account created: `2023-04-04T08:10:06Z` · in window `False`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Tianyu Zhang` / `tzhang6@ualberta.ca`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `images/390570a0-6316-4560-a095-4d1e2259d3f6_200x200.png`
+- `images/404.png`
+- `images/47eb12b7-4a43-4199-a9e8-e54f52397ee8_200x200.png`
+- `images/Regina_head.jpg`
+- `images/UA-COLOUR.png`
+- `images/UA-shell.png`
+- `images/b601408f-3a9d-4fdb-8c96-b0d22718f8c4_200x200.png`
+- `images/map-light.png`
+- `images/me-head.png`
+- `images/me.png`
+- `images/wide-2.png`
+- `images/wide.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 12 points — <a href="https://github.com/Yeh-wei-xuan/hw1">Yeh-wei-xuan/hw1</a></strong> · probable photos 2 · identity xuan</summary>
 
 - Owner: [Yeh-wei-xuan](https://github.com/Yeh-wei-xuan)
@@ -29436,6 +29565,42 @@ None.
 - `docs/docs/tutorial-extras/img/localeDropdown.png`
 - `docs/static/img/docusaurus-social-card.jpg`
 - `docs/static/img/docusaurus.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/celiuwill/celiuwill.github.io">celiuwill/celiuwill.github.io</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [celiuwill](https://github.com/celiuwill)
+- Identity tier: **1**
+- Created / pushed: `2023-06-27T04:50:06Z` / `2026-08-19T13:39:45Z`
+- Account created: `2022-11-12T06:20:10Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `celiuwill` / `118040789+celiuwill@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `images/webclip.png`
+- `images/wl'.jpg`
+- `images/wl--.jpg`
+- `images/wl.jpg`
 
 </details>
 
@@ -30738,6 +30903,41 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xjlgod/xjlgod.github.io">xjlgod/xjlgod.github.io</a></strong> · probable photos 3 · identity liu</summary>
+
+- Owner: [xjlgod](https://github.com/xjlgod)
+- Identity tier: **1**
+- Created / pushed: `2023-06-28T09:20:03Z` / `2025-09-23T03:16:57Z`
+- Account created: `2018-08-28T06:30:44Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Jingliu`
+- Commit identity hits: `liu`
+- Latest commit author: `Jingliu Xiong` / `928124786@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `img/default.png`
+- `img/fluid.png`
+- `img/police_beian.png`
 
 </details>
 
@@ -45117,6 +45317,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/lycjxy/lycjxy.github.io">lycjxy/lycjxy.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [lycjxy](https://github.com/lycjxy)
+- Identity tier: **1**
+- Created / pushed: `2023-06-29T06:19:41Z` / `2025-03-25T05:10:12Z`
+- Account created: `2020-01-08T00:33:23Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Liu Yichao`
+- Commit identity hits: `liu`
+- Latest commit author: `Liu Yichao` / `59630108+lycjxy@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 8 points — <a href="https://github.com/Qiming-Liu/react-image-cropper-dropzone">Qiming-Liu/react-image-cropper-dropzone</a></strong> · probable photos 0 · identity liu</summary>
 
 - Owner: [Qiming-Liu](https://github.com/Qiming-Liu)
@@ -45408,6 +45641,47 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 17 points — <a href="https://github.com/ilystris/ilystris.github.io">ilystris/ilystris.github.io</a></strong> · probable photos 9 · identity none</summary>
+
+- Owner: [ilystris](https://github.com/ilystris)
+- Identity tier: **0**
+- Created / pushed: `2023-06-27T21:27:20Z` / `2023-11-25T18:32:59Z`
+- Account created: `2023-06-27T21:25:33Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `ilystris` / `137956851+ilystris@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `11` / `9`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (9)</summary>
+
+- `docs/creativespace/img/circle1.png`
+- `docs/creativespace/img/circle2.png`
+- `docs/creativespace/img/quick_menu.png`
+- `static/img/bo.png`
+- `static/img/br.png`
+- `static/img/gu.png`
+- `static/img/hu.png`
+- `static/img/te.png`
+- `static/img/wa.png`
 
 </details>
 
@@ -46576,6 +46850,58 @@ None.
 - `images/ecommerce.jpeg`
 - `images/edu.jpeg`
 - `images/history.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/paulandcam/paulandcam.github.io">paulandcam/paulandcam.github.io</a></strong> · probable photos 67 · identity none</summary>
+
+- Owner: [paulandcam](https://github.com/paulandcam)
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T01:14:04Z` / `2023-06-29T06:38:06Z`
+- Account created: `2023-06-29T01:12:58Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `paulandcam` / `138080097+paulandcam@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `70` / `67`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/IMG_1061.JPG`
+- `images/IMG_1393.PNG`
+- `images/IMG_1865.jpeg`
+- `images/IMG_2079.jpeg`
+- `images/IMG_2108.jpeg`
+- `images/IMG_2391 2.PNG`
+- `images/IMG_2410.jpeg`
+- `images/IMG_2437 2.HEIC`
+- `images/IMG_2508.jpeg`
+- `images/IMG_2843.PNG`
+- `images/IMG_3542.jpeg`
+- `images/IMG_4605.heic`
+- `images/barpic.png`
+- `images/paul10.png`
+- `images/paul11.png`
+- `images/paul12.png`
+- `images/paul13.png`
+- `images/paul14.png`
+- `images/paul15.png`
+- `images/paul16.png`
 
 </details>
 
@@ -47913,6 +48239,58 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/ErleK/ErleK.github.io">ErleK/ErleK.github.io</a></strong> · probable photos 26 · identity none</summary>
+
+- Owner: [ErleK](https://github.com/ErleK)
+- Identity tier: **0**
+- Created / pushed: `2023-06-28T22:21:35Z` / `2026-07-28T03:03:47Z`
+- Account created: `2023-06-28T21:38:01Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Ott Vilson` / `ott.vilson@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `26` / `26`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/Erle1.jpg`
+- `assets/images/Erle1_LQ.jpg`
+- `assets/images/Erle2.jpg`
+- `assets/images/Erle2_LQ.jpg`
+- `assets/images/Erle3_ai.jpg`
+- `assets/images/ErleK3.jpg`
+- `assets/images/ErleK3_LQ.jpg`
+- `assets/images/ErleK4.jpg`
+- `assets/images/ErleK4_1x1_SquareIG_LQ.jpg`
+- `assets/images/ErleK4_LQ.jpg`
+- `assets/images/ErleK4_v2_LQ.jpg`
+- `assets/images/ErleK5.jpg`
+- `assets/images/ErleK5_1x1SquareIG_LQ.jpg`
+- `assets/images/ErleK5_LQ.jpg`
+- `assets/images/ErleK6.jpg`
+- `assets/images/ErleK6_1x1SquareIG_LQ.jpg`
+- `assets/images/ErleK6_LQ.jpg`
+- `assets/images/ErleK7.jpg`
+- `assets/images/ErleK7_1x1SquareIG_LQ.jpg`
+- `assets/images/ErleK7_LQ.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 13 points — <a href="https://github.com/fmkv/fmkv.github.io">fmkv/fmkv.github.io</a></strong> · probable photos 43 · identity none</summary>
 
 - Owner: [fmkv](https://github.com/fmkv)
@@ -47965,6 +48343,58 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/GeographySmiEli/geographysmieli.github.io">GeographySmiEli/geographysmieli.github.io</a></strong> · probable photos 42 · identity none</summary>
+
+- Owner: [GeographySmiEli](https://github.com/GeographySmiEli)
+- Identity tier: **0**
+- Created / pushed: `2023-06-28T18:14:38Z` / `2025-03-27T00:41:05Z`
+- Account created: `2023-06-28T18:09:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `GeographySmiEli` / `138052554+GeographySmiEli@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `45` / `42`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/EPA/EPA_Project.png`
+- `img/Export1.png`
+- `img/ForestFireHazard/CombinedResults.png`
+- `img/ForestFireHazard/LISA_Slope.png`
+- `img/ForestFireHazard/methodology.jpg`
+- `img/GoogleBike_CGSTour.jpg`
+- `img/csuntreeatlus/NORTH22_Sample.jpg`
+- `img/csuntreeatlus/Poster_Map.png`
+- `img/csuntreeatlus/SOUTH22_Sample.jpg`
+- `img/csuntreeatlus/TreeTagPoster.png`
+- `img/img_1_Original.jpg`
+- `img/img_2.jpg`
+- `img/img_3.jpg`
+- `img/img_4.jpg`
+- `img/img_5.jpg`
+- `img/img_6.jpg`
+- `img/img_7.jpg`
+- `img/img_8.jpg`
+- `img/internshipposterworkshop/CGSAwards.jpg`
+- `img/internshipposterworkshop/CGSAwardsSanJose.jpg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 13 points — <a href="https://github.com/guitarrehab/guitarrehab.github.io">guitarrehab/guitarrehab.github.io</a></strong> · probable photos 12 · identity none</summary>
 
 - Owner: [guitarrehab](https://github.com/guitarrehab)
@@ -48003,6 +48433,110 @@ None.
 - `static/images/workshop_apresentacao.jpg`
 - `static/social/facebook.png`
 - `static/social/instagram.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/isodesic/isodesic.github.io">isodesic/isodesic.github.io</a></strong> · probable photos 290 · identity none</summary>
+
+- Owner: [isodesic](https://github.com/isodesic)
+- Identity tier: **0**
+- Created / pushed: `2023-06-27T21:29:43Z` / `2026-08-23T05:16:20Z`
+- Account created: `2023-06-27T21:27:44Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `isodesic` / `137956968+isodesic@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `388` / `290`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/android-chrome-192x192.png`
+- `images/android-chrome-512x512.png`
+- `images/barbershop/gallery/1.jpg`
+- `images/barbershop/gallery/2.jpg`
+- `images/barbershop/gallery/3.jpg`
+- `images/barbershop/gallery/4.jpg`
+- `images/barbershop/gallery/5.jpg`
+- `images/barbershop/gallery/6.jpg`
+- `images/barbershop/image-1.png`
+- `images/barbershop/image-2.png`
+- `images/barbershop/image-3.jpg`
+- `images/barbershop/section-bg-1.jpg`
+- `images/barbershop/section-bg-2.jpg`
+- `images/barbershop/section-bg-3.jpg`
+- `images/barbershop/section-bg-4.jpg`
+- `images/barbershop/split-section-1.jpg`
+- `images/barbershop/split-section-2.jpg`
+- `images/blog/masonry/post-prev-1.jpg`
+- `images/blog/masonry/post-prev-10.jpg`
+- `images/blog/masonry/post-prev-11.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/Jucaski/jucaski.github.io">Jucaski/jucaski.github.io</a></strong> · probable photos 43 · identity none</summary>
+
+- Owner: [Jucaski](https://github.com/Jucaski)
+- Identity tier: **0**
+- Created / pushed: `2023-06-28T21:24:57Z` / `2026-07-19T15:56:15Z`
+- Account created: `2023-06-15T19:26:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Jucaski`
+- Commit identity hits: `none`
+- Latest commit author: `Jucaski` / `thanididbefore@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `63` / `43`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/ocean.jpg`
+- `resources/_gen/images/Technology/Code-Editor/vim/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_1144996_1200x0_resize_q75_box.jpg`
+- `resources/_gen/images/Technology/Code-Editor/vim/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_1144996_600x0_resize_q75_box.jpg`
+- `resources/_gen/images/Technology/data-structures/featured_huab4386c67f92906a5f29e36fe94119e9_1585412_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/data-structures/featured_huab4386c67f92906a5f29e36fe94119e9_1585412_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/k8s/featured_hu987166bf0dbcd2e104ddf98842608b84_1401900_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/k8s/featured_hu987166bf0dbcd2e104ddf98842608b84_1401900_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/python/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/python/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/python/featured_hu26b08cf7f6a8d2f2aa5cda7b3d54186d_878906_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/python/featured_hu26b08cf7f6a8d2f2aa5cda7b3d54186d_878906_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/step-to-step/hugo-blog/featured_hu6b1de41058615ebd9cfebd6ce6531cf5_36093_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/step-to-step/hugo-blog/featured_hu6b1de41058615ebd9cfebd6ce6531cf5_36093_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/swift copy/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/swift copy/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_600x0_resize_box_3.png`
+- `resources/_gen/images/Technology/swift/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_1200x0_resize_box_3.png`
+- `resources/_gen/images/Technology/swift/featured_hu05b1c1f4ff89dbfa2530839f1fbca392_472708_600x0_resize_box_3.png`
+- `resources/_gen/images/books/book-notes/featured_hu920826b5a1d57a4735708b0a619ae3b7_1222698_1200x0_resize_box_3.png`
+- `resources/_gen/images/books/book-notes/featured_hu920826b5a1d57a4735708b0a619ae3b7_1222698_600x0_resize_box_3.png`
+- `resources/_gen/images/books/makeitstick/featured_hu0858d94c3443b6200fc40c6b1690ccc6_1261906_1200x0_resize_box_3.png`
 
 </details>
 
@@ -48374,6 +48908,39 @@ None.
 - `img/facts-img1.png`
 - `img/intro-carousel/1.jpg`
 - `img/intro-carousel/2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/advaithsshetty/advaithsshetty.github.io">advaithsshetty/advaithsshetty.github.io</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [advaithsshetty](https://github.com/advaithsshetty)
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T14:18:26Z` / `2024-07-23T09:41:27Z`
+- Account created: `2023-06-25T08:07:27Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Advaith S Shetty`
+- Commit identity hits: `none`
+- Latest commit author: `Advaith S Shetty` / `137682158+advaithsshetty@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `img/anime-1.png`
 
 </details>
 
