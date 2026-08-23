@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-23T14:41:56.179947+00:00`  
-Repositories inspected: `21315`  
-Candidates: `1263`
+Last run: `2026-08-23T15:38:19.847700+00:00`  
+Repositories inspected: `21691`  
+Candidates: `1265`
 
 <details>
 <summary><strong>Tier 2 · 24 points — <a href="https://github.com/liufanxuan/liufanxuan.github.io">liufanxuan/liufanxuan.github.io</a></strong> · probable photos 8 · identity liu, xuan</summary>
@@ -46387,6 +46387,41 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/dajkdslajddcwqowetffffffffff/dajkdslajddcwqowetffffffffff.github.io">dajkdslajddcwqowetffffffffff/dajkdslajddcwqowetffffffffff.github.io</a></strong> · probable photos 3 · identity none</summary>
+
+- Owner: [dajkdslajddcwqowetffffffffff](https://github.com/dajkdslajddcwqowetffffffffff)
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T04:14:43Z` / `2023-06-29T05:31:18Z`
+- Account created: `2023-06-22T17:02:44Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Konata` / `42537566+konata-chan404@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `img/0.png`
+- `img/1.png`
+- `img/2.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 15 points — <a href="https://github.com/devignitelab/devignitelab.github.io">devignitelab/devignitelab.github.io</a></strong> · probable photos 94 · identity none</summary>
 
 - Owner: [devignitelab](https://github.com/devignitelab)
@@ -48433,6 +48468,58 @@ None.
 - `static/images/workshop_apresentacao.jpg`
 - `static/social/facebook.png`
 - `static/social/instagram.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/hakinaki/hakinaki.github.io">hakinaki/hakinaki.github.io</a></strong> · probable photos 26 · identity none</summary>
+
+- Owner: [hakinaki](https://github.com/hakinaki)
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T23:50:48Z` / `2024-02-21T21:39:36Z`
+- Account created: `2023-06-29T22:12:46Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `hakinaki` / `here4art365@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `26`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/about.png`
+- `assets/images/trieste/feltpen/flo1.jpg`
+- `assets/images/trieste/feltpen/flo10.jpg`
+- `assets/images/trieste/feltpen/flo2.jpg`
+- `assets/images/trieste/feltpen/flo3.jpg`
+- `assets/images/trieste/feltpen/flo4.jpg`
+- `assets/images/trieste/feltpen/flo5.jpg`
+- `assets/images/trieste/feltpen/flo6.jpg`
+- `assets/images/trieste/feltpen/flo7.jpg`
+- `assets/images/trieste/feltpen/flo8.jpg`
+- `assets/images/trieste/feltpen/flo9.jpg`
+- `assets/images/trieste/paintings/art1.jpg`
+- `assets/images/trieste/paintings/art10.jpg`
+- `assets/images/trieste/paintings/art11.jpg`
+- `assets/images/trieste/paintings/art2.jpg`
+- `assets/images/trieste/paintings/art3.jpg`
+- `assets/images/trieste/paintings/art4.jpg`
+- `assets/images/trieste/paintings/art5.jpg`
+- `assets/images/trieste/paintings/art6.jpg`
+- `assets/images/trieste/paintings/art7.jpg`
 
 </details>
 
