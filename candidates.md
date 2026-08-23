@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.
 
-Last run: `2026-08-23T13:03:22.587035+00:00`  
-Repositories inspected: `18432`  
-Candidates: `1241`
+Last run: `2026-08-23T13:46:47.654934+00:00`  
+Repositories inspected: `19687`  
+Candidates: `1250`
 
 <details>
 <summary><strong>Tier 2 · 24 points — <a href="https://github.com/liufanxuan/liufanxuan.github.io">liufanxuan/liufanxuan.github.io</a></strong> · probable photos 8 · identity liu, xuan</summary>
@@ -8604,6 +8604,60 @@ None.
 
 - `assets/img/profile.jpeg`
 - `assets/img/simd_benchmark.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Emmaliu2006/Emmaliu2006.github.io">Emmaliu2006/Emmaliu2006.github.io</a></strong> · probable photos 18 · identity liu</summary>
+
+- Owner: [Emmaliu2006](https://github.com/Emmaliu2006)
+- Identity tier: **1**
+- Created / pushed: `2023-06-24T03:17:22Z` / `2023-07-08T08:08:02Z`
+- Account created: `2023-04-29T01:22:09Z` · in window `False`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `Yueqi`
+- Commit identity hits: `liu`
+- Latest commit author: `Emmaliu2006` / `132114300+Emmaliu2006@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `21` / `18`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `_posts/2012-08-14-blog-post-1.md`
+- `_posts/2013-08-14-blog-post-2.md`
+- `_posts/2014-08-14-blog-post-3.md`
+- `_posts/2015-08-14-blog-post-4.md`
+- `_posts/2199-01-01-future-post.md`
+
+</details>
+
+<details><summary>Sample photos (18)</summary>
+
+- `images/11.png`
+- `images/3953273590_704e3899d5_m.jpg`
+- `images/500x300.png`
+- `images/bio-photo-2.jpg`
+- `images/bio-photo.jpg`
+- `images/editing-talk.png`
+- `images/foo-bar-identity-th.jpg`
+- `images/foo-bar-identity.jpg`
+- `images/image-alignment-1200x4002.jpg`
+- `images/image-alignment-150x150.jpg`
+- `images/image-alignment-300x200.jpg`
+- `images/image-alignment-580x300.jpg`
+- `images/mstile-144x144.png`
+- `images/mstile-150x150.png`
+- `images/mstile-310x150.png`
+- `images/mstile-310x310.png`
+- `images/mstile-70x70.png`
+- `images/profile.png`
 
 </details>
 
@@ -26872,6 +26926,54 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/yenchunliu97/yenchunliu97.github.io">yenchunliu97/yenchunliu97.github.io</a></strong> · probable photos 13 · identity liu</summary>
+
+- Owner: [yenchunliu97](https://github.com/yenchunliu97)
+- Identity tier: **1**
+- Created / pushed: `2023-06-24T10:18:22Z` / `2025-09-04T17:26:02Z`
+- Account created: `2022-08-18T00:51:16Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `yenchunliu97` / `111471961+yenchunliu97@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/post/_index.md`
+- `content/post/getting-started/index.md`
+- `content/post/jupyter/index.md`
+- `content/post/writing-technical-content/index.md`
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `assets/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg`
+- `assets/media/albums/demo/dan-gold-4_jhDO54BYg-unsplash-f.jpg`
+- `assets/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg`
+- `assets/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg`
+- `assets/media/albums/demo/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg`
+- `assets/media/albums/demo/matthew-osborn-wMRIcT86SWU-unsplash-l.jpg`
+- `assets/media/albums/demo/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg`
+- `assets/media/hero-academic.png`
+- `content/post/getting-started/featured.jpg`
+- `content/post/jupyter/featured.png`
+- `content/post/jupyter/index_1_0.png`
+- `content/post/writing-technical-content/featured.jpg`
+- `images/tn.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 13 points — <a href="https://github.com/YuhanLiu11/YuhanLiu11.github.io">YuhanLiu11/YuhanLiu11.github.io</a></strong> · probable photos 1 · identity liu</summary>
 
 - Owner: [YuhanLiu11](https://github.com/YuhanLiu11)
@@ -29090,6 +29192,40 @@ None.
 
 - `posts/post-with-code/image.jpg`
 - `posts/welcome/thumbnail.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/scaradad/scaradad.github.io">scaradad/scaradad.github.io</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [scaradad](https://github.com/scaradad)
+- Identity tier: **1**
+- Created / pushed: `2023-06-26T01:25:37Z` / `2023-08-26T12:20:14Z`
+- Account created: `2023-06-26T01:11:04Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `scaradad` / `sobaliuziao@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `img/771171.png`
+- `img/og_image.png`
 
 </details>
 
@@ -39637,6 +39773,39 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/jishuyiliu/jishuyiliu.github.io">jishuyiliu/jishuyiliu.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [jishuyiliu](https://github.com/jishuyiliu)
+- Identity tier: **1**
+- Created / pushed: `2023-06-24T13:53:45Z` / `2023-07-06T16:12:49Z`
+- Account created: `2016-10-09T01:52:05Z` · in window `False`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `RJ`
+- Commit identity hits: `liu`
+- Latest commit author: `RJ` / `jishuyiliu@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 10 points — <a href="https://github.com/jvybut/flashcards_webapp">jvybut/flashcards_webapp</a></strong> · probable photos 0 · identity jess</summary>
 
 - Owner: [jvybut](https://github.com/jvybut)
@@ -45777,6 +45946,69 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 16 points — <a href="https://github.com/raynaharrisphd/raynaharrisphd.github.io">raynaharrisphd/raynaharrisphd.github.io</a></strong> · probable photos 216 · identity none</summary>
+
+- Owner: [raynaharrisphd](https://github.com/raynaharrisphd)
+- Identity tier: **0**
+- Created / pushed: `2023-06-25T16:09:56Z` / `2026-08-23T00:34:00Z`
+- Account created: `2023-06-22T17:30:45Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Rayna Harris PhD`
+- Commit identity hits: `none`
+- Latest commit author: `Rayna M Harris` / `raynamharris@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `223` / `216`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2015-02-13-TrainTheTrainer.md`
+- `_posts/2017-02-24-ReproducibleDDD.md`
+- `_posts/2017-04-24-puertorico-training.md`
+- `_posts/2017-06-17-merger.md`
+- `_posts/2018-01-12-zombiebrains.md`
+- `_posts/2018-05-02-transparancy.md`
+- `_posts/2018-05-07-CarpentryConWest.md`
+- `_posts/2018-05-15-notifications1.md`
+- `_posts/2018-05-29-community.md`
+- `_posts/2018-06-12-fathersday.md`
+- `_posts/2018-08-22-lessontranslation.md`
+- `_posts/2018-08-27-spanishTTT.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/2013_GRC.jpg`
+- `images/2014_SfN.jpg`
+- `images/2016_MBL.jpg`
+- `images/2019_Bilingual_SciPy.jpg`
+- `images/Bilingual_SciPy.png`
+- `images/DCPPC_2018-10-workshop-flyers.png`
+- `images/DoveParentsRNAseqSBN.png`
+- `images/SWCDChistory.png`
+- `images/SWCDCmerger.png`
+- `images/SfNNSB2014.png`
+- `images/TTT.png`
+- `images/asciinema.png`
+- `images/bg.jpg`
+- `images/caliplaylist.png`
+- `images/calisi-original-alt-1.png`
+- `images/carpentryTTT-01.png`
+- `images/carpentryconwest.png`
+- `images/cefp-networking-01.png`
+- `images/computer-dad.png`
+- `images/computers-1.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 15 points — <a href="https://github.com/aura-baeckerei/aura-baeckerei.github.io">aura-baeckerei/aura-baeckerei.github.io</a></strong> · probable photos 22 · identity none</summary>
 
 - Owner: [aura-baeckerei](https://github.com/aura-baeckerei)
@@ -46157,6 +46389,58 @@ None.
 - `assets/img/illustration/illustration-7.jpg`
 - `assets/img/illustration/illustration-8.jpg`
 - `assets/img/illustration/illustration-9.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/jasaapplab/jasaapplab.github.io">jasaapplab/jasaapplab.github.io</a></strong> · probable photos 37 · identity none</summary>
+
+- Owner: [jasaapplab](https://github.com/jasaapplab)
+- Identity tier: **0**
+- Created / pushed: `2023-06-26T12:56:23Z` / `2023-06-28T10:33:28Z`
+- Account created: `2023-06-26T12:39:37Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `jasaapplab` / `137791896+jasaapplab@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `47` / `37`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/gallery/MANIAC.jpg`
+- `assets/img/gallery/company-1.png`
+- `assets/img/gallery/company-2.png`
+- `assets/img/gallery/company-3.png`
+- `assets/img/gallery/company-4.png`
+- `assets/img/gallery/company-5.png`
+- `assets/img/gallery/company-6.png`
+- `assets/img/gallery/user-1.png`
+- `assets/img/gallery/user-2.png`
+- `assets/img/gallery/user.png`
+- `assets/img/illustrations/app-store.png`
+- `assets/img/illustrations/app.png`
+- `assets/img/illustrations/arrow-right.png`
+- `assets/img/illustrations/automatic.png`
+- `assets/img/illustrations/call-to-action.png`
+- `assets/img/illustrations/cloud.png`
+- `assets/img/illustrations/company-6.png`
+- `assets/img/illustrations/cta.png`
+- `assets/img/illustrations/customization.png`
+- `assets/img/illustrations/fast-performance.png`
 
 </details>
 
@@ -46818,6 +47102,69 @@ None.
 - `content/posts/ducts-molecon2024-writeup/feature.png`
 - `content/posts/ducts-molecon2024-writeup/image1.png`
 - `content/posts/ducts-molecon2024-writeup/image2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/hanghang0713/hanghang0713.github.io">hanghang0713/hanghang0713.github.io</a></strong> · probable photos 49 · identity none</summary>
+
+- Owner: [hanghang0713](https://github.com/hanghang0713)
+- Identity tier: **0**
+- Created / pushed: `2023-06-24T09:44:18Z` / `2026-04-01T01:57:57Z`
+- Account created: `2023-06-23T03:28:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `HHTechShare`
+- Commit identity hits: `none`
+- Latest commit author: `liming8347` / `liming8347@cvte.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `49` / `49`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/ai/2025-06-04-ai-agent.md`
+- `_posts/cpp/2023-08-15-std-map.md`
+- `_posts/cpp/2023-11-20-static-constexpr-const.md`
+- `_posts/cpp/2024-7-10-smart-pointer.md`
+- `_posts/cpp/2024-7-17-enable_shared_from_this.md`
+- `_posts/cpp/2024-7-18-what-is-polymorphism.md`
+- `_posts/cpp/2024-8-13-memory-layout-and-address-space.md`
+- `_posts/cpp/2024-9-10-what-is-abi-and-why-breaking-it-bad.md`
+- `_posts/cpp/2025-11-18-template-classs.md`
+- `_posts/cpp/2025-12-02-atomic-load.md`
+- `_posts/cpp/advanced/2023-12-12-compiler-basics.md`
+- `_posts/cpp/advanced/2023-12-20-compiler-process.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/ai/Agent.png`
+- `assets/images/ai/LLM.png`
+- `assets/images/ai/agent_works.png`
+- `assets/images/ai/workflow.png`
+- `assets/images/compile-basic/asm_file_size.png`
+- `assets/images/compile-basic/ast.png`
+- `assets/images/compile-basic/ast_semantic.png`
+- `assets/images/compile-basic/bss-section.png`
+- `assets/images/compile-basic/compilation_process.png`
+- `assets/images/compile-basic/compile_file_size.png`
+- `assets/images/compile-basic/compiler_process.png`
+- `assets/images/compile-basic/customize-section.png`
+- `assets/images/compile-basic/data-section.png`
+- `assets/images/compile-basic/detailed-section-header-table.png`
+- `assets/images/compile-basic/elf-header-define.png`
+- `assets/images/compile-basic/elf-header.png`
+- `assets/images/compile-basic/elf-section-def-header.png`
+- `assets/images/compile-basic/elf-symbol-struct.png`
+- `assets/images/compile-basic/obj_file_section.png`
+- `assets/images/compile-basic/object_file.png`
 
 </details>
 
@@ -47618,6 +47965,50 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/guitarrehab/guitarrehab.github.io">guitarrehab/guitarrehab.github.io</a></strong> · probable photos 12 · identity none</summary>
+
+- Owner: [guitarrehab](https://github.com/guitarrehab)
+- Identity tier: **0**
+- Created / pushed: `2023-06-24T13:34:51Z` / `2026-07-12T13:55:50Z`
+- Account created: `2023-06-24T13:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Guitar Rehab`
+- Commit identity hits: `none`
+- Latest commit author: `Guitar Rehab` / `guitarrehablisbon@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `31` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `static/hero.jpg`
+- `static/i18n/pt_flag.png`
+- `static/i18n/uk_flag.png`
+- `static/images/Adriano_Nov_2018.jpg`
+- `static/images/foto-electronica-1024x447.jpg`
+- `static/images/foto-electronica-300x131.jpg`
+- `static/images/foto-electronica-500x218.jpg`
+- `static/images/foto-electronica.jpg`
+- `static/images/workshop_apresentacao-174x300.jpg`
+- `static/images/workshop_apresentacao.jpg`
+- `static/social/facebook.png`
+- `static/social/instagram.png`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 13 points — <a href="https://github.com/KanyeMadeGraduation/KanyeMadeGraduation.github.io">KanyeMadeGraduation/KanyeMadeGraduation.github.io</a></strong> · probable photos 555 · identity none</summary>
 
 - Owner: [KanyeMadeGraduation](https://github.com/KanyeMadeGraduation)
@@ -47983,6 +48374,39 @@ None.
 - `img/facts-img1.png`
 - `img/intro-carousel/1.jpg`
 - `img/intro-carousel/2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/gbcert/gbcert.github.io">gbcert/gbcert.github.io</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [gbcert](https://github.com/gbcert)
+- Identity tier: **0**
+- Created / pushed: `2023-06-25T18:09:01Z` / `2025-02-19T19:21:08Z`
+- Account created: `2023-06-18T06:21:33Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `gbcert` / `136954165+gbcert@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `img/header.jpg`
 
 </details>
 
