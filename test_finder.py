@@ -60,7 +60,31 @@ class FinderTests(unittest.TestCase):
         self.assertFalse({task["stage"] for task in tasks} & {"blog", "pages", "other"})
         self.assertNotIn("jesse", self.config["identity"]["name_primary"])
         self.assertNotIn("jesse", self.config["user_search_seeds"])
+        self.assertNotIn("xiaxiatian", self.config["user_search_seeds"])
+        self.assertIn("xiaoxiatian", self.config["user_search_seeds"])
         self.assertIn("in:login,name", finder.task_query(tasks[0]))
+
+    def test_strategy_correction_prunes_orphan_task_without_losing_progress(self):
+        state = {
+            "adaptive_searches": {
+                "old": {
+                    "stage": "users", "term": "xiaxiatian",
+                    "start": "2023-06-01", "end": "2023-10-15",
+                    "order": 12, "page": 1, "complete": True, "split": False,
+                },
+                "adaptive:users:jessie:2023-06-01:2023-10-15": {
+                    "stage": "users", "term": "jessie",
+                    "start": "2023-06-01", "end": "2023-10-15",
+                    "order": 8, "page": 7, "complete": True, "split": False,
+                },
+            }
+        }
+        tasks = finder.initialize_adaptive_tasks(state, self.config)
+        self.assertFalse(any(task["term"] == "xiaxiatian" for task in tasks.values()))
+        self.assertTrue(any(task["term"] == "xiaoxiatian" for task in tasks.values()))
+        kept = next(task for task in tasks.values() if task["term"] == "jessie")
+        self.assertEqual(kept["page"], 7)
+        self.assertTrue(kept["complete"])
 
     def test_user_pages_repositories_are_date_filtered_before_inspection(self):
         class RepoListAPI:

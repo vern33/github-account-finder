@@ -7,10 +7,10 @@
     "name_primary": ["jessieliu", "liujessie", "jessie", "liuxuan", "xuanliu"],
     "name_component": ["jess", "liu", "xuan", "jliu"],
     "numbers": ["20110503", "110503", "0503"],
-    "nickname_low": ["xiaxiatian", "xiatian", "littlesummer"],
+    "nickname_low": ["xiaoxiatian", "xiatian", "littlesummer"],
     "content_only": ["小夏天", "xiamen", "鼓浪屿", "gulangyu", "山", "mountain", "hike", "爬山"]
   },
-  "user_search_seeds": ["liuxuan", "xuanliu", "jessieliu", "liujessie", "20110503", "110503", "0503", "jliu", "jessie", "liu", "xuan", "jess", "xiaxiatian"],
+  "user_search_seeds": ["liuxuan", "xuanliu", "jessieliu", "liujessie", "20110503", "110503", "0503", "jliu", "jessie", "liu", "xuan", "jess", "xiaoxiatian"],
   "query_result_limits": {
     "personal": 50000,
     "users": 5000,

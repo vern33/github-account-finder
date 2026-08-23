@@ -179,6 +179,12 @@ def initialize_adaptive_tasks(state: dict, config: dict):
         (seed["stage"], seed["term"]): seed["order"]
         for seed in seed_search_tasks(config)
     }
+    # Remove obsolete seed groups without disturbing cursors for active groups.
+    # This lets spelling/strategy corrections preserve useful progress while
+    # preventing completed or pending orphan tasks from consuming more budget.
+    for key, task in list(tasks.items()):
+        if (task["stage"], task["term"]) not in current_orders:
+            del tasks[key]
     for task in tasks.values():
         task["order"] = current_orders.get(
             (task["stage"], task["term"]), task.get("order", 9999)
