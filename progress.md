@@ -1,17 +1,17 @@
 # Search progress
 
-- Adaptive search ranges: **23 / 50 (46.0%)**
-- Current cursor: `users:jess 2023-07-06..2023-07-22, page 2`
-- Repository results seen: **0**
-- User search results seen: **8,924**
-- Pages repositories found through users: **458**
-- Identity users fully checked: **8,505**
-- Unique repositories investigated: **458**
-- Unique account owners investigated: **251**
-- Candidates recorded: **448**
+- Adaptive search ranges: **37 / 56 (66.1%)**
+- Current cursor: `identity:liu 2023-06-01..2023-07-05, page 2`
+- Repository results seen: **1,847**
+- User search results seen: **12,803**
+- Pages repositories found through users: **713**
+- Identity users fully checked: **11,967**
+- Unique repositories investigated: **2,284**
+- Unique account owners investigated: **1,552**
+- Candidates recorded: **863**
 - Ranges stopped by result caps: **2**
-- Workflow runs: **3**
-- Last run (UTC): `2026-08-23T17:35:58.959633+00:00`
+- Workflow runs: **4**
+- Last run (UTC): `2026-08-23T18:49:38.068886+00:00`
 - Last API requests used: **4,500**
 - Last stop reason: `request budget exhausted`
 
@@ -19,8 +19,8 @@
 
 | Stage | Completed | Progress |
 |---|---:|---:|
-| users: login/profile name + account created date | 23 / 27 | 85.2% |
-| identity: repository names | 0 / 9 | 0.0% |
+| users: login/profile name + account created date | 30 / 30 | 100.0% |
+| identity: repository names | 7 / 12 | 58.3% |
 | personal: strict username.github.io fallback | 0 / 1 | 0.0% |
 | site: project-page blog names | 0 / 13 | 0.0% |
 
