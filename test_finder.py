@@ -46,6 +46,15 @@ def repository(owner):
     }
 
 
+def project_repository(owner, name="blog"):
+    repo = repository(owner)
+    repo.update({
+        "full_name": f"{owner}/{name}",
+        "name": name,
+    })
+    return repo
+
+
 class FinderTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -56,7 +65,9 @@ class FinderTests(unittest.TestCase):
         self.assertEqual(tasks[0]["stage"], "users")
         self.assertEqual(tasks[0]["term"], "liuxuan")
         self.assertEqual(tasks[1]["term"], "xuanliu")
-        self.assertEqual(tasks[-1]["stage"], "personal")
+        stages = [task["stage"] for task in tasks]
+        self.assertLess(stages.index("personal"), stages.index("site"))
+        self.assertEqual(tasks[-1]["stage"], "site")
         self.assertFalse({task["stage"] for task in tasks} & {"blog", "pages", "other"})
         self.assertNotIn("jesse", self.config["identity"]["name_primary"])
         self.assertNotIn("jesse", self.config["user_search_seeds"])
@@ -127,6 +138,28 @@ class FinderTests(unittest.TestCase):
         )
         self.assertIsNone(rejected)
 
+    def test_personal_pages_with_actions_needs_no_detected_photo(self):
+        candidate = finder.inspect_repository(
+            FakeAPI(marker=True, photos=False),
+            repository("randomperson"),
+            self.config,
+            {},
+        )
+        self.assertIsNotNone(candidate)
+        self.assertEqual(candidate["identity_tier"], 0)
+        self.assertEqual(candidate["probable_photo_count"], 0)
+
+    def test_project_pages_with_actions_and_image_is_admitted(self):
+        candidate = finder.inspect_repository(
+            FakeAPI(marker=True, photos=True),
+            project_repository("randomperson", "blog"),
+            self.config,
+            {},
+        )
+        self.assertIsNotNone(candidate)
+        self.assertEqual(candidate["identity_tier"], 0)
+        self.assertFalse(candidate["is_personal_pages"])
+
     def test_commit_identity_can_admit_candidate(self):
         candidate = finder.inspect_repository(
             FakeAPI(
@@ -140,7 +173,7 @@ class FinderTests(unittest.TestCase):
         )
         self.assertEqual(candidate["identity_tier"], 1)
 
-    def test_tier_is_primary_report_sort(self):
+    def test_score_is_primary_report_sort(self):
         items = [
             {"repository": "a/a", "identity_tier": 0, "score": 99, "dormant": True},
             {"repository": "b/b", "identity_tier": 1, "score": 8, "dormant": False},
@@ -148,7 +181,7 @@ class FinderTests(unittest.TestCase):
         ]
         self.assertEqual(
             [item["identity_tier"] for item in sorted(items, key=finder.candidate_sort_key)],
-            [2, 1, 0],
+            [0, 2, 1],
         )
 
 

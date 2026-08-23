@@ -165,6 +165,10 @@ def seed_search_tasks(config: dict):
         tasks.append({"stage": "identity", "term": term, "start": start, "end": end, "order": order})
         order += 1
     tasks.append({"stage": "personal", "term": "", "start": start, "end": end, "order": order})
+    order += 1
+    for term in config.get("site_name_seeds", []):
+        tasks.append({"stage": "site", "term": term, "start": start, "end": end, "order": order})
+        order += 1
     return tasks
 
 
@@ -353,6 +357,9 @@ def calculate_score(item: dict, config: dict):
         score += 3
     if item.get("account_created_in_window"):
         score += 3
+    repo_created = (item.get("created_at") or "")[:10]
+    if "2023-07-01" <= repo_created <= "2023-09-30":
+        score += 2
     photos = item.get("probable_photo_count", 0)
     if photos >= 1:
         score += 2
@@ -508,13 +515,15 @@ def inspect_repository(api: GitHub, repo: dict, config: dict, profile_cache: dic
         term for term in config["identity"]["content_only"]
         if term.lower() in path_source
     })
-    fallback = (
+    markers_present = bool(markers)
+    has_blog_signal = (
         is_personal_pages
-        and account_created_in_window
-        and len(probable_photos) >= config["minimum_photo_count"]
-        and bool(markers)
+        or len(image_paths) >= 1
+        or bool(post_files)
+        or bool(content_only_hits)
     )
-    if tier < 1 and not fallback:
+    fingerprint = account_created_in_window and markers_present and has_blog_signal
+    if tier < 1 and not fingerprint:
         return None
 
     candidate = {
@@ -559,7 +568,7 @@ def render_report(candidates: list[dict], state: dict):
     lines = [
         "# Candidate accounts",
         "",
-        "Generated incrementally by GitHub Actions. Identity tier is the primary ranking key.",
+        "Generated incrementally by GitHub Actions. Behavior score is the primary ranking key.",
         "",
         f"Last run: `{state['stats'].get('last_run_utc')}`  ",
         f"Repositories inspected: `{state['stats'].get('repositories_inspected', 0)}`  ",
@@ -590,6 +599,7 @@ def render_report(candidates: list[dict], state: dict):
             summary,
             "",
             f"- Owner: [{item['owner']}](https://github.com/{item['owner']})",
+            f"- Live site: {item.get('pages_url') or 'none'}",
             f"- Identity tier: **{item.get('identity_tier', 0)}**",
             f"- Created / pushed: `{item['created_at']}` / `{item['pushed_at']}`",
             f"- Account created: `{item.get('owner_profile', {}).get('created_at') or 'unknown'}` · in window `{item.get('account_created_in_window', False)}`",
@@ -619,8 +629,8 @@ def render_report(candidates: list[dict], state: dict):
 
 def candidate_sort_key(item: dict):
     return (
-        -int(item.get("identity_tier", 0)),
         -int(item.get("score", 0)),
+        -int(item.get("identity_tier", 0)),
         -int(bool(item.get("dormant"))),
         item["repository"].lower(),
     )
@@ -646,6 +656,7 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         ("users: login/profile name + account created date", "users"),
         ("identity: repository names", "identity"),
         ("personal: strict username.github.io fallback", "personal"),
+        ("site: project-page blog names", "site"),
     ]
     stage_rows = []
     for label, stage in stage_specs:

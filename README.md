@@ -26,13 +26,16 @@ Stages run in this order:
    repositories are discarded before tree, commit, profile, or workflow reads.
 2. **Identity repository names:** search Pages candidates through repository
    names containing the primary and component name tokens.
-3. **Strict personal Pages fallback:** search `github.io in:name` last and only
-   admit an identity-free `owner.github.io` repository when the owner account
-   was created in the target window, a recognized Actions deployment marker is
-   present, and at least one probable photo exists.
+3. **Strict personal Pages fallback:** search `github.io in:name` and
+   inspect strict `owner.github.io` repositories.
+4. **Site-name behavior scan:** search generic blog/photo/travel repository
+   names to cover project Pages such as `owner/blog`, independent of identity.
 
-The former `blog`, `pages`, and other generic site-name stages have been
-removed. They produced broad repository matches but weak identity evidence.
+Identity-free personal and project Pages candidates require an account created
+in the target window, a recognized Actions deployment marker, and at least one
+blog signal: a personal Pages name, any image, a post file, or a configured
+content/path hint. Probable-photo detection is supporting evidence, not a hard
+gate, so unusual image directories and externally hosted photos are not lost.
 
 Dense search ranges are split adaptively to stay below GitHub's 1,000-result
 search ceiling. Result caps, core/search throttling, retries, request-budget
@@ -49,13 +52,13 @@ score.
   name family plus a boundary-safe birthday token.
 - **Tier 1:** the login, profile name/bio, or latest commit author contains one
   primary, component, or birthday token.
-- **Tier 0:** no identity token; possible only through the strict structural
-  fallback.
+- **Tier 0:** no identity token; admitted through the behavior fingerprint for
+  either personal or project Pages.
 
-Reports sort by `(identity tier descending, score descending, dormant signal
-descending)`. Thus all identity-bearing candidates appear before structural
-fallbacks. Number matching uses digit boundaries so `0503` does not match a
-longer unrelated number.
+Reports sort by `(score descending, identity tier descending, dormant signal
+descending)`, so the strongest behavior fingerprints can rise above weak
+single-token matches. Number matching uses digit boundaries so `0503` does not
+match a longer unrelated number.
 
 ## Outputs
 
