@@ -1,17 +1,17 @@
 # Search progress
 
-- Adaptive search ranges: **50 / 69 (72.5%)**
-- Current cursor: `personal:username.github.io 2023-06-08..2023-06-08, page 10`
-- Repository results seen: **12,676**
+- Adaptive search ranges: **54 / 73 (74.0%)**
+- Current cursor: `personal:username.github.io 2023-06-12..2023-06-12, page 9`
+- Repository results seen: **16,676**
 - User search results seen: **12,803**
 - Pages repositories found through users: **713**
 - Identity users fully checked: **11,967**
-- Unique repositories investigated: **9,399**
-- Unique account owners investigated: **8,018**
-- Candidates recorded: **1,210**
+- Unique repositories investigated: **11,746**
+- Unique account owners investigated: **10,364**
+- Candidates recorded: **1,238**
 - Ranges stopped by result caps: **2**
-- Workflow runs: **7**
-- Last run (UTC): `2026-08-23T21:37:06.082572+00:00`
+- Workflow runs: **8**
+- Last run (UTC): `2026-08-23T22:39:31.599472+00:00`
 - Last API requests used: **4,500**
 - Last stop reason: `request budget exhausted`
 
@@ -21,7 +21,7 @@
 |---|---:|---:|
 | users: login/profile name + account created date | 30 / 30 | 100.0% |
 | identity: repository names | 13 / 13 | 100.0% |
-| personal: strict username.github.io fallback | 7 / 13 | 53.8% |
+| personal: strict username.github.io fallback | 11 / 17 | 64.7% |
 | site: project-page blog names | 0 / 13 | 0.0% |
 
 Each seed starts with the configured account-creation window. A range is split only when GitHub
