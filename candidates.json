@@ -67726,5 +67726,418 @@
     "description": "Gallery slider animation",
     "first_seen_utc": "2026-08-24T12:05:21.819839+00:00",
     "score": 10
+  },
+  {
+    "owner": "Om0705",
+    "repository": "Om0705/Gallery-website",
+    "url": "https://github.com/Om0705/Gallery-website",
+    "pages_url": "https://Om0705.github.io/Gallery-website/",
+    "created_at": "2023-09-06T07:34:19Z",
+    "pushed_at": "2023-09-09T17:55:30Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Om0705",
+      "email": "138165132+Om0705@users.noreply.github.com",
+      "login": "Om0705"
+    },
+    "owner_profile": {
+      "created_at": "2023-06-29T20:44:59Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 9,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:23:48.101619+00:00",
+    "score": 10
+  },
+  {
+    "owner": "Ambraaaliu",
+    "repository": "Ambraaaliu/AugmentingGallery",
+    "url": "https://github.com/Ambraaaliu/AugmentingGallery",
+    "pages_url": "https://Ambraaaliu.github.io/AugmentingGallery/",
+    "created_at": "2023-09-12T23:05:54Z",
+    "pushed_at": "2023-10-27T21:27:47Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Ambraaaliu",
+      "email": "cl6376@nyu.edu",
+      "login": "Ambraaaliu"
+    },
+    "owner_profile": {
+      "created_at": "2023-04-20T03:21:08Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 30,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:26:22.868716+00:00",
+    "score": 9
+  },
+  {
+    "owner": "Sonnblom",
+    "repository": "Sonnblom/PortGallery",
+    "url": "https://github.com/Sonnblom/PortGallery",
+    "pages_url": "https://Sonnblom.github.io/PortGallery/",
+    "created_at": "2023-09-25T20:39:06Z",
+    "pushed_at": "2023-09-29T04:39:05Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Anthony Badila",
+      "email": "140418076+Sonnblom@users.noreply.github.com",
+      "login": "Sonnblom"
+    },
+    "owner_profile": {
+      "name": "Anthony Badila",
+      "bio": "3D Artist/Animator and Graphic Designer",
+      "location": "Atlanta, GA",
+      "created_at": "2023-07-24T14:22:58Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 68,
+    "probable_photo_count": 59,
+    "sample_photos": [
+      "Assets/Alien.png",
+      "Assets/Alien2.png",
+      "Assets/Aliens.PNG",
+      "Assets/BSCaro1.PNG",
+      "Assets/BSCaro2.PNG",
+      "Assets/BSCaro3.PNG",
+      "Assets/Burger.png",
+      "Assets/Cattv.png",
+      "Assets/CursorSample1.PNG",
+      "Assets/CursorSample2.PNG",
+      "Assets/DJ.png",
+      "Assets/DJStill8.jpg",
+      "Assets/DuckyMech.png",
+      "Assets/GYStill3.jpg",
+      "Assets/IMG-4035.PNG",
+      "Assets/IMG_0019.PNG",
+      "Assets/IMG_0023.PNG",
+      "Assets/IMG_0024.PNG",
+      "Assets/IMG_0025.PNG",
+      "Assets/IMG_0026.PNG"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "portfolio gallery webpage",
+    "first_seen_utc": "2026-08-24T12:30:08.348242+00:00",
+    "score": 14
+  },
+  {
+    "owner": "Nuthaim",
+    "repository": "Nuthaim/food-gallery-demo",
+    "url": "https://github.com/Nuthaim/food-gallery-demo",
+    "pages_url": "https://Nuthaim.github.io/food-gallery-demo/",
+    "created_at": "2023-10-05T06:21:56Z",
+    "pushed_at": "2023-10-12T19:24:38Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Nuthaim",
+      "email": "137758828+Nuthaim@users.noreply.github.com",
+      "login": "Nuthaim"
+    },
+    "owner_profile": {
+      "name": "Nuthaim Shukoor",
+      "bio": "Passionate web developer specializing in the art of front-end wizardry. Creating stunning, user-centric websites using the magic of HTML, CSS, and JavaScript.",
+      "location": "kochi",
+      "created_at": "2023-06-26T06:41:00Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 24,
+    "probable_photo_count": 24,
+    "sample_photos": [
+      "images/alfaham.jpg",
+      "images/biriyani.jpg",
+      "images/broast 2.jpg",
+      "images/broasted.jpg",
+      "images/chicken lolipop.jpg",
+      "images/desert 2.jpg",
+      "images/desert.jpg",
+      "images/french fries.jpg",
+      "images/fried rice.jpg",
+      "images/images/alfaham.jpg",
+      "images/images/biriyani.jpg",
+      "images/images/broast 2.jpg",
+      "images/images/broasted.jpg",
+      "images/images/chicken lolipop.jpg",
+      "images/images/desert 2.jpg",
+      "images/images/desert.jpg",
+      "images/images/french fries.jpg",
+      "images/images/fried rice.jpg",
+      "images/images/mutton mandhi.jpg",
+      "images/images/pizza.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:34:25.293719+00:00",
+    "score": 12
+  },
+  {
+    "owner": "MSPrince",
+    "repository": "MSPrince/3D-Image-Gallery",
+    "url": "https://github.com/MSPrince/3D-Image-Gallery",
+    "pages_url": "https://MSPrince.github.io/3D-Image-Gallery/",
+    "created_at": "2023-09-29T14:46:56Z",
+    "pushed_at": "2023-10-04T17:29:01Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "M S Prince",
+      "email": "135182786+MSPrince@users.noreply.github.com",
+      "login": "MSPrince"
+    },
+    "owner_profile": {
+      "name": "M S Prince",
+      "bio": "Passionate and detail-oriented Front End Developer, armed with a keen analytical mindset and a profound understanding of cutting-edge front-end technologies. ",
+      "location": "Noida Uttar Pradesh",
+      "created_at": "2023-06-01T00:05:42Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 12,
+    "probable_photo_count": 12,
+    "sample_photos": [
+      "image/pic (1).JPG",
+      "image/pic (10).JPG",
+      "image/pic (11).JPG",
+      "image/pic (12).JPG",
+      "image/pic (2).JPG",
+      "image/pic (3).JPG",
+      "image/pic (4).JPG",
+      "image/pic (5).JPG",
+      "image/pic (6).JPG",
+      "image/pic (7).JPG",
+      "image/pic (8).JPG",
+      "image/pic (9).JPG"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:34:54.365302+00:00",
+    "score": 14
+  },
+  {
+    "owner": "Ravinder201613",
+    "repository": "Ravinder201613/youtube-gallery",
+    "url": "https://github.com/Ravinder201613/youtube-gallery",
+    "pages_url": "https://Ravinder201613.github.io/youtube-gallery/",
+    "created_at": "2023-10-12T17:20:00Z",
+    "pushed_at": "2023-10-12T17:29:26Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Ravinder201613",
+      "email": "144367935+Ravinder201613@users.noreply.github.com",
+      "login": "Ravinder201613"
+    },
+    "owner_profile": {
+      "created_at": "2023-09-07T15:53:02Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 2,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "Build a YouTube-inspired gallery in React using static data",
+    "first_seen_utc": "2026-08-24T12:35:45.448508+00:00",
+    "score": 8
+  },
+  {
+    "owner": "sawlew",
+    "repository": "sawlew/TravelnTour",
+    "url": "https://github.com/sawlew/TravelnTour",
+    "pages_url": "https://sawlew.github.io/TravelnTour/",
+    "created_at": "2023-06-06T19:49:19Z",
+    "pushed_at": "2023-08-23T08:27:38Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Soliu Adeosun",
+      "email": "sawlew@gmail.com",
+      "login": "sawlew"
+    },
+    "owner_profile": {
+      "name": "Soliu Adeosun",
+      "blog": "https://soliu.netlify.app",
+      "email": "sawlew@gmail.com",
+      "twitter_username": "sawlew",
+      "created_at": "2017-01-06T13:37:39Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 13,
+    "probable_photo_count": 12,
+    "sample_photos": [
+      "images/first.png",
+      "images/four.png",
+      "images/image 12.png",
+      "images/image 13.png",
+      "images/image 14.png",
+      "images/image 15.png",
+      "images/image 4.png",
+      "images/image 6.png",
+      "images/img.png",
+      "images/imgi.png",
+      "images/imhf.png",
+      "images/second.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "A Travel and Tour Landing page",
+    "first_seen_utc": "2026-08-24T12:41:07.122955+00:00",
+    "score": 11
+  },
+  {
+    "owner": "Bison2001",
+    "repository": "Bison2001/ali_travel",
+    "url": "https://github.com/Bison2001/ali_travel",
+    "pages_url": "https://Bison2001.github.io/ali_travel/",
+    "created_at": "2023-06-08T13:59:58Z",
+    "pushed_at": "2023-06-11T16:27:38Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Xuhui Liu",
+      "email": "xul019@ucsd.edu",
+      "login": "Bison2001"
+    },
+    "owner_profile": {
+      "name": "Xuhui Liu",
+      "location": "San Diego",
+      "created_at": "2021-01-06T09:56:22Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 49,
+    "probable_photo_count": 49,
+    "sample_photos": [
+      "photo/1.jpg",
+      "photo/10.jpg",
+      "photo/11.jpg",
+      "photo/12.jpg",
+      "photo/13.jpg",
+      "photo/14.jpg",
+      "photo/15.jpg",
+      "photo/16.jpg",
+      "photo/17.jpg",
+      "photo/18.jpg",
+      "photo/19.jpg",
+      "photo/2.jpg",
+      "photo/20.jpg",
+      "photo/21.jpg",
+      "photo/22.jpg",
+      "photo/23.jpg",
+      "photo/24.jpg",
+      "photo/25.jpg",
+      "photo/26.jpg",
+      "photo/27.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:41:37.987761+00:00",
+    "score": 11
   }
 ]
