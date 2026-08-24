@@ -67273,5 +67273,253 @@
     "description": "myweb",
     "first_seen_utc": "2026-08-24T10:30:25.907889+00:00",
     "score": 10
+  },
+  {
+    "owner": "MwangeLee",
+    "repository": "MwangeLee/levinMwangePhotography",
+    "url": "https://github.com/MwangeLee/levinMwangePhotography",
+    "pages_url": "https://mwangelee.github.io/levinMwangePhotography/",
+    "created_at": "2023-08-12T03:55:09Z",
+    "pushed_at": "2023-08-14T02:50:01Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "levin",
+      "email": "139792962+MwangeLee@users.noreply.github.com",
+      "login": "MwangeLee"
+    },
+    "owner_profile": {
+      "name": "Levin Mwange",
+      "bio": "stupid genius",
+      "created_at": "2023-07-17T15:58:19Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 47,
+    "probable_photo_count": 45,
+    "sample_photos": [
+      "img/activity-img1.png",
+      "img/activity-img2.png",
+      "img/activity-img3.png",
+      "img/bg.jpg",
+      "img/bg2.jpg",
+      "img/bg3.jpg",
+      "img/bg4.jpg",
+      "img/bg5.jpeg",
+      "img/bg6.jpg",
+      "img/camera.png",
+      "img/client-bg.jpg",
+      "img/featured.jpg",
+      "img/feed-img1.png",
+      "img/feed-img2.png",
+      "img/gallery1.jpg",
+      "img/gallery2.jpg",
+      "img/gallery4.jpg",
+      "img/gallery5.jpeg",
+      "img/gallery6.jpg",
+      "img/gallery7.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "This project is a photography website using html and CSS. It is a project that showcases works of a professional photographer ",
+    "first_seen_utc": "2026-08-24T10:57:22.932754+00:00",
+    "score": 14
+  },
+  {
+    "owner": "OlichkaKhamuliak",
+    "repository": "OlichkaKhamuliak/photography-school",
+    "url": "https://github.com/OlichkaKhamuliak/photography-school",
+    "pages_url": "https://olichkakhamuliak.github.io/photography-school/",
+    "created_at": "2023-09-06T21:01:39Z",
+    "pushed_at": "2023-09-12T12:24:20Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "OlichkaKhamuliak",
+      "email": "138995310+OlichkaKhamuliak@users.noreply.github.com",
+      "login": "OlichkaKhamuliak"
+    },
+    "owner_profile": {
+      "name": "Olha Khamuliak",
+      "location": "Ukraine",
+      "created_at": "2023-07-08T15:03:20Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 59,
+    "probable_photo_count": 53,
+    "sample_photos": [
+      "assets/deploy-status.png",
+      "assets/gh-actions-perm-1.png",
+      "assets/gh-actions-perm-2.png",
+      "assets/how-it-works.png",
+      "assets/repo-settings.png",
+      "assets/template-step-1.png",
+      "assets/template-step-2.png",
+      "src/images/about-desk.png",
+      "src/images/about-desk@2x.png",
+      "src/images/about-max.png",
+      "src/images/about-max@2x.png",
+      "src/images/about-mob.png",
+      "src/images/about-mob@2x.png",
+      "src/images/about-tab.png",
+      "src/images/about-tab@2x.png",
+      "src/images/abraham.png",
+      "src/images/abraham@2x.png",
+      "src/images/alex.png",
+      "src/images/alex@2x.png",
+      "src/images/amanda.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:02:40.679149+00:00",
+    "score": 14
+  },
+  {
+    "owner": "Lammet-geff",
+    "repository": "Lammet-geff/photowebsite",
+    "url": "https://github.com/Lammet-geff/photowebsite",
+    "pages_url": "https://lammet-geff.github.io/photowebsite/",
+    "created_at": "2023-09-04T08:40:54Z",
+    "pushed_at": "2023-09-04T08:57:04Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Lammet-geff",
+      "email": "142914930+Lammet-geff@users.noreply.github.com",
+      "login": "Lammet-geff"
+    },
+    "owner_profile": {
+      "created_at": "2023-08-22T14:42:09Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 2,
+    "probable_photo_count": 2,
+    "sample_photos": [
+      "images/istockphoto-1355093071-612x612.webp",
+      "images/neon-light-portrait-concentrated-girl-keeping-hand-over-eyes-looking-far-away-attentive-view-watching-horizon-forward-190990928.webp"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:03:19.626590+00:00",
+    "score": 12
+  },
+  {
+    "owner": "mdriyan00150",
+    "repository": "mdriyan00150/photo_editorr",
+    "url": "https://github.com/mdriyan00150/photo_editorr",
+    "pages_url": "https://mdriyan00150.github.io/photo_editorr/",
+    "created_at": "2023-09-20T15:21:50Z",
+    "pushed_at": "2023-09-20T15:25:07Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "mdriyan00150",
+      "email": "145467323+mdriyan00150@users.noreply.github.com",
+      "login": "mdriyan00150"
+    },
+    "owner_profile": {
+      "created_at": "2023-09-19T13:40:42Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 1,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:05:52.808682+00:00",
+    "score": 10
+  },
+  {
+    "owner": "DanyaLiupinin",
+    "repository": "DanyaLiupinin/card-gallery-marathon",
+    "url": "https://github.com/DanyaLiupinin/card-gallery-marathon",
+    "pages_url": "https://danyaliupinin.github.io/card-gallery-marathon/",
+    "created_at": "2023-06-05T21:36:32Z",
+    "pushed_at": "2023-06-15T15:46:10Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Danya Kovan",
+      "email": "mr.kovan_2002@mail.ru",
+      "login": "DanyaLiupinin"
+    },
+    "owner_profile": {
+      "name": "Danya Kovan",
+      "email": "dankooj@gmail.com",
+      "created_at": "2022-02-03T13:49:28Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 6,
+    "probable_photo_count": 6,
+    "sample_photos": [
+      "images/1.jpg",
+      "images/2.jpg",
+      "images/3.jpg",
+      "images/4.jpg",
+      "images/5.jpg",
+      "images/main.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "A spectacular addaptive picture library that can be embedded into an online store website, social network or other web application",
+    "first_seen_utc": "2026-08-24T11:22:45.733712+00:00",
+    "score": 11
   }
 ]
