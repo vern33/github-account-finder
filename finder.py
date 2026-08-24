@@ -650,7 +650,34 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         | set(state.get("processed_repositories_v2", []))
     )
     owners = {name.split("/", 1)[0].lower() for name in repositories if "/" in name}
-    percent = (completed / len(leaf_tasks) * 100) if leaf_tasks else 100.0
+    # Adaptive ranges are implementation details: splitting one dense range into
+    # two used to increase the denominator and made progress appear to move
+    # backwards. Report fixed seed/date coverage instead. Each seed contributes
+    # one unit per day in the configured window, regardless of how often GitHub's
+    # 1,000-result ceiling forces that window to be subdivided.
+    configured_seeds = {
+        (task["stage"], task["term"], task["start"], task["end"])
+        for task in seed_search_tasks(load_json(CONFIG_PATH, {}))
+    }
+
+    def coverage_for(stage=None):
+        relevant_seeds = [seed for seed in configured_seeds if stage is None or seed[0] == stage]
+        total_days = sum(
+            (dt.date.fromisoformat(end) - dt.date.fromisoformat(start)).days + 1
+            for _seed_stage, _term, start, end in relevant_seeds
+        )
+        covered = set()
+        seed_terms = {(seed_stage, term) for seed_stage, term, _start, _end in relevant_seeds}
+        for task in leaf_tasks:
+            identity = (task["stage"], task["term"])
+            if identity not in seed_terms or not task.get("complete"):
+                continue
+            for day in date_chunks(task["start"], task["end"]):
+                covered.add((task["stage"], task["term"], day))
+        return len(covered), total_days
+
+    covered_days, total_days = coverage_for()
+    percent = (covered_days / total_days * 100) if total_days else 100.0
     stats = state.get("stats", {})
     stage_specs = [
         ("users: login/profile name + account created date", "users"),
@@ -660,15 +687,15 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
     ]
     stage_rows = []
     for label, stage in stage_specs:
-        stage_tasks = [task for task in leaf_tasks if task["stage"] == stage]
-        done = sum(bool(task.get("complete")) for task in stage_tasks)
-        stage_percent = (done / len(stage_tasks) * 100) if stage_tasks else 100.0
-        stage_rows.append(f"| {label} | {done:,} / {len(stage_tasks):,} | {stage_percent:.1f}% |")
+        done, total = coverage_for(stage)
+        stage_percent = (done / total * 100) if total else 100.0
+        stage_rows.append(f"| {label} | {done:,} / {total:,} seed-days | {stage_percent:.1f}% |")
     capped = sum(bool(task.get("capped")) for task in leaf_tasks)
     lines = [
         "# Search progress",
         "",
-        f"- Adaptive search ranges: **{completed:,} / {len(leaf_tasks):,} ({percent:.1f}%)**",
+        f"- Fixed search coverage: **{covered_days:,} / {total_days:,} seed-days ({percent:.1f}%)**",
+        f"- Adaptive range diagnostics: **{completed:,} / {len(leaf_tasks):,} leaf ranges complete**",
         f"- Current cursor: `{active}`",
         f"- Repository results seen: **{stats.get('repositories_seen', 0):,}**",
         f"- User search results seen: **{stats.get('users_seen', 0):,}**",
@@ -689,10 +716,10 @@ def render_progress(tasks: dict, state: dict, candidates: list[dict]):
         "|---|---:|---:|",
         *stage_rows,
         "",
-        "Each seed starts with the configured account-creation window. A range is split only when GitHub",
-        "reports more than 1,000 results, so the denominator may grow while a dense",
-        "range is being subdivided. Already investigated repositories are never",
-        "inspected again.",
+        "The main percentage uses a fixed denominator: one unit per seed per day in the configured",
+        "account-creation window. Adaptive leaf ranges may still increase when GitHub reports more than",
+        "1,000 results, but that diagnostic count no longer changes or reduces the displayed coverage.",
+        "Already investigated repositories are never inspected again.",
     ]
     PROGRESS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
