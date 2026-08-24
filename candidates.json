@@ -68139,5 +68139,431 @@
     "description": null,
     "first_seen_utc": "2026-08-24T12:41:37.987761+00:00",
     "score": 11
+  },
+  {
+    "owner": "ruranjo",
+    "repository": "ruranjo/travel-agency-webside",
+    "url": "https://github.com/ruranjo/travel-agency-webside",
+    "pages_url": "https://ruranjo.github.io/travel-agency-webside/",
+    "created_at": "2023-06-23T18:41:47Z",
+    "pushed_at": "2023-08-18T17:53:37Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "ruranjo",
+      "email": "rubens.rangel.job@gmail.com",
+      "login": "ruranjo"
+    },
+    "owner_profile": {
+      "name": "Rubens",
+      "bio": "This is a good day to think about The Universe",
+      "created_at": "2023-06-10T15:52:36Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 16,
+    "probable_photo_count": 15,
+    "sample_photos": [
+      "src/assets/cuba.png",
+      "src/assets/ellipse.png",
+      "src/assets/hero.png",
+      "src/assets/japan.png",
+      "src/assets/lighthouse.png",
+      "src/assets/paris.png",
+      "src/assets/service1.png",
+      "src/assets/service2.png",
+      "src/assets/service3.png",
+      "src/assets/service4.png",
+      "src/assets/tour1.png",
+      "src/assets/tour2.png",
+      "src/assets/tour3.png",
+      "src/assets/vector1.png",
+      "src/assets/vector2.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:02:04.525260+00:00",
+    "score": 12
+  },
+  {
+    "owner": "BaichuanL",
+    "repository": "BaichuanL/Udemy-Japan-travel-website",
+    "url": "https://github.com/BaichuanL/Udemy-Japan-travel-website",
+    "pages_url": "https://BaichuanL.github.io/Udemy-Japan-travel-website/",
+    "created_at": "2023-06-21T23:02:38Z",
+    "pushed_at": "2023-07-31T05:27:40Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Baichuan Liu",
+      "email": "107602342+BaichuanL@users.noreply.github.com",
+      "login": "BaichuanL"
+    },
+    "owner_profile": {
+      "name": "Baichuan Liu",
+      "bio": "Open to work\r\n",
+      "location": "Boston",
+      "created_at": "2022-06-16T04:34:08Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [
+      "山"
+    ],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 8,
+    "probable_photo_count": 8,
+    "sample_photos": [
+      "images/京都古城.jpg",
+      "images/北海道雪景.jpg",
+      "images/大阪街頭.jpg",
+      "images/富士山.jpg",
+      "images/富士山2.jpg",
+      "images/日本壽司.jpg",
+      "images/日本櫻花.jpg",
+      "images/清水寺.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:02:36.140754+00:00",
+    "score": 13
+  },
+  {
+    "owner": "JessCP25",
+    "repository": "JessCP25/WebSiteTravel",
+    "url": "https://github.com/JessCP25/WebSiteTravel",
+    "pages_url": "https://JessCP25.github.io/WebSiteTravel/",
+    "created_at": "2023-06-26T20:53:28Z",
+    "pushed_at": "2023-07-02T16:22:41Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "jess"
+    ],
+    "profile_identity_hits": [
+      "jess"
+    ],
+    "commit_identity_hits": [
+      "jess"
+    ],
+    "commit_author": {
+      "name": "JessCP25",
+      "email": "jpayanoc25@gmail.com",
+      "login": "JessCP25"
+    },
+    "owner_profile": {
+      "name": "Jessica Payano Castro",
+      "created_at": "2023-01-05T04:39:38Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 16,
+    "probable_photo_count": 16,
+    "sample_photos": [
+      "public/img/LA.jpg",
+      "public/img/bali.jpg",
+      "public/img/chicago.jpg",
+      "public/img/europe.jpg",
+      "public/img/iceland.jpg",
+      "public/img/miami.jpg",
+      "public/img/new_york.jpg",
+      "public/img/norway.jpg",
+      "public/img/sanFrancisco.jpg",
+      "public/img/sanFranciscoDesktop.jpg",
+      "public/img/seattle.jpg",
+      "public/img/svg/instagram 1.png",
+      "public/img/svg/twitter 1.png",
+      "public/img/switzerland.jpg",
+      "public/img/sydney.jpg",
+      "public/img/yosemite.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:05:10.252242+00:00",
+    "score": 14
+  },
+  {
+    "owner": "ruranjo",
+    "repository": "ruranjo/responisve-travel-agency",
+    "url": "https://github.com/ruranjo/responisve-travel-agency",
+    "pages_url": "https://ruranjo.github.io/responisve-travel-agency/",
+    "created_at": "2023-07-10T17:48:57Z",
+    "pushed_at": "2023-08-18T17:36:34Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Rubens",
+      "email": "136184951+ruranjo@users.noreply.github.com",
+      "login": "ruranjo"
+    },
+    "owner_profile": {
+      "name": "Rubens",
+      "bio": "This is a good day to think about The Universe",
+      "created_at": "2023-06-10T15:52:36Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 6,
+    "probable_photo_count": 5,
+    "sample_photos": [
+      "src/assets/hero.png",
+      "src/assets/service1.png",
+      "src/assets/service2.png",
+      "src/assets/service3.png",
+      "src/assets/service4.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:16:07.242536+00:00",
+    "score": 14
+  },
+  {
+    "owner": "xedlichha",
+    "repository": "xedlichha/nls_travel",
+    "url": "https://github.com/xedlichha/nls_travel",
+    "pages_url": "https://xedlichha.github.io/nls_travel/",
+    "created_at": "2023-07-14T18:19:12Z",
+    "pushed_at": "2023-08-06T15:11:25Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "huynhvp",
+      "email": "huynhvp.fr@gmail.com",
+      "login": "xedlichha"
+    },
+    "owner_profile": {
+      "created_at": "2023-07-14T08:11:00Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [
+      "mountain"
+    ],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 31,
+    "probable_photo_count": 27,
+    "sample_photos": [
+      "content/home/tours/photos/bana.jpg",
+      "content/home/tours/photos/bana_2.jpg",
+      "content/home/tours/photos/bg_head.jpg",
+      "content/home/tours/photos/camthanh.jpg",
+      "content/home/tours/photos/cham.jpg",
+      "content/home/tours/photos/hue.jpg",
+      "content/home/tours/photos/mountain1.jpg",
+      "content/home/tours/photos/mountain2.jpg",
+      "content/home/tours/photos/myson1.jpg",
+      "content/home/tours/photos/myson2.jpg",
+      "themes/hugo-initio/images/complete.png",
+      "themes/hugo-initio/images/tn.png",
+      "themes/hugo-initio/static/images/bana.jpg",
+      "themes/hugo-initio/static/images/bana_2.jpg",
+      "themes/hugo-initio/static/images/bg_head.jpg",
+      "themes/hugo-initio/static/images/camthanh.jpg",
+      "themes/hugo-initio/static/images/cham.jpg",
+      "themes/hugo-initio/static/images/guy.jpg",
+      "themes/hugo-initio/static/images/hue.jpg",
+      "themes/hugo-initio/static/images/mac.jpg"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "content/post/vivamus-lacus-mauris.md",
+      "themes/hugo-initio/exampleSite/content/post/vivamus-lacus-mauris.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:18:31.310785+00:00",
+    "score": 17
+  },
+  {
+    "owner": "AndreyKaliushka",
+    "repository": "AndreyKaliushka/travelling",
+    "url": "https://github.com/AndreyKaliushka/travelling",
+    "pages_url": "https://AndreyKaliushka.github.io/travelling/",
+    "created_at": "2023-07-27T08:47:08Z",
+    "pushed_at": "2023-08-14T14:37:53Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Andrey",
+      "email": "kaliushka890@gmail.com",
+      "login": "AndreyKaliushka"
+    },
+    "owner_profile": {
+      "name": "Andrey Kaliushka",
+      "bio": "Hi!\r\nI'm a trainee frontend developer from Novosibirsk, Russia.",
+      "location": "Novosibirsk",
+      "created_at": "2022-07-01T08:45:45Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [
+      "mountain"
+    ],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 644,
+    "probable_photo_count": 644,
+    "sample_photos": [
+      "build/img/advantages/fourth-clouds.png",
+      "build/img/advantages/fourth-clouds.webp",
+      "build/img/catalog/clouds-mount-desktop.png",
+      "build/img/catalog/clouds-mount-desktop.webp",
+      "build/img/catalog/clouds-mount-desktop@2x.png",
+      "build/img/catalog/clouds-mount-desktop@2x.webp",
+      "build/img/catalog/clouds-mount-mobile.png",
+      "build/img/catalog/clouds-mount-mobile.webp",
+      "build/img/catalog/clouds-mount-mobile@2x.png",
+      "build/img/catalog/clouds-mount-mobile@2x.webp",
+      "build/img/catalog/clouds-mount-tablet.png",
+      "build/img/catalog/clouds-mount-tablet.webp",
+      "build/img/catalog/clouds-mount-tablet@2x.png",
+      "build/img/catalog/clouds-mount-tablet@2x.webp",
+      "build/img/catalog/first-clouds.png",
+      "build/img/catalog/first-clouds.webp",
+      "build/img/catalog/first-tour-desktop.jpg",
+      "build/img/catalog/first-tour-desktop.webp",
+      "build/img/catalog/first-tour-desktop@2x.jpg",
+      "build/img/catalog/first-tour-desktop@2x.webp"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "https://andreykaliushka.github.io/travelling/build/",
+    "first_seen_utc": "2026-08-24T13:27:04.895979+00:00",
+    "score": 18
+  },
+  {
+    "owner": "jessiecho1011",
+    "repository": "jessiecho1011/project_TravelWebsite",
+    "url": "https://github.com/jessiecho1011/project_TravelWebsite",
+    "pages_url": "https://jessiecho1011.github.io/project_TravelWebsite/",
+    "created_at": "2023-08-07T15:26:30Z",
+    "pushed_at": "2023-08-07T15:31:10Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "jess",
+      "jessie"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "jess",
+      "jessie"
+    ],
+    "commit_author": {
+      "name": "JessieCho",
+      "email": "84694482+jessiecho1011@users.noreply.github.com",
+      "login": "jessiecho1011"
+    },
+    "owner_profile": {
+      "created_at": "2021-05-24T03:08:03Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 5,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:36:33.401146+00:00",
+    "score": 12
+  },
+  {
+    "owner": "jessoca0805",
+    "repository": "jessoca0805/travel_project",
+    "url": "https://github.com/jessoca0805/travel_project",
+    "pages_url": "https://jessoca0805.github.io/travel_project/",
+    "created_at": "2023-08-06T06:51:23Z",
+    "pushed_at": "2023-08-06T06:58:16Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "jess"
+    ],
+    "profile_identity_hits": [
+      "jess"
+    ],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "billy0603",
+      "email": "42488557+billy0603@users.noreply.github.com",
+      "login": "billy0603"
+    },
+    "owner_profile": {
+      "name": "Jessica",
+      "created_at": "2023-04-12T05:59:39Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T13:37:29.871177+00:00",
+    "score": 10
   }
 ]
