@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Behavior score is the primary ranking key.
 
-Last run: `2026-08-24T10:54:43.239546+00:00`  
-Repositories inspected: `61461`  
-Candidates: `1430`
+Last run: `2026-08-24T11:45:17.975225+00:00`  
+Repositories inspected: `66248`  
+Candidates: `1435`
 
 <details>
 <summary><strong>Tier 2 · 24 points — <a href="https://github.com/liufanxuan/liufanxuan.github.io">liufanxuan/liufanxuan.github.io</a></strong> · probable photos 8 · identity liu, xuan</summary>
@@ -29318,6 +29318,45 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/AndrewGirgis099/Gallery">AndrewGirgis099/Gallery</a></strong> · probable photos 6 · identity none</summary>
+
+- Owner: [AndrewGirgis099](https://github.com/AndrewGirgis099)
+- Live site: https://AndrewGirgis099.github.io/Gallery/
+- Identity tier: **0**
+- Created / pushed: `2023-07-30T20:00:50Z` / `2023-07-30T20:07:31Z`
+- Account created: `2023-06-29T12:48:11Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Andrew Girgis Sobhi `
+- Commit identity hits: `none`
+- Latest commit author: `Andrew Girgis Sobhi` / `138126599+AndrewGirgis099@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `images/1.jpeg`
+- `images/2.jpeg`
+- `images/3.jpeg`
+- `images/4.jpeg`
+- `images/5.jpeg`
+- `images/6.jpeg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 14 points — <a href="https://github.com/breaknut/breaknut.github.io">breaknut/breaknut.github.io</a></strong> · probable photos 2 · identity none</summary>
 
 - Owner: [breaknut](https://github.com/breaknut)
@@ -54000,6 +54039,40 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/NemanjaMiladinov/gallery-slider-animation">NemanjaMiladinov/gallery-slider-animation</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [NemanjaMiladinov](https://github.com/NemanjaMiladinov)
+- Live site: https://nemanjamiladinov.github.io/gallery-slider-animation/
+- Identity tier: **0**
+- Created / pushed: `2023-08-03T01:57:20Z` / `2023-08-03T02:28:56Z`
+- Account created: `2023-06-30T13:25:56Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `NemanjaMiladinov` / `138225122+NemanjaMiladinov@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 10 points — <a href="https://github.com/nicholasscratch1/tos-blogv1.0">nicholasscratch1/tos-blogv1.0</a></strong> · probable photos 1 · identity none</summary>
 
 - Owner: [nicholasscratch1](https://github.com/nicholasscratch1)
@@ -54028,6 +54101,40 @@ None.
 <details><summary>Sample photos (1)</summary>
 
 - `public/bg.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/prachukuttan/New-Gallery">prachukuttan/New-Gallery</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [prachukuttan](https://github.com/prachukuttan)
+- Live site: https://prachukuttan.github.io/New-Gallery/
+- Identity tier: **0**
+- Created / pushed: `2023-07-24T17:38:28Z` / `2023-07-24T18:23:45Z`
+- Account created: `2023-07-10T13:57:20Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `prachukuttan` / `139142689+prachukuttan@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
@@ -55632,6 +55739,44 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Iva147/motivation_img_gallery">Iva147/motivation_img_gallery</a></strong> · probable photos 5 · identity liu</summary>
+
+- Owner: [Iva147](https://github.com/Iva147)
+- Live site: https://Iva147.github.io/motivation_img_gallery/
+- Identity tier: **1**
+- Created / pushed: `2023-06-29T17:38:18Z` / `2023-06-29T19:51:40Z`
+- Account created: `2023-05-11T12:46:03Z` · in window `False`
+- Dormant signal: `True`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Iv.G.`
+- Commit identity hits: `liu`
+- Latest commit author: `Ivanna Liuba` / `iva147iva147@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `src/assets/images/1.jpeg`
+- `src/assets/images/2.jpeg`
+- `src/assets/images/3.jpeg`
+- `src/assets/images/4.jpeg`
+- `src/assets/images/5.jpeg`
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 1 · 8 points — <a href="https://github.com/JBell39/ESCI502">JBell39/ESCI502</a></strong> · probable photos 0 · identity jess, jessie</summary>
 
 - Owner: [JBell39](https://github.com/JBell39)
@@ -56456,6 +56601,40 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/sabbanii/gallery">sabbanii/gallery</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [sabbanii](https://github.com/sabbanii)
+- Live site: https://sabbanii.github.io/gallery/
+- Identity tier: **0**
+- Created / pushed: `2023-06-22T07:50:54Z` / `2023-06-22T08:20:22Z`
+- Account created: `2023-06-22T07:35:05Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `sabbanii` / `137385251+sabbanii@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>

@@ -67521,5 +67521,210 @@
     "description": "A spectacular addaptive picture library that can be embedded into an online store website, social network or other web application",
     "first_seen_utc": "2026-08-24T11:22:45.733712+00:00",
     "score": 11
+  },
+  {
+    "owner": "sabbanii",
+    "repository": "sabbanii/gallery",
+    "url": "https://github.com/sabbanii/gallery",
+    "pages_url": "https://sabbanii.github.io/gallery/",
+    "created_at": "2023-06-22T07:50:54Z",
+    "pushed_at": "2023-06-22T08:20:22Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "sabbanii",
+      "email": "137385251+sabbanii@users.noreply.github.com",
+      "login": "sabbanii"
+    },
+    "owner_profile": {
+      "created_at": "2023-06-22T07:35:05Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 11,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:47:53.090483+00:00",
+    "score": 8
+  },
+  {
+    "owner": "Iva147",
+    "repository": "Iva147/motivation_img_gallery",
+    "url": "https://github.com/Iva147/motivation_img_gallery",
+    "pages_url": "https://Iva147.github.io/motivation_img_gallery/",
+    "created_at": "2023-06-29T17:38:18Z",
+    "pushed_at": "2023-06-29T19:51:40Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Ivanna Liuba",
+      "email": "iva147iva147@gmail.com",
+      "login": "Iva147"
+    },
+    "owner_profile": {
+      "name": "Iv.G.",
+      "created_at": "2023-05-11T12:46:03Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 5,
+    "probable_photo_count": 5,
+    "sample_photos": [
+      "src/assets/images/1.jpeg",
+      "src/assets/images/2.jpeg",
+      "src/assets/images/3.jpeg",
+      "src/assets/images/4.jpeg",
+      "src/assets/images/5.jpeg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:52:48.319846+00:00",
+    "score": 8
+  },
+  {
+    "owner": "AndrewGirgis099",
+    "repository": "AndrewGirgis099/Gallery",
+    "url": "https://github.com/AndrewGirgis099/Gallery",
+    "pages_url": "https://AndrewGirgis099.github.io/Gallery/",
+    "created_at": "2023-07-30T20:00:50Z",
+    "pushed_at": "2023-07-30T20:07:31Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Andrew Girgis Sobhi",
+      "email": "138126599+AndrewGirgis099@users.noreply.github.com",
+      "login": "AndrewGirgis099"
+    },
+    "owner_profile": {
+      "name": "Andrew Girgis Sobhi ",
+      "created_at": "2023-06-29T12:48:11Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 6,
+    "probable_photo_count": 6,
+    "sample_photos": [
+      "images/1.jpeg",
+      "images/2.jpeg",
+      "images/3.jpeg",
+      "images/4.jpeg",
+      "images/5.jpeg",
+      "images/6.jpeg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T11:59:53.262490+00:00",
+    "score": 14
+  },
+  {
+    "owner": "prachukuttan",
+    "repository": "prachukuttan/New-Gallery",
+    "url": "https://github.com/prachukuttan/New-Gallery",
+    "pages_url": "https://prachukuttan.github.io/New-Gallery/",
+    "created_at": "2023-07-24T17:38:28Z",
+    "pushed_at": "2023-07-24T18:23:45Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "prachukuttan",
+      "email": "139142689+prachukuttan@users.noreply.github.com",
+      "login": "prachukuttan"
+    },
+    "owner_profile": {
+      "created_at": "2023-07-10T13:57:20Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 13,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-24T12:01:36.768208+00:00",
+    "score": 10
+  },
+  {
+    "owner": "NemanjaMiladinov",
+    "repository": "NemanjaMiladinov/gallery-slider-animation",
+    "url": "https://github.com/NemanjaMiladinov/gallery-slider-animation",
+    "pages_url": "https://nemanjamiladinov.github.io/gallery-slider-animation/",
+    "created_at": "2023-08-03T01:57:20Z",
+    "pushed_at": "2023-08-03T02:28:56Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "NemanjaMiladinov",
+      "email": "138225122+NemanjaMiladinov@users.noreply.github.com",
+      "login": "NemanjaMiladinov"
+    },
+    "owner_profile": {
+      "created_at": "2023-06-30T13:25:56Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": true,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 5,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "Gallery slider animation",
+    "first_seen_utc": "2026-08-24T12:05:21.819839+00:00",
+    "score": 10
   }
 ]
