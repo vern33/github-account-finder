@@ -173,17 +173,5 @@ class FinderTests(unittest.TestCase):
         )
         self.assertEqual(candidate["identity_tier"], 1)
 
-    def test_score_is_primary_report_sort(self):
-        items = [
-            {"repository": "a/a", "identity_tier": 0, "score": 99, "dormant": True},
-            {"repository": "b/b", "identity_tier": 1, "score": 8, "dormant": False},
-            {"repository": "c/c", "identity_tier": 2, "score": 8, "dormant": False},
-        ]
-        self.assertEqual(
-            [item["identity_tier"] for item in sorted(items, key=finder.candidate_sort_key)],
-            [0, 2, 1],
-        )
-
-
 if __name__ == "__main__":
     unittest.main()

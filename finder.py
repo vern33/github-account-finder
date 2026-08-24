@@ -568,7 +568,7 @@ def render_report(candidates: list[dict], state: dict):
     lines = [
         "# Candidate accounts",
         "",
-        "Generated incrementally by GitHub Actions. Behavior score is the primary ranking key.",
+        "Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.",
         "",
         f"Last run: `{state['stats'].get('last_run_utc')}`  ",
         f"Repositories inspected: `{state['stats'].get('repositories_inspected', 0)}`  ",
@@ -577,7 +577,10 @@ def render_report(candidates: list[dict], state: dict):
     ]
     if not candidates:
         lines.append("No candidates have been recorded yet.")
-    for item in sorted(candidates, key=candidate_sort_key):
+    # Preserve candidates.json insertion order so a human reviewer can resume
+    # where they stopped. Updating an existing dictionary entry does not move it,
+    # and newly discovered repositories are appended by main().
+    for item in candidates:
         identity_summary = ", ".join(
             sorted(
                 set(
@@ -625,16 +628,6 @@ def render_report(candidates: list[dict], state: dict):
             lines += ["", "</details>", ""]
         lines += ["</details>", ""]
     REPORT_PATH.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
-
-
-def candidate_sort_key(item: dict):
-    return (
-        -int(item.get("score", 0)),
-        -int(item.get("identity_tier", 0)),
-        -int(bool(item.get("dormant"))),
-        item["repository"].lower(),
-    )
-
 
 def render_progress(tasks: dict, state: dict, candidates: list[dict]):
     leaf_tasks = [task for task in tasks.values() if not task.get("split")]
