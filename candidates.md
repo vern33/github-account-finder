@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions. Behavior score is the primary ranking key.
 
-Last run: `2026-08-24T05:03:01.947310+00:00`  
-Repositories inspected: `21207`  
-Candidates: `1366`
+Last run: `2026-08-24T05:54:34.423944+00:00`  
+Repositories inspected: `21519`  
+Candidates: `1370`
 
 <details>
 <summary><strong>Tier 2 · 24 points — <a href="https://github.com/liufanxuan/liufanxuan.github.io">liufanxuan/liufanxuan.github.io</a></strong> · probable photos 8 · identity liu, xuan</summary>
@@ -23300,6 +23300,59 @@ None.
 - `images/ecommerce.jpeg`
 - `images/edu.jpeg`
 - `images/history.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/paulandcam/paulandcam.github.io">paulandcam/paulandcam.github.io</a></strong> · probable photos 67 · identity none</summary>
+
+- Owner: [paulandcam](https://github.com/paulandcam)
+- Live site: https://paulandcam.github.io/
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T01:14:04Z` / `2023-06-29T06:38:06Z`
+- Account created: `2023-06-29T01:12:58Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `paulandcam` / `138080097+paulandcam@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `70` / `67`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/IMG_1061.JPG`
+- `images/IMG_1393.PNG`
+- `images/IMG_1865.jpeg`
+- `images/IMG_2079.jpeg`
+- `images/IMG_2108.jpeg`
+- `images/IMG_2391 2.PNG`
+- `images/IMG_2410.jpeg`
+- `images/IMG_2437 2.HEIC`
+- `images/IMG_2508.jpeg`
+- `images/IMG_2843.PNG`
+- `images/IMG_3542.jpeg`
+- `images/IMG_4605.heic`
+- `images/barpic.png`
+- `images/paul10.png`
+- `images/paul11.png`
+- `images/paul12.png`
+- `images/paul13.png`
+- `images/paul14.png`
+- `images/paul15.png`
+- `images/paul16.png`
 
 </details>
 
@@ -46772,6 +46825,40 @@ None.
 </details>
 
 <details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/theroofersbirmingham/theroofersbirmingham.github.io">theroofersbirmingham/theroofersbirmingham.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [theroofersbirmingham](https://github.com/theroofersbirmingham)
+- Live site: https://theroofersbirmingham.github.io/
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T12:31:02Z` / `2023-07-04T19:44:39Z`
+- Account created: `2023-06-29T12:26:57Z` · in window `True`
+- Dormant signal: `True`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `theroofersbirmingham` / `138124812+theroofersbirmingham@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
 <summary><strong>Tier 0 · 11 points — <a href="https://github.com/tzrjss/tzrjss.github.io">tzrjss/tzrjss.github.io</a></strong> · probable photos 0 · identity none</summary>
 
 - Owner: [tzrjss](https://github.com/tzrjss)
@@ -47106,6 +47193,40 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/advaithsshetty/advaithsshetty.github.io">advaithsshetty/advaithsshetty.github.io</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [advaithsshetty](https://github.com/advaithsshetty)
+- Live site: https://advaithsshetty.github.io/
+- Identity tier: **0**
+- Created / pushed: `2023-06-29T14:18:26Z` / `2024-07-23T09:41:27Z`
+- Account created: `2023-06-25T08:07:27Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Advaith S Shetty`
+- Commit identity hits: `none`
+- Latest commit author: `Advaith S Shetty` / `137682158+advaithsshetty@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `img/anime-1.png`
 
 </details>
 
@@ -53477,6 +53598,40 @@ None.
 - Nickname hits: `none`
 - Content/path hints: `none`
 - Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/lycjxy/lycjxy.github.io">lycjxy/lycjxy.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [lycjxy](https://github.com/lycjxy)
+- Live site: https://lycjxy.github.io/
+- Identity tier: **1**
+- Created / pushed: `2023-06-29T06:19:41Z` / `2025-03-25T05:10:12Z`
+- Account created: `2020-01-08T00:33:23Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Liu Yichao`
+- Commit identity hits: `liu`
+- Latest commit author: `Liu Yichao` / `59630108+lycjxy@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
 - Tree truncated: `False`
 
 <details><summary>Sample posts (0)</summary>
