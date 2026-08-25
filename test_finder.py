@@ -11,7 +11,7 @@ class FakeAPI:
         self.photos = photos
         self.profile = profile or {
             "name": "Nobody",
-            "created_at": "2023-08-20T00:00:00Z",
+            "created_at": "2022-08-20T00:00:00Z",
         }
         self.commit = commit or {}
 
@@ -39,8 +39,8 @@ def repository(owner):
         "owner": {"login": owner, "type": "User"},
         "default_branch": "main",
         "html_url": "https://example.test",
-        "created_at": "2023-08-21T00:00:00Z",
-        "pushed_at": "2023-10-02T00:00:00Z",
+        "created_at": "2022-08-21T00:00:00Z",
+        "pushed_at": "2022-10-02T00:00:00Z",
         "homepage": None,
         "description": None,
     }
@@ -80,12 +80,12 @@ class FinderTests(unittest.TestCase):
             "adaptive_searches": {
                 "old": {
                     "stage": "users", "term": "xiaxiatian",
-                    "start": "2023-06-01", "end": "2023-10-15",
+                    "start": "2022-06-01", "end": "2022-10-15",
                     "order": 12, "page": 1, "complete": True, "split": False,
                 },
-                "adaptive:users:jessie:2023-06-01:2023-10-15": {
+                "adaptive:users:jessie:2022-06-01:2022-10-15": {
                     "stage": "users", "term": "jessie",
-                    "start": "2023-06-01", "end": "2023-10-15",
+                    "start": "2022-06-01", "end": "2022-10-15",
                     "order": 8, "page": 7, "complete": True, "split": False,
                 },
             }
@@ -102,14 +102,14 @@ class FinderTests(unittest.TestCase):
             def request(self, path, **_kwargs):
                 self.path = path
                 return [
-                    {"name": "target", "has_pages": True, "created_at": "2023-08-20T00:00:00Z"},
+                    {"name": "target", "has_pages": True, "created_at": "2022-08-20T00:00:00Z"},
                     {"name": "future", "has_pages": True, "created_at": "2026-01-01T00:00:00Z"},
-                    {"name": "not-pages", "has_pages": False, "created_at": "2023-09-01T00:00:00Z"},
+                    {"name": "not-pages", "has_pages": False, "created_at": "2022-09-01T00:00:00Z"},
                 ]
 
         api = RepoListAPI()
         repositories = finder.get_user_pages_repositories(
-            api, "someone", 3, "2023-06-01", "2023-10-15"
+            api, "someone", 3, "2022-06-01", "2022-10-15"
         )
         self.assertEqual([repo["name"] for repo in repositories], ["target"])
         self.assertIn("sort=created", api.path)
