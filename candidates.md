@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-25T16:01:47.246075+00:00`  
-Repositories inspected: `6534`  
-Candidates: `1065`
+Last run: `2026-08-25T16:57:04.484762+00:00`  
+Repositories inspected: `7897`  
+Candidates: `1072`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -41484,6 +41484,261 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/leoshuncheng/leoshuncheng.github.io">leoshuncheng/leoshuncheng.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [leoshuncheng](https://github.com/leoshuncheng)
+- Live site: https://leoshuncheng.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-03T09:09:18Z` / `2026-07-21T06:32:19Z`
+- Account created: `2015-12-04T04:22:54Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Shuncheng Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Shuncheng Liu` / `leoshuncheng@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/trinhxuanthao/trinhxuanthao.github.io">trinhxuanthao/trinhxuanthao.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [trinhxuanthao](https://github.com/trinhxuanthao)
+- Live site: https://trinhxuanthao.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-03T07:23:05Z` / `2022-06-24T03:54:23Z`
+- Account created: `2022-06-03T07:09:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `trinhxuanthao` / `106801842+trinhxuanthao@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/lliujinjun/lliujinjun.github.io">lliujinjun/lliujinjun.github.io</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [lliujinjun](https://github.com/lliujinjun)
+- Live site: https://lliujinjun.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-03T08:47:21Z` / `2022-06-05T08:37:14Z`
+- Account created: `2021-04-27T01:10:33Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `lliujinjun` / `lliujinjun@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `en/posts/index.html`
+- `en/posts/page/1/index.html`
+- `zh-tw/posts/index.html`
+- `zh-tw/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/blank-profile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/NivelDev/niveldev.github.io">NivelDev/niveldev.github.io</a></strong> · probable photos 4 · identity none</summary>
+
+- Owner: [NivelDev](https://github.com/NivelDev)
+- Live site: https://NivelDev.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-03T12:53:36Z` / `2026-08-24T04:42:50Z`
+- Account created: `2022-06-03T12:39:28Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `unknown` / `niveldev0@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/en/blog/_index.md`
+- `content/en/blog/say-hello-to-doks/index.md`
+- `layouts/blog/list.html`
+- `layouts/blog/single.html`
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `images/tn.png`
+- `static/android-chrome-192x192.png`
+- `static/android-chrome-512x512.png`
+- `static/doks.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 12 points — <a href="https://github.com/charles-lehman/charles-lehman.github.io">charles-lehman/charles-lehman.github.io</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [charles-lehman](https://github.com/charles-lehman)
+- Live site: https://charles-lehman.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-03T23:51:10Z` / `2026-01-06T03:13:25Z`
+- Account created: `2022-06-03T23:11:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Charles Lehman`
+- Commit identity hits: `none`
+- Latest commit author: `charles-lehman` / `106848989+charles-lehman@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `src/content/docs/blog/my-first-blog.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `src/assets/houston.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/LGDHS/LGDHS.github.io">LGDHS/LGDHS.github.io</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [LGDHS](https://github.com/LGDHS)
+- Live site: https://LGDHS.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-04T16:03:59Z` / `2022-11-06T16:03:57Z`
+- Account created: `2018-01-20T01:40:13Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `fengliuren`
+- Commit identity hits: `none`
+- Latest commit author: `donghongsen` / `donghongsen@didiglobal.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `14` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `img/default-skin.png`
+- `img/gzip01.png`
+- `img/scrollbar_arrow.png`
+- `img/wechat.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/Argrule/Argrule.github.io">Argrule/Argrule.github.io</a></strong> · probable photos 6 · identity liu</summary>
+
+- Owner: [Argrule](https://github.com/Argrule)
+- Live site: https://Argrule.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-04T14:49:07Z` / `2022-07-20T03:19:17Z`
+- Account created: `2022-02-10T09:36:36Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Liu Rong`
+- Commit identity hits: `none`
+- Latest commit author: `ronh` / `2039858744@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `50` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `libs/lightGallery/img/video-play.png`
+- `libs/lightGallery/img/vimeo-play.png`
+- `libs/lightGallery/img/youtube-play.png`
+- `medias/images/01.jpg`
+- `medias/images/02.jpg`
+- `medias/images/03.jpg`
 
 </details>
 
