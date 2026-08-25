@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-25T21:45:05.657684+00:00`  
-Repositories inspected: `15712`  
-Candidates: `1117`
+Last run: `2026-08-25T22:46:43.875580+00:00`  
+Repositories inspected: `17340`  
+Candidates: `1124`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -43619,6 +43619,254 @@ None.
 - `assets/images/evaluation/008.jpg`
 - `assets/images/evaluation/009.jpg`
 - `assets/images/evaluation/010.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/daisukeland/daisukeland.github.io">daisukeland/daisukeland.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [daisukeland](https://github.com/daisukeland)
+- Live site: https://daisukeland.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-17T02:13:06Z` / `2022-11-09T17:27:30Z`
+- Account created: `2022-06-16T23:17:00Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `daisukeland`
+- Commit identity hits: `none`
+- Latest commit author: `daisukeland` / `107654495+daisukeland@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/dexprogramming/dexprogramming.github.io">dexprogramming/dexprogramming.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [dexprogramming](https://github.com/dexprogramming)
+- Live site: https://dexprogramming.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-17T14:22:42Z` / `2022-06-19T20:10:11Z`
+- Account created: `2022-06-02T14:19:35Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Dex Programming`
+- Commit identity hits: `none`
+- Latest commit author: `dexprogramming` / `dexprogramming@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `content/posts/a-simple-hugo-site.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/sawlew/sawlew.github.io">sawlew/sawlew.github.io</a></strong> · probable photos 5 · identity liu</summary>
+
+- Owner: [sawlew](https://github.com/sawlew)
+- Live site: https://sawlew.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-17T09:36:37Z` / `2022-07-23T11:41:26Z`
+- Account created: `2017-01-06T13:37:39Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Soliu Adeosun`
+- Commit identity hits: `liu`
+- Latest commit author: `Soliu Adeosun` / `sawlew@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `img/desktop.png`
+- `img/fb.png`
+- `img/ig.png`
+- `img/mobile.png`
+- `img/tw.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jogunfuwa/jogunfuwa.github.io">jogunfuwa/jogunfuwa.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [jogunfuwa](https://github.com/jogunfuwa)
+- Live site: https://jogunfuwa.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-17T10:45:14Z` / `2022-06-17T11:44:29Z`
+- Account created: `2020-11-07T12:08:22Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Julius Ogunfuwa`
+- Commit identity hits: `liu`
+- Latest commit author: `Julius Ogunfuwa` / `juliusogunfuwa@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/magelangan20/magelangan20.github.io">magelangan20/magelangan20.github.io</a></strong> · probable photos 6 · identity liu</summary>
+
+- Owner: [magelangan20](https://github.com/magelangan20)
+- Live site: https://magelangan20.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-18T05:49:41Z` / `2022-06-18T06:10:54Z`
+- Account created: `2021-03-19T19:29:40Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `perpusdesakaliurang` / `18101040038@student.uin-suka.ac.id`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `assets/img/bg-callout.jpg`
+- `assets/img/bg-masthead.jpg`
+- `assets/img/portfolio-1.jpg`
+- `assets/img/portfolio-2.jpg`
+- `assets/img/portfolio-3.jpg`
+- `assets/img/portfolio-4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Caylex09/caylex09.github.io">Caylex09/caylex09.github.io</a></strong> · probable photos 2 · identity xuan</summary>
+
+- Owner: [Caylex09](https://github.com/Caylex09)
+- Live site: https://Caylex09.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-19T00:37:59Z` / `2026-07-24T08:04:34Z`
+- Account created: `2022-03-21T12:51:41Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Yuxuan Chen`
+- Commit identity hits: `none`
+- Latest commit author: `Caylex09` / `chen20091119@foxmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/img/auther.jpg`
+- `assets/img/auther.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Guilliu/guilliu.github.io">Guilliu/guilliu.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [Guilliu](https://github.com/Guilliu)
+- Live site: https://Guilliu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-19T17:32:41Z` / `2022-08-09T10:49:16Z`
+- Account created: `2022-06-19T10:06:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Guilliu` / `guille.lv.97@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
