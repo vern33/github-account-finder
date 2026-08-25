@@ -412,7 +412,7 @@
       "start": "2022-07-23",
       "end": "2022-08-08",
       "order": 9,
-      "page": 7,
+      "page": 8,
       "complete": false,
       "split": false,
       "total_count": 812
@@ -820,13 +820,13 @@
   },
   "searches": {},
   "stats": {
-    "runs": 1,
-    "last_run_utc": "2026-08-25T12:52:57.290200+00:00",
-    "last_error": "request budget exhausted",
-    "users_seen": 4022,
+    "runs": 2,
+    "last_run_utc": "2026-08-25T13:31:02.420688+00:00",
+    "last_error": "rate limit reset=1787665898",
+    "users_seen": 4222,
     "user_pages_repositories_seen": 170,
     "repositories_inspected": 170,
-    "last_api_requests": 4500,
+    "last_api_requests": 4,
     "last_api_budget": 4500
   },
   "processed_repositories_v2": [

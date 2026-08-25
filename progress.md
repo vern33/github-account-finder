@@ -2,19 +2,19 @@
 
 - Fixed search coverage: **1,285 / 4,384 seed-days (29.3%)**
 - Adaptive range diagnostics: **12 / 36 leaf ranges complete**
-- Current cursor: `users:liu 2022-07-23..2022-08-08, page 7`
+- Current cursor: `users:liu 2022-07-23..2022-08-08, page 8`
 - Repository results seen: **0**
-- User search results seen: **4,022**
+- User search results seen: **4,222**
 - Pages repositories found through users: **170**
 - Identity users fully checked: **3,997**
 - Unique repositories investigated: **170**
 - Unique account owners investigated: **102**
 - Candidates recorded: **165**
 - Ranges stopped by result caps: **0**
-- Workflow runs: **1**
-- Last run (UTC): `2026-08-25T12:52:57.290200+00:00`
-- Last API requests used: **4,500**
-- Last stop reason: `request budget exhausted`
+- Workflow runs: **2**
+- Last run (UTC): `2026-08-25T13:31:02.420688+00:00`
+- Last API requests used: **4**
+- Last stop reason: `rate limit reset=1787665898`
 
 ## Progress by stage
 
