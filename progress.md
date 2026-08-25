@@ -1,19 +1,19 @@
 # Search progress
 
-- Fixed search coverage: **3,024 / 4,384 seed-days (69.0%)**
-- Adaptive range diagnostics: **51 / 67 leaf ranges complete**
-- Current cursor: `personal:username.github.io 2022-06-11..2022-06-11, page 8`
-- Repository results seen: **16,395**
+- Fixed search coverage: **3,027 / 4,384 seed-days (69.0%)**
+- Adaptive range diagnostics: **54 / 68 leaf ranges complete**
+- Current cursor: `personal:username.github.io 2022-06-14..2022-06-14, page 3`
+- Repository results seen: **18,995**
 - User search results seen: **12,137**
 - Pages repositories found through users: **704**
 - Identity users fully checked: **11,343**
-- Unique repositories investigated: **12,478**
-- Unique account owners investigated: **10,924**
-- Candidates recorded: **1,096**
+- Unique repositories investigated: **14,090**
+- Unique account owners investigated: **12,536**
+- Candidates recorded: **1,107**
 - Ranges stopped by result caps: **2**
-- Workflow runs: **9**
-- Last run (UTC): `2026-08-25T19:47:06.563592+00:00`
-- Last API requests used: **4,004**
+- Workflow runs: **10**
+- Last run (UTC): `2026-08-25T20:47:26.395409+00:00`
+- Last API requests used: **4,500**
 - Last stop reason: `request budget exhausted`
 
 ## Progress by stage
@@ -22,7 +22,7 @@
 |---|---:|---:|
 | users: login/profile name + account created date | 1,781 / 1,781 seed-days | 100.0% |
 | identity: repository names | 1,233 / 1,233 seed-days | 100.0% |
-| personal: strict username.github.io fallback | 10 / 137 seed-days | 7.3% |
+| personal: strict username.github.io fallback | 13 / 137 seed-days | 9.5% |
 | site: project-page blog names | 0 / 1,233 seed-days | 0.0% |
 
 The main percentage uses a fixed denominator: one unit per seed per day in the configured
