@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-25T17:46:31.668791+00:00`  
-Repositories inspected: `9420`  
-Candidates: `1082`
+Last run: `2026-08-25T18:58:46.863837+00:00`  
+Repositories inspected: `11030`  
+Candidates: `1089`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -42161,6 +42161,330 @@ None.
 - `assets/img/projects/hand-tracking/projections.png`
 - `assets/img/projects/python-raycaster/sample-thumbnail.jpg`
 - `assets/img/projects/style-share/editor.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/tradesoniq/tradesoniq.github.io">tradesoniq/tradesoniq.github.io</a></strong> · probable photos 15 · identity none</summary>
+
+- Owner: [tradesoniq](https://github.com/tradesoniq)
+- Live site: https://tradesoniq.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-07T18:28:20Z` / `2022-06-07T18:50:15Z`
+- Account created: `2022-06-07T15:31:00Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `technologybully` / `technologybully@925free.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `16` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `static/fav.png`
+- `static/images/me.png`
+- `static/images/post.jpg`
+- `static/images/projects/converter.jpg`
+- `static/images/projects/profile.png`
+- `static/images/projects/profile2.jpg`
+- `themes/hugo-profile/exampleSite/static/fav.png`
+- `themes/hugo-profile/exampleSite/static/images/me.png`
+- `themes/hugo-profile/exampleSite/static/images/post.jpg`
+- `themes/hugo-profile/exampleSite/static/images/projects/converter.jpg`
+- `themes/hugo-profile/exampleSite/static/images/projects/profile.png`
+- `themes/hugo-profile/exampleSite/static/images/projects/profile2.jpg`
+- `themes/hugo-profile/images/tn.png`
+- `themes/hugo-profile/static/404.png`
+- `themes/hugo-profile/static/fav.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/clathra/clathra.github.io">clathra/clathra.github.io</a></strong> · probable photos 57 · identity none</summary>
+
+- Owner: [clathra](https://github.com/clathra)
+- Live site: https://clathra.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-07T10:02:49Z` / `2026-06-30T17:19:15Z`
+- Account created: `2022-06-07T09:52:44Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `clathra` / `107038019+clathra@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `60` / `57`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2026-06-09-the-website-metric-that-moved-rankings.md`
+- `_posts/2026-06-16-safety-quality-and-price-across-segments.md`
+- `_posts/2026-06-23-what-488-shipping-tweets-reveal.md`
+- `_posts/2026-06-30-ports-stopped-competing-on-location.md`
+- `_posts/2026-07-07-marketing-deficit-in-shipping.md`
+- `_posts/2026-07-14-trust-is-the-first-thing-a-maritime-website-earns.md`
+- `_posts/2026-07-21-everyone-says-the-same-three-things.md`
+- `_posts/2026-07-28-four-ways-a-shipping-company-can-stand-out.md`
+- `_posts/2026-08-04-hapag-lloyd-quick-quotes.md`
+- `_posts/2026-08-11-maritime-firms-dont-sell-on-social.md`
+- `_posts/2026-08-18-how-maritime-buyers-judge-value.md`
+- `_posts/2026-08-25-hidden-champions-invisible-brands.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/blog-1.jpg`
+- `images/blog-2.jpg`
+- `images/brochure.webp`
+- `images/exhibition-1.webp`
+- `images/exhibition-2.webp`
+- `images/gsp1.jpg`
+- `images/gsp2.jpg`
+- `images/gsp3.jpg`
+- `images/gsp4.jpg`
+- `images/identity-1.webp`
+- `images/identity-2.webp`
+- `images/og-image.png`
+- `images/og/a-ports-best-post-is-rarely-about-the-port.png`
+- `images/og/account-based-marketing-maritime.png`
+- `images/og/decade-of-change-tanker-marketing.png`
+- `images/og/digital-readiness-beats-technology-spend.png`
+- `images/og/everyone-says-the-same-three-things.png`
+- `images/og/four-ways-a-shipping-company-can-stand-out.png`
+- `images/og/hapag-lloyd-quick-quotes.png`
+- `images/og/hidden-champions-invisible-brands.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/lostlau/lostlau.github.io">lostlau/lostlau.github.io</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [lostlau](https://github.com/lostlau)
+- Live site: https://lostlau.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-07T16:12:40Z` / `2025-07-20T10:13:47Z`
+- Account created: `2017-11-02T22:57:18Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `LIU Weinan`
+- Commit identity hits: `none`
+- Latest commit author: `lostlau` / `lostlau@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `82` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `post/about/index.html`
+- `post/attention_to_gpt/index.html`
+- `post/conda_virtlenv_tuto/index.html`
+- `post/cong-rag-shuo-qi/index.html`
+- `post/da-mo-xing-de-memery/index.html`
+- `post/docker_cli/index.html`
+- `post/hello-gridea/index.html`
+- `post/intro_reinforcement_learning/index.html`
+- `post/llm-alignment/index.html`
+- `post/llm_ocra/index.html`
+- `post/lun-pan-du/index.html`
+- `post/markdown_tuto/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `media/images/search.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/Tyanent/Tyanent.github.io">Tyanent/Tyanent.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [Tyanent](https://github.com/Tyanent)
+- Live site: https://Tyanent.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-08T06:29:55Z` / `2025-06-10T10:59:26Z`
+- Account created: `2022-06-06T02:13:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Rachel`
+- Commit identity hits: `none`
+- Latest commit author: `Rachel` / `106940172+Tyanent@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/jomoukpe/jomoukpe.github.io">jomoukpe/jomoukpe.github.io</a></strong> · probable photos 277 · identity none</summary>
+
+- Owner: [jomoukpe](https://github.com/jomoukpe)
+- Live site: https://jomoukpe.github.io
+- Identity tier: **0**
+- Created / pushed: `2022-06-08T14:34:17Z` / `2026-07-27T14:50:23Z`
+- Account created: `2022-06-08T14:21:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Josias Moukpe`
+- Commit identity hits: `none`
+- Latest commit author: `Josias Moukpe` / `erud1t3.devs@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `278` / `277`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `blog/how-to-get-hired.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/imb_class/acr-fig1.png`
+- `assets/images/imb_class/acr-fig2.png`
+- `assets/images/imb_class/bbn-fig1.png`
+- `assets/images/imb_class/bbn-fig2.png`
+- `assets/images/imb_class/bcl-fig1.PNG`
+- `assets/images/imb_class/bcl-fig2.PNG`
+- `assets/images/imb_class/decoupling-fig1.png`
+- `assets/images/imb_class/decoupling-fig2.png`
+- `assets/images/imb_class/disalign-fig1.PNG`
+- `assets/images/imb_class/disalign-fig2.PNG`
+- `assets/images/imb_class/hybridsc-fig1.PNG`
+- `assets/images/imb_class/hybridsc-fig2.PNG`
+- `assets/images/imb_class/kcl-fig1.PNG`
+- `assets/images/imb_class/kcl-fig2.PNG`
+- `assets/images/imb_class/lade-fig1.PNG`
+- `assets/images/imb_class/lade-fig2.PNG`
+- `assets/images/imb_class/logitadj-fig1.PNG`
+- `assets/images/imb_class/logitadj-fig2.PNG`
+- `assets/images/imb_class/meta-softmax-fig1.PNG`
+- `assets/images/imb_class/meta-softmax-fig2.PNG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/hwange/hwange.github.io">hwange/hwange.github.io</a></strong> · probable photos 13 · identity none</summary>
+
+- Owner: [hwange](https://github.com/hwange)
+- Live site: https://hwange.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-09T10:22:17Z` / `2022-12-01T06:55:34Z`
+- Account created: `2022-06-09T10:11:27Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `hwange` / `107184693+hwange@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `img/게임화면.PNG`
+- `img/관련이미지1.jpg`
+- `img/관련이미지2.jpg`
+- `img/대표이미지1.jpg`
+- `img/대표이미지2.jpg`
+- `img/메인화면.PNG`
+- `img/밝아짐.PNG`
+- `img/시작화면.png`
+- `img/어두움.PNG`
+- `img/종료화면.PNG`
+- `img/퍼즐부분.png`
+- `img/플레이어.PNG`
+- `img/현무.PNG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/tjuxiaofeng/tjuxiaofeng.github.io">tjuxiaofeng/tjuxiaofeng.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [tjuxiaofeng](https://github.com/tjuxiaofeng)
+- Live site: https://tjuxiaofeng.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-09T01:40:12Z` / `2022-06-09T01:56:48Z`
+- Account created: `2017-07-28T06:55:28Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `xiaofeng liu`
+- Commit identity hits: `liu`
+- Latest commit author: `xiaofeng liu` / `1034206209@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
