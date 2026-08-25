@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-25T16:57:04.484762+00:00`  
-Repositories inspected: `7897`  
-Candidates: `1072`
+Last run: `2026-08-25T17:46:31.668791+00:00`  
+Repositories inspected: `9420`  
+Candidates: `1082`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -41739,6 +41739,428 @@ None.
 - `medias/images/01.jpg`
 - `medias/images/02.jpg`
 - `medias/images/03.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/hanxuan-123/hanxuan-123.github.io">hanxuan-123/hanxuan-123.github.io</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [hanxuan-123](https://github.com/hanxuan-123)
+- Live site: https://hanxuan-123.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-04T02:22:14Z` / `2023-04-08T03:10:57Z`
+- Account created: `2022-03-07T01:31:21Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `hanxuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `hanxuan` / `1259932909@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `21` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `img/default-skin.png`
+- `img/header.jpg`
+- `img/scrollbar_arrow.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/shenyaojin/shenyaojin.github.io">shenyaojin/shenyaojin.github.io</a></strong> · probable photos 86 · identity none</summary>
+
+- Owner: [shenyaojin](https://github.com/shenyaojin)
+- Live site: https://www.shenyaojin.com
+- Identity tier: **0**
+- Created / pushed: `2022-06-05T07:23:11Z` / `2026-08-10T20:29:01Z`
+- Account created: `2022-06-05T06:53:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Shenyao "Keith" Jin`
+- Commit identity hits: `none`
+- Latest commit author: `Shenyao Jin` / `106902466+shenyaojin@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `86` / `86`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2025-04-11-test.md`
+- `_posts/2025-04-12-das-cement.md`
+- `_posts/2025-04-12-dss-frac.md`
+- `_posts/2025-04-14-Poisson-Ratio-Code.md`
+- `_posts/2025-04-14-Poisson-Ratio-Theory.md`
+- `_posts/2025-05-06-fiberis-moose-architecture.md`
+- `_posts/2025-05-07-cement-shrinkage.md`
+- `_posts/2025-06-24-fiberis-setup.md`
+- `_posts/2025-08-08-gemini-fatal-error.md`
+- `_posts/2025-08-16-fiberis-analyzer.md`
+- `_posts/2025-08-20-porous-flow-dynamics.md`
+- `_posts/2025-11-02-deploy-blog.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/prof_pic.jpg`
+- `public/images/0815_moose_fig.png`
+- `public/images/ciel.jpg`
+- `public/images/fiberis-moose-architecture/porousflow-kernels.png`
+- `public/images/fork.png`
+- `public/images/github_pages.png`
+- `public/images/history-matching-how/hmm-kernels.png`
+- `public/images/perm-imaging/perm-imaging-01.png`
+- `public/images/perm-imaging/perm-imaging-02.png`
+- `public/images/perm-imaging/perm-imaging-03.png`
+- `public/images/perm-imaging/perm-imaging-04.png`
+- `public/images/perm-imaging/perm-imaging-05.png`
+- `public/images/perm-imaging/perm-imaging-06.png`
+- `public/images/perm-imaging/perm-imaging-07.png`
+- `public/images/perm-imaging/perm-imaging-08.png`
+- `public/images/perm-imaging/perm-imaging-09.png`
+- `public/images/perm-imaging/perm-imaging-10.png`
+- `public/images/perm-imaging/perm-imaging-11.png`
+- `public/images/perm-imaging/perm-imaging-12.png`
+- `public/images/perm-imaging/perm-imaging-13.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/pckailiu/pckailiu.github.io">pckailiu/pckailiu.github.io</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [pckailiu](https://github.com/pckailiu)
+- Live site: https://pckailiu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-05T13:07:27Z` / `2022-06-05T13:08:20Z`
+- Account created: `2021-05-20T01:14:04Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `pckailiu` / `84484778+pckailiu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `img/gray.png`
+- `img/hybrid.jpg`
+- `img/osm.jpg`
+- `img/streets.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/coderliuzc/coderliuzc.github.io">coderliuzc/coderliuzc.github.io</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [coderliuzc](https://github.com/coderliuzc)
+- Live site: https://coderliuzc.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-05T14:41:26Z` / `2022-06-19T14:38:09Z`
+- Account created: `2017-10-23T01:09:59Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `LiuZhiCheng`
+- Commit identity hits: `liu`
+- Latest commit author: `liuzhicheng` / `zeroonezc@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `img/404.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/ltd-medallium/ltd-medallium.github.io">ltd-medallium/ltd-medallium.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [ltd-medallium](https://github.com/ltd-medallium)
+- Live site: https://ltd-medallium.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-05T08:15:59Z` / `2024-01-16T15:45:47Z`
+- Account created: `2022-06-05T08:13:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `medallium` / `medallium@protonmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/Rabishop/rabishop.github.io">Rabishop/rabishop.github.io</a></strong> · probable photos 13 · identity xuan</summary>
+
+- Owner: [Rabishop](https://github.com/Rabishop)
+- Live site: https://Rabishop.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-06T11:50:00Z` / `2022-11-09T09:58:46Z`
+- Account created: `2019-04-28T07:41:54Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `XyDog`
+- Commit identity hits: `xuan`
+- Latest commit author: `Rabishop` / `xuanyuangoudaex@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `templatemo_553_xtra_blog/img/about-01.jpg`
+- `templatemo_553_xtra_blog/img/about-02.jpg`
+- `templatemo_553_xtra_blog/img/about-03.jpg`
+- `templatemo_553_xtra_blog/img/about-04.jpg`
+- `templatemo_553_xtra_blog/img/about-05.jpg`
+- `templatemo_553_xtra_blog/img/comment-1.jpg`
+- `templatemo_553_xtra_blog/img/comment-2.jpg`
+- `templatemo_553_xtra_blog/img/img-01.jpg`
+- `templatemo_553_xtra_blog/img/img-02.jpg`
+- `templatemo_553_xtra_blog/img/img-03.jpg`
+- `templatemo_553_xtra_blog/img/img-04.jpg`
+- `templatemo_553_xtra_blog/img/img-05.jpg`
+- `templatemo_553_xtra_blog/img/img-06.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Sherwoodliu/sherwoodliu.github.io">Sherwoodliu/sherwoodliu.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [Sherwoodliu](https://github.com/Sherwoodliu)
+- Live site: https://Sherwoodliu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-06T13:49:21Z` / `2022-08-17T04:07:19Z`
+- Account created: `2022-06-06T13:41:23Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Sherwoodliu` / `106977910+Sherwoodliu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/sorbil/sorbil.github.io">sorbil/sorbil.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [sorbil](https://github.com/sorbil)
+- Live site: https://sorbil.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-06-06T16:37:17Z` / `2022-07-17T20:43:19Z`
+- Account created: `2022-06-06T09:46:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `sorbil` / `106961118+sorbil@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `content/posts/armonia-de-la-relatividad.md`
+- `content/posts/inesperada.md`
+- `content/posts/monte-hood.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/thngyuxuan/thngyuxuan.github.io">thngyuxuan/thngyuxuan.github.io</a></strong> · probable photos 9 · identity xuan</summary>
+
+- Owner: [thngyuxuan](https://github.com/thngyuxuan)
+- Live site: https://thngyuxuan.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-06T07:58:34Z` / `2022-07-25T07:19:46Z`
+- Account created: `2020-01-28T02:32:00Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Thng Yu Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Thng Yu Xuan` / `thngyuxuan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `17` / `9`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (9)</summary>
+
+- `assets/img/1damir-kopezhanov-emm1EBmBoj0-unsplash.jpg`
+- `assets/img/bishop.jpg`
+- `assets/img/cyberthreat.jpg`
+- `assets/img/knight.jpg`
+- `assets/img/pawn.jpg`
+- `assets/img/pexels-akwice-3094799.jpg`
+- `assets/img/provide.jpg`
+- `assets/img/whyncl.jpg`
+- `assets/packages/youtube_player_flutter/assets/speedometer.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jebbly/jebbly.github.io">Jebbly/jebbly.github.io</a></strong> · probable photos 28 · identity liu</summary>
+
+- Owner: [Jebbly](https://github.com/Jebbly)
+- Live site: https://Jebbly.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-06-06T03:49:30Z` / `2026-07-25T06:59:35Z`
+- Account created: `2018-04-23T17:27:15Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Jeffrey Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Jeffrey Liu` / `jeffliu604@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `49` / `28`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (7)</summary>
+
+- `_posts/2022-06-05-gsoc-introduction.md`
+- `_posts/2022-06-08-motivating-light-trees.md`
+- `_posts/2022-06-18-blender-point-lights.md`
+- `_posts/2022-07-02-more-light-types.md`
+- `_posts/2022-07-09-light-tree-mis.md`
+- `_posts/2022-08-11-adaptive-splitting.md`
+- `_posts/2022-12-19-gsoc-conclusion.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/blog/gsoc/attic-mls-cropped.png`
+- `assets/img/blog/gsoc/attic-mls.png`
+- `assets/img/blog/gsoc/attic-original.png`
+- `assets/img/blog/gsoc/correct-render.png`
+- `assets/img/blog/gsoc/diff.jpg`
+- `assets/img/blog/gsoc/example-tree.png`
+- `assets/img/blog/gsoc/many-lights-scene.png`
+- `assets/img/blog/gsoc/mis-lights.jpg`
+- `assets/img/blog/gsoc/more-light-types.png`
+- `assets/img/blog/gsoc/no-splitting-issue.jpg`
+- `assets/img/blog/gsoc/splitting-fix.jpg`
+- `assets/img/blog/gsoc/test-render.png`
+- `assets/img/prof_pic.jpg`
+- `assets/img/projects/ascii-rasterizer/suzanne-thumbnail.png`
+- `assets/img/projects/hand-tracking/heatmap.png`
+- `assets/img/projects/hand-tracking/mode-collapse.png`
+- `assets/img/projects/hand-tracking/multi-cnn.png`
+- `assets/img/projects/hand-tracking/projections.png`
+- `assets/img/projects/python-raycaster/sample-thumbnail.jpg`
+- `assets/img/projects/style-share/editor.png`
 
 </details>
 
