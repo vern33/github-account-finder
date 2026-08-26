@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-26T15:55:14.553123+00:00`  
-Repositories inspected: `26712`  
-Candidates: `1199`
+Last run: `2026-08-26T17:33:16.174355+00:00`  
+Repositories inspected: `33742`  
+Candidates: `1211`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -47014,6 +47014,553 @@ None.
 - `dist/assets/images/ui/0.webp`
 - `dist/assets/images/ui/1.webp`
 - `dist/assets/images/ui/2.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/spacegoatedu/spacegoatedu.github.io">spacegoatedu/spacegoatedu.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [spacegoatedu](https://github.com/spacegoatedu)
+- Live site: https://spacegoatedu.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-07-04T22:15:23Z` / `2022-07-04T22:27:20Z`
+- Account created: `2022-07-04T20:44:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Eduard Martin Graells` / `eduard.margra@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `content/posts/my-first-post.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/zhongguozhuxuanlvdianyingdefazhanzhilu/zhongguozhuxuanlvdianyingdefazhanzhilu.github.io">zhongguozhuxuanlvdianyingdefazhanzhilu/zhongguozhuxuanlvdianyingdefazhanzhilu.github.io</a></strong> · probable photos 25 · identity xuan</summary>
+
+- Owner: [zhongguozhuxuanlvdianyingdefazhanzhilu](https://github.com/zhongguozhuxuanlvdianyingdefazhanzhilu)
+- Live site: https://zhongguozhuxuanlvdianyingdefazhanzhilu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T11:39:34Z` / `2022-07-05T13:19:34Z`
+- Account created: `2022-07-04T11:36:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `zhongguozhuxuanlvdianyingdefazhanzhilu` / `108670861+zhongguozhuxuanlvdianyingdefazhanzhilu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `34` / `25`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `static/image/bg-hero.jpg`
+- `static/image/big-hero3.jpg`
+- `static/image/browser-bar.png`
+- `static/image/owl.video.play.png`
+- `static/picture/about-1.jpg`
+- `static/picture/about-2.jpg`
+- `static/picture/about-3.jpg`
+- `static/picture/about-4.jpg`
+- `static/picture/about-5.jpg`
+- `static/picture/hero.png`
+- `static/picture/t-1 .jpg`
+- `static/picture/t-2.jpg`
+- `static/picture/t-3.jpg`
+- `static/picture/t-4.jpg`
+- `static/picture/team-1.jpg`
+- `static/picture/team-2.jpg`
+- `static/picture/team-3.jpg`
+- `static/picture/team-4.jpg`
+- `static/picture/testimonial-1.jpg`
+- `static/picture/testimonial-2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/pinetreepac/pinetreepac.github.io">pinetreepac/pinetreepac.github.io</a></strong> · probable photos 20 · identity none</summary>
+
+- Owner: [pinetreepac](https://github.com/pinetreepac)
+- Live site: https://pinetreepac.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-07-04T14:43:22Z` / `2022-12-09T22:57:27Z`
+- Account created: `2022-07-04T14:12:00Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `thisisitfolks` / `115128287+thisisitfolks@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `31` / `20`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `static/images/about-hero.jpg`
+- `static/images/axetree.jpg`
+- `static/images/homepageabout.jpg`
+- `static/images/homepagehero.jpg`
+- `static/images/homepagehero2.jpg`
+- `static/images/homepagevolunteer.jpg`
+- `static/images/keith.jpg`
+- `static/images/pinetreehero.jpg`
+- `static/images/pinetreehero2.jpg`
+- `static/images/pinetreehero3.jpg`
+- `static/images/toobigtofail.jpeg`
+- `static/images/volunteerhero.jpg`
+- `themes/hero/exampleSite/static/services/service.jpg`
+- `themes/hero/exampleSite/static/services/service1.jpg`
+- `themes/hero/exampleSite/static/services/service2.jpg`
+- `themes/hero/exampleSite/static/work/work1-thumbnail.jpg`
+- `themes/hero/exampleSite/static/work/work1.jpg`
+- `themes/hero/images/tn.png`
+- `themes/hero/static/images/jason-blackeye-1191801-unsplash.jpg`
+- `themes/hero/static/images/kevin-bhagat-461952-unsplash.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/LandingHeart/landingheart.github.io">LandingHeart/landingheart.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LandingHeart](https://github.com/LandingHeart)
+- Live site: https://LandingHeart.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T17:48:41Z` / `2022-07-26T18:53:45Z`
+- Account created: `2015-03-02T14:58:09Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Shinan Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `LandingHeart` / `shinan.liu@yahoo.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jolennn/jolennn.github.io">jolennn/jolennn.github.io</a></strong> · probable photos 15 · identity liu</summary>
+
+- Owner: [jolennn](https://github.com/jolennn)
+- Live site: https://jolennn.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T15:39:58Z` / `2025-04-04T12:10:35Z`
+- Account created: `2018-10-02T14:09:56Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Julius Makiling`
+- Commit identity hits: `liu`
+- Latest commit author: `Julius Makiling` / `43785735+jolennn@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `images/2x2pic.jpg`
+- `images/Clinic_Sample.jpg`
+- `images/InvSys_Sample.jpg`
+- `images/LibSys_Sample.jpg`
+- `images/bg.jpg`
+- `images/overlay.png`
+- `images/pic01.jpg`
+- `images/pic02.jpg`
+- `images/pic03.jpg`
+- `images/pic04.jpg`
+- `images/pic05.jpg`
+- `images/pic06.jpg`
+- `images/pic07.jpg`
+- `images/pic08.jpg`
+- `images/pic09.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/fictionalfridge/fictionalfridge.github.io">fictionalfridge/fictionalfridge.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [fictionalfridge](https://github.com/fictionalfridge)
+- Live site: https://fictionalfridge.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T18:56:10Z` / `2024-01-24T22:31:37Z`
+- Account created: `2015-02-05T13:17:06Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess`
+- Profile name: `Jesse Vervaart`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse Vervaart` / `jesse_vervaart@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Dragonliu2022/Dragonliu2022.github.io">Dragonliu2022/Dragonliu2022.github.io</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [Dragonliu2022](https://github.com/Dragonliu2022)
+- Live site: https://Dragonliu2022.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T14:28:24Z` / `2022-07-21T17:32:41Z`
+- Account created: `2022-06-27T15:55:00Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Dragonliu2018` / `dragonliu2018@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `images/donate/alipayimg.png`
+- `images/donate/wechatpayimg.png`
+- `images/thumb-default.png`
+- `images/xingqiu-qrcode.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/materliu/blog">materliu/blog</a></strong> · probable photos 18 · identity liu</summary>
+
+- Owner: [materliu](https://github.com/materliu)
+- Live site: https://materliu.github.io/blog/
+- Identity tier: **1**
+- Created / pushed: `2022-06-04T06:57:25Z` / `2022-09-19T07:07:18Z`
+- Account created: `2012-04-26T07:23:23Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `刘炬光`
+- Commit identity hits: `liu`
+- Latest commit author: `liujuguang` / `liujuguang@jd.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `21` / `18`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/posts/2014-01-01-mac-cycle-applications.md`
+- `content/posts/2014-03-10-Sass与Compass译者序.md`
+- `content/posts/2014-03-12-QQ大数据告诉你有多少人逃离北上广.md`
+- `content/posts/2014-03-26-window.onError不是万能的.md`
+- `content/posts/2014-03-27-new_Image()上报存在缺陷.md`
+- `content/posts/2014-03-30-web-accessibility.md`
+- `content/posts/2014-03-30-二哥跟我讲的一些简单的股市知识整理.md`
+- `content/posts/2014-04-04-publish你自己的node_modules.md`
+- `content/posts/2014-04-12-微小说收录.md`
+- `content/posts/2014-04-12-日本海淘.md`
+- `content/posts/2014-04-12-精彩破场.md`
+- `content/posts/2014-04-12-职场忠告.md`
+
+</details>
+
+<details><summary>Sample photos (18)</summary>
+
+- `assets/images/2014-03-12-life-taolibeishangguang.jpg`
+- `assets/images/beijing-luwangtu-35.jpg`
+- `assets/images/beijing-luwangtu.png`
+- `assets/images/psn.jpeg`
+- `assets/images/xiaoniu-1.jpeg`
+- `assets/images/xiaoniu-2.jpeg`
+- `assets/images/xiaoniu-3.jpeg`
+- `content/posts/papermod/papermod-features/images/homeinfo.jpg`
+- `content/posts/papermod/papermod-features/images/profile.jpg`
+- `content/posts/papermod/papermod-features/images/regular.jpg`
+- `content/posts/personal-photos.files/2014-04-13-男士穿衣.jpg`
+- `content/posts/personal-photos.files/2014-04-16-2013_code_submit1.jpg`
+- `content/posts/personal-photos.files/2014-04-16-2013_code_submit2.jpg`
+- `content/posts/personal-photos.files/2014-04-19-hk-hospital-eye1.jpg`
+- `content/posts/personal-photos.files/2014-04-19-hk-hospital-eye2.jpg`
+- `content/posts/personal-photos.files/2014-04-25-rtx-profile-1.png`
+- `content/posts/personal-photos.files/2014-04-25-rtx-profile.png`
+- `static/papermod-cover.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/cnf-sites/cnf-blog-congo">cnf-sites/cnf-blog-congo</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [cnf-sites](https://github.com/cnf-sites)
+- Live site: https://cnf-sites.github.io/cnf-blog-congo/
+- Identity tier: **0**
+- Created / pushed: `2022-06-07T12:50:01Z` / `2024-11-04T16:29:55Z`
+- Account created: `2022-06-06T20:21:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `cnf-sites` / `107002545+cnf-sites@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `303` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/blog/_index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-basic-authentication-example/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-contract-first-webservice-example/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-custom-soap-header-example/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-log-soap-messages-example/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-log-soap-messages-log4j/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-log-soap-messages-log4j2/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-log-soap-messages-logback/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-soap-header-example/index.md`
+- `content/blog/apache-cxf-jaxws/apache-cxf-jaxws-spring-boot-example/index.md`
+- `content/blog/apache-cxf/apache-cxf-feature-vs-interceptor/index.md`
+- `content/blog/blogger/blogger-syntaxhighlighter-setup/index.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/img/author.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/blogkj/blog">blogkj/blog</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [blogkj](https://github.com/blogkj)
+- Live site: https://blogkj.github.io/blog/
+- Identity tier: **0**
+- Created / pushed: `2022-06-09T08:24:08Z` / `2022-06-09T09:13:05Z`
+- Account created: `2022-06-09T05:44:14Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `zhouzichun` / `zhouzichun@xiaomi.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `docs/_posts/随笔/你知道的越多，不知道的也就越多.md`
+- `docs/_posts/随笔/我做了一个手写春联小网页，祝大家虎年暴富.md`
+- `docs/_posts/随笔/拥抱生活，拥抱快乐.md`
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `docs/.vuepress/public/img/bg.jpeg`
+- `docs/.vuepress/public/img/bg.jpg`
+- `docs/.vuepress/public/img/git.png`
+- `docs/.vuepress/public/img/linux.png`
+- `docs/.vuepress/public/img/more.png`
+- `docs/.vuepress/public/img/other.png`
+- `docs/.vuepress/public/img/panda-waving.png`
+- `docs/.vuepress/public/img/python.png`
+- `docs/.vuepress/public/img/ui.png`
+- `docs/.vuepress/public/img/web.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/my-monster/blog">my-monster/blog</a></strong> · probable photos 14 · identity liu</summary>
+
+- Owner: [my-monster](https://github.com/my-monster)
+- Live site: https://my-monster.github.io/blog/
+- Identity tier: **1**
+- Created / pushed: `2022-06-09T05:43:28Z` / `2024-09-08T16:27:32Z`
+- Account created: `2019-12-09T09:21:55Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Liu Yuan`
+- Commit identity hits: `liu`
+- Latest commit author: `YuanLiu` / `123456`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `docs/_posts/随笔/你知道的越多，不知道的也就越多.md`
+- `docs/_posts/随笔/我做了一个手写春联小网页，祝大家虎年暴富.md`
+- `docs/_posts/随笔/拥抱生活，拥抱快乐.md`
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `docs/.vuepress/public/img/bg.jpeg`
+- `docs/.vuepress/public/img/bg.jpg`
+- `docs/.vuepress/public/img/git.png`
+- `docs/.vuepress/public/img/life.png`
+- `docs/.vuepress/public/img/more.png`
+- `docs/.vuepress/public/img/myself.jpg`
+- `docs/.vuepress/public/img/notes.png`
+- `docs/.vuepress/public/img/other.png`
+- `docs/.vuepress/public/img/panda-waving.png`
+- `docs/.vuepress/public/img/python.png`
+- `docs/.vuepress/public/img/research.png`
+- `docs/.vuepress/public/img/ui.png`
+- `docs/.vuepress/public/img/web.png`
+- `docs/01.学术搬砖/04.Inpainting/images/1.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/AMIT-BHATI/Food-Blog">AMIT-BHATI/Food-Blog</a></strong> · probable photos 32 · identity none</summary>
+
+- Owner: [AMIT-BHATI](https://github.com/AMIT-BHATI)
+- Live site: https://amit-bhati.github.io/mini/
+- Identity tier: **0**
+- Created / pushed: `2022-06-11T12:54:35Z` / `2024-02-13T16:16:23Z`
+- Account created: `2022-06-08T13:17:59Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `AMIT BHATI`
+- Commit identity hits: `none`
+- Latest commit author: `AMIT BHATI` / `107124461+AMIT-BHATI@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `32`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/1.png`
+- `assets/images/2.png`
+- `assets/images/3.png`
+- `assets/images/about.jpg`
+- `assets/images/ads.jpg`
+- `assets/images/bg1.jpg`
+- `assets/images/bg2.jpg`
+- `assets/images/blog-s1.jpg`
+- `assets/images/blog-s2.jpg`
+- `assets/images/blog-s3.jpg`
+- `assets/images/blog-s4.jpg`
+- `assets/images/blog-s5.jpg`
+- `assets/images/blog-s6.jpg`
+- `assets/images/blog-s7.jpg`
+- `assets/images/blog-s8.jpg`
+- `assets/images/blog1.jpg`
+- `assets/images/blog2.jpg`
+- `assets/images/blog3.jpg`
+- `assets/images/blog4.jpg`
+- `assets/images/blog5.jpg`
 
 </details>
 
