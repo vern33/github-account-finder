@@ -57377,5 +57377,415 @@
     "description": " food blog project! For this project, I utilized Microsoft Azure's Web App service, which greatly facilitated its development. Leveraging Microsoft Azure's cloud services offers numerous advantages in deploying this project. You can find the project deployed on Microsoft Azure Static Web App.",
     "first_seen_utc": "2026-08-26T18:09:06.547276+00:00",
     "score": 10
+  },
+  {
+    "owner": "farlandliu",
+    "repository": "farlandliu/blog",
+    "url": "https://github.com/farlandliu/blog",
+    "pages_url": "https://farlandliu.github.io/blog/",
+    "created_at": "2022-06-24T06:28:24Z",
+    "pushed_at": "2022-06-28T09:29:49Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "farland",
+      "email": "farland@163.com",
+      "login": "farlandliu"
+    },
+    "owner_profile": {
+      "name": "farland",
+      "email": "farland@163.com",
+      "location": "@Haikou",
+      "created_at": "2014-02-26T16:47:56Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 25,
+    "probable_photo_count": 5,
+    "sample_photos": [
+      "images/pgadmin4-1.png",
+      "images/pgadmin4-2.png",
+      "images/pgadmin4-3.png",
+      "images/pgstart.png",
+      "images/ps-start-2.png"
+    ],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "_posts/2020-01-14-test-markdown-post.md",
+      "_posts/2020-02-20-test.md",
+      "_posts/2022-06-24-data-camp-week-1.md",
+      "_posts/README.md"
+    ],
+    "description": "farland blog using fastpages",
+    "first_seen_utc": "2026-08-26T19:35:05.960187+00:00",
+    "score": 10
+  },
+  {
+    "owner": "abaiii",
+    "repository": "abaiii/blog",
+    "url": "https://github.com/abaiii/blog",
+    "pages_url": "https://blog.francie.cc",
+    "created_at": "2022-06-26T23:31:33Z",
+    "pushed_at": "2022-08-15T13:15:03Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages",
+      "hugo --minify"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "xuan"
+    ],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Francie Jiang",
+      "email": "i@francie.cc",
+      "login": "abaiii"
+    },
+    "owner_profile": {
+      "name": "Bai Hanxuan",
+      "bio": "Well... a Bai Hanxuan, a Francie, or sommat.",
+      "blog": "https://hanxuan.org/",
+      "location": "Melliculus, Dualduck, CN",
+      "twitter_username": "baihanxuan",
+      "created_at": "2022-05-22T08:30:10Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 6,
+    "probable_photo_count": 6,
+    "sample_photos": [
+      "static/discriminate-1.jpg",
+      "static/discriminate-2.jpg",
+      "static/discriminate-3.jpg",
+      "static/discriminate-4.jpg",
+      "static/rimeSettings.png",
+      "static/usePhysicalDisks.png"
+    ],
+    "post_count_sampled": 4,
+    "sample_posts": [
+      "content/posts/dis-ins-ass.md",
+      "content/posts/generate-discriminate-other-provs.md",
+      "content/posts/hello-world.md",
+      "content/posts/youngsters-fresh-rime.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-26T19:37:39.091361+00:00",
+    "score": 11
+  },
+  {
+    "owner": "Yliu566",
+    "repository": "Yliu566/blog_posts",
+    "url": "https://github.com/Yliu566/blog_posts",
+    "pages_url": "https://yliu566.github.io/blog_posts/",
+    "created_at": "2022-06-28T09:27:59Z",
+    "pushed_at": "2023-07-17T14:10:14Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Yuru Liu",
+      "email": "midou_liu@foxmail.com",
+      "login": "Yliu566"
+    },
+    "owner_profile": {
+      "name": "Yuru Liu",
+      "blog": "https://yliu566.github.io/blog_posts/",
+      "location": "Shanghai",
+      "created_at": "2017-10-17T12:32:17Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 2,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "posts/welcome/thumbnail.jpg"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "posts/2022-06-01-git-cheatsheet.md",
+      "posts/2022-06-02-conda-env-setup.md"
+    ],
+    "description": "blog posts",
+    "first_seen_utc": "2026-08-26T19:40:30.732637+00:00",
+    "score": 11
+  },
+  {
+    "owner": "Oliul-1",
+    "repository": "Oliul-1/Blog-project-1",
+    "url": "https://github.com/Oliul-1/Blog-project-1",
+    "pages_url": "https://Oliul-1.github.io/Blog-project-1/",
+    "created_at": "2022-07-04T09:05:53Z",
+    "pushed_at": "2022-07-04T12:04:53Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Oliul-1",
+      "email": "olioliulislam832@gmail.com",
+      "login": "Oliul-1"
+    },
+    "owner_profile": {
+      "name": "Oliul Islam ",
+      "created_at": "2022-07-02T17:49:13Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-26T19:49:03.802659+00:00",
+    "score": 11
+  },
+  {
+    "owner": "hiskiv",
+    "repository": "hiskiv/hiskiv_blog.github.io",
+    "url": "https://github.com/hiskiv/hiskiv_blog.github.io",
+    "pages_url": "https://hiskiv.github.io/hiskiv_blog.github.io/",
+    "created_at": "2022-07-05T05:59:16Z",
+    "pushed_at": "2022-07-22T03:42:33Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "hiski",
+      "email": "yijiyeah@126.com",
+      "login": "hiskiv"
+    },
+    "owner_profile": {
+      "name": "Xiaokang Liu",
+      "bio": "Computer Science @ZJU-Turing ➡ PhD@NUS SoC",
+      "email": "hiskivv@gmail.com",
+      "location": "Singapore",
+      "created_at": "2016-08-04T05:29:01Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 32,
+    "probable_photo_count": 12,
+    "sample_photos": [
+      "_site/assets/img/COLOURlovers.com-Hydejack.png",
+      "_site/assets/img/caleb-george-old.jpg",
+      "_site/assets/img/caleb-george.jpg",
+      "_site/assets/img/docs/google-fonts.png",
+      "_site/assets/img/sidebar-bg-old.jpg",
+      "_site/assets/img/sidebar-bg.jpg",
+      "assets/img/COLOURlovers.com-Hydejack.png",
+      "assets/img/caleb-george-old.jpg",
+      "assets/img/caleb-george.jpg",
+      "assets/img/docs/google-fonts.png",
+      "assets/img/sidebar-bg-old.jpg",
+      "assets/img/sidebar-bg.jpg"
+    ],
+    "post_count_sampled": 12,
+    "sample_posts": [
+      "_posts/2017-11-17-hydejacks-new-design.md",
+      "_posts/2022-07-05-【论文笔记】ResNet：残差网络.md",
+      "_posts/2022-07-06-【论文笔记】Batch Normalization.md",
+      "_posts/2022-07-07-【论文笔记】DenseNet.md",
+      "_posts/2022-07-09-【专题笔记】Visual Concept综述（一）.md",
+      "_posts/2022-07-10-【专题笔记】Visual Concept综述（二）.md",
+      "_posts/2022-07-13-【专题笔记】Visual Concept综述（三）.md",
+      "_posts/2022-07-14-【专题笔记】Visual Concept综述（四）.md",
+      "_posts/2022-07-17-【专题笔记】Visual Concept综述（五）.md",
+      "_posts/2022-07-18-【专题笔记】Visual Concept综述（六）.md",
+      "_posts/2022-07-20-【专题笔记】Visual Concept综述（七）.md",
+      "_posts/2022-07-21-【专题笔记】Visual Concept综述（八）.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-26T19:50:37.809100+00:00",
+    "score": 8
+  },
+  {
+    "owner": "liawnliu",
+    "repository": "liawnliu/blog-vuepress",
+    "url": "https://github.com/liawnliu/blog-vuepress",
+    "pages_url": "https://liawnliu.github.io/blog-vuepress/",
+    "created_at": "2022-07-06T07:38:03Z",
+    "pushed_at": "2024-08-28T19:27:38Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "ccyy-阿亮",
+      "email": "liawnliu@qq.com",
+      "login": "liawnliu"
+    },
+    "owner_profile": {
+      "name": "ccyy-阿亮",
+      "created_at": "2018-06-26T05:23:19Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 402,
+    "probable_photo_count": 387,
+    "sample_photos": [
+      "docs/book-sketches/影视剪辑/img/关于谷爱凌的选题.png",
+      "docs/book-sketches/影视剪辑/img/创作赛道.png",
+      "docs/book-sketches/影视剪辑/img/布莱克-斯奈德节拍表.png",
+      "docs/book-sketches/影视剪辑/img/布莱克-斯奈德节拍表2.png",
+      "docs/book-sketches/影视剪辑/img/逐级推荐.png",
+      "docs/book-sketches/日常生活/img/qudou.jpg",
+      "docs/book-sketches/电脑工具/img/Frp实现内网穿透/frp开放安全组端口.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther分配的IP段.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther版本选择.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具NAT配置.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具创建新hub.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具创建新hub2.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具启用NAT.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具开启NAT地址转换和DHCP服务.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具新建用户.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具新设置.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具管理用户.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具设置管理员密码.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther跳过简单安装.png",
+      "docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther远程管理器页面.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "（已过时）由vuepress搭建的文档(博客)",
+    "first_seen_utc": "2026-08-26T19:51:55.683255+00:00",
+    "score": 9
+  },
+  {
+    "owner": "blogavecmywebsite",
+    "repository": "blogavecmywebsite/blogavecmywebsite.github.io",
+    "url": "https://github.com/blogavecmywebsite/blogavecmywebsite.github.io",
+    "pages_url": "https://blogavecmywebsite.github.io/",
+    "created_at": "2022-07-06T08:34:34Z",
+    "pushed_at": "2022-07-30T18:39:20Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact",
+      "jekyll-build-pages"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "blogavecmywebsite",
+      "email": "108582584+blogavecmywebsite@users.noreply.github.com",
+      "login": "blogavecmywebsite"
+    },
+    "owner_profile": {
+      "created_at": "2022-07-02T14:47:30Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": true,
+    "tree_truncated": false,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "My Developer7",
+    "first_seen_utc": "2026-08-26T19:52:41.309024+00:00",
+    "score": 9
+  },
+  {
+    "owner": "jy-11",
+    "repository": "jy-11/blog-hexo",
+    "url": "https://github.com/jy-11/blog-hexo",
+    "pages_url": "https://jy-11.github.io/blog-hexo/",
+    "created_at": "2022-07-07T15:19:12Z",
+    "pushed_at": "2023-07-12T22:56:01Z",
+    "workflow_markers": [
+      "JamesIves/github-pages-deploy-action"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "用户名",
+      "email": "邮箱"
+    },
+    "owner_profile": {
+      "created_at": "2022-07-02T03:18:11Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 18,
+    "probable_photo_count": 2,
+    "sample_photos": [
+      "public/fancybox/fancybox_overlay.png",
+      "public/fancybox/helpers/fancybox_buttons.png"
+    ],
+    "post_count_sampled": 2,
+    "sample_posts": [
+      "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+      "source/_posts/hello-world.md"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-26T19:53:41.687205+00:00",
+    "score": 9
   }
 ]

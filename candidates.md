@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-26T17:33:16.174355+00:00`  
-Repositories inspected: `33742`  
-Candidates: `1211`
+Last run: `2026-08-26T19:19:47.469652+00:00`  
+Repositories inspected: `45830`  
+Candidates: `1219`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -47561,6 +47561,337 @@ None.
 - `assets/images/blog3.jpg`
 - `assets/images/blog4.jpg`
 - `assets/images/blog5.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/farlandliu/blog">farlandliu/blog</a></strong> · probable photos 5 · identity liu</summary>
+
+- Owner: [farlandliu](https://github.com/farlandliu)
+- Live site: https://farlandliu.github.io/blog/
+- Identity tier: **1**
+- Created / pushed: `2022-06-24T06:28:24Z` / `2022-06-28T09:29:49Z`
+- Account created: `2014-02-26T16:47:56Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `farland`
+- Commit identity hits: `liu`
+- Latest commit author: `farland` / `farland@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2020-01-14-test-markdown-post.md`
+- `_posts/2020-02-20-test.md`
+- `_posts/2022-06-24-data-camp-week-1.md`
+- `_posts/README.md`
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `images/pgadmin4-1.png`
+- `images/pgadmin4-2.png`
+- `images/pgadmin4-3.png`
+- `images/pgstart.png`
+- `images/ps-start-2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/abaiii/blog">abaiii/blog</a></strong> · probable photos 6 · identity xuan</summary>
+
+- Owner: [abaiii](https://github.com/abaiii)
+- Live site: https://blog.francie.cc
+- Identity tier: **1**
+- Created / pushed: `2022-06-26T23:31:33Z` / `2022-08-15T13:15:03Z`
+- Account created: `2022-05-22T08:30:10Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `xuan`
+- Profile name: `Bai Hanxuan`
+- Commit identity hits: `none`
+- Latest commit author: `Francie Jiang` / `i@francie.cc`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/dis-ins-ass.md`
+- `content/posts/generate-discriminate-other-provs.md`
+- `content/posts/hello-world.md`
+- `content/posts/youngsters-fresh-rime.md`
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `static/discriminate-1.jpg`
+- `static/discriminate-2.jpg`
+- `static/discriminate-3.jpg`
+- `static/discriminate-4.jpg`
+- `static/rimeSettings.png`
+- `static/usePhysicalDisks.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Yliu566/blog_posts">Yliu566/blog_posts</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [Yliu566](https://github.com/Yliu566)
+- Live site: https://yliu566.github.io/blog_posts/
+- Identity tier: **1**
+- Created / pushed: `2022-06-28T09:27:59Z` / `2023-07-17T14:10:14Z`
+- Account created: `2017-10-17T12:32:17Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Yuru Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Yuru Liu` / `midou_liu@foxmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (2)</summary>
+
+- `posts/2022-06-01-git-cheatsheet.md`
+- `posts/2022-06-02-conda-env-setup.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `posts/welcome/thumbnail.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Oliul-1/Blog-project-1">Oliul-1/Blog-project-1</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [Oliul-1](https://github.com/Oliul-1)
+- Live site: https://Oliul-1.github.io/Blog-project-1/
+- Identity tier: **1**
+- Created / pushed: `2022-07-04T09:05:53Z` / `2022-07-04T12:04:53Z`
+- Account created: `2022-07-02T17:49:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Oliul Islam `
+- Commit identity hits: `liu`
+- Latest commit author: `Oliul-1` / `olioliulislam832@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/hiskiv/hiskiv_blog.github.io">hiskiv/hiskiv_blog.github.io</a></strong> · probable photos 12 · identity liu</summary>
+
+- Owner: [hiskiv](https://github.com/hiskiv)
+- Live site: https://hiskiv.github.io/hiskiv_blog.github.io/
+- Identity tier: **1**
+- Created / pushed: `2022-07-05T05:59:16Z` / `2022-07-22T03:42:33Z`
+- Account created: `2016-08-04T05:29:01Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Xiaokang Liu`
+- Commit identity hits: `none`
+- Latest commit author: `hiski` / `yijiyeah@126.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `32` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2017-11-17-hydejacks-new-design.md`
+- `_posts/2022-07-05-【论文笔记】ResNet：残差网络.md`
+- `_posts/2022-07-06-【论文笔记】Batch Normalization.md`
+- `_posts/2022-07-07-【论文笔记】DenseNet.md`
+- `_posts/2022-07-09-【专题笔记】Visual Concept综述（一）.md`
+- `_posts/2022-07-10-【专题笔记】Visual Concept综述（二）.md`
+- `_posts/2022-07-13-【专题笔记】Visual Concept综述（三）.md`
+- `_posts/2022-07-14-【专题笔记】Visual Concept综述（四）.md`
+- `_posts/2022-07-17-【专题笔记】Visual Concept综述（五）.md`
+- `_posts/2022-07-18-【专题笔记】Visual Concept综述（六）.md`
+- `_posts/2022-07-20-【专题笔记】Visual Concept综述（七）.md`
+- `_posts/2022-07-21-【专题笔记】Visual Concept综述（八）.md`
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `_site/assets/img/COLOURlovers.com-Hydejack.png`
+- `_site/assets/img/caleb-george-old.jpg`
+- `_site/assets/img/caleb-george.jpg`
+- `_site/assets/img/docs/google-fonts.png`
+- `_site/assets/img/sidebar-bg-old.jpg`
+- `_site/assets/img/sidebar-bg.jpg`
+- `assets/img/COLOURlovers.com-Hydejack.png`
+- `assets/img/caleb-george-old.jpg`
+- `assets/img/caleb-george.jpg`
+- `assets/img/docs/google-fonts.png`
+- `assets/img/sidebar-bg-old.jpg`
+- `assets/img/sidebar-bg.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/liawnliu/blog-vuepress">liawnliu/blog-vuepress</a></strong> · probable photos 387 · identity liu</summary>
+
+- Owner: [liawnliu](https://github.com/liawnliu)
+- Live site: https://liawnliu.github.io/blog-vuepress/
+- Identity tier: **1**
+- Created / pushed: `2022-07-06T07:38:03Z` / `2024-08-28T19:27:38Z`
+- Account created: `2018-06-26T05:23:19Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `ccyy-阿亮`
+- Commit identity hits: `liu`
+- Latest commit author: `ccyy-阿亮` / `liawnliu@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `402` / `387`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `docs/book-sketches/影视剪辑/img/关于谷爱凌的选题.png`
+- `docs/book-sketches/影视剪辑/img/创作赛道.png`
+- `docs/book-sketches/影视剪辑/img/布莱克-斯奈德节拍表.png`
+- `docs/book-sketches/影视剪辑/img/布莱克-斯奈德节拍表2.png`
+- `docs/book-sketches/影视剪辑/img/逐级推荐.png`
+- `docs/book-sketches/日常生活/img/qudou.jpg`
+- `docs/book-sketches/电脑工具/img/Frp实现内网穿透/frp开放安全组端口.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther分配的IP段.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther版本选择.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具NAT配置.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具创建新hub.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具创建新hub2.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具启用NAT.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具开启NAT地址转换和DHCP服务.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具新建用户.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具新设置.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具管理用户.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther管理工具设置管理员密码.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther跳过简单安装.png`
+- `docs/book-sketches/电脑工具/img/SoftEther实现虚拟局域网/SoftEther远程管理器页面.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/blogavecmywebsite/blogavecmywebsite.github.io">blogavecmywebsite/blogavecmywebsite.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [blogavecmywebsite](https://github.com/blogavecmywebsite)
+- Live site: https://blogavecmywebsite.github.io/
+- Identity tier: **0**
+- Created / pushed: `2022-07-06T08:34:34Z` / `2022-07-30T18:39:20Z`
+- Account created: `2022-07-02T14:47:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `blogavecmywebsite` / `108582584+blogavecmywebsite@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/jy-11/blog-hexo">jy-11/blog-hexo</a></strong> · probable photos 2 · identity none</summary>
+
+- Owner: [jy-11](https://github.com/jy-11)
+- Live site: https://jy-11.github.io/blog-hexo/
+- Identity tier: **0**
+- Created / pushed: `2022-07-07T15:19:12Z` / `2023-07-12T22:56:01Z`
+- Account created: `2022-07-02T03:18:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `用户名` / `邮箱`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (2)</summary>
+
+- `node_modules/hexo-cli/assets/source/_posts/hello-world.md`
+- `source/_posts/hello-world.md`
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `public/fancybox/fancybox_overlay.png`
+- `public/fancybox/helpers/fancybox_buttons.png`
 
 </details>
 
