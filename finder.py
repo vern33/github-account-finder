@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-"""Find a newly-created 2023 GitHub identity and its Pages repositories.
+"""Find a newly-created GitHub identity and its Pages repositories.
 
-The built-in Actions GITHUB_TOKEN is intentionally used instead of a PAT.
 State and candidate reports are committed by the workflow after every run.
 """
 
@@ -44,6 +43,11 @@ POST_RE = re.compile(
     re.I,
 )
 WORKFLOW_RE = re.compile(r"^\.github/workflows/.*\.ya?ml$", re.I)
+GITHUB_TOKEN_RE = re.compile(
+    r"(?<![A-Za-z0-9_])(?:gh[pousr]_[A-Za-z0-9]{20,255}|"
+    r"github_pat_[A-Za-z0-9_]{20,255})(?![A-Za-z0-9_])",
+    re.I,
+)
 
 
 class BudgetExhausted(RuntimeError):
@@ -137,8 +141,20 @@ def load_json(path: Path, default):
         return default
 
 
+def redact_secrets(value):
+    """Remove token-shaped strings copied from untrusted public metadata."""
+    if isinstance(value, str):
+        return GITHUB_TOKEN_RE.sub("[REDACTED_GITHUB_TOKEN]", value)
+    if isinstance(value, list):
+        return [redact_secrets(item) for item in value]
+    if isinstance(value, dict):
+        return {key: redact_secrets(item) for key, item in value.items()}
+    return value
+
+
 def save_json(path: Path, value):
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    safe_value = redact_secrets(value)
+    path.write_text(json.dumps(safe_value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def date_chunks(start: str, end: str):
@@ -816,11 +832,12 @@ def main():
         stats["last_api_budget"] = api.budget
         state["processed_repositories_v2"] = sorted(processed)
         state["processed_identity_users"] = sorted(processed_identity_users)
-        save_json(STATE_PATH, state)
-        candidate_list = list(by_repo.values())
+        safe_state = redact_secrets(state)
+        candidate_list = redact_secrets(list(by_repo.values()))
+        save_json(STATE_PATH, safe_state)
         save_json(CANDIDATES_PATH, candidate_list)
-        render_report(candidate_list, state)
-        render_progress(tasks, state, candidate_list)
+        render_report(candidate_list, safe_state)
+        render_progress(tasks, safe_state, candidate_list)
         print(f"API requests: {api.used}/{api.budget}")
         print(f"Processed repositories: {len(processed)}")
         print(f"Candidates: {len(by_repo)}")

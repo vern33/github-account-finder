@@ -75,6 +75,16 @@ class FinderTests(unittest.TestCase):
         self.assertIn("xiaoxiatian", self.config["user_search_seeds"])
         self.assertIn("in:login,name", finder.task_query(tasks[0]))
 
+    def test_public_metadata_tokens_are_redacted_recursively(self):
+        leaked = "ghp_" + "A" * 36
+        fine_grained = "github_pat_" + "B" * 30
+        value = {"bio": f"prefix {leaked} suffix", "nested": [fine_grained, 3]}
+        safe = finder.redact_secrets(value)
+        self.assertNotIn(leaked, json.dumps(safe))
+        self.assertNotIn(fine_grained, json.dumps(safe))
+        self.assertEqual(safe["bio"], "prefix [REDACTED_GITHUB_TOKEN] suffix")
+        self.assertEqual(safe["nested"][1], 3)
+
     def test_strategy_correction_prunes_orphan_task_without_losing_progress(self):
         state = {
             "adaptive_searches": {
