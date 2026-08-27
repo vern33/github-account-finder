@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-27T09:51:56.676679+00:00`  
-Repositories inspected: `62654`  
-Candidates: `1234`
+Last run: `2026-08-27T15:48:50.000865+00:00`  
+Repositories inspected: `69582`  
+Candidates: `1240`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -48614,6 +48614,284 @@ None.
 - `build/static/media/2.01f0c354.jpg`
 - `build/static/media/2.2a91734e.jpg`
 - `build/static/media/2.73361bef.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JesseSheehan/photo-port">JesseSheehan/photo-port</a></strong> · probable photos 39 · identity jess</summary>
+
+- Owner: [JesseSheehan](https://github.com/JesseSheehan)
+- Live site: https://JesseSheehan.github.io/photo-port/
+- Identity tier: **1**
+- Created / pushed: `2022-08-27T17:17:27Z` / `2022-08-30T20:19:15Z`
+- Account created: `2020-12-29T17:18:51Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesse Sheehan`
+- Commit identity hits: `jess`
+- Latest commit author: `jesse sheehan` / `jessetsheehan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `41` / `39`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `src/assets/cover/cover-image.jpg`
+- `src/assets/large/commercial/0.jpg`
+- `src/assets/large/commercial/1.jpg`
+- `src/assets/large/commercial/2.jpg`
+- `src/assets/large/commercial/3.jpg`
+- `src/assets/large/commercial/4.jpg`
+- `src/assets/large/food/0.jpg`
+- `src/assets/large/food/1.jpg`
+- `src/assets/large/food/2.jpg`
+- `src/assets/large/food/3.jpg`
+- `src/assets/large/food/4.jpg`
+- `src/assets/large/landscape/0.jpg`
+- `src/assets/large/landscape/1.jpg`
+- `src/assets/large/landscape/2.jpg`
+- `src/assets/large/landscape/3.jpg`
+- `src/assets/large/landscape/4.jpg`
+- `src/assets/large/portraits/0.jpg`
+- `src/assets/large/portraits/1.jpg`
+- `src/assets/large/portraits/2.jpg`
+- `src/assets/large/portraits/3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/jhesikareal1/DogPhotoApp-Challenge">jhesikareal1/DogPhotoApp-Challenge</a></strong> · probable photos 6 · identity jess</summary>
+
+- Owner: [jhesikareal1](https://github.com/jhesikareal1)
+- Live site: https://jhesikareal1.github.io/DogPhotoApp-Challenge/
+- Identity tier: **1**
+- Created / pushed: `2022-08-28T04:08:01Z` / `2022-08-29T07:58:44Z`
+- Account created: `2022-08-10T12:51:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `MJ`
+- Commit identity hits: `jess`
+- Latest commit author: `jhesikareal1` / `mariajessica.baclayon@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `DOGPHOTOAPP CHALLENGE/images/DogCutePug1.jpg`
+- `DOGPHOTOAPP CHALLENGE/images/Dogcute1.jpg`
+- `DOGPHOTOAPP CHALLENGE/images/DotCute1.jpg`
+- `DOGPHOTOAPP CHALLENGE/images/LasagnaSlice.jpg`
+- `DOGPHOTOAPP CHALLENGE/images/PugDog.jpg`
+- `DOGPHOTOAPP CHALLENGE/images/dogs.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/jhesikareal1/DogPhotoGallery">jhesikareal1/DogPhotoGallery</a></strong> · probable photos 15 · identity jess</summary>
+
+- Owner: [jhesikareal1](https://github.com/jhesikareal1)
+- Live site: https://jhesikareal1.github.io/DogPhotoGallery/
+- Identity tier: **1**
+- Created / pushed: `2022-09-07T03:46:14Z` / `2022-09-08T06:30:07Z`
+- Account created: `2022-08-10T12:51:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `MJ`
+- Commit identity hits: `jess`
+- Latest commit author: `jhesikareal1` / `mariajessica.baclayon@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `images/pexels-dominika-roseclay-755380.jpg`
+- `images/pexels-helena-lopes-1938123.jpg`
+- `images/pexels-helena-lopes-1959054.jpg`
+- `images/pexels-helena-lopes-2027105.jpg`
+- `images/pexels-hoy-1390784.jpg`
+- `images/pexels-humphrey-muleba-1612861.jpg`
+- `images/pexels-johann-1254140.jpg`
+- `images/pexels-jozef-fehér-1633522.jpg`
+- `images/pexels-liesbeth-koopmans-1089394.jpg`
+- `images/pexels-mithul-varshan-2318990.jpg`
+- `images/pexels-musicfactory-lehmannsound-215957.jpg`
+- `images/pexels-nancy-guth-850602.jpg`
+- `images/pexels-pixabay-65867.jpg`
+- `images/pexels-sebastian-coman-travel-3475679.jpg`
+- `images/pexels-sergio-souza-2295236.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/GZonw/My-photo">GZonw/My-photo</a></strong> · probable photos 8 · identity none</summary>
+
+- Owner: [GZonw](https://github.com/GZonw)
+- Live site: https://GZonw.github.io/My-photo/
+- Identity tier: **0**
+- Created / pushed: `2022-10-05T17:02:58Z` / `2022-10-05T17:43:18Z`
+- Account created: `2022-09-21T19:13:07Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `GZonw` / `114107044+GZonw@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `images/1.jpg`
+- `images/2.jpg`
+- `images/3.jpg`
+- `images/4.jpg`
+- `images/5.jpg`
+- `images/6.jpg`
+- `images/7.jpg`
+- `images/8.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Harshuclicks/Gallery">Harshuclicks/Gallery</a></strong> · probable photos 153 · identity none</summary>
+
+- Owner: [Harshuclicks](https://github.com/Harshuclicks)
+- Live site: https://Harshuclicks.github.io/Gallery/
+- Identity tier: **0**
+- Created / pushed: `2022-06-18T17:57:48Z` / `2022-09-28T09:16:07Z`
+- Account created: `2022-06-18T14:07:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `JamesIves/github-pages-deploy-action`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Harshuclicks` / `107760354+Harshuclicks@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `153` / `153`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `gallery/Canary/0E8A8281.jpg`
+- `gallery/Canary/0E8A8402.jpg`
+- `gallery/Canary/0E8A8407.JPG`
+- `gallery/Canary/0E8A8426.jpg`
+- `gallery/Canary/0E8A8430.jpg`
+- `gallery/Canary/0E8A8434.JPG`
+- `gallery/Canary/0E8A8454.jpg`
+- `gallery/Canary/0E8A8569.JPG`
+- `gallery/Canary/0E8A8570.JPG`
+- `gallery/Canary/0E8A8630.jpg`
+- `gallery/Canary/0E8A8654_1.JPG`
+- `gallery/Canary/0E8A8654_1.jpg`
+- `gallery/Canary/0E8A8657_2.jpg`
+- `gallery/Canary/0E8A8704.jpg 001.jpg`
+- `gallery/Canary/0E8A8704.jpg 010.jpg`
+- `gallery/Canary/0E8A8762_1.JPG 0.JPG`
+- `gallery/Canary/0E8A8762_1.JPG 00.JPG`
+- `gallery/Canary/0E8A9265.jpg`
+- `gallery/Canary/0E8A9287.jpg flower.jpg`
+- `gallery/Canary/0E8A9293.jpg ant feast 1.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Liubov5/simple-gallery">Liubov5/simple-gallery</a></strong> · probable photos 11 · identity liu</summary>
+
+- Owner: [Liubov5](https://github.com/Liubov5)
+- Live site: https://Liubov5.github.io/simple-gallery/
+- Identity tier: **1**
+- Created / pushed: `2022-06-21T09:20:10Z` / `2022-06-21T09:21:04Z`
+- Account created: `2017-02-19T11:34:54Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Liubov Iakovleva`
+- Commit identity hits: `liu`
+- Latest commit author: `Liubov5` / `liubov.iakovleva5@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `images/1.jpg`
+- `images/10.jpg`
+- `images/11.jpg`
+- `images/2.jpg`
+- `images/3.jpg`
+- `images/4.jpg`
+- `images/5.jpg`
+- `images/6.jpg`
+- `images/7.jpg`
+- `images/8.jpg`
+- `images/9.jpg`
 
 </details>
 
