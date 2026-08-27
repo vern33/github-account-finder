@@ -58427,5 +58427,232 @@
     "description": null,
     "first_seen_utc": "2026-08-27T00:15:27.015241+00:00",
     "score": 9
+  },
+  {
+    "owner": "1realjulius",
+    "repository": "1realjulius/Photocos_Agency",
+    "url": "https://github.com/1realjulius/Photocos_Agency",
+    "pages_url": "photocos-agency.vercel.app",
+    "created_at": "2022-06-06T19:41:52Z",
+    "pushed_at": "2022-09-17T14:06:55Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "1realjulius",
+      "email": "iamjuliuseghan@gmail.com",
+      "login": "1realjulius"
+    },
+    "owner_profile": {
+      "name": "Julius Eghan",
+      "bio": "Freelance full stack Developer",
+      "blog": "www.iamjulius.com",
+      "twitter_username": "juliuseghan",
+      "created_at": "2020-09-18T00:33:07Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 174,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 5,
+    "sample_posts": [
+      "blog/how-to-make-your-product-stand-out-with-elastic-themes.html",
+      "blog/how-to-make-your-template-look-amazing.html",
+      "blog/how-to-save-money-with-templates.html",
+      "blog/how-webflow-made-me-a-better-designer.html",
+      "blog/what-is-webflow-and-how-does-it-work.html"
+    ],
+    "description": null,
+    "first_seen_utc": "2026-08-27T09:59:04.430163+00:00",
+    "score": 9
+  },
+  {
+    "owner": "Aurelius-kiprotich",
+    "repository": "Aurelius-kiprotich/aures-photography",
+    "url": "https://github.com/Aurelius-kiprotich/aures-photography",
+    "pages_url": "https://Aurelius-kiprotich.github.io/aures-photography/",
+    "created_at": "2022-06-21T08:19:32Z",
+    "pushed_at": "2022-06-21T08:22:23Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "aurelius",
+      "email": "auresdon@gmail.com"
+    },
+    "owner_profile": {
+      "name": "Aurelius Kemboi Kiprotich",
+      "bio": "Computer Science graduate | Data Science & Machine Learning Enthusiast\r\nBuilding AI solutions for real-world problems | Python | ML | Data Analytics",
+      "location": "Nairobi, Kenya",
+      "twitter_username": "aures_the",
+      "created_at": "2022-05-30T08:47:01Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 10,
+    "probable_photo_count": 9,
+    "sample_photos": [
+      "img/background.jpg",
+      "img/event-shoots.png",
+      "img/indoor-shoots.png",
+      "img/instagram.png",
+      "img/old-typical-phone.png",
+      "img/outdoor-shoots.png",
+      "img/shoot.png",
+      "img/twitter (1).png",
+      "img/undraw_photo_session_clqr (1).png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-27T10:04:24.583632+00:00",
+    "score": 12
+  },
+  {
+    "owner": "Aurelius-kiprotich",
+    "repository": "Aurelius-kiprotich/aures-film-and-photography",
+    "url": "https://github.com/Aurelius-kiprotich/aures-film-and-photography",
+    "pages_url": "https://Aurelius-kiprotich.github.io/aures-film-and-photography/",
+    "created_at": "2022-06-21T08:50:48Z",
+    "pushed_at": "2022-06-21T08:58:46Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "aurelius",
+      "email": "auresdon@gmail.com"
+    },
+    "owner_profile": {
+      "name": "Aurelius Kemboi Kiprotich",
+      "bio": "Computer Science graduate | Data Science & Machine Learning Enthusiast\r\nBuilding AI solutions for real-world problems | Python | ML | Data Analytics",
+      "location": "Nairobi, Kenya",
+      "twitter_username": "aures_the",
+      "created_at": "2022-05-30T08:47:01Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 44,
+    "probable_photo_count": 13,
+    "sample_photos": [
+      "image/background.JPG",
+      "image/image1.jpg",
+      "image/image2.jpg",
+      "image/image3.jpg",
+      "image/image4.jpg",
+      "image/image5.jpg",
+      "image/image6.jpg",
+      "image/image7.JPG",
+      "image/instagram.png",
+      "image/old-typical-phone.png",
+      "image/shoot.png",
+      "image/twitter (1).png",
+      "image/undraw_photo_session_clqr (1).png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-27T10:05:15.951255+00:00",
+    "score": 12
+  },
+  {
+    "owner": "Jessiferizzo",
+    "repository": "Jessiferizzo/photo-port",
+    "url": "https://github.com/Jessiferizzo/photo-port",
+    "pages_url": "https://Jessiferizzo.github.io/photo-port/",
+    "created_at": "2022-07-05T21:44:13Z",
+    "pushed_at": "2022-07-31T03:42:38Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "jess"
+    ],
+    "profile_identity_hits": [
+      "jess"
+    ],
+    "commit_identity_hits": [
+      "jess"
+    ],
+    "commit_author": {
+      "name": "Jessica",
+      "email": "jsisavath@gmail.com",
+      "login": "Jessiferizzo"
+    },
+    "owner_profile": {
+      "name": "Jessica Sisavath",
+      "email": "jsisavath2@gmail.com",
+      "created_at": "2022-02-17T03:26:36Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 83,
+    "probable_photo_count": 78,
+    "sample_photos": [
+      "build/static/media/0.07e46859.jpg",
+      "build/static/media/0.3af9e960.jpg",
+      "build/static/media/0.6ba0a0b4.jpg",
+      "build/static/media/0.7e6f7d5d.jpg",
+      "build/static/media/0.8877b785.jpg",
+      "build/static/media/0.943044a7.jpg",
+      "build/static/media/0.aae354cf.jpg",
+      "build/static/media/0.b18c130d.jpg",
+      "build/static/media/1.156d2772.jpg",
+      "build/static/media/1.296bd358.jpg",
+      "build/static/media/1.5fd176a1.jpg",
+      "build/static/media/1.63c4a51d.jpg",
+      "build/static/media/1.86164d25.jpg",
+      "build/static/media/1.863e6935.jpg",
+      "build/static/media/1.e8b41d95.jpg",
+      "build/static/media/1.ffe481f4.jpg",
+      "build/static/media/2.011ffdeb.jpg",
+      "build/static/media/2.01f0c354.jpg",
+      "build/static/media/2.2a91734e.jpg",
+      "build/static/media/2.73361bef.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-08-27T10:06:31.941375+00:00",
+    "score": 12
   }
 ]

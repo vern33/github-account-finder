@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-26T23:35:39.645532+00:00`  
-Repositories inspected: `55100`  
-Candidates: `1230`
+Last run: `2026-08-27T09:51:56.676679+00:00`  
+Repositories inspected: `62654`  
+Candidates: `1234`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -48435,6 +48435,185 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/1realjulius/Photocos_Agency">1realjulius/Photocos_Agency</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [1realjulius](https://github.com/1realjulius)
+- Live site: photocos-agency.vercel.app
+- Identity tier: **1**
+- Created / pushed: `2022-06-06T19:41:52Z` / `2022-09-17T14:06:55Z`
+- Account created: `2020-09-18T00:33:07Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Julius Eghan`
+- Commit identity hits: `liu`
+- Latest commit author: `1realjulius` / `iamjuliuseghan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `174` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `blog/how-to-make-your-product-stand-out-with-elastic-themes.html`
+- `blog/how-to-make-your-template-look-amazing.html`
+- `blog/how-to-save-money-with-templates.html`
+- `blog/how-webflow-made-me-a-better-designer.html`
+- `blog/what-is-webflow-and-how-does-it-work.html`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Aurelius-kiprotich/aures-photography">Aurelius-kiprotich/aures-photography</a></strong> · probable photos 9 · identity liu</summary>
+
+- Owner: [Aurelius-kiprotich](https://github.com/Aurelius-kiprotich)
+- Live site: https://Aurelius-kiprotich.github.io/aures-photography/
+- Identity tier: **1**
+- Created / pushed: `2022-06-21T08:19:32Z` / `2022-06-21T08:22:23Z`
+- Account created: `2022-05-30T08:47:01Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Aurelius Kemboi Kiprotich`
+- Commit identity hits: `liu`
+- Latest commit author: `aurelius` / `auresdon@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `9`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (9)</summary>
+
+- `img/background.jpg`
+- `img/event-shoots.png`
+- `img/indoor-shoots.png`
+- `img/instagram.png`
+- `img/old-typical-phone.png`
+- `img/outdoor-shoots.png`
+- `img/shoot.png`
+- `img/twitter (1).png`
+- `img/undraw_photo_session_clqr (1).png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Aurelius-kiprotich/aures-film-and-photography">Aurelius-kiprotich/aures-film-and-photography</a></strong> · probable photos 13 · identity liu</summary>
+
+- Owner: [Aurelius-kiprotich](https://github.com/Aurelius-kiprotich)
+- Live site: https://Aurelius-kiprotich.github.io/aures-film-and-photography/
+- Identity tier: **1**
+- Created / pushed: `2022-06-21T08:50:48Z` / `2022-06-21T08:58:46Z`
+- Account created: `2022-05-30T08:47:01Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Aurelius Kemboi Kiprotich`
+- Commit identity hits: `liu`
+- Latest commit author: `aurelius` / `auresdon@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `44` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `image/background.JPG`
+- `image/image1.jpg`
+- `image/image2.jpg`
+- `image/image3.jpg`
+- `image/image4.jpg`
+- `image/image5.jpg`
+- `image/image6.jpg`
+- `image/image7.JPG`
+- `image/instagram.png`
+- `image/old-typical-phone.png`
+- `image/shoot.png`
+- `image/twitter (1).png`
+- `image/undraw_photo_session_clqr (1).png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Jessiferizzo/photo-port">Jessiferizzo/photo-port</a></strong> · probable photos 78 · identity jess</summary>
+
+- Owner: [Jessiferizzo](https://github.com/Jessiferizzo)
+- Live site: https://Jessiferizzo.github.io/photo-port/
+- Identity tier: **1**
+- Created / pushed: `2022-07-05T21:44:13Z` / `2022-07-31T03:42:38Z`
+- Account created: `2022-02-17T03:26:36Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Sisavath`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica` / `jsisavath@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `83` / `78`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `build/static/media/0.07e46859.jpg`
+- `build/static/media/0.3af9e960.jpg`
+- `build/static/media/0.6ba0a0b4.jpg`
+- `build/static/media/0.7e6f7d5d.jpg`
+- `build/static/media/0.8877b785.jpg`
+- `build/static/media/0.943044a7.jpg`
+- `build/static/media/0.aae354cf.jpg`
+- `build/static/media/0.b18c130d.jpg`
+- `build/static/media/1.156d2772.jpg`
+- `build/static/media/1.296bd358.jpg`
+- `build/static/media/1.5fd176a1.jpg`
+- `build/static/media/1.63c4a51d.jpg`
+- `build/static/media/1.86164d25.jpg`
+- `build/static/media/1.863e6935.jpg`
+- `build/static/media/1.e8b41d95.jpg`
+- `build/static/media/1.ffe481f4.jpg`
+- `build/static/media/2.011ffdeb.jpg`
+- `build/static/media/2.01f0c354.jpg`
+- `build/static/media/2.2a91734e.jpg`
+- `build/static/media/2.73361bef.jpg`
 
 </details>
 
