@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-28T14:11:06.025879+00:00`  
-Repositories inspected: `88557`  
-Candidates: `1254`
+Last run: `2026-08-28T18:44:52.402609+00:00`  
+Repositories inspected: `90817`  
+Candidates: `1255`
 
 <details>
 <summary><strong>Tier 1 · 22 points — <a href="https://github.com/jessie-mills-dev/jessie-mills-dev.github.io">jessie-mills-dev/jessie-mills-dev.github.io</a></strong> · probable photos 68 · identity jess, jessie</summary>
@@ -49559,6 +49559,58 @@ None.
 - `images/paris.png`
 - `images/quotes.png`
 - `images/thailand.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Kartalova/russian-travel">Kartalova/russian-travel</a></strong> · probable photos 19 · identity none</summary>
+
+- Owner: [Kartalova](https://github.com/Kartalova)
+- Live site: https://Kartalova.github.io/russian-travel/
+- Identity tier: **0**
+- Created / pushed: `2022-10-11T18:11:21Z` / `2022-10-23T20:25:44Z`
+- Account created: `2022-09-04T13:35:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Анна Карталова` / `annakartalova@192.168.1.19`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `19` / `19`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (19)</summary>
+
+- `images/cover-trains.jpg`
+- `images/lead-polka.jpg`
+- `images/photo-grid-arisa.jpg`
+- `images/photo-grid-atharva-tulsi.jpg`
+- `images/photo-grid-baikal-2.jpg`
+- `images/photo-grid-baikal.jpg`
+- `images/photo-grid-elbrus.jpg`
+- `images/photo-grid-ergaki.jpg`
+- `images/photo-grid-kamchatka-1.jpg`
+- `images/photo-grid-kamchatka-2.jpg`
+- `images/photo-grid-kondratiev.jpg`
+- `images/photo-grid-sochi.jpg`
+- `images/photo-grid-train.jpg`
+- `images/photo-grid-tuman.jpg`
+- `images/place-altai.jpg`
+- `images/place-karelia.jpg`
+- `images/place-kolsky.jpg`
+- `images/place-kosa.jpg`
+- `images/place-winter-baikal.jpg`
 
 </details>
 
