@@ -1,8 +1,6 @@
 name: Search forgotten GitHub Pages account
 
 on:
-  schedule:
-    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       max_api_requests:
