@@ -4,6 +4,9 @@ import unittest
 
 import finder
 
+SEARCH_CONFIG = json.loads(finder.CONFIG_PATH.read_text())
+SEARCH_YEAR = SEARCH_CONFIG["target_created_from"][:4]
+
 
 class FakeAPI:
     def __init__(self, *, marker=True, photos=True, profile=None, commit=None):
@@ -11,7 +14,7 @@ class FakeAPI:
         self.photos = photos
         self.profile = profile or {
             "name": "Nobody",
-            "created_at": "2022-08-20T00:00:00Z",
+            "created_at": f"{SEARCH_YEAR}-08-20T00:00:00Z",
         }
         self.commit = commit or {}
 
@@ -39,8 +42,8 @@ def repository(owner):
         "owner": {"login": owner, "type": "User"},
         "default_branch": "main",
         "html_url": "https://example.test",
-        "created_at": "2022-08-21T00:00:00Z",
-        "pushed_at": "2022-10-02T00:00:00Z",
+        "created_at": f"{SEARCH_YEAR}-08-21T00:00:00Z",
+        "pushed_at": f"{SEARCH_YEAR}-10-02T00:00:00Z",
         "homepage": None,
         "description": None,
     }
@@ -58,7 +61,7 @@ def project_repository(owner, name="blog"):
 class FinderTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.config = json.loads(finder.CONFIG_PATH.read_text())
+        cls.config = SEARCH_CONFIG
 
     def test_user_centric_stage_order_and_query(self):
         tasks = finder.seed_search_tasks(self.config)
@@ -90,12 +93,12 @@ class FinderTests(unittest.TestCase):
             "adaptive_searches": {
                 "old": {
                     "stage": "users", "term": "xiaxiatian",
-                    "start": "2022-06-01", "end": "2022-10-15",
+                    "start": self.config["target_created_from"], "end": self.config["target_created_to"],
                     "order": 12, "page": 1, "complete": True, "split": False,
                 },
-                "adaptive:users:jessie:2022-06-01:2022-10-15": {
+                f"adaptive:users:jessie:{self.config['target_created_from']}:{self.config['target_created_to']}": {
                     "stage": "users", "term": "jessie",
-                    "start": "2022-06-01", "end": "2022-10-15",
+                    "start": self.config["target_created_from"], "end": self.config["target_created_to"],
                     "order": 8, "page": 7, "complete": True, "split": False,
                 },
             }
@@ -112,14 +115,15 @@ class FinderTests(unittest.TestCase):
             def request(self, path, **_kwargs):
                 self.path = path
                 return [
-                    {"name": "target", "has_pages": True, "created_at": "2022-08-20T00:00:00Z"},
-                    {"name": "future", "has_pages": True, "created_at": "2026-01-01T00:00:00Z"},
-                    {"name": "not-pages", "has_pages": False, "created_at": "2022-09-01T00:00:00Z"},
+                    {"name": "target", "has_pages": True, "created_at": f"{SEARCH_YEAR}-08-20T00:00:00Z"},
+                    {"name": "future", "has_pages": True, "created_at": "2099-01-01T00:00:00Z"},
+                    {"name": "not-pages", "has_pages": False, "created_at": f"{SEARCH_YEAR}-09-01T00:00:00Z"},
                 ]
 
         api = RepoListAPI()
         repositories = finder.get_user_pages_repositories(
-            api, "someone", 3, "2022-06-01", "2022-10-15"
+            api, "someone", 3,
+            self.config["target_created_from"], self.config["target_created_to"]
         )
         self.assertEqual([repo["name"] for repo in repositories], ["target"])
         self.assertIn("sort=created", api.path)
