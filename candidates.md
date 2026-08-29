@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-29T14:40:16.825192+00:00`  
-Repositories inspected: `141`  
-Candidates: `132`
+Last run: `2026-08-29T18:33:43.765197+00:00`  
+Repositories inspected: `388`  
+Candidates: `363`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -5331,6 +5331,8871 @@ None.
 - `img/in-post/post-alitrip-pd/post-alitrip-pd.016.jpg`
 - `img/in-post/post-alitrip-pd/post-alitrip-pd.018.jpg`
 - `img/in-post/post-alitrip-pd/post-alitrip-pd.019.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/LiuHeyS/pintree">LiuHeyS/pintree</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [LiuHeyS](https://github.com/LiuHeyS)
+- Live site: https://app.pintree.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-05T08:57:31Z` / `2024-08-05T08:58:36Z`
+- Account created: `2024-08-05T08:56:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `LiuHeyS` / `173834156@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/og.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuan5enpai/xuan5enpai.github.io">xuan5enpai/xuan5enpai.github.io</a></strong> · probable photos 0 · identity liu, xuan</summary>
+
+- Owner: [xuan5enpai](https://github.com/xuan5enpai)
+- Live site: https://xuan5enpai.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-05T11:25:22Z` / `2024-08-05T11:25:22Z`
+- Account created: `2024-08-05T11:23:27Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `liu, xuan`
+- Profile name: `yuxuan liu`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `xuan5enpai` / `yxliu0828@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/liuStacy/liuStacy.github.io">liuStacy/liuStacy.github.io</a></strong> · probable photos 10 · identity liu</summary>
+
+- Owner: [liuStacy](https://github.com/liuStacy)
+- Live site: https://liuStacy.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-31T04:32:19Z` / `2024-09-02T20:02:39Z`
+- Account created: `2024-08-20T17:15:57Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Rongrong (Stacy) Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Rongrong Liu` / `liu00670@algonquinlive.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `images/Algonquin.PNG`
+- `images/Concordia.PNG`
+- `images/Rongrong_Picture.PNG`
+- `images/cinema.png`
+- `images/flexbox.PNG`
+- `images/location.PNG`
+- `images/tools.png`
+- `images/tools2.png`
+- `images/tools3.png`
+- `images/tools4.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 18 points — <a href="https://github.com/liurunshi/liurunshi.github.io">liurunshi/liurunshi.github.io</a></strong> · probable photos 169 · identity liu</summary>
+
+- Owner: [liurunshi](https://github.com/liurunshi)
+- Live site: https://liurunshi-u2m5.vercel.app
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T07:10:20Z` / `2024-10-10T04:22:45Z`
+- Account created: `2024-08-16T07:03:59Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `liurunshi`
+- Commit identity hits: `liu`
+- Latest commit author: `liurunshi` / `liurunshi@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `177` / `169`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/more/me/cyberpunk-2077.jpg`
+- `assets/more/me/email.png`
+- `assets/more/me/fallout-4.jpg`
+- `assets/more/me/jinchanchan.webp`
+- `assets/more/me/league-of-legends.jpg`
+- `assets/more/me/me.jpeg`
+- `assets/more/me/ori-and-the-will-of-the-wisps.jpg`
+- `assets/more/me/personality-01.png`
+- `assets/more/me/personality-02.png`
+- `assets/more/me/personality-03.png`
+- `assets/more/me/personality-04.png`
+- `assets/more/me/personality-05.png`
+- `assets/more/me/personality-06.png`
+- `assets/more/me/photo.jpg`
+- `assets/more/me/super-mario-odyssey.jpg`
+- `assets/more/me/telegram.png`
+- `assets/more/me/the-legend-of-zelda-breath-of-the-wild.jpg`
+- `assets/more/me/total-war-three-kingdoms.jpg`
+- `assets/more/me/world-of-warcraft.jpg`
+- `assets/news/2024/coffee-pig.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/LiuYihan111/bitcoin-order-app">LiuYihan111/bitcoin-order-app</a></strong> · probable photos 6 · identity liu</summary>
+
+- Owner: [LiuYihan111](https://github.com/LiuYihan111)
+- Live site: https://kenken64.github.io/bitcoin-order-app/
+- Identity tier: **1**
+- Created / pushed: `2024-09-12T02:57:53Z` / `2024-09-12T05:57:12Z`
+- Account created: `2024-08-21T02:40:48Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `LIU YIHAN`
+- Commit identity hits: `none`
+- Latest commit author: `KENNETH PHANG` / `bunnyppl@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `14` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `src/assets/back2.jpg`
+- `src/assets/back3.png`
+- `src/assets/back4.jpg`
+- `src/assets/back5.jpg`
+- `src/assets/back6.jpg`
+- `src/assets/background.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/liuying-y/liuying-y.github.io">liuying-y/liuying-y.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuying-y](https://github.com/liuying-y)
+- Live site: https://www.liuying.pro/
+- Identity tier: **1**
+- Created / pushed: `2024-08-13T15:30:45Z` / `2024-12-30T18:08:59Z`
+- Account created: `2024-08-13T15:24:44Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Liuying`
+- Commit identity hits: `liu`
+- Latest commit author: `Liuying` / `178309223+liuying-y@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `src/_posts/front-end/2024-12-27-parallax-scrolling.md`
+- `src/_posts/front-end/2024-12-29-parallax-scrolling-transform.md`
+- `src/_posts/front-end/2024-12-30-my-schedule.md`
+- `src/_posts/front-end/2024-12-31-bubble-blend.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/autdumb/v1.0">autdumb/v1.0</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [autdumb](https://github.com/autdumb)
+- Live site: https://autdumb.github.io/v1.0/
+- Identity tier: **1**
+- Created / pushed: `2024-08-14T20:16:05Z` / `2024-08-15T13:51:51Z`
+- Account created: `2024-08-11T21:24:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Autumn Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Autumn Liu` / `aut.tea7@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/penheader.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/autdumb/webbingston">autdumb/webbingston</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [autdumb](https://github.com/autdumb)
+- Live site: https://autdumb.github.io/webbingston/
+- Identity tier: **1**
+- Created / pushed: `2024-08-12T19:20:29Z` / `2024-08-12T19:29:14Z`
+- Account created: `2024-08-11T21:24:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Autumn Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Autumn Liu` / `aut.tea7@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/autdumb/web-testing">autdumb/web-testing</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [autdumb](https://github.com/autdumb)
+- Live site: https://autdumb.github.io/web-testing/
+- Identity tier: **1**
+- Created / pushed: `2024-08-11T22:20:14Z` / `2024-08-12T18:50:39Z`
+- Account created: `2024-08-11T21:24:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Autumn Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Autumn Liu` / `aut.tea7@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liuxiaojian666/qianduan">liuxiaojian666/qianduan</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuxiaojian666](https://github.com/liuxiaojian666)
+- Live site: https://liuxiaojian666.github.io/qianduan/
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T08:25:43Z` / `2024-08-16T08:26:48Z`
+- Account created: `2024-08-16T08:22:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuxiaojian666` / `1876183046@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/liuliuyu0123/liuliuyu0123.github.io">liuliuyu0123/liuliuyu0123.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuliuyu0123](https://github.com/liuliuyu0123)
+- Live site: https://liuliuyu0123.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-17T13:28:40Z` / `2024-08-25T03:10:09Z`
+- Account created: `2024-08-17T07:38:31Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuliuyu0123` / `liuyuchen0123@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (2)</summary>
+
+- `post/about/index.html`
+- `post/hello-gridea/index.html`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 19 points — <a href="https://github.com/belleliu66/belleliu66.github.io">belleliu66/belleliu66.github.io</a></strong> · probable photos 5 · identity liu</summary>
+
+- Owner: [belleliu66](https://github.com/belleliu66)
+- Live site: https://belleliu66.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-23T22:44:59Z` / `2024-08-23T23:15:44Z`
+- Account created: `2024-08-23T22:42:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Belle Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `belleliu66` / `belle57023@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (6)</summary>
+
+- `content/post/_index.md`
+- `content/post/data-visualization/index.md`
+- `content/post/get-started/index.md`
+- `content/post/project-management/index.md`
+- `content/post/second-brain/index.md`
+- `content/post/teach-courses/index.md`
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `content/post/data-visualization/featured.jpg`
+- `content/post/get-started/featured.jpg`
+- `content/post/project-management/featured.jpg`
+- `content/post/second-brain/featured.jpg`
+- `content/post/teach-courses/featured.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/liu-anyi/liu-anyi.github.io">liu-anyi/liu-anyi.github.io</a></strong> · probable photos 20 · identity liu</summary>
+
+- Owner: [liu-anyi](https://github.com/liu-anyi)
+- Live site: https://academicpages.github.io
+- Identity tier: **1**
+- Created / pushed: `2024-08-13T18:09:50Z` / `2024-09-10T01:59:39Z`
+- Account created: `2024-08-13T18:08:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liu-anyi` / `guohuanfeng@yahoo.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `20`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `_posts/2012-08-14-blog-post-1.md`
+- `_posts/2013-08-14-blog-post-2.md`
+- `_posts/2014-08-14-blog-post-3.md`
+- `_posts/2015-08-14-blog-post-4.md`
+- `_posts/2199-01-01-future-post.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/3953273590_704e3899d5_m.jpg`
+- `images/500x300.png`
+- `images/anyiliu.JPG`
+- `images/anyiliu.jpg`
+- `images/anyiliu.png`
+- `images/bio-photo-2.jpg`
+- `images/bio-photo.jpg`
+- `images/editing-talk.png`
+- `images/foo-bar-identity-th.jpg`
+- `images/foo-bar-identity.jpg`
+- `images/image-alignment-1200x4002.jpg`
+- `images/image-alignment-150x150.jpg`
+- `images/image-alignment-300x200.jpg`
+- `images/image-alignment-580x300.jpg`
+- `images/mstile-144x144.png`
+- `images/mstile-150x150.png`
+- `images/mstile-310x150.png`
+- `images/mstile-310x310.png`
+- `images/mstile-70x70.png`
+- `images/profile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liuhe0721/liuhe">liuhe0721/liuhe</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuhe0721](https://github.com/liuhe0721)
+- Live site: https://liuhe0721.github.io/liuhe/
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T14:47:36Z` / `2024-08-19T16:13:05Z`
+- Account created: `2024-08-19T14:44:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuhe0721` / `hoplma@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/LiuNuoAo/talk">LiuNuoAo/talk</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LiuNuoAo](https://github.com/LiuNuoAo)
+- Live site: https://LiuNuoAo.github.io/talk/
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T23:33:17Z` / `2024-08-19T23:55:59Z`
+- Account created: `2024-08-19T09:58:08Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `LiuNuoAo` / `3448258083@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liuzhensh/lzs">liuzhensh/lzs</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuzhensh](https://github.com/liuzhensh)
+- Live site: https://liuzhensh.github.io/lzs/
+- Identity tier: **1**
+- Created / pushed: `2024-08-10T03:40:46Z` / `2024-08-10T03:42:58Z`
+- Account created: `2024-08-10T03:37:57Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuzhensh` / `liukaiwenwansui@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/liuhengxing/webvm">liuhengxing/webvm</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [liuhengxing](https://github.com/liuhengxing)
+- Live site: https://webvm.io
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T04:58:06Z` / `2024-07-23T16:12:43Z`
+- Account created: `2024-08-16T04:56:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Alex Bates` / `alex@bates64.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `assets/leaningtech.png`
+- `assets/result.png`
+- `assets/welcome_to_WebVM_.png`
+- `assets/welcome_to_WebVM_slim.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/liudabei/webvm">liudabei/webvm</a></strong> · probable photos 4 · identity liu</summary>
+
+- Owner: [liudabei](https://github.com/liudabei)
+- Live site: https://webvm.io
+- Identity tier: **1**
+- Created / pushed: `2024-08-19T02:13:02Z` / `2024-08-16T14:27:46Z`
+- Account created: `2024-08-19T02:11:35Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Alex Bates` / `alex@bates64.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `assets/leaningtech.png`
+- `assets/result.png`
+- `assets/welcome_to_WebVM_.png`
+- `assets/welcome_to_WebVM_slim.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/jiingliu/jiingliu.github.io">jiingliu/jiingliu.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [jiingliu](https://github.com/jiingliu)
+- Live site: https://jiingliu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-04T08:21:57Z` / `2025-01-20T14:06:57Z`
+- Account created: `2024-08-22T12:55:42Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Jiing Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `jiingliu` / `jiing.liu@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `山`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `posts/index.html`
+- `posts/听音乐/20240924/index.html`
+- `posts/听音乐/20241122/index.html`
+- `posts/听音乐/20241207/index.html`
+- `posts/听音乐/20241221/index.html`
+- `posts/听音乐/20241227/index.html`
+- `posts/诗歌/combustion/index.html`
+- `posts/诗歌/index.html`
+- `posts/诗歌/keep/index.html`
+- `posts/诗歌/seven-times-have-i-despised-my-soul/index.html`
+- `posts/诗歌/五月的荷塘/index.html`
+- `posts/诗歌/偶然想到/index.html`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/kokomomo250/kokomomo250.github.io">kokomomo250/kokomomo250.github.io</a></strong> · probable photos 33 · identity liu</summary>
+
+- Owner: [kokomomo250](https://github.com/kokomomo250)
+- Live site: https://kokomomo250.github.io/Tickle-Momo-cat/
+- Identity tier: **1**
+- Created / pushed: `2024-09-03T22:11:31Z` / `2025-05-16T04:49:31Z`
+- Account created: `2024-09-03T21:27:26Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Congmeng Liu`
+- Commit identity hits: `none`
+- Latest commit author: `ktwu01` / `ktwu01@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `37` / `33`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(1).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(2).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(3).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(4).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(5).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(6).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000(7).jpg`
+- `KoMo-LoveBalloon-v0/static/boy-girl/2000.jpg`
+- `KoMo-LoveBalloon-v0/static/github-star.png`
+- `KoMo-LoveBalloon-v0/static/music.png`
+- `Komo-LoveBalloon/static/boy-girl/2000(1).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(2).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(3).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(4).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(5).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(6).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000(7).jpg`
+- `Komo-LoveBalloon/static/boy-girl/2000.jpg`
+- `Komo-LoveBalloon/static/github-star.png`
+- `Komo-LoveBalloon/static/music.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/liut605/3D-scanning">liut605/3D-scanning</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liut605](https://github.com/liut605)
+- Live site: https://liut605.github.io/3D-scanning/
+- Identity tier: **1**
+- Created / pushed: `2024-09-21T23:48:44Z` / `2024-10-03T19:24:15Z`
+- Account created: `2024-08-26T21:40:59Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Tsing Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Tsing Liu` / `liut605@newschool.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/RainDancerX/RainDancerX.github.io">RainDancerX/RainDancerX.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [RainDancerX](https://github.com/RainDancerX)
+- Live site: https://RainDancerX.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-10T23:07:21Z` / `2024-10-22T20:17:13Z`
+- Account created: `2024-08-30T23:24:32Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Lucas Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `lucas Liu` / `lantasy.io@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/liuminglang/liuminglang.github.io">liuminglang/liuminglang.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuminglang](https://github.com/liuminglang)
+- Live site: https://liuminglang.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-10-06T00:14:33Z` / `2024-10-09T15:01:36Z`
+- Account created: `2024-09-02T14:58:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuminglang` / `2166054175@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liufeiyang666/-">liufeiyang666/-</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liufeiyang666](https://github.com/liufeiyang666)
+- Live site: https://liufeiyang666.github.io/-/
+- Identity tier: **1**
+- Created / pushed: `2024-09-02T07:45:51Z` / `2024-09-02T07:49:22Z`
+- Account created: `2024-09-02T04:08:46Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liufeiyang666` / `zy3025429591@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/liufeiyang666/lfy">liufeiyang666/lfy</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liufeiyang666](https://github.com/liufeiyang666)
+- Live site: https://lfy.vercel.app
+- Identity tier: **1**
+- Created / pushed: `2024-09-02T04:13:58Z` / `2024-09-02T07:40:19Z`
+- Account created: `2024-09-02T04:08:46Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liufeiyang666` / `zy3025429591@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/liu-xiao-chuan/liu-xiao-chuan.github.io">liu-xiao-chuan/liu-xiao-chuan.github.io</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [liu-xiao-chuan](https://github.com/liu-xiao-chuan)
+- Live site: https://liu-xiao-chuan.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-03T02:56:29Z` / `2024-09-21T03:54:41Z`
+- Account created: `2024-09-01T02:59:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liu-xiao-chuan` / `2500467380@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `images/wallhaven-wqery6-dark.webp`
+- `images/wallhaven-wqery6-light.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/LiuDengShuai/LiuDengShuai.github.io">LiuDengShuai/LiuDengShuai.github.io</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LiuDengShuai](https://github.com/LiuDengShuai)
+- Live site: https://LiuDengShuai.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-06T14:28:42Z` / `2024-09-07T11:36:16Z`
+- Account created: `2024-08-27T07:23:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `刘登帅`
+- Commit identity hits: `liu`
+- Latest commit author: `刘登帅` / `ldsldw@foxmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/itsfeiil/MEDP-28500">itsfeiil/MEDP-28500</a></strong> · probable photos 33 · identity liu</summary>
+
+- Owner: [itsfeiil](https://github.com/itsfeiil)
+- Live site: https://itsfeiil.github.io/MEDP-28500/
+- Identity tier: **1**
+- Created / pushed: `2024-08-30T15:30:37Z` / `2024-12-18T19:49:16Z`
+- Account created: `2024-08-28T22:50:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Faye Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Xiaofei Liu` / `yifayya@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `33` / `33`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `final/images/divination.jpg`
+- `final/images/eastern.jpeg`
+- `final/images/fortuneCHIN.jpeg`
+- `final/images/thedeath.png`
+- `final/images/themoon.png`
+- `final/images/thestar.png`
+- `final/images/thesun.png`
+- `midterm/images/divination.webp`
+- `week3/images/art10.jpg`
+- `week3/images/art2.jpg`
+- `week3/images/art4.jpg`
+- `week3/images/art8.jpeg`
+- `week3/images/art9.jpeg`
+- `week3/images/background2.jpg`
+- `week3/images/study1.jpeg`
+- `week3/images/study2.jpg`
+- `week3/images/study4.jpg`
+- `week3/images/study5.jpg`
+- `week4/images/bekind.jpg`
+- `week4/images/butterflies.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuanx1/qualitative_ex2_longJohnSilvers">xuanx1/qualitative_ex2_longJohnSilvers</a></strong> · probable photos 2148 · identity xuan</summary>
+
+- Owner: [xuanx1](https://github.com/xuanx1)
+- Live site: https://xuanx1.github.io/qualitative_ex2_longJohnSilvers/
+- Identity tier: **1**
+- Created / pushed: `2024-10-02T15:29:30Z` / `2026-06-03T00:01:22Z`
+- Account created: `2024-07-14T10:31:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanx1` / `tanx329@newschool.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2153` / `2148`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `treemap/assets/fish/fish1.png`
+- `treemap/assets/fish/fish2.png`
+- `treemap/assets/fish/fish3.png`
+- `treemap/assets/fish/fish4.png`
+- `treemap/assets/fish/fish5.png`
+- `treemap/assets/records/ld1-1643412988961-1643412989161-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989300-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989333-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989364-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989883-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989889-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989892-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989897-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989903-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989924-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989926-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989936-0.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989949-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989954-1.webp`
+- `treemap/assets/records/ld1-1643412988961-1643412989961-1.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuanx1/major-studio-1-xuan">xuanx1/major-studio-1-xuan</a></strong> · probable photos 25 · identity xuan</summary>
+
+- Owner: [xuanx1](https://github.com/xuanx1)
+- Live site: https://xuanx1.github.io/major-studio-1-xuan/
+- Identity tier: **1**
+- Created / pushed: `2024-09-05T18:08:34Z` / `2024-12-10T05:10:05Z`
+- Account created: `2024-07-14T10:31:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanx1` / `tanx329@newschool.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `35` / `25`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `interactive_ex3_fishes_final/images/map-marker-2-xxl.png`
+- `interactive_ex3_fishes_final/images/marker_crayon.png`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5461_07.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5497_04.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5497_08.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5839_06.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5840_02.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-5967_04.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-7320_19.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-F1898.144_001.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-F1905.100-a-b_001.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/FS-S2018.1.6_001crop.jpg`
+- `labClasses/lab05_images/01_d3-image-cards/images/demo.png`
+- `labClasses/lab05_images/02_vibrant-colors/images/VanGogh-OliveTrees.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5461_07.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5497_04.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5497_08.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5839_06.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5840_02.jpg`
+- `labClasses/lab05_images/03_image-comparison/images/FS-5967_04.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuantho573/LeetCode">xuantho573/LeetCode</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuantho573](https://github.com/xuantho573)
+- Live site: https://leetcode.com/u/xuantho573/
+- Identity tier: **1**
+- Created / pushed: `2024-06-06T06:50:34Z` / `2025-01-01T09:23:10Z`
+- Account created: `2024-06-03T03:30:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Tho Nguyen Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyễn Xuân Thọ` / `95016630+xuantho573@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuan8ai/cqjypg">xuan8ai/cqjypg</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuan8ai](https://github.com/xuan8ai)
+- Live site: https://xuan8ai.github.io/cqjypg/
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T07:17:21Z` / `2025-10-12T13:37:32Z`
+- Account created: `2024-06-18T05:20:15Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan8ai` / `xuanbai@hk.pe`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuan8ai/xuanbai">xuan8ai/xuanbai</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuan8ai](https://github.com/xuan8ai)
+- Live site: https://xuan8ai.github.io/xuanbai/
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T13:31:25Z` / `2025-05-12T10:23:18Z`
+- Account created: `2024-06-18T05:20:15Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan8ai` / `xuanbai@hk.pe`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanlocatbu/review">xuanlocatbu/review</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanlocatbu](https://github.com/xuanlocatbu)
+- Live site: https://xuanlocatbu.github.io/review/
+- Identity tier: **1**
+- Created / pushed: `2024-08-05T08:19:29Z` / `2024-08-08T07:26:57Z`
+- Account created: `2024-06-02T05:56:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanlocatbu` / `xlhuynh@bu.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuantrung1302/DragonQuest">Xuantrung1302/DragonQuest</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuantrung1302](https://github.com/Xuantrung1302)
+- Live site: https://Xuantrung1302.github.io/DragonQuest/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T09:21:13Z` / `2024-06-28T09:58:28Z`
+- Account created: `2024-06-09T03:43:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuantrung1302` / `ngxuantrung03@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuantrung1302/GamePlat">Xuantrung1302/GamePlat</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuantrung1302](https://github.com/Xuantrung1302)
+- Live site: https://Xuantrung1302.github.io/GamePlat/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T05:56:16Z` / `2024-06-28T09:10:26Z`
+- Account created: `2024-06-09T03:43:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuantrung1302` / `ngxuantrung03@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuannn1120/Learning">Xuannn1120/Learning</a></strong> · probable photos 39 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/Learning/
+- Identity tier: **1**
+- Created / pushed: `2024-09-03T09:31:03Z` / `2024-09-03T09:32:18Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `78` / `39`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/cart-1.png`
+- `assets/images/cart-2.png`
+- `assets/images/cart-3.png`
+- `assets/images/course-1.png`
+- `assets/images/course-2.png`
+- `assets/images/course-3.png`
+- `assets/images/course-4.png`
+- `assets/images/course-5.png`
+- `assets/images/course-6.png`
+- `assets/images/course-7.png`
+- `assets/images/course-8.png`
+- `assets/images/course-detail-1.png`
+- `assets/images/course-detail-2.png`
+- `assets/images/course-sm-detail-1.png`
+- `assets/images/course-sm-detail-2.png`
+- `assets/images/deco/flower-1.png`
+- `assets/images/deco/flower-2.png`
+- `assets/images/deco/flower-3.png`
+- `assets/images/deco/flower-4.png`
+- `assets/images/deco/flower-5.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuannn1120/Vivire">Xuannn1120/Vivire</a></strong> · probable photos 61 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/Vivire/
+- Identity tier: **1**
+- Created / pushed: `2024-09-01T06:29:48Z` / `2024-09-01T07:59:10Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `69` / `61`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/about-1-sm.png`
+- `assets/images/about-1.png`
+- `assets/images/about-2-sm.png`
+- `assets/images/about-2.png`
+- `assets/images/articles-1-sm.png`
+- `assets/images/articles-1.png`
+- `assets/images/articles-2-sm.png`
+- `assets/images/articles-2.png`
+- `assets/images/bg-1.png`
+- `assets/images/bg-2-sm.png`
+- `assets/images/bg-2.png`
+- `assets/images/content-1-sm.png`
+- `assets/images/content-1.png`
+- `assets/images/content-2-sm.png`
+- `assets/images/content-2.png`
+- `assets/images/content-3-sm.png`
+- `assets/images/content-3.png`
+- `assets/images/content-4-sm.png`
+- `assets/images/content-4.png`
+- `assets/images/hots-1-sm.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuannn1120/w5-homework">Xuannn1120/w5-homework</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/w5-homework/
+- Identity tier: **1**
+- Created / pushed: `2024-08-25T07:11:33Z` / `2024-09-06T09:10:30Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `assets/images/andychen.jpeg`
+- `assets/images/emilywang.jpeg`
+- `assets/images/emir.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuannn1120/w4-homework">Xuannn1120/w4-homework</a></strong> · probable photos 59 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/w4-homework/
+- Identity tier: **1**
+- Created / pushed: `2024-08-22T14:46:56Z` / `2024-08-22T15:27:24Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `62` / `59`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/blog-1.png`
+- `assets/images/blog-2.png`
+- `assets/images/blog-3.png`
+- `assets/images/blog-4.png`
+- `assets/images/blog-5.png`
+- `assets/images/blogpage-1.png`
+- `assets/images/blogpage-2.png`
+- `assets/images/blogpage-3.png`
+- `assets/images/blogpage-4.png`
+- `assets/images/cat.jpg`
+- `assets/images/home-header-sm.png`
+- `assets/images/home-header.png`
+- `assets/images/home-sectioin2-4.png`
+- `assets/images/home-section2-1.png`
+- `assets/images/home-section2-2.png`
+- `assets/images/home-section2-3.png`
+- `assets/images/home-section3-1.png`
+- `assets/images/home-section3-2.png`
+- `assets/images/home-section3-3.png`
+- `assets/images/home-section4-1-sm.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuannn1120/w3-homework">Xuannn1120/w3-homework</a></strong> · probable photos 23 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/w3-homework/
+- Identity tier: **1**
+- Created / pushed: `2024-08-08T08:45:43Z` / `2024-08-08T14:56:02Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `24` / `23`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/home-header-sm.png`
+- `images/home-header.png`
+- `images/home-sectioin2-4.png`
+- `images/home-section2-1.png`
+- `images/home-section2-2.png`
+- `images/home-section2-3.png`
+- `images/home-section3-1.png`
+- `images/home-section3-2.png`
+- `images/home-section3-3.png`
+- `images/home-section4-1-sm.png`
+- `images/home-section4-1.png`
+- `images/home-section4-2-sm.png`
+- `images/home-section4-2.png`
+- `images/home-section5-1.png`
+- `images/home-section5-2.png`
+- `images/home-section5-3.png`
+- `images/home-section5-4.png`
+- `images/ic-social-fb.png`
+- `images/ic_social_ig.png`
+- `images/ic_social_line.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuannn1120/W2-homework">Xuannn1120/W2-homework</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/W2-homework/
+- Identity tier: **1**
+- Created / pushed: `2024-07-17T09:54:58Z` / `2024-07-17T13:07:45Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/Xuannn1120/text2">Xuannn1120/text2</a></strong> · probable photos 1 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/text2/
+- Identity tier: **1**
+- Created / pushed: `2024-07-15T14:23:11Z` / `2024-07-15T14:39:40Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/images/cat.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuannn1120/text">Xuannn1120/text</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuannn1120](https://github.com/Xuannn1120)
+- Live site: https://Xuannn1120.github.io/text/
+- Identity tier: **1**
+- Created / pushed: `2024-07-15T09:49:11Z` / `2024-07-15T10:14:53Z`
+- Account created: `2024-07-12T10:45:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Hedwig` / `bemore380505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/Xuandongclrs/Xuandongclrs.github.io">Xuandongclrs/Xuandongclrs.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuandongclrs](https://github.com/Xuandongclrs)
+- Live site: https://Xuandongclrs.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-06T07:42:26Z` / `2025-07-25T13:55:29Z`
+- Account created: `2024-08-06T07:36:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuandongclrss`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuandongclrss` / `m-11116232@moe-dl.edu.my`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/XuanMai124/STT41_22723711_HuynhNgocXuanMai">XuanMai124/STT41_22723711_HuynhNgocXuanMai</a></strong> · probable photos 112 · identity xuan</summary>
+
+- Owner: [XuanMai124](https://github.com/XuanMai124)
+- Live site: https://XuanMai124.github.io/STT41_22723711_HuynhNgocXuanMai/
+- Identity tier: **1**
+- Created / pushed: `2024-08-27T01:32:34Z` / `2024-11-15T14:04:07Z`
+- Account created: `2024-08-06T07:47:43Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanMai124` / `xmai55058@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `141` / `112`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bang ca nhan.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bang thun y te.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bcn2.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bcnd.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bcnd2.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/bcnt1.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/dienthoai.png`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/email.png`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/gac y te.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/gang tay y te.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/giohang.png`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/hop dung thuoc.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/mm.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/mm1.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/mu doi dau.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/nha.png`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/panh y te.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/pyt1.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/pyt2.jpg`
+- `41_22723711_HuynhNgocXuanMai_BaiTapLon/41_22723711_HuynhNgocXuanMai_BaiTapLon/img/pyt3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Vo-Xuan-Duong/Vo-Xuan-Duong.github.io">Vo-Xuan-Duong/Vo-Xuan-Duong.github.io</a></strong> · probable photos 5 · identity xuan</summary>
+
+- Owner: [Vo-Xuan-Duong](https://github.com/Vo-Xuan-Duong)
+- Live site: https://Vo-Xuan-Duong.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-15T06:18:07Z` / `2024-08-15T06:19:39Z`
+- Account created: `2024-07-26T02:09:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Võ Xuân Dương`
+- Commit identity hits: `xuan`
+- Latest commit author: `Võ Xuân Dương` / `xuanduong.261104@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `img/1.jpg`
+- `img/2.jpg`
+- `img/3.jpg`
+- `img/4.jpg`
+- `img/5.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/nguyenxuanthinh281204/KugasSpring12.github.io">nguyenxuanthinh281204/KugasSpring12.github.io</a></strong> · probable photos 207 · identity xuan</summary>
+
+- Owner: [nguyenxuanthinh281204](https://github.com/nguyenxuanthinh281204)
+- Live site: https://nguyenxuanthinh281204.github.io/KugasSpring12.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-03T14:25:54Z` / `2024-06-30T23:21:01Z`
+- Account created: `2024-06-01T11:53:31Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Thịnh`
+- Commit identity hits: `xuan`
+- Latest commit author: `KugasSpring12` / `ngxthinh271@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `207` / `207`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Modlue5_week2/images/Blue.png`
+- `Modlue5_week2/images/Green.png`
+- `Modlue5_week2/images/Indigo.jpeg`
+- `Modlue5_week2/images/Orange.png`
+- `Modlue5_week2/images/Pink.jpeg`
+- `Modlue5_week2/images/Purple.png`
+- `Modlue5_week2/images/Red.jpeg`
+- `Modlue5_week2/images/White.png`
+- `Modlue5_week2/images/Yellow.png`
+- `Module2_Css_week1/img/z5482272601731_ee255629c6bb0e4b1af2b2cc0ce2208e.jpg`
+- `Module2_Css_week1/img/z5482272604904_a96fccd0239e0e19c13a736de40b92eb.jpg`
+- `Module2_Css_week1/img/z5482272606085_1eea6899121ef8b08f9ac5aaac647138.jpg`
+- `Module2_Css_week1/img/z5482272610703_bfb025504bcc12055ffe8f5525a3dc87.jpg`
+- `Module2_Css_week1/img/z5482272611708_50d5a09535711639c80b0b2b5637a846.jpg`
+- `Module2_Css_week1/img/z5482272614247_edcac6483cdd9a45007e05b1f5d996b4.jpg`
+- `Module2_Css_week1/img/z5482272618131_10a44e34c6ef4c96e1063aac6dcda4cc.jpg`
+- `Module2_Css_week1/img/z5482272619833_5f4d85428fdcee8a25f2f8d0dbe00a16.jpg`
+- `Module2_Css_week1/img/z5482272622039_66da1a0a6db4198896196551be7754b2.jpg`
+- `Module2_Css_week1/img/z5482272623671_1050dcf3e574b8d996f9c5de8405c982.jpg`
+- `Module2_Css_week1/img/z5482272628276_7dd0c10bd78c311e80a04884a597c813.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Nguyen-Xuan-Thuan/zzzzz">Nguyen-Xuan-Thuan/zzzzz</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Nguyen-Xuan-Thuan](https://github.com/Nguyen-Xuan-Thuan)
+- Live site: https://Nguyen-Xuan-Thuan.github.io/zzzzz/
+- Identity tier: **1**
+- Created / pushed: `2024-07-15T04:48:40Z` / `2024-07-15T05:06:21Z`
+- Account created: `2024-07-09T22:21:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Thuận`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanthuan` / `thuan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Nguyen-Xuan-Thuan/tesst">Nguyen-Xuan-Thuan/tesst</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Nguyen-Xuan-Thuan](https://github.com/Nguyen-Xuan-Thuan)
+- Live site: https://Nguyen-Xuan-Thuan.github.io/tesst/
+- Identity tier: **1**
+- Created / pushed: `2024-07-11T18:14:27Z` / `2024-07-13T00:59:02Z`
+- Account created: `2024-07-09T22:21:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Thuận`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen-Xuan-Thuan` / `xuanthuanart@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Nguyen-Xuan-Thuan/test">Nguyen-Xuan-Thuan/test</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Nguyen-Xuan-Thuan](https://github.com/Nguyen-Xuan-Thuan)
+- Live site: https://Nguyen-Xuan-Thuan.github.io/test/
+- Identity tier: **1**
+- Created / pushed: `2024-07-10T15:37:29Z` / `2024-07-10T15:46:22Z`
+- Account created: `2024-07-09T22:21:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Thuận`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen-Xuan-Thuan` / `xuanthuanart@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Nguyen-Xuan-Thuan/Bai-kiem-tra">Nguyen-Xuan-Thuan/Bai-kiem-tra</a></strong> · probable photos 67 · identity xuan</summary>
+
+- Owner: [Nguyen-Xuan-Thuan](https://github.com/Nguyen-Xuan-Thuan)
+- Live site: https://Nguyen-Xuan-Thuan.github.io/Bai-kiem-tra/
+- Identity tier: **1**
+- Created / pushed: `2024-07-09T22:22:30Z` / `2024-07-09T23:03:46Z`
+- Account created: `2024-07-09T22:21:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Thuận`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen-Xuan-Thuan` / `xuanthuanart@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `85` / `67`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `BaiThucHanh_01/images/biet-thu.png`
+- `BaiThucHanh_01/images/can-ho.png`
+- `BaiThucHanh_01/images/gioi-thieu.jpg`
+- `BaiThucHanh_01/images/nha-may.jpg`
+- `BaiThucHanh_01/images/nha-pho.png`
+- `BaiThucHanh_01/images/showroom.jpg`
+- `BaiThucHanh_01/images/van-phong.png`
+- `BaiThucHanh_02/images/head-background.jpg`
+- `BaiThucHanh_02/images/image-1.jpg`
+- `BaiThucHanh_02/images/image-2.jpg`
+- `BaiThucHanh_02/images/image-3.jpg`
+- `BaiThucHanh_03/images/about-us.jpg`
+- `BaiThucHanh_03/images/about-us.png`
+- `BaiThucHanh_03/images/background.png`
+- `BaiThucHanh_03/images/guong-mat-tieu-bieu-01.jpg`
+- `BaiThucHanh_03/images/guong-mat-tieu-bieu-02.jpg`
+- `BaiThucHanh_03/images/image-01.jpg`
+- `BaiThucHanh_03/images/image-02.jpg`
+- `BaiThucHanh_03/images/image-03.jpg`
+- `BaiThucHanh_03/images/image-04.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanzhizheng/NoteBook">xuanzhizheng/NoteBook</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanzhizheng](https://github.com/xuanzhizheng)
+- Live site: https://xuanzhizheng.github.io/NoteBook/
+- Identity tier: **1**
+- Created / pushed: `2024-07-16T14:34:52Z` / `2025-01-21T04:55:29Z`
+- Account created: `2024-07-15T14:37:44Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Zhixuan Zheng`
+- Commit identity hits: `xuan`
+- Latest commit author: `xzz` / `xzz_xuanzhizheng@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuan418/mos_redesign">xuan418/mos_redesign</a></strong> · probable photos 54 · identity xuan</summary>
+
+- Owner: [xuan418](https://github.com/xuan418)
+- Live site: https://xuan418.github.io/mos_redesign/
+- Identity tier: **1**
+- Created / pushed: `2024-06-13T17:09:06Z` / `2024-08-09T11:06:43Z`
+- Account created: `2024-06-11T01:35:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan418` / `sherryl28520018@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `60` / `54`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/Serve1.jpg`
+- `img/Serve2.jpg`
+- `img/Serve3.jpg`
+- `img/android.png`
+- `img/android_pc.png`
+- `img/ios.png`
+- `img/ios_pc.png`
+- `img/location-mos.jpg`
+- `img/member-mos.jpg`
+- `img/newburger1.jpg`
+- `img/newburger2.jpg`
+- `img/newburger3.jpg`
+- `img/product1/20230419_164440_083.jpg`
+- `img/product1/20230629_171848_075.jpg`
+- `img/product1/20230908_100643_051.jpg`
+- `img/product1/20230908_100839_061.jpg`
+- `img/product1/20240422_103904_088.jpg`
+- `img/product1/20240422_103919_013.jpg`
+- `img/product2/20220308_090242_066.jpg`
+- `img/product2/20220308_090547_024.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuan418/tiu101_g0">xuan418/tiu101_g0</a></strong> · probable photos 14 · identity xuan</summary>
+
+- Owner: [xuan418](https://github.com/xuan418)
+- Live site: https://xuan418.github.io/tiu101_g0/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T03:01:19Z` / `2024-06-11T03:17:42Z`
+- Account created: `2024-06-11T01:35:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan418` / `sherryl28520018@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `img/Serve1.jpg`
+- `img/Serve2.jpg`
+- `img/Serve3.jpg`
+- `img/head_img/Burger.png`
+- `img/head_img/cart.png`
+- `img/head_img/findlove.png`
+- `img/head_img/handheart.png`
+- `img/head_img/location.png`
+- `img/head_img/member.png`
+- `img/location-mos.jpg`
+- `img/member-mos.jpg`
+- `img/newburger1.jpg`
+- `img/newburger2.jpg`
+- `img/newburger3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/XuanZhangjerry/zx.github.io">XuanZhangjerry/zx.github.io</a></strong> · probable photos 37 · identity xuan</summary>
+
+- Owner: [XuanZhangjerry](https://github.com/XuanZhangjerry)
+- Live site: https://XuanZhangjerry.github.io/zx.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T08:11:07Z` / `2024-08-16T08:17:38Z`
+- Account created: `2024-07-02T14:28:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Jerry` / `1245294057@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `42` / `37`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `posts/blog/10_pic/index.html`
+- `posts/blog/11_her_shop/index.html`
+- `posts/blog/12_music/index.html`
+- `posts/blog/13_kyoto/index.html`
+- `posts/blog/1_writing_prac_1/index.html`
+- `posts/blog/3_cnfont_test/index.html`
+- `posts/blog/4_principle/index.html`
+- `posts/blog/5_screen/index.html`
+- `posts/blog/6_amusing/index.html`
+- `posts/blog/7_economic/index.html`
+- `posts/blog/8_mentally-strong/index.html`
+- `posts/blog/9_cn_web/index.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/eddiewoo.jpg`
+- `img/geowizard.jpg`
+- `img/gulou.jpg`
+- `img/mofashi.jpg`
+- `img/thomasflight.jpg`
+- `posts/blog/10_pic/Untitled_Artwork.jpg`
+- `posts/blog/11_her_shop/1.jpg`
+- `posts/blog/11_her_shop/2.jpg`
+- `posts/blog/11_her_shop/3.jpg`
+- `posts/blog/11_her_shop/4.jpg`
+- `posts/blog/11_her_shop/5.jpg`
+- `posts/blog/11_her_shop/6.jpg`
+- `posts/blog/11_her_shop/7.jpg`
+- `posts/blog/12_music/haitun.jpg`
+- `posts/blog/13_kyoto/1.jpeg`
+- `posts/blog/13_kyoto/10.jpg`
+- `posts/blog/13_kyoto/11.jpg`
+- `posts/blog/13_kyoto/12.jpg`
+- `posts/blog/13_kyoto/13.jpg`
+- `posts/blog/13_kyoto/14.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/XuanZhangjerry/XuanZhangjerry.github.io">XuanZhangjerry/XuanZhangjerry.github.io</a></strong> · probable photos 16 · identity xuan</summary>
+
+- Owner: [XuanZhangjerry](https://github.com/XuanZhangjerry)
+- Live site: https://caihanlin.com/
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T05:49:30Z` / `2024-08-21T14:55:17Z`
+- Account created: `2024-07-02T14:28:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Jerry` / `1245294057@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `24` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `images/best-tech.JPG`
+- `images/caihanlin.jpg`
+- `images/cat.JPG`
+- `images/fav.png`
+- `images/hanlin.jpg`
+- `images/my.jpg`
+- `images/prelection1.JPG`
+- `images/speech1.JPG`
+- `images/speech3.JPG`
+- `images/surfing1.JPG`
+- `images/swimming.JPG`
+- `images/swimming2.JPG`
+- `images/teams/teams.jpg`
+- `images/teams/teams1.jpg`
+- `images/teams/teams2.jpg`
+- `images/teams/teams4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuan20020320/Xuan20020320.GitHub-io">Xuan20020320/Xuan20020320.GitHub-io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan20020320](https://github.com/Xuan20020320)
+- Live site: https://Xuan20020320.github.io/Xuan20020320.GitHub-io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-04T08:09:18Z` / `2024-08-04T08:11:31Z`
+- Account created: `2024-08-04T06:32:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan20020320` / `1340346813@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuan20020320/my-webpage">Xuan20020320/my-webpage</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan20020320](https://github.com/Xuan20020320)
+- Live site: https://Xuan20020320.github.io/my-webpage/
+- Identity tier: **1**
+- Created / pushed: `2024-08-04T06:38:34Z` / `2024-08-04T09:07:06Z`
+- Account created: `2024-08-04T06:32:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan20020320` / `1340346813@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Xuanduong99/Xuanduong99.github.io">Xuanduong99/Xuanduong99.github.io</a></strong> · probable photos 7 · identity xuan</summary>
+
+- Owner: [Xuanduong99](https://github.com/Xuanduong99)
+- Live site: https://Xuanduong99.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-07-30T15:32:25Z` / `2024-07-30T15:50:59Z`
+- Account created: `2024-06-27T15:43:23Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanduong99` / `ventclap99@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `images/Cert_DBI.png`
+- `images/Cert_PRF.png`
+- `images/Cert_WEB.png`
+- `images/IMG_5977.jpeg`
+- `images/project_1.png`
+- `images/project_2.png`
+- `images/project_3.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuanduong99/lab13">Xuanduong99/lab13</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuanduong99](https://github.com/Xuanduong99)
+- Live site: https://Xuanduong99.github.io/lab13/
+- Identity tier: **1**
+- Created / pushed: `2024-06-27T16:26:15Z` / `2024-06-28T00:44:57Z`
+- Account created: `2024-06-27T15:43:23Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanduong99` / `ventclap99@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 19 points — <a href="https://github.com/xuanY-cq/xuany-cq.github.io">xuanY-cq/xuany-cq.github.io</a></strong> · probable photos 5 · identity xuan</summary>
+
+- Owner: [xuanY-cq](https://github.com/xuanY-cq)
+- Live site: https://xuanY-cq.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-07-09T08:59:04Z` / `2024-07-09T09:37:26Z`
+- Account created: `2024-07-09T06:18:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Chen Haojie`
+- Commit identity hits: `xuan`
+- Latest commit author: `unknown` / `2570081320@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (6)</summary>
+
+- `content/post/_index.md`
+- `content/post/data-visualization/index.md`
+- `content/post/get-started/index.md`
+- `content/post/project-management/index.md`
+- `content/post/second-brain/index.md`
+- `content/post/teach-courses/index.md`
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `content/post/data-visualization/featured.jpg`
+- `content/post/get-started/featured.jpg`
+- `content/post/project-management/featured.jpg`
+- `content/post/second-brain/featured.jpg`
+- `content/post/teach-courses/featured.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuann633/xuan2">xuann633/xuan2</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuann633](https://github.com/xuann633)
+- Live site: https://xuann633.github.io/xuan2/
+- Identity tier: **1**
+- Created / pushed: `2024-07-11T07:55:17Z` / `2024-07-11T07:56:02Z`
+- Account created: `2024-07-11T07:46:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuann633` / `15083440175@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuann633/xuan1">xuann633/xuan1</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuann633](https://github.com/xuann633)
+- Live site: https://xuann633.github.io/xuan1/
+- Identity tier: **1**
+- Created / pushed: `2024-07-11T07:48:30Z` / `2024-07-11T08:02:42Z`
+- Account created: `2024-07-11T07:46:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuann633` / `15083440175@163.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuanptt/Xuancv">Xuanptt/Xuancv</a></strong> · probable photos 14 · identity xuan</summary>
+
+- Owner: [Xuanptt](https://github.com/Xuanptt)
+- Live site: https://Xuanptt.github.io/Xuancv/
+- Identity tier: **1**
+- Created / pushed: `2024-08-14T05:30:40Z` / `2024-08-17T19:15:50Z`
+- Account created: `2024-06-24T15:14:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanptt` / `xuanpttfx36473@funix.edu.vn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `20` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `WEB101x_Assignment 03_Submitted/images/Cert_DBI.png`
+- `WEB101x_Assignment 03_Submitted/images/Cert_PRF.png`
+- `WEB101x_Assignment 03_Submitted/images/Cert_WEB.png`
+- `WEB101x_Assignment 03_Submitted/images/Xuan5.jpg`
+- `WEB101x_Assignment 03_Submitted/images/project_1.png`
+- `WEB101x_Assignment 03_Submitted/images/project_2.png`
+- `WEB101x_Assignment 03_Submitted/images/project_3.png`
+- `images/Cert_DBI.png`
+- `images/Cert_PRF.png`
+- `images/Cert_WEB.png`
+- `images/Xuan5.jpg`
+- `images/project_1.png`
+- `images/project_2.png`
+- `images/project_3.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuanptt/Lab13">Xuanptt/Lab13</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [Xuanptt](https://github.com/Xuanptt)
+- Live site: https://Xuanptt.github.io/Lab13/
+- Identity tier: **1**
+- Created / pushed: `2024-06-24T15:18:02Z` / `2024-06-24T15:41:27Z`
+- Account created: `2024-06-24T15:14:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanptt` / `xuanpttfx36473@funix.edu.vn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `Images/francesco-ungaro-E1dzKfZyFBA-unsplash.jpg`
+- `Images/marek-piwnicki-MOpyRa7Msv8-unsplash (1).jpg`
+- `Images/oskar-kadaksoo-6QErRntzkyE-unsplash.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanquangtr/xuanquangtr.github.io">xuanquangtr/xuanquangtr.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanquangtr](https://github.com/xuanquangtr)
+- Live site: https://chirpy.cotes.page
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T09:25:04Z` / `2024-08-09T11:08:42Z`
+- Account created: `2024-08-08T16:12:31Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanquangtr` / `khoatdk007@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `_posts/2019-08-08-text-and-typography.md`
+- `_posts/2019-08-08-write-a-new-post.md`
+- `_posts/2019-08-09-getting-started.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/IamXuanToan/ismartPhp">IamXuanToan/ismartPhp</a></strong> · probable photos 396 · identity xuan</summary>
+
+- Owner: [IamXuanToan](https://github.com/IamXuanToan)
+- Live site: https://IamXuanToan.github.io/ismartPhp/
+- Identity tier: **1**
+- Created / pushed: `2024-09-17T01:07:52Z` / `2024-09-17T01:11:27Z`
+- Account created: `2024-06-03T15:50:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Toàn`
+- Commit identity hits: `xuan`
+- Latest commit author: `Nguyen Xuan Toan` / `nguyenxuantoan2004@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1459` / `396`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `admin/libraries/ckeditor/plugins/iframe/images/placeholder.png`
+- `admin/libraries/ckeditor/plugins/image/images/noimage.png`
+- `admin/libraries/ckeditor/plugins/link/images/anchor.png`
+- `admin/libraries/ckeditor/plugins/link/images/hidpi/anchor.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_address.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_blockquote.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_div.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h1.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h2.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h3.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h4.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h5.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_h6.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_p.png`
+- `admin/libraries/ckeditor/plugins/showblocks/images/block_pre.png`
+- `admin/libraries/ckeditor/plugins/smiley/images/angel_smile.png`
+- `admin/libraries/ckeditor/plugins/smiley/images/angry_smile.png`
+- `admin/libraries/ckeditor/plugins/smiley/images/broken_heart.png`
+- `admin/libraries/ckeditor/plugins/smiley/images/confused_smile.png`
+- `admin/libraries/ckeditor/plugins/smiley/images/cry_smile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/MaiXuanCuong202/MaiXuanCuong202.github.io">MaiXuanCuong202/MaiXuanCuong202.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [MaiXuanCuong202](https://github.com/MaiXuanCuong202)
+- Live site: https://MaiXuanCuong202.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-04T09:55:04Z` / `2025-12-02T08:15:26Z`
+- Account created: `2024-08-05T14:21:47Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Mai Xuân Cường`
+- Commit identity hits: `xuan`
+- Latest commit author: `Mai Xuân Cường` / `maixuancuong296@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/XUANAN262002/duan1">XUANAN262002/duan1</a></strong> · probable photos 3 · identity xuan</summary>
+
+- Owner: [XUANAN262002](https://github.com/XUANAN262002)
+- Live site: https://XUANAN262002.github.io/duan1/
+- Identity tier: **1**
+- Created / pushed: `2024-06-06T15:37:41Z` / `2024-06-06T15:43:28Z`
+- Account created: `2024-06-06T15:33:43Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XUANAN262002` / `anphamthpt@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `bai13/img/baitap.jpg`
+- `bai14/2.lythuyet-bai14-lamviecpath/project1/img/girl.jpg`
+- `bai15/4.multi-page-Website/assets/images/tuhoc.cc.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuananh2016/gream">xuananh2016/gream</a></strong> · probable photos 46 · identity xuan</summary>
+
+- Owner: [xuananh2016](https://github.com/xuananh2016)
+- Live site: https://xuananh2016.github.io/gream/
+- Identity tier: **1**
+- Created / pushed: `2024-06-03T12:51:20Z` / `2024-06-03T13:22:11Z`
+- Account created: `2024-06-03T08:07:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuananh2016` / `anh.nguyenxuan2016@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `48` / `46`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/CaptainAmerica.png`
+- `images/Capture.PNG`
+- `images/Capture_2.PNG`
+- `images/Capture_3.PNG`
+- `images/Capture_4.PNG`
+- `images/Capture_5.PNG`
+- `images/Capture_6.PNG`
+- `images/anh1.jpg`
+- `images/anh10.jpg`
+- `images/anh2.jpg`
+- `images/anh3.jpg`
+- `images/anh4-right.jpg`
+- `images/anh4.jpg`
+- `images/anh5.jpg`
+- `images/anh6.jpg`
+- `images/anh7.jpg`
+- `images/anh8.jpg`
+- `images/anh9.jpg`
+- `images/ban-si.png`
+- `images/bg_image1.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanyen0801/nancy">xuanyen0801/nancy</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanyen0801](https://github.com/xuanyen0801)
+- Live site: https://xuanyen0801.github.io/nancy/
+- Identity tier: **1**
+- Created / pushed: `2024-07-28T07:16:32Z` / `2024-07-28T07:34:49Z`
+- Account created: `2024-07-28T06:23:48Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanyen0801` / `nguyenxuanyen08012001@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/guoxuanshome/guoxuanshome.github.io">guoxuanshome/guoxuanshome.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [guoxuanshome](https://github.com/guoxuanshome)
+- Live site: https://guoxuanshome.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-06T14:36:25Z` / `2026-08-21T06:30:13Z`
+- Account created: `2024-08-06T14:30:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Xuan Guo`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan Guo` / `guoxuanshome@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/PeXuanMaii/personal_portfolio">PeXuanMaii/personal_portfolio</a></strong> · probable photos 16 · identity xuan</summary>
+
+- Owner: [PeXuanMaii](https://github.com/PeXuanMaii)
+- Live site: https://PeXuanMaii.github.io/personal_portfolio/
+- Identity tier: **1**
+- Created / pushed: `2024-07-22T02:18:57Z` / `2024-07-30T00:27:30Z`
+- Account created: `2024-07-21T02:09:23Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Bui Xuan Hieu`
+- Commit identity hits: `xuan`
+- Latest commit author: `Pe Xuan mai` / `bxhieu03092001@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `30` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `assets/images/blog-1.jpg`
+- `assets/images/blog-2.jpg`
+- `assets/images/blog-3.jpg`
+- `assets/images/blog-4.jpg`
+- `assets/images/blog-5.jpg`
+- `assets/images/blog-6.jpg`
+- `assets/images/project-1.jpg`
+- `assets/images/project-2.png`
+- `assets/images/project-3.jpg`
+- `assets/images/project-4.png`
+- `assets/images/project-5.png`
+- `assets/images/project-6.png`
+- `assets/images/project-7.png`
+- `assets/images/project-8.jpg`
+- `assets/images/project-9.png`
+- `assets/images/web_portfolio.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JIA-XUAN-0729/final-assignment">JIA-XUAN-0729/final-assignment</a></strong> · probable photos 27 · identity xuan</summary>
+
+- Owner: [JIA-XUAN-0729](https://github.com/JIA-XUAN-0729)
+- Live site: https://JIA-XUAN-0729.github.io/final-assignment/
+- Identity tier: **1**
+- Created / pushed: `2024-06-16T23:40:35Z` / `2024-06-16T23:44:46Z`
+- Account created: `2024-06-16T23:33:51Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `JIA-XUAN-4b1k0045`
+- Commit identity hits: `xuan`
+- Latest commit author: `JIA-XUAN-4b1k0045` / `4b1k0045@stust.edu.tw`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `27`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Web page/images/20240512_141547.jpg`
+- `Web page/images/20240512_184950.jpg`
+- `Web page/images/20240601_135440.jpg`
+- `Web page/images/20240601_135547.jpg`
+- `Web page/images/20240601_205727.jpg`
+- `Web page/images/20240606_184638.jpg`
+- `Web page/images/Live 2d  立繪.jpg`
+- `Web page/images/PNG_0001.png`
+- `Web page/images/「公路之旅 .png`
+- `Web page/images/克菲爾的守護，照亮健康路 .png`
+- `Web page/images/多樂一甲 4B1K0045 黃佳軒 小紅帽.jpeg`
+- `Web page/images/多樂一甲 4B1K0045 黃佳軒 糖球.jpg`
+- `Web page/images/多樂一甲_4B1K0045_黃佳軒_汗珠.jpg`
+- `Web page/images/多樂一甲_4B1K0045_黃佳軒_海馬執事.jpg`
+- `Web page/images/多樂一甲_4B1K0045_黃佳軒_玫瑰石與珍珠.jpg`
+- `Web page/images/多樂一甲_4B1K0045_黃佳軒_翡翠石.jpg`
+- `Web page/images/多樂一甲_4B1K0045_黃佳軒_藤蔓怪.jpg`
+- `Web page/images/房屋.png`
+- `Web page/images/房間1.png`
+- `Web page/images/房間2 45度.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/eeexuanlyx/catch-the-fishes">eeexuanlyx/catch-the-fishes</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [eeexuanlyx](https://github.com/eeexuanlyx)
+- Live site: https://eeexuanlyx.github.io/catch-the-fishes/
+- Identity tier: **1**
+- Created / pushed: `2024-10-04T07:06:45Z` / `2024-10-16T05:19:04Z`
+- Account created: `2024-08-13T15:51:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Lim Yi Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `eeexuanlyx` / `eeexuanlyx@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/XuanMai2402/25_22684401_Tran-Xuan-Mai">XuanMai2402/25_22684401_Tran-Xuan-Mai</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [XuanMai2402](https://github.com/XuanMai2402)
+- Live site: https://XuanMai2402.github.io/25_22684401_Tran-Xuan-Mai/
+- Identity tier: **1**
+- Created / pushed: `2024-08-23T13:21:30Z` / `2024-08-30T13:45:08Z`
+- Account created: `2024-08-23T08:17:51Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanMai2402` / `xuanmai240204@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 2 · 19 points — <a href="https://github.com/XuanyuLiu929/hw3_2024">XuanyuLiu929/hw3_2024</a></strong> · probable photos 5 · identity liu, xuan</summary>
+
+- Owner: [XuanyuLiu929](https://github.com/XuanyuLiu929)
+- Live site: https://XuanyuLiu929.github.io/hw3_2024/
+- Identity tier: **2**
+- Created / pushed: `2024-09-28T18:05:58Z` / `2024-09-29T18:12:39Z`
+- Account created: `2024-08-29T23:12:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu, xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `XuanyuLiu929` / `xuanyul@umich.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `images/about.jpg`
+- `images/clients.jpg`
+- `images/contact.jpg`
+- `images/header.jpg`
+- `images/method.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 2 · 17 points — <a href="https://github.com/XuanyuLiu929/hw2-f24">XuanyuLiu929/hw2-f24</a></strong> · probable photos 1 · identity liu, xuan</summary>
+
+- Owner: [XuanyuLiu929](https://github.com/XuanyuLiu929)
+- Live site: https://XuanyuLiu929.github.io/hw2-f24/
+- Identity tier: **2**
+- Created / pushed: `2024-09-14T21:12:13Z` / `2024-09-15T02:10:59Z`
+- Account created: `2024-08-29T23:12:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu, xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `XuanyuLiu929` / `xuanyul@umich.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/uno-cards.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 2 · 19 points — <a href="https://github.com/XuanyuLiu929/client_project_html_f24">XuanyuLiu929/client_project_html_f24</a></strong> · probable photos 13 · identity liu, xuan</summary>
+
+- Owner: [XuanyuLiu929](https://github.com/XuanyuLiu929)
+- Live site: https://XuanyuLiu929.github.io/client_project_html_f24/
+- Identity tier: **2**
+- Created / pushed: `2024-09-05T23:11:15Z` / `2024-11-11T02:06:57Z`
+- Account created: `2024-08-29T23:12:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu, xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `XuanyuLiu929` / `xuanyul@umich.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `images/Barbour.jpg`
+- `images/Food.jpg`
+- `images/Household.jpg`
+- `images/IPC.jpg`
+- `images/Kitchen.jpg`
+- `images/MCOMMONS-CampusFarmStandOpening-01.jpg`
+- `images/MCOMMONS-Observatory_EXT-2.jpg`
+- `images/Support.jpg`
+- `images/UHS.jpg`
+- `images/UMSI_CampusFall_UMSIBackpack_02.jpg`
+- `images/UMSI_MHIClassroom_02202023_08.jpg`
+- `images/UMSI_MHIClassroom_02202023_16.jpg`
+- `images/UMSI_signature_vertical_informal_solidblue.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 2 · 19 points — <a href="https://github.com/XuanyuLiu929/hw1-f24">XuanyuLiu929/hw1-f24</a></strong> · probable photos 5 · identity liu, xuan</summary>
+
+- Owner: [XuanyuLiu929](https://github.com/XuanyuLiu929)
+- Live site: https://XuanyuLiu929.github.io/hw1-f24/
+- Identity tier: **2**
+- Created / pushed: `2024-09-01T02:54:06Z` / `2024-09-01T02:55:49Z`
+- Account created: `2024-08-29T23:12:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu, xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `XuanyuLiu929` / `xuanyul@umich.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `images/badlands.jpg`
+- `images/falling.jpg`
+- `images/jewel_cave.JPG`
+- `images/rushmore.jpg`
+- `images/wisconsin_dells.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 2 · 15 points — <a href="https://github.com/XuanyuLiu929/discussionwk1">XuanyuLiu929/discussionwk1</a></strong> · probable photos 0 · identity liu, xuan</summary>
+
+- Owner: [XuanyuLiu929](https://github.com/XuanyuLiu929)
+- Live site: https://XuanyuLiu929.github.io/discussionwk1/
+- Identity tier: **2**
+- Created / pushed: `2024-08-29T23:14:16Z` / `2024-08-29T23:18:24Z`
+- Account created: `2024-08-29T23:12:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu, xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu, xuan`
+- Latest commit author: `XuanyuLiu929` / `xuanyul@umich.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuanquy108/stt61_22663991_nguyenthixuanquy_tuan5">Xuanquy108/stt61_22663991_nguyenthixuanquy_tuan5</a></strong> · probable photos 77 · identity xuan</summary>
+
+- Owner: [Xuanquy108](https://github.com/Xuanquy108)
+- Live site: https://Xuanquy108.github.io/stt61_22663991_nguyenthixuanquy_tuan5/
+- Identity tier: **1**
+- Created / pushed: `2024-10-12T15:31:28Z` / `2024-11-16T13:15:11Z`
+- Account created: `2024-08-13T07:24:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanquy108` / `quynguyenthixuan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `80` / `77`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Stt61_22663991_nguyenthixuanquy/images/2.png`
+- `Stt61_22663991_nguyenthixuanquy/images/3.png`
+- `Stt61_22663991_nguyenthixuanquy/images/4.png`
+- `Stt61_22663991_nguyenthixuanquy/images/as1.png`
+- `Stt61_22663991_nguyenthixuanquy/images/as2.png`
+- `Stt61_22663991_nguyenthixuanquy/images/as3.png`
+- `Stt61_22663991_nguyenthixuanquy/images/calokid/1.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/calokid/2.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/calokid/3.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/calokid/4.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colos/1.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colos/2.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colos/3.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colos/4.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colosbaby/1.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colosbaby/2.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colosbaby/3.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/colosbaby/4.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/dg2/1.jpg`
+- `Stt61_22663991_nguyenthixuanquy/images/dg2/2.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/Xuanquy108/stt61_22663991_nguyenthixuanquy_tuan2">Xuanquy108/stt61_22663991_nguyenthixuanquy_tuan2</a></strong> · probable photos 13 · identity xuan</summary>
+
+- Owner: [Xuanquy108](https://github.com/Xuanquy108)
+- Live site: https://Xuanquy108.github.io/stt61_22663991_nguyenthixuanquy_tuan2/
+- Identity tier: **1**
+- Created / pushed: `2024-09-20T10:51:09Z` / `2024-09-20T11:03:47Z`
+- Account created: `2024-08-13T07:24:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuanquy108` / `quynguyenthixuan@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `IMG/Bai1/meeting.png`
+- `IMG/Bai2/background.png`
+- `IMG/Bai2/teriyaki.jpg`
+- `IMG/Bai3/Siggie.jpg`
+- `IMG/Bai3/background.jpg`
+- `IMG/Bai3/photo1.jpg`
+- `IMG/Bai3/photo2.jpg`
+- `IMG/Bai3/photo3.jpg`
+- `IMG/Bai3/photo4.jpg`
+- `IMG/Bai3/photo5.jpg`
+- `IMG/Bai4/back.jpg`
+- `IMG/Bai4/sample.jpg`
+- `IMG/Bai4/scraps.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuanthai-work/xuanthai-work.github.io">xuanthai-work/xuanthai-work.github.io</a></strong> · probable photos 25 · identity xuan</summary>
+
+- Owner: [xuanthai-work](https://github.com/xuanthai-work)
+- Live site: https://xuanthai-work.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-10-09T15:49:14Z` / `2024-10-14T18:45:40Z`
+- Account created: `2024-10-09T08:58:34Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanthai-work` / `xuanthai.bxt@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `30` / `25`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/assets/images/%C4%91%E1%BB%93%20H%C3%A0n.jpg`
+- `assets/assets/images/%C4%91%E1%BB%93%20Th%C3%A1i.jpg`
+- `assets/assets/images/%C4%91%E1%BB%93%20n%C6%B0%E1%BB%9Bng.jpeg`
+- `assets/assets/images/b%C3%A1nh%20%C4%91%C3%BAc.jpg`
+- `assets/assets/images/b%C3%A1nh%20cu%E1%BB%91n.jpg`
+- `assets/assets/images/b%C3%A1nh%20m%C3%AC.jpg`
+- `assets/assets/images/b%C3%BAn%20%C4%91%E1%BA%ADu.jpg`
+- `assets/assets/images/b%C3%BAn%20b%C3%B2%20hu%E1%BA%BF.jpg`
+- `assets/assets/images/b%C3%BAn%20c%C3%A1%20ch%E1%BA%A5m.jpg`
+- `assets/assets/images/b%C3%BAn%20ch%E1%BA%A3.jpg`
+- `assets/assets/images/b%C3%BAn%20ngan.jpg`
+- `assets/assets/images/b%C3%BAn%20ri%C3%AAu.jpeg`
+- `assets/assets/images/b%C3%BAn%20thang.jpg`
+- `assets/assets/images/bgintro.jpg`
+- `assets/assets/images/buffet-1.jpg`
+- `assets/assets/images/bunsuon.jpg`
+- `assets/assets/images/c%C6%A1m.jpg`
+- `assets/assets/images/ch%C3%A1o%20s%C6%B0%E1%BB%9Dn.jpg`
+- `assets/assets/images/g%C3%A0%20r%C3%A1n.jpg`
+- `assets/assets/images/hamburger.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanbach24/BanDienThoai">xuanbach24/BanDienThoai</a></strong> · probable photos 96 · identity xuan</summary>
+
+- Owner: [xuanbach24](https://github.com/xuanbach24)
+- Live site: https://xuanbach24.github.io/BanDienThoai/
+- Identity tier: **1**
+- Created / pushed: `2024-09-14T09:11:51Z` / `2024-09-15T05:59:34Z`
+- Account created: `2024-08-21T01:06:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Phạm Xuân Bách`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanbach24` / `bojacute24@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `101` / `96`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Chi tiết sản phẩm/image/11-den.jpg`
+- `Chi tiết sản phẩm/image/11-trang.jpg`
+- `Chi tiết sản phẩm/image/11-vang.png`
+- `Chi tiết sản phẩm/image/11.jpg`
+- `Chi tiết sản phẩm/image/11pm-den.jpg`
+- `Chi tiết sản phẩm/image/11pm-trang.jpg`
+- `Chi tiết sản phẩm/image/11pm-vang.jpg`
+- `Chi tiết sản phẩm/image/12-tim.jpg`
+- `Chi tiết sản phẩm/image/12-trang.jpg`
+- `Chi tiết sản phẩm/image/12-xanh.jpg`
+- `Chi tiết sản phẩm/image/12.jpg`
+- `Chi tiết sản phẩm/image/12pm-den.jpg`
+- `Chi tiết sản phẩm/image/12pm-vang.jpg`
+- `Chi tiết sản phẩm/image/12pm-xanh.jpg`
+- `Chi tiết sản phẩm/image/13-den.webp`
+- `Chi tiết sản phẩm/image/13-hong.webp`
+- `Chi tiết sản phẩm/image/13-trang.webp`
+- `Chi tiết sản phẩm/image/13.jpg`
+- `Chi tiết sản phẩm/image/13pm-trang.webp`
+- `Chi tiết sản phẩm/image/13pm-vang.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuan0230/Harmony_Wheel">Xuan0230/Harmony_Wheel</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan0230](https://github.com/Xuan0230)
+- Live site: https://Xuan0230.github.io/Harmony_Wheel/
+- Identity tier: **1**
+- Created / pushed: `2024-09-26T13:21:15Z` / `2024-09-26T13:21:34Z`
+- Account created: `2024-09-11T09:00:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan0230` / `goat1051629@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuan0230/myIP">Xuan0230/myIP</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuan0230](https://github.com/Xuan0230)
+- Live site: https://Xuan0230.github.io/myIP/
+- Identity tier: **1**
+- Created / pushed: `2024-09-22T11:17:31Z` / `2024-09-22T11:23:01Z`
+- Account created: `2024-09-11T09:00:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `Xuan0230` / `goat1051629@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuanyu-iris/newproject">xuanyu-iris/newproject</a></strong> · probable photos 21 · identity xuan</summary>
+
+- Owner: [xuanyu-iris](https://github.com/xuanyu-iris)
+- Live site: https://xuanyu-iris.github.io/newproject/
+- Identity tier: **1**
+- Created / pushed: `2024-10-01T05:32:49Z` / `2024-10-01T08:29:03Z`
+- Account created: `2024-09-20T06:06:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanyu-iris` / `xuanyu0019@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `21`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/ad01.jpeg`
+- `img/ad02.jpeg`
+- `img/ad03.jpeg`
+- `img/background_1.jpeg`
+- `img/beauty_1.jpeg`
+- `img/beauty_2.jpeg`
+- `img/beauty_3.jpeg`
+- `img/beauty_4.jpeg`
+- `img/best01.jpeg`
+- `img/best02.jpeg`
+- `img/best03.jpeg`
+- `img/best04.jpeg`
+- `img/coupan_1.jpeg`
+- `img/coupan_2.jpeg`
+- `img/coupan_3.jpeg`
+- `img/download app.jpeg`
+- `img/download.jpeg`
+- `img/food_1.jpeg`
+- `img/food_2.jpeg`
+- `img/food_3.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanyu-iris/FunNow-Redesign">xuanyu-iris/FunNow-Redesign</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanyu-iris](https://github.com/xuanyu-iris)
+- Live site: https://xuanyu-iris.github.io/FunNow-Redesign/
+- Identity tier: **1**
+- Created / pushed: `2024-09-27T04:48:21Z` / `2024-09-27T07:29:14Z`
+- Account created: `2024-09-20T06:06:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanyu-iris` / `xuanyu0019@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanyu-iris/tibame_git">xuanyu-iris/tibame_git</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanyu-iris](https://github.com/xuanyu-iris)
+- Live site: https://xuanyu-iris.github.io/tibame_git/
+- Identity tier: **1**
+- Created / pushed: `2024-09-20T07:44:23Z` / `2024-09-20T07:47:08Z`
+- Account created: `2024-09-20T06:06:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanyu-iris` / `xuanyu0019@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuannguyen223/Tailwind_AstroshipPro">xuannguyen223/Tailwind_AstroshipPro</a></strong> · probable photos 41 · identity xuan</summary>
+
+- Owner: [xuannguyen223](https://github.com/xuannguyen223)
+- Live site: https://xuannguyen223.github.io/Tailwind_AstroshipPro/
+- Identity tier: **1**
+- Created / pushed: `2024-09-29T14:59:59Z` / `2024-10-10T09:28:33Z`
+- Account created: `2024-09-20T04:40:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuannguyen223` / `nguyennhuxuan22031997@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `43` / `41`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `src/img/Insights.png`
+- `src/img/astroship01.png`
+- `src/img/astroship02.png`
+- `src/img/astroship03.png`
+- `src/img/astroship04.png`
+- `src/img/astroship05.png`
+- `src/img/astroship06.png`
+- `src/img/astroship07.png`
+- `src/img/astroship08.png`
+- `src/img/astroship09.png`
+- `src/img/astroship10.png`
+- `src/img/astroship__about1.jpg`
+- `src/img/astroship__about2.png`
+- `src/img/astroship__about3.png`
+- `src/img/astroship__about4.png`
+- `src/img/astroship__about5.png`
+- `src/img/blog__1.png`
+- `src/img/blog__10.png`
+- `src/img/blog__11.png`
+- `src/img/blog__12.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuanyu0419/xuanyu0419.github.io">xuanyu0419/xuanyu0419.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanyu0419](https://github.com/xuanyu0419)
+- Live site: https://xuanyu0419.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-10-08T07:31:10Z` / `2024-10-08T08:23:30Z`
+- Account created: `2024-09-10T06:10:21Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `陳宣妤`
+- Commit identity hits: `xuan`
+- Latest commit author: `c112156120` / `c112156120@nkust.edu.tw`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuancheng-Alan/FIT3179-Visualisation2">Xuancheng-Alan/FIT3179-Visualisation2</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuancheng-Alan](https://github.com/Xuancheng-Alan)
+- Live site: https://Xuancheng-Alan.github.io/FIT3179-Visualisation2/
+- Identity tier: **1**
+- Created / pushed: `2024-10-15T12:44:18Z` / `2024-10-15T12:51:49Z`
+- Account created: `2024-10-06T06:37:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Alan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Alan` / `index.qiao@icloud.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuancheng-Alan/FIT3179A2">Xuancheng-Alan/FIT3179A2</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuancheng-Alan](https://github.com/Xuancheng-Alan)
+- Live site: https://Xuancheng-Alan.github.io/FIT3179A2/
+- Identity tier: **1**
+- Created / pushed: `2024-10-09T21:23:10Z` / `2024-10-09T21:23:38Z`
+- Account created: `2024-10-06T06:37:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Alan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Alan` / `index.qiao@icloud.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Xuancheng-Alan/FIT3179">Xuancheng-Alan/FIT3179</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [Xuancheng-Alan](https://github.com/Xuancheng-Alan)
+- Live site: https://Xuancheng-Alan.github.io/FIT3179/
+- Identity tier: **1**
+- Created / pushed: `2024-10-06T06:38:55Z` / `2024-10-15T08:50:46Z`
+- Account created: `2024-10-06T06:37:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Alan`
+- Commit identity hits: `xuan`
+- Latest commit author: `Alan` / `index.qiao@icloud.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuantien0323/xuantien0323.github.io">xuantien0323/xuantien0323.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuantien0323](https://github.com/xuantien0323)
+- Live site: https://xuantien0323.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-20T04:02:10Z` / `2024-12-16T07:28:30Z`
+- Account created: `2024-09-20T03:39:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuantien0323` / `tienktnd2003@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/xuantung-90/Baomoi">xuantung-90/Baomoi</a></strong> · probable photos 43 · identity xuan</summary>
+
+- Owner: [xuantung-90](https://github.com/xuantung-90)
+- Live site: https://xuantung-90.github.io/Baomoi/
+- Identity tier: **1**
+- Created / pushed: `2024-10-02T14:35:37Z` / `2024-10-02T14:55:03Z`
+- Account created: `2024-10-02T14:21:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuantung-90` / `xuantungg1802@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `43` / `43`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `image/News.png`
+- `image/Premium Photo _ Torn newspaper background.jpg`
+- `image/blue 2.jpg`
+- `image/blue.jpg`
+- `img/1.png`
+- `img/2.png`
+- `img/3.png`
+- `img/356055918_9476478709091268_5225754555495646285_n.png`
+- `img/358683995_1274590293430127_7414277067331019062_n.png`
+- `img/im.jpg`
+- `img/im0.jpg`
+- `img/im1.jpg`
+- `img/im10.jpg`
+- `img/im11.jpg`
+- `img/im12.jpg`
+- `img/im13.jpg`
+- `img/im14.jpg`
+- `img/im15.jpg`
+- `img/im16.jpg`
+- `img/im17.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/angexuan/axuan-pui-hw">angexuan/axuan-pui-hw</a></strong> · probable photos 43 · identity xuan</summary>
+
+- Owner: [angexuan](https://github.com/angexuan)
+- Live site: https://angexuan.github.io/axuan-pui-hw/
+- Identity tier: **1**
+- Created / pushed: `2024-08-26T14:31:57Z` / `2024-12-11T03:40:02Z`
+- Account created: `2024-08-26T13:55:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `Angela Xuan`
+- Commit identity hits: `xuan`
+- Latest commit author: `angexuan` / `angelaxuan1@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `43` / `43`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/products/gluten-free-cinnamon-roll.jpg`
+- `assets/products/original-cinnamon-roll.jpg`
+- `assets/products/raisin-cinnamon-roll.jpg`
+- `assets/products/strawberry-cinnamon-roll.jpg`
+- `assets/products/vanilla-cinnamon-roll.jpg`
+- `assets/products/walnut-cinnamon-roll.jpg`
+- `final-project/images/about.png`
+- `final-project/images/egg-dumplings-hero.png`
+- `final-project/images/egg-dumplings-hover.png`
+- `final-project/images/egg-dumplings.png`
+- `final-project/images/egg-rolls-hero.png`
+- `final-project/images/egg-rolls-hover.png`
+- `final-project/images/egg-rolls.png`
+- `final-project/images/fish-balls-hero.png`
+- `final-project/images/fish-balls-hover.png`
+- `final-project/images/fish-balls.png`
+- `final-project/images/hero-image.png`
+- `final-project/images/pork-wontons-hero.png`
+- `final-project/images/sweet-sour-pork-hero.png`
+- `final-project/images/sweet-sour-pork-hover.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/XuanCaitech/XuanCaitech.github.io">XuanCaitech/XuanCaitech.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [XuanCaitech](https://github.com/XuanCaitech)
+- Live site: https://XuanCaitech.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-08-11T09:09:56Z` / `2024-08-11T10:01:07Z`
+- Account created: `2024-08-10T07:36:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanCaitech` / `caixuan0221@shu.edu.cn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/xuan-zhong-Huang/xuan-zhong-Huang.github.io">xuan-zhong-Huang/xuan-zhong-Huang.github.io</a></strong> · probable photos 7 · identity xuan</summary>
+
+- Owner: [xuan-zhong-Huang](https://github.com/xuan-zhong-Huang)
+- Live site: https://xuan-zhong-Huang.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-17T03:29:33Z` / `2024-12-01T01:36:56Z`
+- Account created: `2024-09-17T03:05:38Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan-zhong-Huang` / `mdh110169@mdhs.tc.edu.tw`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `image/1.jpg`
+- `image/2.jpg`
+- `image/3.jpg`
+- `image/4.jpg`
+- `image/5.png`
+- `image/6.jpg`
+- `image/research/1.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/xuan1206666/xuan1206666.github.io">xuan1206666/xuan1206666.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuan1206666](https://github.com/xuan1206666)
+- Live site: https://xuan1206666.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-25T04:57:47Z` / `2024-10-23T05:02:27Z`
+- Account created: `2024-09-19T04:57:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan1206666` / `agnes951206@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/XuanYi0905/Website2024">XuanYi0905/Website2024</a></strong> · probable photos 48 · identity xuan</summary>
+
+- Owner: [XuanYi0905](https://github.com/XuanYi0905)
+- Live site: https://XuanYi0905.github.io/Website2024/
+- Identity tier: **1**
+- Created / pushed: `2024-09-13T02:29:34Z` / `2025-01-04T09:41:39Z`
+- Account created: `2024-09-13T02:01:25Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanYi0905` / `xuanyi2209@nutc.edu.tw`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `51` / `48`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `Final/images/img3.png`
+- `Final/images/king.jpg`
+- `Final/images/king2.jpg`
+- `Final/images/left1.png`
+- `Final/images/live1.jpeg`
+- `Final/images/live2.jpg`
+- `Final/images/t10.jpg`
+- `Final/images/t11.jpg`
+- `Final/images/t12.jpg`
+- `Final/images/t13.jpg`
+- `Final/images/t14.jpg`
+- `Final/images/t16.jpg`
+- `Final/images/t17.jpg`
+- `Final/images/t22.jpg`
+- `Final/images/t23.jpg`
+- `Final/images/t24.png`
+- `Final/images/t26.jpg`
+- `Final/images/t27.jpg`
+- `Final/images/t28.jpg`
+- `Final/images/t29.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/xuanmai2024/xuanmai2024.github.io">xuanmai2024/xuanmai2024.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanmai2024](https://github.com/xuanmai2024)
+- Live site: https://xuanmai2024.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-10-07T13:33:42Z` / `2024-10-07T13:33:44Z`
+- Account created: `2024-09-06T10:03:45Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `xuan mai`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuan mai` / `20076841.mai@student.iuh.edu.vn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/XuanNguyen06/xnit.github.io">XuanNguyen06/xnit.github.io</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [XuanNguyen06](https://github.com/XuanNguyen06)
+- Live site: https://XuanNguyen06.github.io/xnit.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-22T14:09:28Z` / `2024-09-22T14:16:23Z`
+- Account created: `2024-09-22T14:01:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `XuanNguyen06` / `nguyenxuan96hb@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanquangtang/Gundam">xuanquangtang/Gundam</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanquangtang](https://github.com/xuanquangtang)
+- Live site: https://xuanquangtang.github.io/Gundam/
+- Identity tier: **1**
+- Created / pushed: `2024-09-30T16:57:05Z` / `2024-09-30T16:59:20Z`
+- Account created: `2024-09-30T14:00:21Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanquangtang` / `xuan18quang@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 14 points — <a href="https://github.com/XuanWufan/XuanWufan.github.io">XuanWufan/XuanWufan.github.io</a></strong> · probable photos 17 · identity xuan</summary>
+
+- Owner: [XuanWufan](https://github.com/XuanWufan)
+- Live site: https://academicpages.github.io
+- Identity tier: **1**
+- Created / pushed: `2024-10-02T04:57:37Z` / `2024-09-29T16:23:38Z`
+- Account created: `2024-10-02T04:53:29Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `rjzupkoii` / `rjzii@yahoo.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `20` / `17`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `_posts/2012-08-14-blog-post-1.md`
+- `_posts/2013-08-14-blog-post-2.md`
+- `_posts/2014-08-14-blog-post-3.md`
+- `_posts/2015-08-14-blog-post-4.md`
+- `_posts/2199-01-01-future-post.md`
+
+</details>
+
+<details><summary>Sample photos (17)</summary>
+
+- `images/3953273590_704e3899d5_m.jpg`
+- `images/500x300.png`
+- `images/bio-photo-2.jpg`
+- `images/bio-photo.jpg`
+- `images/editing-talk.png`
+- `images/foo-bar-identity-th.jpg`
+- `images/foo-bar-identity.jpg`
+- `images/image-alignment-1200x4002.jpg`
+- `images/image-alignment-150x150.jpg`
+- `images/image-alignment-300x200.jpg`
+- `images/image-alignment-580x300.jpg`
+- `images/mstile-144x144.png`
+- `images/mstile-150x150.png`
+- `images/mstile-310x150.png`
+- `images/mstile-310x310.png`
+- `images/mstile-70x70.png`
+- `images/profile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/NgTrXuanDao/NguyenTranXuanDao23130044">NgTrXuanDao/NguyenTranXuanDao23130044</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [NgTrXuanDao](https://github.com/NgTrXuanDao)
+- Live site: https://NgTrXuanDao.github.io/NguyenTranXuanDao23130044/
+- Identity tier: **1**
+- Created / pushed: `2024-09-21T02:56:04Z` / `2025-01-26T04:00:56Z`
+- Account created: `2024-09-15T05:05:30Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `xuan`
+- Profile identity hits: `xuan`
+- Profile name: `NguyenTranXuanDao`
+- Commit identity hits: `xuan`
+- Latest commit author: `NguyenTranXuanDao-23130044` / `23130044@st.hcmuaf.edu.vn`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jessica-Aquino-hub/Despertar_para_vida">Jessica-Aquino-hub/Despertar_para_vida</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Despertar_para_vida/
+- Identity tier: **1**
+- Created / pushed: `2024-10-02T23:17:11Z` / `2024-10-02T23:41:02Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/homemcachaceiro.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/Jessica-Aquino-hub/Portif-lio">Jessica-Aquino-hub/Portif-lio</a></strong> · probable photos 14 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Portif-lio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T00:17:18Z` / `2024-06-28T00:19:42Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `assets/Foto_eu.png`
+- `assets/Inserir um título.png`
+- `assets/Tetris.png`
+- `assets/calculadora_simples.png`
+- `assets/celeste relogio.png`
+- `assets/clima_previsão.png`
+- `assets/coexistence.png`
+- `assets/colors.png`
+- `assets/files.png`
+- `assets/lucas-silva.png`
+- `assets/notebook.png`
+- `assets/phone.png`
+- `assets/pokemon_portifolio.png`
+- `assets/portifolio_Hotline.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/stardew_valley">Jessica-Aquino-hub/stardew_valley</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/stardew_valley/
+- Identity tier: **1**
+- Created / pushed: `2024-06-27T00:49:58Z` / `2024-06-28T00:13:54Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/Previs-o_Tempo">Jessica-Aquino-hub/Previs-o_Tempo</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Previs-o_Tempo/
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T23:16:26Z` / `2024-06-19T23:17:17Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/Calculadora-simples">Jessica-Aquino-hub/Calculadora-simples</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Calculadora-simples/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T22:19:13Z` / `2024-06-14T00:04:53Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/Tela-login">Jessica-Aquino-hub/Tela-login</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Tela-login/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T22:12:20Z` / `2024-06-12T00:30:11Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/calculadora_com_butoes">Jessica-Aquino-hub/calculadora_com_butoes</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/calculadora_com_butoes/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T21:34:48Z` / `2024-06-11T21:45:23Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessica-Aquino-hub/Rel-gio-projeto">Jessica-Aquino-hub/Rel-gio-projeto</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Rel-gio-projeto/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T00:34:29Z` / `2024-06-11T21:28:56Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jessica-Aquino-hub/Poked-x">Jessica-Aquino-hub/Poked-x</a></strong> · probable photos 2 · identity jess</summary>
+
+- Owner: [Jessica-Aquino-hub](https://github.com/Jessica-Aquino-hub)
+- Live site: https://Jessica-Aquino-hub.github.io/Poked-x/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T00:02:38Z` / `2024-06-11T00:29:00Z`
+- Account created: `2024-06-10T22:51:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Aquino`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Aquino` / `aquinolobobr1811@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `images/gaming.png`
+- `images/pokedex.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JessR90/super-mario-memory-match">JessR90/super-mario-memory-match</a></strong> · probable photos 7 · identity jess</summary>
+
+- Owner: [JessR90](https://github.com/JessR90)
+- Live site: https://JessR90.github.io/super-mario-memory-match/
+- Identity tier: **1**
+- Created / pushed: `2024-09-23T17:14:16Z` / `2024-09-30T14:46:20Z`
+- Account created: `2024-06-14T16:34:06Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess`
+- Latest commit author: `JessR90` / `jessica.roias@yahoo.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `assets/images/back/back.png`
+- `assets/images/front/chest.png`
+- `assets/images/front/flower.png`
+- `assets/images/front/mushroom.png`
+- `assets/images/front/star.png`
+- `assets/images/front/tencoin.png`
+- `assets/images/front/twentycoin.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessica249/curriculo">jessica249/curriculo</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessica249](https://github.com/jessica249)
+- Live site: https://jessica249.github.io/curriculo/
+- Identity tier: **1**
+- Created / pushed: `2024-10-03T00:41:09Z` / `2024-10-04T01:39:07Z`
+- Account created: `2024-06-13T00:05:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessica249` / `992481951je@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/Technical-documentation-Page">JessB74/Technical-documentation-Page</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/Technical-documentation-Page/
+- Identity tier: **1**
+- Created / pushed: `2024-08-26T11:50:06Z` / `2024-08-26T11:50:47Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/tribute-page">JessB74/tribute-page</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/tribute-page/
+- Identity tier: **1**
+- Created / pushed: `2024-08-12T12:10:45Z` / `2024-08-12T12:11:31Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/grid-painting-project">JessB74/grid-painting-project</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/grid-painting-project/
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T09:32:27Z` / `2024-08-09T09:33:05Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/nutrition-label">JessB74/nutrition-label</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/nutrition-label/
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T06:05:36Z` / `2024-08-09T06:05:55Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/Professional-resume">JessB74/Professional-resume</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/Professional-resume/
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T05:48:21Z` / `2024-08-09T05:57:34Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/Daily-News-Hub">JessB74/Daily-News-Hub</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/Daily-News-Hub/
+- Identity tier: **1**
+- Created / pushed: `2024-08-08T14:33:39Z` / `2024-08-08T14:35:11Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JessB74/LoveLink-Project">JessB74/LoveLink-Project</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/LoveLink-Project/
+- Identity tier: **1**
+- Created / pushed: `2024-08-06T08:51:15Z` / `2024-08-06T08:51:44Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `images/Roberta 2.jpg`
+- `images/bizinsider.png`
+- `images/images tlc.png`
+- `images/iphone png girl 2.png`
+- `images/mandla_.png`
+- `images/mashable.png`
+- `images/techcrunch.png`
+- `images/tnw.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/bootstrap-moving-company-sample-website">JessB74/bootstrap-moving-company-sample-website</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/bootstrap-moving-company-sample-website/
+- Identity tier: **1**
+- Created / pushed: `2024-08-06T06:40:47Z` / `2024-08-06T06:41:52Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/survey-form-project">JessB74/survey-form-project</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/survey-form-project/
+- Identity tier: **1**
+- Created / pushed: `2024-08-01T08:52:52Z` / `2024-08-01T08:53:12Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/qr-code">JessB74/qr-code</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/qr-code/
+- Identity tier: **1**
+- Created / pushed: `2024-07-29T10:58:53Z` / `2024-07-29T11:47:35Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/image-qr-code.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/profile-card">JessB74/profile-card</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/profile-card/
+- Identity tier: **1**
+- Created / pushed: `2024-07-25T10:52:14Z` / `2024-07-25T10:53:17Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/image-victor.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/Recipe-page">JessB74/Recipe-page</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/Recipe-page/
+- Identity tier: **1**
+- Created / pushed: `2024-07-18T10:27:23Z` / `2024-07-18T10:28:25Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/images/image-omelette.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/nft-preview-card">JessB74/nft-preview-card</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/nft-preview-card/
+- Identity tier: **1**
+- Created / pushed: `2024-07-18T08:11:45Z` / `2024-07-18T08:12:19Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/image-equilibrium.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessB74/Blog-Preview-card-using-HTML-and-CSS">JessB74/Blog-Preview-card-using-HTML-and-CSS</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/Blog-Preview-card-using-HTML-and-CSS/
+- Identity tier: **1**
+- Created / pushed: `2024-07-03T16:27:50Z` / `2024-07-18T07:14:25Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/html-portfolio-project">JessB74/html-portfolio-project</a></strong> · probable photos 2 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/html-portfolio-project/
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T06:55:16Z` / `2024-06-19T12:32:01Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/images/Capture birthday.PNG`
+- `assets/images/Capture movie.PNG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessB74/html-portfolio">JessB74/html-portfolio</a></strong> · probable photos 2 · identity jess</summary>
+
+- Owner: [JessB74](https://github.com/JessB74)
+- Live site: https://JessB74.github.io/html-portfolio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-14T13:03:25Z` / `2024-06-24T15:00:48Z`
+- Account created: `2024-06-14T13:00:55Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Bassaw`
+- Commit identity hits: `jess`
+- Latest commit author: `JessB74` / `jessicabassaw366@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `assets/images/Capture 1.PNG`
+- `assets/images/Capture.PNG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/jessewaweru/PortfolioWebsite">jessewaweru/PortfolioWebsite</a></strong> · probable photos 20 · identity jess</summary>
+
+- Owner: [jessewaweru](https://github.com/jessewaweru)
+- Live site: https://jessewaweru.github.io/PortfolioWebsite/
+- Identity tier: **1**
+- Created / pushed: `2024-07-31T16:59:07Z` / `2024-09-11T07:34:52Z`
+- Account created: `2024-06-01T05:52:54Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesse waweru`
+- Commit identity hits: `jess`
+- Latest commit author: `jessewaweru` / `jessewaweru1@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `22` / `20`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/Tableau.png`
+- `images/bg.jpg`
+- `images/coins-job-word.jpg`
+- `images/covid.jpg`
+- `images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg`
+- `images/housing.jpg`
+- `images/job_search.jpg`
+- `images/overlay.png`
+- `images/petrebels-JwMGy1h-JsY-unsplash.jpg`
+- `images/pexels-n-voitkevich-6214476.jpg`
+- `images/pic01.jpg`
+- `images/pic02.jpg`
+- `images/pic03.jpg`
+- `images/pic04.jpg`
+- `images/pic05.jpg`
+- `images/pic06.jpg`
+- `images/pic07.jpg`
+- `images/pic08.jpg`
+- `images/pic09.jpg`
+- `images/woman-8971323_1280.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessicagel/aula-git">Jessicagel/aula-git</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessicagel](https://github.com/Jessicagel)
+- Live site: https://Jessicagel.github.io/aula-git/
+- Identity tier: **1**
+- Created / pushed: `2024-07-02T22:14:12Z` / `2024-07-02T23:34:39Z`
+- Account created: `2024-06-12T13:58:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `Jéssica Alves`
+- Commit identity hits: `jess`
+- Latest commit author: `Jéssica Alves` / `jessicaafisio@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JessyMaciel/Primeiro-Projeto">JessyMaciel/Primeiro-Projeto</a></strong> · probable photos 4 · identity jess</summary>
+
+- Owner: [JessyMaciel](https://github.com/JessyMaciel)
+- Live site: https://JessyMaciel.github.io/Primeiro-Projeto/
+- Identity tier: **1**
+- Created / pushed: `2024-08-26T13:05:30Z` / `2024-09-01T18:53:31Z`
+- Account created: `2024-06-11T14:03:14Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessy Maciel` / `jessica-macielr@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `.vscode/assets/bg-desktop-light.jpg`
+- `.vscode/assets/bg-desktop.jpg`
+- `.vscode/assets/bg-mobile-light.jpg`
+- `.vscode/assets/bg-mobile.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessmaranto/belly-button-challenge">jessmaranto/belly-button-challenge</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmaranto](https://github.com/jessmaranto)
+- Live site: https://jessmaranto.github.io/belly-button-challenge/
+- Identity tier: **1**
+- Created / pushed: `2024-09-24T23:24:35Z` / `2024-10-04T14:45:19Z`
+- Account created: `2024-06-13T01:23:59Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessmaranto` / `jessicamaranto@msn.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jesseeverington3/tictactoe">jesseeverington3/tictactoe</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jesseeverington3](https://github.com/jesseeverington3)
+- Live site: https://jesseeverington3.github.io/tictactoe/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T00:53:56Z` / `2024-06-12T02:44:24Z`
+- Account created: `2024-06-08T02:53:43Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jesseeverington3` / `jesseeverington3@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/jesseeverington3/bigboxstores">jesseeverington3/bigboxstores</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [jesseeverington3](https://github.com/jesseeverington3)
+- Live site: https://jesseeverington3.github.io/bigboxstores/
+- Identity tier: **1**
+- Created / pushed: `2024-06-08T03:52:47Z` / `2024-06-12T05:08:06Z`
+- Account created: `2024-06-08T02:53:43Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jesseeverington3` / `jesseeverington3@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/checkout cart.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jessmbark/TN-Bikeroute-Project">jessmbark/TN-Bikeroute-Project</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmbark](https://github.com/jessmbark)
+- Live site: https://jessmbark.github.io/TN-Bikeroute-Project/
+- Identity tier: **1**
+- Created / pushed: `2024-08-08T07:05:08Z` / `2024-08-08T15:49:16Z`
+- Account created: `2024-06-12T16:53:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica M. Barker`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Barker` / `jessicambark@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jessmbark/TN-Bikecrash-Project">jessmbark/TN-Bikecrash-Project</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmbark](https://github.com/jessmbark)
+- Live site: https://jessmbark.github.io/TN-Bikecrash-Project/
+- Identity tier: **1**
+- Created / pushed: `2024-07-20T22:00:10Z` / `2024-07-27T21:52:13Z`
+- Account created: `2024-06-12T16:53:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica M. Barker`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Barker` / `jessicambark@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jessmbark/TNbikeD3">jessmbark/TNbikeD3</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmbark](https://github.com/jessmbark)
+- Live site: https://jessmbark.github.io/TNbikeD3/
+- Identity tier: **1**
+- Created / pushed: `2024-07-16T15:46:43Z` / `2024-07-27T21:14:17Z`
+- Account created: `2024-06-12T16:53:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica M. Barker`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Barker` / `jessicambark@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jessmbark/Jessicas-in-TN">jessmbark/Jessicas-in-TN</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmbark](https://github.com/jessmbark)
+- Live site: https://jessmbark.github.io/Jessicas-in-TN/
+- Identity tier: **1**
+- Created / pushed: `2024-07-11T02:04:34Z` / `2024-07-11T02:09:54Z`
+- Account created: `2024-06-12T16:53:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica M. Barker`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Barker` / `jessicambark@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jessmbark/TN-Library-Project">jessmbark/TN-Library-Project</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessmbark](https://github.com/jessmbark)
+- Live site: https://jessmbark.github.io/TN-Library-Project/
+- Identity tier: **1**
+- Created / pushed: `2024-07-04T06:23:11Z` / `2024-07-06T18:37:31Z`
+- Account created: `2024-06-12T16:53:50Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica M. Barker`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Barker` / `jessicambark@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jesseunderwood/code-refactor-html-css">jesseunderwood/code-refactor-html-css</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [jesseunderwood](https://github.com/jesseunderwood)
+- Live site: https://jesseunderwood.github.io/code-refactor-html-css/
+- Identity tier: **1**
+- Created / pushed: `2024-06-21T02:27:56Z` / `2024-06-27T15:51:31Z`
+- Account created: `2024-06-03T14:09:28Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse Underwood` / `underwoodjessem@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `assets/images/01-html-css-git-homework-demo.png`
+- `assets/images/brand-awareness.png`
+- `assets/images/cost-management.png`
+- `assets/images/digital-marketing-meeting.jpg`
+- `assets/images/lead-generation.png`
+- `assets/images/online-reputation-management.jpg`
+- `assets/images/search-engine-optimization.jpg`
+- `assets/images/social-media-marketing.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JessicaMarAlva29/Portafolio2024">JessicaMarAlva29/Portafolio2024</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [JessicaMarAlva29](https://github.com/JessicaMarAlva29)
+- Live site: https://portafolio2024-theta.vercel.app
+- Identity tier: **1**
+- Created / pushed: `2024-07-04T05:12:09Z` / `2024-07-04T05:21:31Z`
+- Account created: `2024-06-13T02:16:28Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Martínez Álvarez`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Martínez Álvarez` / `jessica.martinezalv2905@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `image/GitHub.png`
+- `image/Work-in-Progress.jpg`
+- `image/bootstrap.png`
+- `image/css3.png`
+- `image/html5.png`
+- `image/javascript.png`
+- `image/preview.jpeg`
+- `image/react native.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessicaMarAlva29/interfazdepinterest">JessicaMarAlva29/interfazdepinterest</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaMarAlva29](https://github.com/JessicaMarAlva29)
+- Live site: https://interfazdepinterest-ashen.vercel.app
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T00:43:05Z` / `2024-07-04T01:07:23Z`
+- Account created: `2024-06-13T02:16:28Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessica Martínez Álvarez`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica Martínez Álvarez` / `jessica.martinezalv2905@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `34` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JESSIPROFA/kemilly">JESSIPROFA/kemilly</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/kemilly/
+- Identity tier: **1**
+- Created / pushed: `2024-08-30T12:02:45Z` / `2024-08-30T12:06:57Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JESSIPROFA/aventura">JESSIPROFA/aventura</a></strong> · probable photos 3 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/aventura/
+- Identity tier: **1**
+- Created / pushed: `2024-08-28T21:46:58Z` / `2024-08-28T21:47:31Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `IMG/cenario-passo0.png`
+- `IMG/cenario-passo11-cidade-perdida.png`
+- `IMG/cenario-passo4-voltar-casa.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JESSIPROFA/ALURAPLUSJESSI">JESSIPROFA/ALURAPLUSJESSI</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/ALURAPLUSJESSI/
+- Identity tier: **1**
+- Created / pushed: `2024-08-28T21:34:31Z` / `2024-08-28T21:38:53Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `img/Background.png`
+- `img/Combo.png`
+- `img/Notebook.png`
+- `img/Plataformas.png`
+- `img/Telas.png`
+- `img/celular.png`
+- `img/computador.png`
+- `img/tv.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JESSIPROFA/cajubyliniker">JESSIPROFA/cajubyliniker</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/cajubyliniker/
+- Identity tier: **1**
+- Created / pushed: `2024-08-21T20:24:13Z` / `2024-08-21T20:24:42Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JESSIPROFA/CAJU">JESSIPROFA/CAJU</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/CAJU/
+- Identity tier: **1**
+- Created / pushed: `2024-08-21T12:16:45Z` / `2024-08-21T12:17:10Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JESSIPROFA/AulaRoosevelt">JESSIPROFA/AulaRoosevelt</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JESSIPROFA](https://github.com/JESSIPROFA)
+- Live site: https://JESSIPROFA.github.io/AulaRoosevelt/
+- Identity tier: **1**
+- Created / pushed: `2024-06-05T14:23:06Z` / `2024-06-05T14:28:01Z`
+- Account created: `2024-06-04T12:52:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JESSIPROFA` / `jessicaqueiroz@prof.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jess-code-it/static-app-2">jess-code-it/static-app-2</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [jess-code-it](https://github.com/jess-code-it)
+- Live site: https://jess-code-it.github.io/static-app-2/
+- Identity tier: **1**
+- Created / pushed: `2024-08-01T08:20:06Z` / `2024-08-01T08:36:23Z`
+- Account created: `2024-06-12T03:58:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `gomezjeswel` / `gomezjeswel@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `images/Advanced-Data-Science-Techniques.jpg`
+- `images/Creative-Writing-Workshop.jpg`
+- `images/Global-History-and-Culture.jpg`
+- `images/Health-and-Wellness-Program.jpg`
+- `images/Interactive-Coding-Bootcamp.jpg`
+- `images/Language-Learning-Hub.jpg`
+- `images/Mastering-Digital-Marketing.jpg`
+- `images/Professional-Development-Seminars.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jess-code-it/home-page-exam">jess-code-it/home-page-exam</a></strong> · probable photos 7 · identity jess</summary>
+
+- Owner: [jess-code-it](https://github.com/jess-code-it)
+- Live site: https://jess-code-it.github.io/home-page-exam/
+- Identity tier: **1**
+- Created / pushed: `2024-08-01T03:49:49Z` / `2024-08-01T05:18:27Z`
+- Account created: `2024-06-12T03:58:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `gomezjeswel` / `gomezjeswel@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `images/belt.jpg`
+- `images/document.jpg`
+- `images/featured-2.jpg`
+- `images/featured-3.jpg`
+- `images/jacket.jpg`
+- `images/shoes.jpg`
+- `images/socks.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jess-code-it/webportfolio">jess-code-it/webportfolio</a></strong> · probable photos 36 · identity jess</summary>
+
+- Owner: [jess-code-it](https://github.com/jess-code-it)
+- Live site: https://jess-code-it.github.io/webportfolio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T01:10:01Z` / `2024-06-19T01:21:59Z`
+- Account created: `2024-06-12T03:58:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `gomezjeswel` / `gomezjeswel@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `42` / `36`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `frontend/capstone1/images/bootstrap.png`
+- `frontend/capstone1/images/css3.png`
+- `frontend/capstone1/images/facebook.png`
+- `frontend/capstone1/images/github.png`
+- `frontend/capstone1/images/gitlab.png`
+- `frontend/capstone1/images/heroku.png`
+- `frontend/capstone1/images/html-5.png`
+- `frontend/capstone1/images/html.png`
+- `frontend/capstone1/images/instagram.png`
+- `frontend/capstone1/images/javascript.png`
+- `frontend/capstone1/images/jess.png`
+- `frontend/capstone1/images/linkedin.png`
+- `frontend/capstone1/images/mongodb.png`
+- `frontend/capstone1/images/node-js.png`
+- `frontend/capstone1/images/postman.png`
+- `frontend/capstone1/images/project1.png`
+- `frontend/capstone1/images/project2.png`
+- `frontend/capstone1/images/project3.png`
+- `frontend/capstone1/images/structure.png`
+- `frontend/capstone1/images/sublime.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jess-code-it/portfolio">jess-code-it/portfolio</a></strong> · probable photos 23 · identity jess</summary>
+
+- Owner: [jess-code-it](https://github.com/jess-code-it)
+- Live site: https://jess-code-it.github.io/portfolio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-12T04:03:15Z` / `2024-06-19T03:51:59Z`
+- Account created: `2024-06-12T03:58:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `gomezjeswel` / `gomezjeswel@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `24` / `23`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/back.jpg`
+- `images/back1.jpg`
+- `images/bootstrap.png`
+- `images/css3.png`
+- `images/facebook.png`
+- `images/github.png`
+- `images/gitlab.png`
+- `images/heroku.png`
+- `images/html-5.png`
+- `images/html.png`
+- `images/instagram.png`
+- `images/javascript.png`
+- `images/jess.png`
+- `images/linkedin.png`
+- `images/mongodb.png`
+- `images/node-js.png`
+- `images/postman.png`
+- `images/project1.png`
+- `images/project2.png`
+- `images/project3.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Jessi0130/Portif-lio_real">Jessi0130/Portif-lio_real</a></strong> · probable photos 2 · identity jess</summary>
+
+- Owner: [Jessi0130](https://github.com/Jessi0130)
+- Live site: https://Jessi0130.github.io/Portif-lio_real/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T00:06:58Z` / `2024-06-28T00:09:18Z`
+- Account created: `2024-06-10T22:47:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessi`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessi` / `jessicarosa.cedesp@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `projeetos/Pokedex/images/gaming.png`
+- `projeetos/Pokedex/images/pokedex.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/Jessi0130/Portifolio">Jessi0130/Portifolio</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessi0130](https://github.com/Jessi0130)
+- Live site: https://Jessi0130.github.io/Portifolio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T21:54:52Z` / `2024-06-11T21:55:36Z`
+- Account created: `2024-06-10T22:47:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessi`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessi` / `jessicarosa.cedesp@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicabalonecker/alura-plus">jessicabalonecker/alura-plus</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [jessicabalonecker](https://github.com/jessicabalonecker)
+- Live site: https://jessicabalonecker.github.io/alura-plus/
+- Identity tier: **1**
+- Created / pushed: `2024-09-19T22:50:47Z` / `2024-09-24T14:06:23Z`
+- Account created: `2024-06-04T13:46:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicabalonecker` / `00001072907513sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `18` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `img/Background.png`
+- `img/Combo.png`
+- `img/Notebook.png`
+- `img/Plataformas.png`
+- `img/Telas.png`
+- `img/celular.png`
+- `img/computador.png`
+- `img/tv.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicabalonecker/cao">jessicabalonecker/cao</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicabalonecker](https://github.com/jessicabalonecker)
+- Live site: https://jessicabalonecker.github.io/cao/
+- Identity tier: **1**
+- Created / pushed: `2024-09-10T14:13:33Z` / `2024-09-10T14:15:15Z`
+- Account created: `2024-06-04T13:46:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicabalonecker` / `00001072907513sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicabalonecker/Motos">jessicabalonecker/Motos</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicabalonecker](https://github.com/jessicabalonecker)
+- Live site: https://jessicabalonecker.github.io/Motos/
+- Identity tier: **1**
+- Created / pushed: `2024-08-22T12:55:02Z` / `2024-08-22T12:55:42Z`
+- Account created: `2024-06-04T13:46:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicabalonecker` / `00001072907513sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/jessica-ernest/Jessydataanalysisprojects.io">jessica-ernest/Jessydataanalysisprojects.io</a></strong> · probable photos 17 · identity jess</summary>
+
+- Owner: [jessica-ernest](https://github.com/jessica-ernest)
+- Live site: https://jessica-ernest.github.io/Jessydataanalysisprojects.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T16:44:51Z` / `2024-08-02T15:23:15Z`
+- Account created: `2024-06-18T14:46:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Codewithjessy`
+- Commit identity hits: `jess`
+- Latest commit author: `Codewithjessy` / `jessicaogie468@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `17` / `17`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (17)</summary>
+
+- `images/T.t.jpg`
+- `images/TABL.png`
+- `images/bg.jpg`
+- `images/estate.jpg`
+- `images/excel.jpg`
+- `images/jessy.jpg`
+- `images/overlay.png`
+- `images/pic01.jpg`
+- `images/pic02.jpg`
+- `images/pic03.jpg`
+- `images/pic04.jpg`
+- `images/pic05.jpg`
+- `images/pic06.jpg`
+- `images/pic07.jpg`
+- `images/pic08.jpg`
+- `images/pic09.jpg`
+- `images/z.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/jess-980/TUGAS-UAS-JEE">jess-980/TUGAS-UAS-JEE</a></strong> · probable photos 11 · identity jess</summary>
+
+- Owner: [jess-980](https://github.com/jess-980)
+- Live site: https://jess-980.github.io/TUGAS-UAS-JEE/
+- Identity tier: **1**
+- Created / pushed: `2024-07-17T11:40:11Z` / `2024-07-17T12:01:44Z`
+- Account created: `2024-06-14T13:23:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `jess`
+- Commit identity hits: `jess`
+- Latest commit author: `jess` / `jessclyne22@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `img/home-image.jpg`
+- `img/home-image.png`
+- `img/property1.jpg`
+- `img/property2.jpg`
+- `img/property3.jpg`
+- `img/property4.jpg`
+- `img/property5.jpg`
+- `img/property6.jpg`
+- `img/team1.jpg`
+- `img/team2.jpg`
+- `img/team3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessikaquirol/AluraBooks">jessikaquirol/AluraBooks</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessikaquirol](https://github.com/jessikaquirol)
+- Live site: https://jessikaquirol.github.io/AluraBooks/
+- Identity tier: **1**
+- Created / pushed: `2024-10-08T23:25:58Z` / `2024-11-05T23:26:15Z`
+- Account created: `2024-06-03T23:20:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessikaquirol` / `00001113392721sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessikaquirol/Alura-plus">jessikaquirol/Alura-plus</a></strong> · probable photos 8 · identity jess</summary>
+
+- Owner: [jessikaquirol](https://github.com/jessikaquirol)
+- Live site: https://jessikaquirol.github.io/Alura-plus/
+- Identity tier: **1**
+- Created / pushed: `2024-10-08T00:04:59Z` / `2024-10-08T00:05:57Z`
+- Account created: `2024-06-03T23:20:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessikaquirol` / `00001113392721sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `8`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (8)</summary>
+
+- `img/Background.png`
+- `img/Combo.png`
+- `img/Notebook.png`
+- `img/Plataformas.png`
+- `img/Telas.png`
+- `img/celular.png`
+- `img/computador.png`
+- `img/tv.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessikaquirol/criando-aventura">jessikaquirol/criando-aventura</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessikaquirol](https://github.com/jessikaquirol)
+- Live site: https://jessikaquirol.github.io/criando-aventura/
+- Identity tier: **1**
+- Created / pushed: `2024-08-27T23:23:42Z` / `2024-09-23T23:14:51Z`
+- Account created: `2024-06-03T23:20:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessikaquirol` / `00001113392721sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessikaquirol/alura-flix">jessikaquirol/alura-flix</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessikaquirol](https://github.com/jessikaquirol)
+- Live site: https://jessikaquirol.github.io/alura-flix/
+- Identity tier: **1**
+- Created / pushed: `2024-08-05T23:38:58Z` / `2024-08-16T17:51:56Z`
+- Account created: `2024-06-03T23:20:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessikaquirol` / `00001113392721sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessikaquirol/quirol">jessikaquirol/quirol</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessikaquirol](https://github.com/jessikaquirol)
+- Live site: https://jessikaquirol.github.io/quirol/
+- Identity tier: **1**
+- Created / pushed: `2024-06-10T23:17:46Z` / `2024-06-18T23:30:20Z`
+- Account created: `2024-06-03T23:20:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessikaquirol` / `00001113392721sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicaromrell/ISFinalFinal">jessicaromrell/ISFinalFinal</a></strong> · probable photos 11 · identity jess</summary>
+
+- Owner: [jessicaromrell](https://github.com/jessicaromrell)
+- Live site: https://jessicaromrell.github.io/ISFinalFinal/
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T23:26:20Z` / `2024-06-19T23:30:30Z`
+- Account created: `2024-06-17T16:38:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaromrell` / `jnr2004@byu.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `assets/img/BYU.webp`
+- `assets/img/BYUM.jpg`
+- `assets/img/ME.jpg`
+- `assets/img/MVH.jpg`
+- `assets/img/UVH.jpg`
+- `assets/img/bg-callout.jpg`
+- `assets/img/bg-masthead.jpg`
+- `assets/img/portfolio-1.jpg`
+- `assets/img/portfolio-2.jpg`
+- `assets/img/portfolio-3.jpg`
+- `assets/img/portfolio-4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicaromrell/Infosystem">jessicaromrell/Infosystem</a></strong> · probable photos 11 · identity jess</summary>
+
+- Owner: [jessicaromrell](https://github.com/jessicaromrell)
+- Live site: https://jessicaromrell.github.io/Infosystem/
+- Identity tier: **1**
+- Created / pushed: `2024-06-19T20:16:16Z` / `2024-06-19T20:17:12Z`
+- Account created: `2024-06-17T16:38:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaromrell` / `jnr2004@byu.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `11`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (11)</summary>
+
+- `assets/img/BYU.webp`
+- `assets/img/BYUM.jpg`
+- `assets/img/ME.jpg`
+- `assets/img/MVH.jpg`
+- `assets/img/UVH.jpg`
+- `assets/img/bg-callout.jpg`
+- `assets/img/bg-masthead.jpg`
+- `assets/img/portfolio-1.jpg`
+- `assets/img/portfolio-2.jpg`
+- `assets/img/portfolio-3.jpg`
+- `assets/img/portfolio-4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicaromrell/IS201">jessicaromrell/IS201</a></strong> · probable photos 9 · identity jess</summary>
+
+- Owner: [jessicaromrell](https://github.com/jessicaromrell)
+- Live site: https://jessicaromrell.github.io/IS201/
+- Identity tier: **1**
+- Created / pushed: `2024-06-17T16:40:48Z` / `2024-06-17T16:44:24Z`
+- Account created: `2024-06-17T16:38:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaromrell` / `jnr2004@byu.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `9`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (9)</summary>
+
+- `assets/img/BYU.webp`
+- `assets/img/MVH.jpg`
+- `assets/img/UVH.jpg`
+- `assets/img/bg-callout.jpg`
+- `assets/img/bg-masthead.jpg`
+- `assets/img/portfolio-1.jpg`
+- `assets/img/portfolio-2.jpg`
+- `assets/img/portfolio-3.jpg`
+- `assets/img/portfolio-4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesslyneZhang/AI-Life">JesslyneZhang/AI-Life</a></strong> · probable photos 37 · identity jess</summary>
+
+- Owner: [JesslyneZhang](https://github.com/JesslyneZhang)
+- Live site: https://JesslyneZhang.github.io/AI-Life/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T01:44:46Z` / `2024-06-09T02:07:29Z`
+- Account created: `2024-06-07T23:30:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesslyne`
+- Commit identity hits: `jess`
+- Latest commit author: `JesslyneZhang` / `jesslynezhng@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `39` / `37`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/img/detail-bg.jpg`
+- `assets/img/details-1.jpg`
+- `assets/img/details-2.jpg`
+- `assets/img/details-hero-1.jpg`
+- `assets/img/details-hero-8.jpg`
+- `assets/img/edukasi-2.jpg`
+- `assets/img/edukasi-3.jpg`
+- `assets/img/edukasi-4.jpg`
+- `assets/img/img-1.jpg`
+- `assets/img/img-11.jpg`
+- `assets/img/img-12.jpg`
+- `assets/img/img-13.jpg`
+- `assets/img/img-2.jpg`
+- `assets/img/img-3.jpg`
+- `assets/img/img-4.jpg`
+- `assets/img/img-5.jpg`
+- `assets/img/img-7.jpg`
+- `assets/img/img-8.jpg`
+- `assets/img/img-9.jpg`
+- `assets/img/jasa-1.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 17 points — <a href="https://github.com/JesslyneZhang/EduAI">JesslyneZhang/EduAI</a></strong> · probable photos 21 · identity jess</summary>
+
+- Owner: [JesslyneZhang](https://github.com/JesslyneZhang)
+- Live site: https://JesslyneZhang.github.io/EduAI/
+- Identity tier: **1**
+- Created / pushed: `2024-06-08T04:19:35Z` / `2024-06-08T04:42:10Z`
+- Account created: `2024-06-07T23:30:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesslyne`
+- Commit identity hits: `jess`
+- Latest commit author: `JesslyneZhang` / `jesslynezhng@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `23` / `21`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/courses/AI/AI-translator.png`
+- `assets/images/courses/AI/assistant-virtual.png`
+- `assets/images/courses/AI/chatbot-AI.png`
+- `assets/images/courses/AI/sentiment-analysis.png`
+- `assets/images/courses/VR/Virtual-reality-360.png`
+- `assets/images/courses/VR/VirtualTryOn.png`
+- `assets/images/courses/VR/wahana-virtual-reality.png`
+- `assets/images/courses/VR/wisata-virtual.jpeg`
+- `assets/images/courses/web-development/1.jpg`
+- `assets/images/courses/web-development/2.jpg`
+- `assets/images/courses/web-development/3.jpg`
+- `assets/images/courses/web-development/4.jpg`
+- `assets/images/instructor.png`
+- `assets/images/instructor/1.png`
+- `assets/images/instructor/user.jpg`
+- `assets/images/people-background.png`
+- `assets/images/people-bg.png`
+- `assets/images/review/1.png`
+- `assets/images/testimonial/1.png`
+- `assets/images/testimonial/2.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 15 points — <a href="https://github.com/JesslyneZhang/Web-Job">JesslyneZhang/Web-Job</a></strong> · probable photos 30 · identity jess</summary>
+
+- Owner: [JesslyneZhang](https://github.com/JesslyneZhang)
+- Live site: https://JesslyneZhang.github.io/Web-Job/
+- Identity tier: **1**
+- Created / pushed: `2024-06-07T23:33:48Z` / `2024-06-09T01:39:29Z`
+- Account created: `2024-06-07T23:30:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesslyne`
+- Commit identity hits: `jess`
+- Latest commit author: `JesslyneZhang` / `jesslynezhng@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `30` / `30`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/a.png`
+- `images/b1.jpg`
+- `images/b2.jpg`
+- `images/b3.jpg`
+- `images/b4.png`
+- `images/back.jpg`
+- `images/back1.jpg`
+- `images/back2.jpg`
+- `images/bg.png`
+- `images/c1.jpg`
+- `images/c2.jpg`
+- `images/c3.jpg`
+- `images/c4.jpg`
+- `images/c5.jpg`
+- `images/c6.jpg`
+- `images/c7.jpeg`
+- `images/fe1.png`
+- `images/fe2.png`
+- `images/menu.png`
+- `images/pro1.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jess-sneddon/jess-sneddon.github.io">jess-sneddon/jess-sneddon.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jess-sneddon](https://github.com/jess-sneddon)
+- Live site: https://jess-sneddon.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-09-14T18:26:30Z` / `2024-09-14T18:41:46Z`
+- Account created: `2024-06-12T13:55:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jess-sneddon` / `jess.sneddon@yahoo.co.uk`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicaiwetan/my-weather-app">jessicaiwetan/my-weather-app</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicaiwetan](https://github.com/jessicaiwetan)
+- Live site: https://jessicaiwetan.github.io/my-weather-app/
+- Identity tier: **1**
+- Created / pushed: `2024-09-13T16:40:40Z` / `2024-09-13T18:10:35Z`
+- Account created: `2024-06-17T12:40:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaiwetan` / `jessicaiwetan2@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicaiwetan/project2">jessicaiwetan/project2</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicaiwetan](https://github.com/jessicaiwetan)
+- Live site: https://jessicaiwetan.github.io/project2/
+- Identity tier: **1**
+- Created / pushed: `2024-07-06T05:44:41Z` / `2024-07-06T06:31:07Z`
+- Account created: `2024-06-17T12:40:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaiwetan` / `jessicaiwetan2@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicaiwetan/my-works">jessicaiwetan/my-works</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicaiwetan](https://github.com/jessicaiwetan)
+- Live site: https://jessicaiwetan.github.io/my-works/
+- Identity tier: **1**
+- Created / pushed: `2024-07-05T18:39:26Z` / `2024-07-06T05:41:01Z`
+- Account created: `2024-06-17T12:40:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaiwetan` / `jessicaiwetan2@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicaiwetan/hngTaskOne">jessicaiwetan/hngTaskOne</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicaiwetan](https://github.com/jessicaiwetan)
+- Live site: https://jessicaiwetan.github.io/hngTaskOne/
+- Identity tier: **1**
+- Created / pushed: `2024-07-04T12:48:03Z` / `2024-07-06T06:26:24Z`
+- Account created: `2024-06-17T12:40:58Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaiwetan` / `jessicaiwetan2@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicayumi/projeto-5">jessicayumi/projeto-5</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicayumi](https://github.com/jessicayumi)
+- Live site: https://jessicayumi.github.io/projeto-5/
+- Identity tier: **1**
+- Created / pushed: `2024-06-13T20:06:33Z` / `2024-06-13T20:15:27Z`
+- Account created: `2024-06-06T19:48:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicayumi` / `00001099662035sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessicaLou1125/jessica">JessicaLou1125/jessica</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaLou1125](https://github.com/JessicaLou1125)
+- Live site: https://JessicaLou1125.github.io/jessica/
+- Identity tier: **1**
+- Created / pushed: `2024-06-25T15:25:31Z` / `2024-06-25T15:26:36Z`
+- Account created: `2024-06-10T18:07:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaLou1125` / `luzixin8@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessicaLou1125/jessicafinalcv">JessicaLou1125/jessicafinalcv</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaLou1125](https://github.com/JessicaLou1125)
+- Live site: https://JessicaLou1125.github.io/jessicafinalcv/
+- Identity tier: **1**
+- Created / pushed: `2024-06-25T15:18:40Z` / `2024-06-25T15:20:10Z`
+- Account created: `2024-06-10T18:07:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaLou1125` / `luzixin8@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessicaLou1125/Kerry-CV">JessicaLou1125/Kerry-CV</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaLou1125](https://github.com/JessicaLou1125)
+- Live site: https://JessicaLou1125.github.io/Kerry-CV/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T13:55:07Z` / `2024-06-11T13:56:12Z`
+- Account created: `2024-06-10T18:07:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaLou1125` / `luzixin8@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessicaLou1125/Personal-Website-draft">JessicaLou1125/Personal-Website-draft</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaLou1125](https://github.com/JessicaLou1125)
+- Live site: https://JessicaLou1125.github.io/Personal-Website-draft/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T13:25:29Z` / `2024-06-11T13:34:23Z`
+- Account created: `2024-06-10T18:07:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaLou1125` / `luzixin8@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jessej123-hash/professional-website-assignment">Jessej123-hash/professional-website-assignment</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessej123-hash](https://github.com/Jessej123-hash)
+- Live site: https://Jessej123-hash.github.io/professional-website-assignment/
+- Identity tier: **1**
+- Created / pushed: `2024-07-10T15:07:42Z` / `2026-02-19T11:17:34Z`
+- Account created: `2024-06-07T12:41:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessej123-hash` / `jessewasonga3@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner">Jessej123-hash/Solidity-Economic-Risk-Scanner</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessej123-hash](https://github.com/Jessej123-hash)
+- Live site: https://Jessej123-hash.github.io/Solidity-Economic-Risk-Scanner/
+- Identity tier: **1**
+- Created / pushed: `2024-06-14T11:15:25Z` / `2026-08-29T13:43:08Z`
+- Account created: `2024-06-07T12:41:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessej123-hash` / `jessewasonga3@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessicaMeloo/ArthurMarinho">JessicaMeloo/ArthurMarinho</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessicaMeloo](https://github.com/JessicaMeloo)
+- Live site: https://JessicaMeloo.github.io/ArthurMarinho/
+- Identity tier: **1**
+- Created / pushed: `2024-08-16T13:21:53Z` / `2024-08-16T13:26:24Z`
+- Account created: `2024-06-05T12:34:21Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaMeloo` / `00001107790153sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicamazini/ProjectPokemon">jessicamazini/ProjectPokemon</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicamazini](https://github.com/jessicamazini)
+- Live site: https://jessicamazini.github.io/ProjectPokemon/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T22:08:07Z` / `2024-06-09T22:08:50Z`
+- Account created: `2024-06-09T18:37:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `Jéssica Moreira`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicamazini` / `jmoreirasil@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `9` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicamazini/ProjetoX-DEVS">jessicamazini/ProjetoX-DEVS</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicamazini](https://github.com/jessicamazini)
+- Live site: https://jessicamazini.github.io/ProjetoX-DEVS/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T18:39:55Z` / `2024-06-09T18:42:01Z`
+- Account created: `2024-06-09T18:37:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `Jéssica Moreira`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicamazini` / `jmoreirasil@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `14` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jessicavit123/alura">jessicavit123/alura</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jessicavit123](https://github.com/jessicavit123)
+- Live site: https://jessicavit123.github.io/alura/
+- Identity tier: **1**
+- Created / pushed: `2024-09-06T01:53:17Z` / `2024-09-06T01:53:35Z`
+- Account created: `2024-06-07T00:59:59Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicavit123` / `00001087230469sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JesseOfficials/JesseOfficials">JesseOfficials/JesseOfficials</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JesseOfficials](https://github.com/JesseOfficials)
+- Live site: https://github.com/JesseOfficials
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T14:57:22Z` / `2024-06-09T14:59:59Z`
+- Account created: `2024-06-09T14:56:37Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JesseOfficials` / `jessemcduffie789@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jesseh-web/weezer">jesseh-web/weezer</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jesseh-web](https://github.com/jesseh-web)
+- Live site: https://jesseh-web.github.io/weezer/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T14:57:33Z` / `2024-06-11T15:10:46Z`
+- Account created: `2024-06-11T14:46:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jesseh-web` / `hajjikamkumba@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jesseh-web/jesseh">jesseh-web/jesseh</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jesseh-web](https://github.com/jesseh-web)
+- Live site: https://jesseh-web.github.io/jesseh/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T14:49:33Z` / `2024-06-11T14:52:16Z`
+- Account created: `2024-06-11T14:46:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jesseh-web` / `hajjikamkumba@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessEden123456/JessEden123456.github.io">JessEden123456/JessEden123456.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessEden123456](https://github.com/JessEden123456)
+- Live site: https://JessEden123456.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-05T16:00:43Z` / `2024-06-05T17:12:12Z`
+- Account created: `2024-06-05T13:50:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessEden123456` / `jess.boots@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jesselcaher55/jesselcaher55.github.io">jesselcaher55/jesselcaher55.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [jesselcaher55](https://github.com/jesselcaher55)
+- Live site: https://jesselcaher55.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-15T23:23:49Z` / `2024-06-15T23:24:00Z`
+- Account created: `2024-06-14T17:19:14Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jesselcaher55` / `cahj070817mmclrsa9@btgem.mx`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicaDev12/My-page">jessicaDev12/My-page</a></strong> · probable photos 59 · identity jess</summary>
+
+- Owner: [jessicaDev12](https://github.com/jessicaDev12)
+- Live site: https://jessicaDev12.github.io/My-page/
+- Identity tier: **1**
+- Created / pushed: `2024-06-10T13:41:01Z` / `2024-06-10T13:42:06Z`
+- Account created: `2024-06-10T13:39:09Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicaDev12` / `jessicarodriguez7998@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `62` / `59`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/Captura de pantalla 2024-02-21 080331.png`
+- `img/WhatsApp (2).png`
+- `img/bota.png`
+- `img/bota2.png`
+- `img/bota3.png`
+- `img/botasimagen.png`
+- `img/caballo_nigga.jpg`
+- `img/camiseta1.png`
+- `img/camiseta2.png`
+- `img/facebook (2).png`
+- `img/falda.png`
+- `img/fondo 3.jpg`
+- `img/fondo-formulario.jpg`
+- `img/fondo.jpg`
+- `img/fondo2.jpg`
+- `img/fondo4.jpg`
+- `img/header (1).jpg`
+- `img/hombre (1).png`
+- `img/hombre (2).png`
+- `img/hombre (3).png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jesswongity/x455-jwong-project">jesswongity/x455-jwong-project</a></strong> · probable photos 20 · identity jess</summary>
+
+- Owner: [jesswongity](https://github.com/jesswongity)
+- Live site: https://jesswongity.github.io/x455-jwong-project/
+- Identity tier: **1**
+- Created / pushed: `2024-06-11T03:33:16Z` / `2024-11-20T19:07:30Z`
+- Account created: `2024-06-11T03:25:26Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jess Wong` / `jesswong@berkeley.edu`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `21` / `20`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/About-Img-1.jpeg`
+- `img/About-Img-2.jpeg`
+- `img/Front-Image.jpeg`
+- `img/Gallery-1.jpeg`
+- `img/Gallery-2.jpeg`
+- `img/Gallery-3.jpeg`
+- `img/Gallery-4.jpeg`
+- `img/Gallery-5.jpeg`
+- `img/Gallery-6.jpeg`
+- `img/Program-1.jpeg`
+- `img/Program-2.jpeg`
+- `img/Program-3.jpeg`
+- `img/Program-4.jpeg`
+- `img/Program-5.jpeg`
+- `img/Program-6.jpeg`
+- `img/Resources.jpeg`
+- `img/Tool-1.png`
+- `img/Tool-4.webp`
+- `img/Tools-2.webp`
+- `img/Tools-3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JessicaLuke/html-dog-resume">JessicaLuke/html-dog-resume</a></strong> · probable photos 6 · identity jess</summary>
+
+- Owner: [JessicaLuke](https://github.com/JessicaLuke)
+- Live site: https://JessicaLuke.github.io/html-dog-resume/
+- Identity tier: **1**
+- Created / pushed: `2024-06-17T07:36:10Z` / `2024-06-17T07:38:48Z`
+- Account created: `2024-06-16T07:14:15Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessicaLuke` / `172957555+JessicaLuke@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `assets/images/zeus-and-me.png`
+- `assets/images/zeus-at-beach.png`
+- `assets/images/zeus-at-park.png`
+- `assets/images/zeus-close-up.png`
+- `assets/images/zeus-with-ball.png`
+- `assets/images/zeus-with-chew-toy.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/JessBarfield02/GammonsIMDB">JessBarfield02/GammonsIMDB</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessBarfield02](https://github.com/JessBarfield02)
+- Live site: https://JessBarfield02.github.io/GammonsIMDB/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T14:42:35Z` / `2024-06-09T14:47:48Z`
+- Account created: `2024-06-09T14:40:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `JessBarfield02` / `jessbarfieldconsulting@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessicahudak16/portfolio">jessicahudak16/portfolio</a></strong> · probable photos 33 · identity jess</summary>
+
+- Owner: [jessicahudak16](https://github.com/jessicahudak16)
+- Live site: https://jessicahudak16.github.io/portfolio/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T15:42:27Z` / `2024-08-07T01:57:36Z`
+- Account created: `2024-06-08T23:28:13Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessicahudak16` / `jessicahudak16@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `33` / `33`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/CNC-Block.png`
+- `images/CNC-Preview.png`
+- `images/Chest-Isometric.png`
+- `images/Demo-Conveyor-Youtube.png`
+- `images/Demo-MirroredRobots.png`
+- `images/Drill-Comparison.png`
+- `images/Drill.png`
+- `images/FEM-TotalDeformation.png`
+- `images/Lockbox-Inside.png`
+- `images/Lockbox-Isometric.png`
+- `images/Matlab-IVP.png`
+- `images/Selfie.png`
+- `images/Site-Academy-Article.png`
+- `images/Site-Academy-Home.png`
+- `images/Site-Academy-Presentation.png`
+- `images/Site-Academy-Quiz.png`
+- `images/Site-KB-Home.png`
+- `images/Site-KB-HowTo-StackPick-Variables.png`
+- `images/Site-KB-Manual-Taskbar.png`
+- `images/Site-KB-ReleaseNotes-5-3-0.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jessica2432/oii">Jessica2432/oii</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessica2432](https://github.com/Jessica2432)
+- Live site: https://Jessica2432.github.io/oii/
+- Identity tier: **1**
+- Created / pushed: `2024-08-20T10:35:26Z` / `2024-08-20T10:35:27Z`
+- Account created: `2024-06-18T10:31:42Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jessica2432` / `00001095783452sp@al.educacao.sp.gov.br`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/jessherna17/BTSF2024">jessherna17/BTSF2024</a></strong> · probable photos 1 · identity jess</summary>
+
+- Owner: [jessherna17](https://github.com/jessherna17)
+- Live site: https://jessherna17.github.io/BTSF2024/
+- Identity tier: **1**
+- Created / pushed: `2024-06-07T18:46:09Z` / `2024-07-18T18:26:47Z`
+- Account created: `2024-06-07T18:40:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessherna17` / `jrh8017@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/pokemon-flyer.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jessy-8/myJS">Jessy-8/myJS</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessy-8](https://github.com/Jessy-8)
+- Live site: https://Jessy-8.github.io/myJS/
+- Identity tier: **1**
+- Created / pushed: `2024-06-18T08:09:12Z` / `2024-06-24T03:39:53Z`
+- Account created: `2024-06-18T01:50:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `jessy-8` / `yujiewu177@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jessika-Andrade/Site-Android-CursoEmVideo">Jessika-Andrade/Site-Android-CursoEmVideo</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jessika-Andrade](https://github.com/Jessika-Andrade)
+- Live site: https://Jessika-Andrade.github.io/Site-Android-CursoEmVideo/
+- Identity tier: **1**
+- Created / pushed: `2024-10-13T13:37:55Z` / `2024-10-13T14:17:29Z`
+- Account created: `2024-06-22T14:33:51Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `Jéssika Andrade`
+- Commit identity hits: `jess`
+- Latest commit author: `Jéssika Andrade` / `jessika_andrade_11@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/little-minder/Surprise.html">little-minder/Surprise.html</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [little-minder](https://github.com/little-minder)
+- Live site: https://little-minder.github.io/Surprise.html/
+- Identity tier: **1**
+- Created / pushed: `2024-09-09T15:58:44Z` / `2026-02-02T09:24:14Z`
+- Account created: `2024-07-01T13:54:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess`
+- Latest commit author: `little-minder` / `hylinjessica02@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/little-minder/Surprise">little-minder/Surprise</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [little-minder](https://github.com/little-minder)
+- Live site: https://little-minder.github.io/Surprise/
+- Identity tier: **1**
+- Created / pushed: `2024-09-09T09:52:18Z` / `2024-09-09T10:23:30Z`
+- Account created: `2024-07-01T13:54:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess`
+- Latest commit author: `Jess` / `hylinjessica02@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/little-minder/CODTECH_Task2">little-minder/CODTECH_Task2</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [little-minder](https://github.com/little-minder)
+- Live site: https://little-minder.github.io/CODTECH_Task2/
+- Identity tier: **1**
+- Created / pushed: `2024-07-26T09:04:28Z` / `2024-07-26T09:25:36Z`
+- Account created: `2024-07-01T13:54:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess`
+- Latest commit author: `Jess` / `hylinjessica02@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/little-minder/Jess-hacker.github.io">little-minder/Jess-hacker.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [little-minder](https://github.com/little-minder)
+- Live site: https://little-minder.github.io/Jess-hacker.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-07-04T09:44:07Z` / `2024-07-10T04:47:20Z`
+- Account created: `2024-07-01T13:54:41Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess`
+- Latest commit author: `Jess` / `hylinjessica02@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/jess-isaacs/page">jess-isaacs/page</a></strong> · probable photos 0 · identity jess, jessie</summary>
+
+- Owner: [jess-isaacs](https://github.com/jess-isaacs)
+- Live site: https://jess-isaacs.github.io/page/
+- Identity tier: **1**
+- Created / pushed: `2024-06-29T05:02:42Z` / `2024-06-29T05:04:21Z`
+- Account created: `2024-06-23T04:27:38Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jess`
+- Commit identity hits: `jess, jessie`
+- Latest commit author: `Jess Isaacs` / `jessie.isaacs14@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/el-refran-web">Jesse121608/el-refran-web</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/el-refran-web/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T05:39:02Z` / `2024-06-28T05:50:01Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/pasteleria-el-refran">Jesse121608/pasteleria-el-refran</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/pasteleria-el-refran/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T05:20:11Z` / `2024-06-28T05:29:43Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/p1">Jesse121608/p1</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/p1/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T05:06:12Z` / `2024-06-28T05:07:46Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/P">Jesse121608/P</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/P/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T04:50:19Z` / `2024-06-28T05:33:59Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/pan3">Jesse121608/pan3</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/pan3/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T04:32:20Z` / `2024-06-28T04:33:08Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/pan2">Jesse121608/pan2</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/pan2/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T04:26:32Z` / `2024-06-28T04:29:30Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/panaderia">Jesse121608/panaderia</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/panaderia/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T04:17:50Z` / `2024-06-28T04:19:46Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/proyecto">Jesse121608/proyecto</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/proyecto/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T03:45:31Z` / `2024-06-28T04:02:35Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/web1">Jesse121608/web1</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/web1/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T03:38:29Z` / `2024-06-28T03:39:34Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/prueba">Jesse121608/prueba</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/prueba/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T01:25:03Z` / `2024-06-28T01:26:58Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/El-refran">Jesse121608/El-refran</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/El-refran/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T00:51:18Z` / `2024-06-28T01:07:38Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/Jesse121608/Elrefran">Jesse121608/Elrefran</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [Jesse121608](https://github.com/Jesse121608)
+- Live site: https://Jesse121608.github.io/Elrefran/
+- Identity tier: **1**
+- Created / pushed: `2024-06-28T00:38:21Z` / `2024-06-28T00:40:03Z`
+- Account created: `2024-06-28T00:32:20Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Jesse121608` / `trujillovargasjessejavier@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `40` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/jessgenos/music-player">jessgenos/music-player</a></strong> · probable photos 4 · identity jess</summary>
+
+- Owner: [jessgenos](https://github.com/jessgenos)
+- Live site: https://jessgenos.github.io/music-player/
+- Identity tier: **1**
+- Created / pushed: `2024-06-22T09:50:31Z` / `2024-06-22T09:53:42Z`
+- Account created: `2024-06-20T18:33:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `none`
+- Profile name: `Pratik Jaiswal`
+- Commit identity hits: `jess`
+- Latest commit author: `pratik` / `pratiksf099@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `image/Toh-Aagaye-Hum.jpg`
+- `image/download.jpeg`
+- `image/images.jpeg`
+- `image/libaas.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/Aplikasi-Nico-Furniture">JessikaOlivia/Aplikasi-Nico-Furniture</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/Aplikasi-Nico-Furniture/
+- Identity tier: **1**
+- Created / pushed: `2024-07-21T18:25:37Z` / `2024-07-21T18:26:31Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/Website-Bengkel-Jogja-Motor-">JessikaOlivia/Website-Bengkel-Jogja-Motor-</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/Website-Bengkel-Jogja-Motor-/
+- Identity tier: **1**
+- Created / pushed: `2024-07-07T14:15:37Z` / `2024-07-07T14:20:15Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/Website-Bengkel-Jogja-Motor">JessikaOlivia/Website-Bengkel-Jogja-Motor</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/Website-Bengkel-Jogja-Motor/
+- Identity tier: **1**
+- Created / pushed: `2024-07-07T08:38:46Z` / `2024-07-07T08:44:47Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/Website-Jogja-Motor--">JessikaOlivia/Website-Jogja-Motor--</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/Website-Jogja-Motor--/
+- Identity tier: **1**
+- Created / pushed: `2024-07-07T08:17:53Z` / `2024-07-07T08:37:47Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/Jogja-Motor.gib">JessikaOlivia/Jogja-Motor.gib</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/Jogja-Motor.gib/
+- Identity tier: **1**
+- Created / pushed: `2024-06-25T01:39:14Z` / `2024-07-07T08:09:39Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/JessikaOlivia/WebsiteBengkelMotor">JessikaOlivia/WebsiteBengkelMotor</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [JessikaOlivia](https://github.com/JessikaOlivia)
+- Live site: https://JessikaOlivia.github.io/WebsiteBengkelMotor/
+- Identity tier: **1**
+- Created / pushed: `2024-06-25T01:18:32Z` / `2024-06-25T01:20:15Z`
+- Account created: `2024-06-25T01:02:56Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessika Olivia`
+- Commit identity hits: `jess`
+- Latest commit author: `JessikaOlivia` / `jessikaolivia07@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
