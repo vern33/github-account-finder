@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-08-30T12:56:07.749079+00:00`  
-Repositories inspected: `9055`  
-Candidates: `1108`
+Last run: `2026-08-30T17:32:04.974516+00:00`  
+Repositories inspected: `10623`  
+Candidates: `1126`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -44015,6 +44015,800 @@ None.
 - `assets/img/9.jpg`
 - `assets/img/prof_pic.jpg`
 - `assets/img/prof_pic_color.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/Axiom32/axiom32.github.io">Axiom32/axiom32.github.io</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [Axiom32](https://github.com/Axiom32)
+- Live site: https://Axiom32.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-07T03:09:00Z` / `2024-06-10T15:08:39Z`
+- Account created: `2024-06-07T02:27:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Axiom`
+- Commit identity hits: `none`
+- Latest commit author: `Axiom` / `4hourhalf@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `img/ads-1.jpg`
+- `img/ads-2.jpg`
+- `img/news-350x223-1.jpg`
+- `img/news-350x223-2.jpg`
+- `img/news-350x223-3.jpg`
+- `img/news-350x223-4.jpg`
+- `img/news-350x223-5.jpg`
+- `img/news-450x350-1.jpg`
+- `img/news-450x350-2.jpg`
+- `img/news-825x525.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/todayclashnode/todayclashnode.github.io">todayclashnode/todayclashnode.github.io</a></strong> · probable photos 65 · identity none</summary>
+
+- Owner: [todayclashnode](https://github.com/todayclashnode)
+- Live site: https://todayclashnode.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T06:21:21Z` / `2026-08-28T03:21:34Z`
+- Account created: `2024-06-08T06:18:29Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `gugugagana@outlook.com` / `gugugagana@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `67` / `65`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/addons/xcblog/img/todayclashnode/blog1.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-1.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-2.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-3.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-4.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-5.jpg`
+- `assets/addons/xcblog/img/todayclashnode/portfolio-6.jpg`
+- `assets/addons/xcblog/img/todayclashnode/template-mac.png`
+- `assets/addons/xcblog/js/frontend/todayclashnode/lightbox2/images/close.png`
+- `assets/addons/xcblog/js/frontend/todayclashnode/lightbox2/images/next.png`
+- `assets/addons/xcblog/js/frontend/todayclashnode/lightbox2/images/prev.png`
+- `assets/website/img/G/feiniaojiasu.webp`
+- `assets/website/img/G/luniuyun.webp`
+- `assets/website/img/G/xingchen.webp`
+- `assets/website/img/todayclashnode/blog1.jpg`
+- `assets/website/img/todayclashnode/portfolio-1.jpg`
+- `assets/website/img/todayclashnode/portfolio-2.jpg`
+- `assets/website/img/todayclashnode/portfolio-3.jpg`
+- `assets/website/img/todayclashnode/portfolio-4.jpg`
+- `assets/website/img/todayclashnode/portfolio-5.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/Verify-it-app/Verify-it-app.github.io">Verify-it-app/Verify-it-app.github.io</a></strong> · probable photos 52 · identity none</summary>
+
+- Owner: [Verify-it-app](https://github.com/Verify-it-app)
+- Live site: https://Verify-it-app.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T16:58:03Z` / `2024-06-23T18:02:32Z`
+- Account created: `2024-06-08T16:56:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Munna kumar`
+- Commit identity hits: `none`
+- Latest commit author: `Verify-it-app` / `verify.it.app@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `53` / `52`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/international/images/article/sanctions.jpg`
+- `assets/international/images/reality/oil-russia.png`
+- `assets/politics/images/article/atalart.jpg`
+- `assets/politics/images/article/indian-explosive.jpg`
+- `assets/politics/images/article/maharashtra.jpg`
+- `assets/politics/images/reality/atalreal.jpg`
+- `assets/politics/images/reality/ul-mark.png`
+- `assets/politics/images/reality/wafq.jpg`
+- `assets/religious/images/article/indian-explosive.jpg`
+- `assets/religious/images/article/quran-higgs.png`
+- `assets/religious/images/article/reasi-attack.jpg`
+- `assets/religious/images/reality/higgs.jpg`
+- `assets/religious/images/reality/reasi-banned.png`
+- `assets/scientific/images/article/river-moon.png`
+- `assets/scientific/images/article/subatomic-particle.jpg`
+- `assets/scientific/images/reality/hadron-collider.jpg`
+- `assets/scientific/images/reality/moon-water.png`
+- `images/about-img1.jpg`
+- `images/about-img2.jpg`
+- `images/adi.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/weimingcc/weimingcc.github.io">weimingcc/weimingcc.github.io</a></strong> · probable photos 14 · identity none</summary>
+
+- Owner: [weimingcc](https://github.com/weimingcc)
+- Live site: https://weimingcc.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T07:35:25Z` / `2024-06-09T08:43:45Z`
+- Account created: `2024-06-08T06:01:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `mingw` / `lamweiming.cc@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `assets/images/msg.png`
+- `assets/images/papermod-cover.png`
+- `resources/_gen/images/images/msg_hu5deb5e6d9e0f2517f781ba2ad78170fc_29736_1080x0_resize_box_3.png`
+- `resources/_gen/images/images/msg_hu5deb5e6d9e0f2517f781ba2ad78170fc_29736_1500x0_resize_box_3.png`
+- `resources/_gen/images/images/msg_hu5deb5e6d9e0f2517f781ba2ad78170fc_29736_360x0_resize_box_3.png`
+- `resources/_gen/images/images/msg_hu5deb5e6d9e0f2517f781ba2ad78170fc_29736_480x0_resize_box_3.png`
+- `resources/_gen/images/images/msg_hu5deb5e6d9e0f2517f781ba2ad78170fc_29736_720x0_resize_box_3.png`
+- `resources/_gen/images/images/papermod-cover_hu5a3b6266abb2c4d5448bc8a769943128_87965_1080x0_resize_box_3.png`
+- `resources/_gen/images/images/papermod-cover_hu5a3b6266abb2c4d5448bc8a769943128_87965_360x0_resize_box_3.png`
+- `resources/_gen/images/images/papermod-cover_hu5a3b6266abb2c4d5448bc8a769943128_87965_480x0_resize_box_3.png`
+- `resources/_gen/images/images/papermod-cover_hu5a3b6266abb2c4d5448bc8a769943128_87965_720x0_resize_box_3.png`
+- `static/images/palestine.png`
+- `static/images/two-swallows.jpg`
+- `themes/PaperMod/images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/carrickfergusmencap/carrickfergusmencap.github.io">carrickfergusmencap/carrickfergusmencap.github.io</a></strong> · probable photos 4 · identity none</summary>
+
+- Owner: [carrickfergusmencap](https://github.com/carrickfergusmencap)
+- Live site: https://carrickfergusmencap.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T16:19:26Z` / `2024-06-13T19:22:43Z`
+- Account created: `2024-06-08T16:17:15Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `carrickfergusmencap` / `info@carrickfergusmencap.org.uk`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `12` / `4`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (4)</summary>
+
+- `public/android-chrome-192x192.png`
+- `public/android-chrome-512x512.png`
+- `static/android-chrome-192x192.png`
+- `static/android-chrome-512x512.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/jhfacetados/jhfacetados.github.io">jhfacetados/jhfacetados.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [jhfacetados](https://github.com/jhfacetados)
+- Live site: https://jhfacetados.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T05:20:59Z` / `2024-07-25T08:35:21Z`
+- Account created: `2024-06-03T05:01:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Asdii` / `joaquinherrera2016@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/portugaladdress/portugaladdress.github.io">portugaladdress/portugaladdress.github.io</a></strong> · probable photos 44 · identity none</summary>
+
+- Owner: [portugaladdress](https://github.com/portugaladdress)
+- Live site: https://portugaladdress.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-08T03:05:56Z` / `2025-01-05T13:34:23Z`
+- Account created: `2024-06-08T03:04:14Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `portugaladdress` / `portugaladdress@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `hike, xiamen`
+- Images / probable photos: `46` / `44`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/addons/xcblog/img/+.png`
+- `assets/addons/xcblog/img/-.png`
+- `assets/addons/xcblog/img/plus.png`
+- `uploads/20240608/e3adfbce99b1111aa9eddc942c6ee42d.jpg`
+- `uploads/20240614/04b6fa2a0ebbf4beb7da429699b38d50.jpg`
+- `uploads/20240614/04b6fa2a0ebbf4beb7da429699b38d50.webp`
+- `uploads/20240614/055c81aece16c385c00a2f7a1100eb37.jpg`
+- `uploads/20240614/055c81aece16c385c00a2f7a1100eb37.webp`
+- `uploads/20240614/0b1f74718f22ff648c6748b464438424.jpg`
+- `uploads/20240614/0b1f74718f22ff648c6748b464438424.webp`
+- `uploads/20240614/0c40c46582ea848557dead5c9dc49f7f.jpg`
+- `uploads/20240614/0c40c46582ea848557dead5c9dc49f7f.webp`
+- `uploads/20240614/268c6fb6b397dee3eb599d4f754b5a8f.jpg`
+- `uploads/20240614/268c6fb6b397dee3eb599d4f754b5a8f.webp`
+- `uploads/20240614/36a82a9aa6aed3e34b628f0033f5b100.jpg`
+- `uploads/20240614/36a82a9aa6aed3e34b628f0033f5b100.webp`
+- `uploads/20240614/45b57215f053760059432b977f91562c.jpg`
+- `uploads/20240614/45b57215f053760059432b977f91562c.webp`
+- `uploads/20240614/53f78b9c970ace2489855cbbb106a5dd.jpg`
+- `uploads/20240614/53f78b9c970ace2489855cbbb106a5dd.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/II-Bench/II-bench.github.io">II-Bench/II-bench.github.io</a></strong> · probable photos 7 · identity liu</summary>
+
+- Owner: [II-Bench](https://github.com/II-Bench)
+- Live site: https://II-Bench.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T14:15:01Z` / `2024-10-28T09:10:10Z`
+- Account created: `2024-06-09T14:12:15Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `icoderzqliu` / `243806876@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `86` / `7`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (7)</summary>
+
+- `images/II-bench-sample.jpg`
+- `images/II-bench-type.png`
+- `images/composition.jpg`
+- `images/error.png`
+- `images/prompt.png`
+- `images/shot.png`
+- `images/statics.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/paralegalis/paralegalis.github.io">paralegalis/paralegalis.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [paralegalis](https://github.com/paralegalis)
+- Live site: https://paralegalis.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T16:08:05Z` / `2024-06-09T16:08:07Z`
+- Account created: `2024-06-09T09:43:27Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `paralegalis` / `paralegal.is.77@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/verminmedia/verminmedia.github.io">verminmedia/verminmedia.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [verminmedia](https://github.com/verminmedia)
+- Live site: https://verminmedia.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T19:20:05Z` / `2024-06-10T11:00:14Z`
+- Account created: `2024-06-07T13:22:04Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `verminmedia` / `john.connett@verminmedia.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/bqdh/bqdh.github.io">bqdh/bqdh.github.io</a></strong> · probable photos 33 · identity none</summary>
+
+- Owner: [bqdh](https://github.com/bqdh)
+- Live site: https://bqdh.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T09:50:41Z` / `2024-06-09T10:04:58Z`
+- Account created: `2024-06-09T09:49:05Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `bqdh` / `bqdh@duck.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `757` / `33`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/asserts/images/binance.png`
+- `public/asserts/images/bithumb.png`
+- `public/asserts/images/cmegroup.png`
+- `public/asserts/images/coinbase.png`
+- `public/asserts/images/gate.png`
+- `public/asserts/images/okx.png`
+- `public/assets/images/bg-bio.jpg`
+- `public/assets/images/bg-dna.jpg`
+- `public/assets/images/bg-math.jpg`
+- `public/assets/images/bt.png`
+- `public/assets/images/bt8-expand-dark.png`
+- `public/assets/images/bt8-expand-light.png`
+- `public/assets/images/forkme_on_github_right_darkblue.png`
+- `public/assets/images/off_on.png`
+- `public/assets/images/qqgroup_webstack.jpg`
+- `public/assets/images/qqgroup_webstack2.jpg`
+- `public/assets/images/币圈-导航.png`
+- `public/images/binance.png`
+- `public/images/bithumb.png`
+- `public/images/cmegroup.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/devdotme/devdotme.github.io">devdotme/devdotme.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [devdotme](https://github.com/devdotme)
+- Live site: https://devdotme.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T15:11:08Z` / `2024-06-09T15:16:06Z`
+- Account created: `2024-06-09T15:09:03Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `José Manuel Suárez Tocino`
+- Commit identity hits: `none`
+- Latest commit author: `José Manuel Suárez Tocino` / `dev.dotme@yahoo.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/CupcakeMafiaTV/cupcakemafiatv.github.io">CupcakeMafiaTV/cupcakemafiatv.github.io</a></strong> · probable photos 40 · identity none</summary>
+
+- Owner: [CupcakeMafiaTV](https://github.com/CupcakeMafiaTV)
+- Live site: https://cupcakemafiatv-github-io.vercel.app
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T18:51:29Z` / `2026-08-30T17:25:38Z`
+- Account created: `2024-06-08T17:26:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `CupcakeMafiaTV` / `cupcakemafiatvgaming@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `46` / `40`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `website/static/img/og-image.png`
+- `website/themes/cupcakemafiatv/static/img/Champ-Ahri.jpg`
+- `website/themes/cupcakemafiatv/static/img/Champ-Gwen.webp`
+- `website/themes/cupcakemafiatv/static/img/Champ-Leblanc.webp`
+- `website/themes/cupcakemafiatv/static/img/Champ-Velkoz.webp`
+- `website/themes/cupcakemafiatv/static/img/Champ-Yorick.webp`
+- `website/themes/cupcakemafiatv/static/img/Champ-Zoe.webp`
+- `website/themes/cupcakemafiatv/static/img/CodyAboutMe.webp`
+- `website/themes/cupcakemafiatv/static/img/CodySetup.webp`
+- `website/themes/cupcakemafiatv/static/img/CodyWeirdAl.webp`
+- `website/themes/cupcakemafiatv/static/img/Grounded.webp`
+- `website/themes/cupcakemafiatv/static/img/League of Legends.webp`
+- `website/themes/cupcakemafiatv/static/img/League.jpg`
+- `website/themes/cupcakemafiatv/static/img/Masters.webp`
+- `website/themes/cupcakemafiatv/static/img/PCSpecs-1.webp`
+- `website/themes/cupcakemafiatv/static/img/PCSpecs-2.webp`
+- `website/themes/cupcakemafiatv/static/img/PCSpecs-3.webp`
+- `website/themes/cupcakemafiatv/static/img/PCSpecs-4.webp`
+- `website/themes/cupcakemafiatv/static/img/ScottPilgrim.webp`
+- `website/themes/cupcakemafiatv/static/img/Shantae7.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/mingrliu/mingrliu.github.io">mingrliu/mingrliu.github.io</a></strong> · probable photos 10 · identity liu</summary>
+
+- Owner: [mingrliu](https://github.com/mingrliu)
+- Live site: https://mingrliu.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-09T03:40:22Z` / `2026-08-26T09:32:51Z`
+- Account created: `2020-06-04T22:12:36Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Mercurial1101` / `66445833+mingrliu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `images/group_photos/Group_meeting.jpg`
+- `images/group_photos/photo1_NeurIPS2023.jpg`
+- `images/group_photos/photo2.jpg`
+- `images/group_photos/photo2_NeurIPS2023.jpg`
+- `images/group_photos/photo3_NeurIPS2023.jpg`
+- `images/photo1.jpg`
+- `images/photo2.png`
+- `images/photo3.png`
+- `images/photo_2026.png`
+- `images/photo_2026.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/styxva/styxva.github.io">styxva/styxva.github.io</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [styxva](https://github.com/styxva)
+- Live site: https://styxva.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T15:45:29Z` / `2025-05-27T15:01:03Z`
+- Account created: `2024-06-09T15:43:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Styx`
+- Commit identity hits: `none`
+- Latest commit author: `Tom Keilers` / `tom.keilers@fau.de`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `17` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `public/pfp.png`
+- `public/thumbnails/Cage.png`
+- `public/thumbnails/End.png`
+- `public/thumbnails/Existence.png`
+- `public/thumbnails/Finally Happier.png`
+- `public/thumbnails/Gentle Encouragement.png`
+- `public/thumbnails/If I could just save you.png`
+- `public/thumbnails/Missing Stars.png`
+- `public/thumbnails/One sided Love.png`
+- `public/thumbnails/This Feeling.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/iraqaddress/iraqaddress.github.io">iraqaddress/iraqaddress.github.io</a></strong> · probable photos 44 · identity none</summary>
+
+- Owner: [iraqaddress](https://github.com/iraqaddress)
+- Live site: https://iraqaddress.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T03:40:37Z` / `2025-01-05T13:53:58Z`
+- Account created: `2024-06-09T03:38:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `satinaqi` / `satinaqi@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `hike, xiamen`
+- Images / probable photos: `46` / `44`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/addons/xcblog/img/+.png`
+- `assets/addons/xcblog/img/-.png`
+- `assets/addons/xcblog/img/plus.png`
+- `uploads/20240609/36c0c8fca753d24282dc00663c5eccaa.jpg`
+- `uploads/20240617/017ad5d48576e4a8b2f923af6e6b0e66.jpg`
+- `uploads/20240617/017ad5d48576e4a8b2f923af6e6b0e66.webp`
+- `uploads/20240617/0fdc40d40cb3e478bc9034144fb612ff.jpg`
+- `uploads/20240617/0fdc40d40cb3e478bc9034144fb612ff.webp`
+- `uploads/20240617/6a6fe7c7e3ba099dd8ca0b389fd91af8.jpg`
+- `uploads/20240617/6a6fe7c7e3ba099dd8ca0b389fd91af8.webp`
+- `uploads/20240617/79c71738c504422201e942e628aea6e1.jpg`
+- `uploads/20240617/79c71738c504422201e942e628aea6e1.webp`
+- `uploads/20240617/7b38308e22d10ad9977596f684e1332b.jpg`
+- `uploads/20240617/7b38308e22d10ad9977596f684e1332b.webp`
+- `uploads/20240617/97ab7ae750b3c18d9eaa66b9f802b8e2.jpg`
+- `uploads/20240617/97ab7ae750b3c18d9eaa66b9f802b8e2.webp`
+- `uploads/20240617/987f17a5d5516dd3b23e8ade62395b98.jpg`
+- `uploads/20240617/987f17a5d5516dd3b23e8ade62395b98.webp`
+- `uploads/20240617/ac5a84d8ae05270c4dc95e29faa55889.jpg`
+- `uploads/20240617/ac5a84d8ae05270c4dc95e29faa55889.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/tangwei0620/tangwei0620.github.io">tangwei0620/tangwei0620.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [tangwei0620](https://github.com/tangwei0620)
+- Live site: https://tangwei0620.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-09T15:09:11Z` / `2024-06-09T15:36:56Z`
+- Account created: `2024-06-09T15:05:01Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `tangwei0620` / `hystangwei@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 15 points — <a href="https://github.com/swedenaddress/swedenaddress.github.io">swedenaddress/swedenaddress.github.io</a></strong> · probable photos 91 · identity none</summary>
+
+- Owner: [swedenaddress](https://github.com/swedenaddress)
+- Live site: https://swedenaddress.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-10T11:40:53Z` / `2025-02-10T07:00:12Z`
+- Account created: `2024-06-10T11:37:34Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `swedenaddress` / `swedenaddress@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `hike, xiamen`
+- Images / probable photos: `91` / `91`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/addons/xcblog/img/+.png`
+- `assets/addons/xcblog/img/-.png`
+- `assets/addons/xcblog/img/plus.png`
+- `assets/addons/xcblog/img/swedenaddress/1.jpg`
+- `assets/addons/xcblog/img/swedenaddress/10.jpg`
+- `assets/addons/xcblog/img/swedenaddress/11.jpg`
+- `assets/addons/xcblog/img/swedenaddress/12.jpg`
+- `assets/addons/xcblog/img/swedenaddress/13.jpg`
+- `assets/addons/xcblog/img/swedenaddress/2.jpg`
+- `assets/addons/xcblog/img/swedenaddress/3.jpg`
+- `assets/addons/xcblog/img/swedenaddress/4.jpg`
+- `assets/addons/xcblog/img/swedenaddress/5.jpg`
+- `assets/addons/xcblog/img/swedenaddress/6.jpg`
+- `assets/addons/xcblog/img/swedenaddress/7.jpg`
+- `assets/addons/xcblog/img/swedenaddress/8.jpg`
+- `assets/addons/xcblog/img/swedenaddress/9.jpg`
+- `assets/addons/xcblog/img/swedenaddress/b1.jpg`
+- `assets/addons/xcblog/img/swedenaddress/b2.jpg`
+- `assets/addons/xcblog/img/swedenaddress/b3.jpg`
+- `assets/addons/xcblog/img/swedenaddress/b4.jpg`
 
 </details>
 
