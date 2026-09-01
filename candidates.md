@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-09-01T10:11:41.553876+00:00`  
-Repositories inspected: `25538`  
-Candidates: `1403`
+Last run: `2026-09-01T14:56:02.096058+00:00`  
+Repositories inspected: `36030`  
+Candidates: `1410`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -56492,6 +56492,288 @@ None.
 <details><summary>Sample photos (0)</summary>
 
 None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/jason810496/blog-archived">jason810496/blog-archived</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [jason810496](https://github.com/jason810496)
+- Live site: https://blog-archived.zhu424.dev
+- Identity tier: **1**
+- Created / pushed: `2024-06-08T08:47:00Z` / `2024-06-08T15:03:15Z`
+- Account created: `2020-07-17T06:23:27Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `Jason(Zhe-You) Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `LIU ZHE YOU` / `68415893+jason810496@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `70` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2022-02-01-markdown-tutorial.md`
+- `_posts/2022-02-01-test.md`
+- `_posts/2022-02-07-blog-seo-setting.md`
+- `_posts/2022-02-07-linux-bluetooth-zh.md`
+- `_posts/2022-02-07-linux-bluetooth.md`
+- `_posts/2022-02-08-github-profile-zh.md`
+- `_posts/2022-02-08-github-profile.md`
+- `_posts/2022-02-08-github-subdir.md`
+- `_posts/2022-02-10-math-theory.md`
+- `_posts/2022-03-11-void-pointer.md`
+- `_posts/2022-03-15-inversion-merge-sort.md`
+- `_posts/2022-03-22-ZJstats.md`
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `_site/assets/img/Profile.png`
+- `assets/img/Profile.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Drewjames2004/Buenaflor-s-Blog">Drewjames2004/Buenaflor-s-Blog</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [Drewjames2004](https://github.com/Drewjames2004)
+- Live site: https://Drewjames2004.github.io/Buenaflor-s-Blog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-12T20:58:11Z` / `2024-06-13T04:08:41Z`
+- Account created: `2024-06-12T20:56:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Andrew James Buneaflor`
+- Commit identity hits: `none`
+- Latest commit author: `Drewjames2004` / `ajlbuenaflor@nemsu.edu.ph`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `11` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `img/1.png`
+- `img/2.png`
+- `img/3.png`
+- `img/HOME.png`
+- `img/c.png`
+- `img/c1.png`
+- `img/catt.png`
+- `img/fam.png`
+- `img/friend.png`
+- `img/me.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/MaxHazzan/Blog">MaxHazzan/Blog</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [MaxHazzan](https://github.com/MaxHazzan)
+- Live site: https://MaxHazzan.github.io/Blog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-13T14:11:38Z` / `2024-12-27T19:04:17Z`
+- Account created: `2024-06-12T14:39:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `MaxHazzan` / `maheralmamoun@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/profile.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Drewjames2004/AnnaBlog">Drewjames2004/AnnaBlog</a></strong> · probable photos 6 · identity none</summary>
+
+- Owner: [Drewjames2004](https://github.com/Drewjames2004)
+- Live site: https://Drewjames2004.github.io/AnnaBlog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-13T14:01:46Z` / `2024-06-13T14:51:01Z`
+- Account created: `2024-06-12T20:56:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Andrew James Buneaflor`
+- Commit identity hits: `none`
+- Latest commit author: `Drewjames2004` / `ajlbuenaflor@nemsu.edu.ph`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `img/1.png`
+- `img/android-chrome-512x512.png`
+- `img/bg.jpg`
+- `img/me.png`
+- `img/sea.png`
+- `img/tree.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Marie040400/AnnaMarie-Blog">Marie040400/AnnaMarie-Blog</a></strong> · probable photos 6 · identity none</summary>
+
+- Owner: [Marie040400](https://github.com/Marie040400)
+- Live site: https://Marie040400.github.io/AnnaMarie-Blog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-14T01:55:14Z` / `2024-06-14T01:59:25Z`
+- Account created: `2024-06-13T15:06:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Marie040400` / `annamarie.quico@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `img/1.png`
+- `img/android-chrome-512x512.png`
+- `img/bg.jpg`
+- `img/me.png`
+- `img/sea.png`
+- `img/tree.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Marie040400/Rogelyn-Personal-Blog">Marie040400/Rogelyn-Personal-Blog</a></strong> · probable photos 10 · identity none</summary>
+
+- Owner: [Marie040400](https://github.com/Marie040400)
+- Live site: https://Marie040400.github.io/Rogelyn-Personal-Blog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-14T07:25:08Z` / `2024-06-14T07:29:11Z`
+- Account created: `2024-06-13T15:06:53Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Marie040400` / `annamarie.quico@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `10`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (10)</summary>
+
+- `img/Adobo.png`
+- `img/Halo-halo.png`
+- `img/Kare-kare.png`
+- `img/Lechon.png`
+- `img/Pancit.png`
+- `img/Sinigang.png`
+- `img/android-chrome-192x192.png`
+- `img/bghome.png`
+- `img/home.png`
+- `img/user.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/rajeshrathwa15/ResponsiveBlogTemplate-Using-HTML-CSS-JS">rajeshrathwa15/ResponsiveBlogTemplate-Using-HTML-CSS-JS</a></strong> · probable photos 5 · identity none</summary>
+
+- Owner: [rajeshrathwa15](https://github.com/rajeshrathwa15)
+- Live site: https://rajeshrathwa15.github.io/ResponsiveBlogTemplate-Using-HTML-CSS-JS/
+- Identity tier: **0**
+- Created / pushed: `2024-06-20T08:23:00Z` / `2024-06-22T11:47:14Z`
+- Account created: `2024-06-18T07:23:08Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `rajeshrathwa15` / `bitsjin37@bitbaroda.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `img/1.png`
+- `img/2.png`
+- `img/3.png`
+- `img/4.png`
+- `img/Vecteezy_Diwali-Illustration_ba1020.jpg`
 
 </details>
 
