@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-09-01T14:56:02.096058+00:00`  
-Repositories inspected: `36030`  
-Candidates: `1410`
+Last run: `2026-09-01T18:34:42.396117+00:00`  
+Repositories inspected: `44723`  
+Candidates: `1420`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -56774,6 +56774,478 @@ None.
 - `img/3.png`
 - `img/4.png`
 - `img/Vecteezy_Diwali-Illustration_ba1020.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liuxiaoleii/blog">liuxiaoleii/blog</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuxiaoleii](https://github.com/liuxiaoleii)
+- Live site: https://liuxiaoleii.github.io/blog/
+- Identity tier: **1**
+- Created / pushed: `2024-06-24T08:32:45Z` / `2026-03-17T08:07:18Z`
+- Account created: `2022-09-13T08:27:14Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `liuxiaoleii` / `113425527+liuxiaoleii@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/Winston-Cool/Blog">Winston-Cool/Blog</a></strong> · probable photos 43 · identity none</summary>
+
+- Owner: [Winston-Cool](https://github.com/Winston-Cool)
+- Live site: https://Winston-Cool.github.io/Blog/
+- Identity tier: **0**
+- Created / pushed: `2024-06-25T09:59:13Z` / `2024-06-25T10:10:39Z`
+- Account created: `2024-06-17T14:10:24Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Winston-Cool` / `zhangwendev@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `50` / `43`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/post/zw.md`
+- `public/post/index.html`
+- `public/post/readme/index.html`
+- `public/post/zw/index.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/img/404-bg.jpg`
+- `public/img/IMG_5311.heic`
+- `public/img/contact-bg.jpg`
+- `public/img/disqus.png`
+- `public/img/home-bg-jeep.jpg`
+- `public/img/post-bg-coffee.jpeg`
+- `public/img/post-bg-unix-linux.jpg`
+- `public/img/post.png`
+- `public/img/reward/alipay-1.png`
+- `public/img/reward/alipay-10.png`
+- `public/img/reward/alipay-100.png`
+- `public/img/reward/alipay-2.png`
+- `public/img/reward/alipay-5.png`
+- `public/img/reward/alipay-50.png`
+- `public/img/reward/alipay-btn.png`
+- `public/img/reward/wechat-1.png`
+- `public/img/reward/wechat-10.png`
+- `public/img/reward/wechat-100.png`
+- `public/img/reward/wechat-2.png`
+- `public/img/reward/wechat-5.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/liubobo-f/blogTemplate">liubobo-f/blogTemplate</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liubobo-f](https://github.com/liubobo-f)
+- Live site: https://liubobo-f.github.io/blogTemplate/
+- Identity tier: **1**
+- Created / pushed: `2024-07-03T04:28:02Z` / `2024-07-08T09:44:56Z`
+- Account created: `2022-08-19T13:12:02Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Bobo-Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Bobo-Liu` / `111578882+funnymax@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `_posts/2024-07-03-示例blog文章.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liudongsir/hexo">liudongsir/hexo</a></strong> · probable photos 45 · identity liu</summary>
+
+- Owner: [liudongsir](https://github.com/liudongsir)
+- Live site: https://liudongsir.github.io/hexo/
+- Identity tier: **1**
+- Created / pushed: `2024-07-03T04:53:52Z` / `2024-08-16T08:42:32Z`
+- Account created: `2017-10-26T10:03:28Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Administrator` / `rr@`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `95` / `45`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `posts/27999/index.html`
+- `posts/2970/index.html`
+- `posts/31415/index.html`
+- `posts/3436e1c5/index.html`
+- `posts/53336/index.html`
+- `posts/55908/index.html`
+- `posts/5f8ff0b7/index.html`
+- `posts/7361/index.html`
+- `posts/afcbc60d/index.html`
+- `posts/b184cf1a/index.html`
+- `posts/d87f7e0c/index.html`
+- `posts/ebba4e5e/index.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/2024-07-03hexo博客/b9ed9f4872c8da34cbd81c0ffef10bd.png`
+- `images/2024-07-03hexo博客/back-title.jpg`
+- `images/2024-07-03hexo博客/image-20240703180115686.png`
+- `images/2024-07-03hexo博客/image-20240703180647089.png`
+- `images/2024-07-03hexo博客/image-20240703180835748.png`
+- `images/2024-07-03hexo博客/image-20240703181034779.png`
+- `images/2024-07-03hexo博客/image-20240703181203043.png`
+- `images/2024-07-03hexo博客图片访问问题/1567505538899-1720084585925.png`
+- `images/2024-07-03hexo博客图片访问问题/1567505538899.png`
+- `images/2024-07-03hexo博客图片访问问题/image-20240703180835748.png`
+- `images/2024-07-03hexo博客图片访问问题/image-20240704172502202.png`
+- `images/2024-07-03hexo博客搭建/b9ed9f4872c8da34cbd81c0ffef10bd.png`
+- `images/2024-07-03hexo博客搭建/back-title-1720155751017.jpg`
+- `images/2024-07-03hexo博客搭建/back-title.jpg`
+- `images/2024-07-03hexo博客搭建/image-20240703180115686.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180647089-1720155739924.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180647089.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180835748-1720155743155.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180835748.png`
+- `images/2024-07-03hexo博客搭建/image-20240703181034779-1720155733933.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/liudongsir/hexo2">liudongsir/hexo2</a></strong> · probable photos 176 · identity liu</summary>
+
+- Owner: [liudongsir](https://github.com/liudongsir)
+- Live site: https://liudongsir.github.io/hexo2/
+- Identity tier: **1**
+- Created / pushed: `2024-07-03T04:58:16Z` / `2026-06-12T08:07:51Z`
+- Account created: `2017-10-26T10:03:28Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Administrator` / `rr@`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `232` / `176`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `posts/0/index.html`
+- `posts/1866bdaf/index.html`
+- `posts/198a4240/index.html`
+- `posts/1b183351/index.html`
+- `posts/1f77c739/index.html`
+- `posts/21cfbf15/index.html`
+- `posts/22bc2210/index.html`
+- `posts/2428cc0/index.html`
+- `posts/2447e571/index.html`
+- `posts/27999/index.html`
+- `posts/2970/index.html`
+- `posts/2de65e86/index.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/2020-11-23feign/20190324221731575.png`
+- `images/2020-11-23分布式事务的一些概念/p.jpg`
+- `images/2020-11-26-1网络协议--程序员必备知识点/2.png`
+- `images/2020-11-26-1网络协议--程序员必备知识点/3.png`
+- `images/2024-07-03hexo博客/back-title.jpg`
+- `images/2024-07-03hexo博客/image-20240703180115686.png`
+- `images/2024-07-03hexo博客/image-20240703180647089.png`
+- `images/2024-07-03hexo博客/image-20240703180835748.png`
+- `images/2024-07-03hexo博客/image-20240703181034779.png`
+- `images/2024-07-03hexo博客/image-20240703181203043.png`
+- `images/2024-07-03hexo博客图片访问问题/1567505538899-1720084585925.png`
+- `images/2024-07-03hexo博客图片访问问题/1567505538899.png`
+- `images/2024-07-03hexo博客图片访问问题/image-20240703180835748.png`
+- `images/2024-07-03hexo博客图片访问问题/image-20240704172502202.png`
+- `images/2024-07-03hexo博客搭建/b9ed9f4872c8da34cbd81c0ffef10bd.png`
+- `images/2024-07-03hexo博客搭建/back-title-1720155751017.jpg`
+- `images/2024-07-03hexo博客搭建/back-title.jpg`
+- `images/2024-07-03hexo博客搭建/image-20240703180115686.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180647089-1720155739924.png`
+- `images/2024-07-03hexo博客搭建/image-20240703180647089.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/liujinzhu333/blog-hexo">liujinzhu333/blog-hexo</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [liujinzhu333](https://github.com/liujinzhu333)
+- Live site: https://liujinzhu333.github.io/blog-hexo/
+- Identity tier: **1**
+- Created / pushed: `2024-07-22T08:35:15Z` / `2024-08-05T06:16:43Z`
+- Account created: `2020-01-08T02:56:25Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `liujinzhu`
+- Commit identity hits: `liu`
+- Latest commit author: `liujinzhu` / `liujinzhu@xiaohongshu.net`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `images/taichi-fill.png`
+- `images/taichi.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 10 points — <a href="https://github.com/guitimliu/hex_hexo">guitimliu/hex_hexo</a></strong> · probable photos 41 · identity liu</summary>
+
+- Owner: [guitimliu](https://github.com/guitimliu)
+- Live site: https://guitimliu.github.io/hex_hexo/
+- Identity tier: **1**
+- Created / pushed: `2024-06-03T16:35:23Z` / `2024-07-11T04:06:53Z`
+- Account created: `2020-03-15T02:17:59Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `Gui`
+- Commit identity hits: `liu`
+- Latest commit author: `Gui` / `guitimliu@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `41` / `41`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `source/_posts/hello-world.md`
+- `source/_posts/post-one.md`
+- `source/_posts/post-two.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `themes/hexschool/source/images/article-image1.png`
+- `themes/hexschool/source/images/article-image2.png`
+- `themes/hexschool/source/images/article-image3.png`
+- `themes/hexschool/source/images/article-image4.png`
+- `themes/hexschool/source/images/article-image5.png`
+- `themes/hexschool/source/images/article-image6.png`
+- `themes/hexschool/source/images/article-image7.png`
+- `themes/hexschool/source/images/default-cover.png`
+- `themes/hexschool/source/images/footer-bg-lg.png`
+- `themes/hexschool/source/images/footer-bg-sm.png`
+- `themes/hexschool/source/images/hero-lg.png`
+- `themes/hexschool/source/images/hero-sm.png`
+- `themes/hexschool/source/images/homepage-services-bg.png`
+- `themes/hexschool/source/images/homepage-work1-bg.png`
+- `themes/hexschool/source/images/homepage-work1.png`
+- `themes/hexschool/source/images/homepage-work2-lg.png`
+- `themes/hexschool/source/images/homepage-work2-sm.png`
+- `themes/hexschool/source/images/homepage-work3-bg.png`
+- `themes/hexschool/source/images/homepage-work3.png`
+- `themes/hexschool/source/images/htc-vive.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/bjRichardLiu/hexo_art_website">bjRichardLiu/hexo_art_website</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [bjRichardLiu](https://github.com/bjRichardLiu)
+- Live site: https://bjRichardLiu.github.io/hexo_art_website/
+- Identity tier: **1**
+- Created / pushed: `2024-09-09T21:14:11Z` / `2026-05-06T21:24:18Z`
+- Account created: `2022-04-01T13:51:09Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Ruichen Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Ruichen Liu` / `102811722+bjRichardLiu@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `source/_posts/Bambu-Intern.md`
+- `source/_posts/Fabrication-Grader.md`
+- `source/_posts/Filament-Guide.md`
+- `source/_posts/Graphics-TA.md`
+- `source/_posts/Probability-CA.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 14 points — <a href="https://github.com/HugoTronics/HugoTronics.github.io">HugoTronics/HugoTronics.github.io</a></strong> · probable photos 189 · identity none</summary>
+
+- Owner: [HugoTronics](https://github.com/HugoTronics)
+- Live site: https://HugoTronics.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-06-14T17:46:55Z` / `2026-08-17T10:24:05Z`
+- Account created: `2024-06-14T17:37:12Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Hugo L.`
+- Commit identity hits: `none`
+- Latest commit author: `Hugo L.` / `corsahu@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `244` / `189`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `content/posts/DIY Rasp pi3/index.md`
+- `content/posts/Plant song/index.md`
+- `content/posts/Wifi antenna/index.md`
+- `content/posts/exploit-education-phoenix-format-one/index.md`
+- `themes/blowfish/exampleSite/content/posts/_index.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `content/posts/DIY Rasp pi3/featured.png`
+- `content/posts/Plant song/cover.jpg`
+- `content/posts/Plant song/featured.png`
+- `content/posts/Plant song/filter-test.jpg`
+- `content/posts/Plant song/final-setup.jpg`
+- `content/posts/Plant song/plant-signal.jpg`
+- `content/posts/Plant song/schematic.png`
+- `content/posts/Plant song/sunvox-patch.png`
+- `content/posts/Plant song/system-photo.jpg`
+- `content/posts/Wifi antenna/featured.png`
+- `content/posts/exploit-education-phoenix-format-one/featured.png`
+- `themes/blowfish/assets/img/author.jpg`
+- `themes/blowfish/assets/img/bg.jpg`
+- `themes/blowfish/assets/img/bg2.jpg`
+- `themes/blowfish/assets/img/bg3.jpg`
+- `themes/blowfish/assets/img/bg4.jpg`
+- `themes/blowfish/assets/img/bg5.jpg`
+- `themes/blowfish/assets/img/bg6.jpg`
+- `themes/blowfish/assets/img/bg6.png`
+- `themes/blowfish/assets/img/dark.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/pete-lambda/lambda-hugo-poc">pete-lambda/lambda-hugo-poc</a></strong> · probable photos 2 · identity none</summary>
+
+- Owner: [pete-lambda](https://github.com/pete-lambda)
+- Live site: https://pete-lambda.github.io/lambda-hugo-poc/
+- Identity tier: **0**
+- Created / pushed: `2024-06-06T17:54:59Z` / `2024-06-11T21:27:56Z`
+- Account created: `2024-06-04T16:18:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Pete Bratach`
+- Commit identity hits: `none`
+- Latest commit author: `Pete B` / `pete.bratach@lambdal.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `static/images/homepage-image.png`
+- `static/images/vector-one-buttons.jpg`
 
 </details>
 
