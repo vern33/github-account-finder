@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-09-01T18:34:42.396117+00:00`  
-Repositories inspected: `44723`  
-Candidates: `1420`
+Last run: `2026-09-01T21:48:58.730284+00:00`  
+Repositories inspected: `52486`  
+Candidates: `1453`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -57246,6 +57246,1490 @@ None.
 
 - `static/images/homepage-image.png`
 - `static/images/vector-one-buttons.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/EnTaroAdunExecutar/CC2024-hugo-universal">EnTaroAdunExecutar/CC2024-hugo-universal</a></strong> · probable photos 121 · identity none</summary>
+
+- Owner: [EnTaroAdunExecutar](https://github.com/EnTaroAdunExecutar)
+- Live site: https://EnTaroAdunExecutar.github.io/CC2024-hugo-universal/
+- Identity tier: **0**
+- Created / pushed: `2024-07-01T11:57:55Z` / `2026-08-30T12:21:10Z`
+- Account created: `2024-06-05T13:29:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Tobias Karpstein` / `tobias@karpstein.net`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `156` / `121`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/posts/2024/AmtsblattKW27/index.md`
+- `content/posts/2024/AmtsblattKW29_CCE/index.md`
+- `content/posts/2024/AmtsblattKW29_VeloVillage/index.md`
+- `content/posts/2024/AmtsblattKW30_CCE/index.md`
+- `content/posts/2024/AmtsblattKW30_stadtradeln/index.md`
+- `content/posts/2024/AmtsblattKW31_CCE/index.md`
+- `content/posts/2024/AmtsblattKW36_CCE/index.md`
+- `content/posts/2024/AmtsblattKW49/index.md`
+- `content/posts/2024/AmtsblattKW51_CCE/index.md`
+- `content/posts/2024/KW27_UBoot_Tour/index.md`
+- `content/posts/2024/Raddemo29_06_2024/index.md`
+- `content/posts/2024/TourenangebotKW24_2024/index.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `content/posts/2024/AmtsblattKW27/image2.jpeg`
+- `content/posts/2024/AmtsblattKW29_CCE/Picture2.jpg`
+- `content/posts/2024/AmtsblattKW30_stadtradeln/bild.jpg`
+- `content/posts/2024/AmtsblattKW31_CCE/bild1.jpg`
+- `content/posts/2024/AmtsblattKW31_CCE/bild2.jpg`
+- `content/posts/2024/AmtsblattKW36_CCE/Kalmit_Gruppenbild.jpg`
+- `content/posts/2024/AmtsblattKW36_CCE/Marktplatz_Gruppenbild.jpg`
+- `content/posts/2024/AmtsblattKW51_CCE/Stadttor.png`
+- `content/posts/2024/KW27_UBoot_Tour/image3.jpeg`
+- `content/posts/2024/KW27_UBoot_Tour/image4.jpeg`
+- `content/posts/2024/KW27_UBoot_Tour/image5.jpeg`
+- `content/posts/2024/KW27_UBoot_Tour/image6.jpeg`
+- `content/posts/2024/KW27_UBoot_Tour/image7.jpeg`
+- `content/posts/2024/TourenangebotKW24_2024/IMG_6474.jpg`
+- `content/posts/2024/TourenangebotKW24_2024/IMG_6475.jpg`
+- `content/posts/2024/stadtradelauftakt/Picture1.jpg`
+- `content/posts/2024/stadtradelevent/Flyer.jpg`
+- `content/posts/2024/stadtradelevent/route.jpg`
+- `content/posts/2025/AmtsblattKW28/Bierpause_Wissembourg.jpg`
+- `content/posts/2025/AmtsblattKW29/GR-Ausflug_2025-07-12.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/EnTaroAdunExecutar/CC2024-hugo-first-test">EnTaroAdunExecutar/CC2024-hugo-first-test</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [EnTaroAdunExecutar](https://github.com/EnTaroAdunExecutar)
+- Live site: https://EnTaroAdunExecutar.github.io/CC2024-hugo-first-test/
+- Identity tier: **0**
+- Created / pushed: `2024-06-24T10:19:04Z` / `2024-06-24T10:32:48Z`
+- Account created: `2024-06-05T13:29:11Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Tobias Karpstein` / `tobias.karpstein@sap.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (10)</summary>
+
+- `content/posts/my-first-post.md`
+- `content/posts/my-second_post_manual_copy_wo_hugo.md`
+- `content/posts/my-third_post_manual_copy_wo_hugo.md`
+- `public/posts/index.html`
+- `public/posts/my-first-post-copy/index.html`
+- `public/posts/my-first-post/index.html`
+- `public/posts/my-first-second_post_manual_copy_wo_hugo/index.html`
+- `public/posts/my-second_post_manual_copy_wo_hugo/index.html`
+- `public/posts/my-third_post_manual_copy_wo_hugo/index.html`
+- `public/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/images/gohugo-default-sample-hero-image.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/ololiuhqui/magnolia-free-hugo-theme">ololiuhqui/magnolia-free-hugo-theme</a></strong> · probable photos 3 · identity liu</summary>
+
+- Owner: [ololiuhqui](https://github.com/ololiuhqui)
+- Live site: https://ololiuhqui.github.io/magnolia-free-hugo-theme/
+- Identity tier: **1**
+- Created / pushed: `2024-08-08T16:52:06Z` / `2025-09-03T11:03:07Z`
+- Account created: `2022-12-01T11:09:01Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `Ludovico Caluori`
+- Commit identity hits: `liu`
+- Latest commit author: `Ludovico Caluori` / `119592512+ololiuhqui@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `4` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `archetypes/post-bundle/images/featured.webp`
+- `images/.readme_images/bitcoin-qr.png`
+- `images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/anysebray/hugo">anysebray/hugo</a></strong> · probable photos 23 · identity none</summary>
+
+- Owner: [anysebray](https://github.com/anysebray)
+- Live site: https://anysebray.github.io/hugo/
+- Identity tier: **0**
+- Created / pushed: `2024-07-10T16:43:18Z` / `2024-07-10T19:14:11Z`
+- Account created: `2024-07-05T18:39:36Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `anysebray` / `anysebray@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `23` / `23`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/images/2678CDA3-51B5-4975-9D8D-F00BE185974B.jpeg`
+- `public/images/IMG_1532-scaled.jpeg`
+- `public/images/IMG_7342-scaled-e1686952228150.jpeg`
+- `public/images/IMG_8696.JPG`
+- `public/images/image0-scaled.jpeg`
+- `public/images/reno.jpg`
+- `public/images/work1.jpeg`
+- `public/images/work1.jpg`
+- `public/images/work1.jpg.jpeg`
+- `public/images/work2.jpeg`
+- `public/images/work2.jpg`
+- `public/images/work3.jpg`
+- `public/images/work4.jpg`
+- `public/images/work5.jpg`
+- `public/images/work6.jpg`
+- `static/images/IMG_7342-scaled-e1686952228150.jpeg`
+- `static/images/reno.jpg`
+- `static/images/work1.JPG`
+- `static/images/work2.jpg`
+- `static/images/work3.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/shihaoliu/hugoblox">shihaoliu/hugoblox</a></strong> · probable photos 5 · identity liu</summary>
+
+- Owner: [shihaoliu](https://github.com/shihaoliu)
+- Live site: https://shihaoliu.github.io/hugoblox/
+- Identity tier: **1**
+- Created / pushed: `2024-07-25T16:10:10Z` / `2024-07-25T16:21:53Z`
+- Account created: `2015-02-13T05:53:45Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Shihhao Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Shihhao Liu` / `shihao@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (6)</summary>
+
+- `content/post/_index.md`
+- `content/post/data-visualization/index.md`
+- `content/post/get-started/index.md`
+- `content/post/project-management/index.md`
+- `content/post/second-brain/index.md`
+- `content/post/teach-courses/index.md`
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `content/post/data-visualization/featured.jpg`
+- `content/post/get-started/featured.jpg`
+- `content/post/project-management/featured.jpg`
+- `content/post/second-brain/featured.jpg`
+- `content/post/teach-courses/featured.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 16 points — <a href="https://github.com/shihaoliu/hugoblox-research">shihaoliu/hugoblox-research</a></strong> · probable photos 6 · identity liu</summary>
+
+- Owner: [shihaoliu](https://github.com/shihaoliu)
+- Live site: https://shihaoliu.github.io/hugoblox-research/
+- Identity tier: **1**
+- Created / pushed: `2024-07-25T21:10:45Z` / `2024-07-27T20:35:40Z`
+- Account created: `2015-02-13T05:53:45Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Shihhao Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `Shihhao Liu` / `shihao@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `15` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `content/post/20-12-01-wowchemy-prize/index.md`
+- `content/post/20-12-02-ICML-best-paper/index.md`
+- `content/post/_index.md`
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `assets/media/coders.jpg`
+- `assets/media/contact.jpg`
+- `assets/media/welcome.jpg`
+- `content/post/20-12-01-wowchemy-prize/featured.jpg`
+- `content/post/20-12-02-ICML-best-paper/featured.jpg`
+- `images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/Ngoe-Gaiel/hugo-resume">Ngoe-Gaiel/hugo-resume</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [Ngoe-Gaiel](https://github.com/Ngoe-Gaiel)
+- Live site: https://Ngoe-Gaiel.github.io/hugo-resume/
+- Identity tier: **0**
+- Created / pushed: `2024-07-12T16:25:24Z` / `2024-07-13T15:21:07Z`
+- Account created: `2024-06-07T14:19:09Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Ngoe-Gaiel` / `ngoegaiel255@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/fraubentz/hugo">fraubentz/hugo</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [fraubentz](https://github.com/fraubentz)
+- Live site: https://fraubentz.github.io/hugo/
+- Identity tier: **1**
+- Created / pushed: `2024-08-24T12:23:05Z` / `2024-08-24T12:46:34Z`
+- Account created: `2023-07-26T13:39:40Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `PY Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `PY Liu` / `140623725+fraubentz@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/my-first-post.md`
+- `public/posts/index.html`
+- `public/posts/my-first-post/index.html`
+- `public/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/images/gohugo-default-sample-hero-image.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/liushooter/hugoblog">liushooter/hugoblog</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liushooter](https://github.com/liushooter)
+- Live site: https://liushooter.github.io/hugoblog/
+- Identity tier: **1**
+- Created / pushed: `2024-09-10T15:36:17Z` / `2024-09-10T17:00:58Z`
+- Account created: `2011-12-02T02:52:11Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages, hugo --minify`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `Shooter`
+- Commit identity hits: `liu`
+- Latest commit author: `liushooter` / `shooter.hero@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (1)</summary>
+
+- `content/posts/hello.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 12 points — <a href="https://github.com/tjwsain/WebStack-Hugo">tjwsain/WebStack-Hugo</a></strong> · probable photos 22 · identity none</summary>
+
+- Owner: [tjwsain](https://github.com/tjwsain)
+- Live site: https://tjwsain.github.io/WebStack-Hugo/
+- Identity tier: **0**
+- Created / pushed: `2024-08-12T09:24:08Z` / `2026-04-06T15:56:02Z`
+- Account created: `2024-07-11T14:16:10Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `tjc` / `1725306155@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `626` / `22`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/assets/images/bg-bio.jpg`
+- `public/assets/images/bg-dna.jpg`
+- `public/assets/images/bg-math.jpg`
+- `public/assets/images/bi-expand-dark.png`
+- `public/assets/images/bi-expand-light.png`
+- `public/assets/images/bi.png`
+- `public/assets/images/bt.png`
+- `public/assets/images/forkme_on_github_right_darkblue.png`
+- `public/assets/images/off_on.png`
+- `public/assets/images/qqgroup_webstack.jpg`
+- `public/assets/images/qqgroup_webstack2.jpg`
+- `themes/WebStack-Hugo/static/assets/images/bg-bio.jpg`
+- `themes/WebStack-Hugo/static/assets/images/bg-dna.jpg`
+- `themes/WebStack-Hugo/static/assets/images/bg-math.jpg`
+- `themes/WebStack-Hugo/static/assets/images/bi-expand-dark.png`
+- `themes/WebStack-Hugo/static/assets/images/bi-expand-light.png`
+- `themes/WebStack-Hugo/static/assets/images/bi.png`
+- `themes/WebStack-Hugo/static/assets/images/bt.png`
+- `themes/WebStack-Hugo/static/assets/images/forkme_on_github_right_darkblue.png`
+- `themes/WebStack-Hugo/static/assets/images/off_on.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 12 points — <a href="https://github.com/hugoeulry/hugoeulry.github.io">hugoeulry/hugoeulry.github.io</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [hugoeulry](https://github.com/hugoeulry)
+- Live site: https://hugoeulry.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-09-04T20:57:04Z` / `2026-09-01T08:50:46Z`
+- Account created: `2024-09-03T11:55:22Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `hugoeulry` / `eulryhugo@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `10` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/post/BE.md`
+- `content/post/BER.md`
+- `content/post/EM.md`
+- `content/post/EMR.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `static/imgs/good_enough.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/fraubentz/hugo-test2">fraubentz/hugo-test2</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [fraubentz](https://github.com/fraubentz)
+- Live site: https://fraubentz.github.io/hugo-test2/
+- Identity tier: **1**
+- Created / pushed: `2024-09-07T19:05:26Z` / `2024-09-07T19:38:18Z`
+- Account created: `2023-07-26T13:39:40Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `PY Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `PY Liu` / `140623725+fraubentz@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/post01.md`
+- `public/posts/index.html`
+- `public/posts/page/1/index.html`
+- `public/posts/post01/index.html`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/JessJJVW/Decap-CMS-Hugo-Template">JessJJVW/Decap-CMS-Hugo-Template</a></strong> · probable photos 24 · identity jess</summary>
+
+- Owner: [JessJJVW](https://github.com/JessJJVW)
+- Live site: https://JessJJVW.github.io/Decap-CMS-Hugo-Template/
+- Identity tier: **1**
+- Created / pushed: `2024-08-30T17:14:44Z` / `2024-08-30T17:55:52Z`
+- Account created: `2022-12-24T00:35:51Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jess J. Van Wyhe`
+- Commit identity hits: `jess`
+- Latest commit author: `Jess J. Van Wyhe` / `121323235+JessJJVW@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `51` / `24`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (5)</summary>
+
+- `site/content/post/brewing-chemex/index.md`
+- `site/content/post/jamaica-blue/index.md`
+- `site/content/post/making-sense/index.md`
+- `site/content/post/test/index.md`
+- `site/layouts/post/single.html`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `site/content/post/brewing-chemex/blog-chemex.jpg`
+- `site/content/post/making-sense/blog-flavor_wheel.jpg`
+- `site/static/img/about-direct-sourcing.jpg`
+- `site/static/img/about-jumbotron.jpg`
+- `site/static/img/about-reinvest-profits.jpg`
+- `site/static/img/about-shade-grown.jpg`
+- `site/static/img/about-single-origin.jpg`
+- `site/static/img/about-sustainable-farming.jpg`
+- `site/static/img/android-chrome-192x192.png`
+- `site/static/img/android-chrome-512x512.png`
+- `site/static/img/blog-index.jpg`
+- `site/static/img/home-about-section.jpg`
+- `site/static/img/home-jumbotron.jpg`
+- `site/static/img/mstile-144x144.png`
+- `site/static/img/mstile-150x150.png`
+- `site/static/img/mstile-310x150.png`
+- `site/static/img/mstile-310x310.png`
+- `site/static/img/mstile-70x70.png`
+- `site/static/img/og-image.jpg`
+- `site/static/img/products-full-width.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/harilvfs/hugoweb">harilvfs/hugoweb</a></strong> · probable photos 32 · identity none</summary>
+
+- Owner: [harilvfs](https://github.com/harilvfs)
+- Live site: https://harilvfs.github.io/hugoweb/
+- Identity tier: **0**
+- Created / pushed: `2024-10-01T08:55:20Z` / `2024-10-19T10:08:23Z`
+- Account created: `2024-10-01T08:26:32Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Hari Chalise`
+- Commit identity hits: `none`
+- Latest commit author: `Aayush Chalise` / `ingoprivate@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `48` / `32`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `content/blog/_index.md`
+- `content/blog/post1/index.md`
+- `public/blog/index.html`
+- `public/blog/post1/index.html`
+- `public/posts/index.html`
+- `public/posts/my-first-post/index.html`
+- `public/posts/page/1/index.html`
+- `themes/ananke/exampleSite/content/en/post/_index.md`
+- `themes/ananke/exampleSite/content/en/post/chapter-1.md`
+- `themes/ananke/exampleSite/content/en/post/chapter-2.md`
+- `themes/ananke/exampleSite/content/en/post/chapter-3.md`
+- `themes/ananke/exampleSite/content/en/post/chapter-4.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/author.jpeg`
+- `assets/linux.webp`
+- `assets/linux1.webp`
+- `assets/main.png`
+- `assets/rust.webp`
+- `assets/rust2.webp`
+- `assets/thumbnail.jpeg`
+- `public/author_hu7985934861576238978.webp`
+- `public/images/gohugo-default-sample-hero-image.jpg`
+- `resources/_gen/images/author_hu7985934861576238978.webp`
+- `themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg`
+- `themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg`
+- `themes/ananke/exampleSite/static/images/esmeralda.jpg`
+- `themes/ananke/exampleSite/static/images/notebook.jpg`
+- `themes/ananke/images/tn.png`
+- `themes/ananke/static/images/gohugo-default-sample-hero-image.jpg`
+- `themes/lynx/exampleSite/assets/author.jpg`
+- `themes/lynx/images/tn.png`
+- `themes/lynx/static/android-chrome-192x192.png`
+- `themes/lynx/static/android-chrome-512x512.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/shuvomascot/HugoBox">shuvomascot/HugoBox</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [shuvomascot](https://github.com/shuvomascot)
+- Live site: https://shuvomascot.github.io/HugoBox/
+- Identity tier: **0**
+- Created / pushed: `2024-10-03T07:52:28Z` / `2024-10-03T07:52:30Z`
+- Account created: `2024-10-03T07:34:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `shuvomascot` / `shuvo.mascot@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `8` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `content/blog/_index.md`
+- `content/blog/v1.0.0/index.md`
+- `content/blog/v2.0.0/index.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/tn.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/ruiyang55/hugo_template2">ruiyang55/hugo_template2</a></strong> · probable photos 5 · identity none</summary>
+
+- Owner: [ruiyang55](https://github.com/ruiyang55)
+- Live site: https://ruiyang55.github.io/hugo_template2/
+- Identity tier: **0**
+- Created / pushed: `2024-10-15T23:02:19Z` / `2024-10-16T19:56:12Z`
+- Account created: `2024-10-13T21:14:28Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, hugo --minify`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `ruiyang55` / `ruiyang0505@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `5`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (6)</summary>
+
+- `content/post/_index.md`
+- `content/post/data-visualization/index.md`
+- `content/post/get-started/index.md`
+- `content/post/project-management/index.md`
+- `content/post/second-brain/index.md`
+- `content/post/teach-courses/index.md`
+
+</details>
+
+<details><summary>Sample photos (5)</summary>
+
+- `content/post/data-visualization/featured.jpg`
+- `content/post/get-started/featured.jpg`
+- `content/post/project-management/featured.jpg`
+- `content/post/second-brain/featured.jpg`
+- `content/post/teach-courses/featured.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/hugolugilde/hugolugilde.github.io">hugolugilde/hugolugilde.github.io</a></strong> · probable photos 0 · identity none</summary>
+
+- Owner: [hugolugilde](https://github.com/hugolugilde)
+- Live site: https://hugolugilde.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-10-07T12:41:02Z` / `2025-01-29T21:01:21Z`
+- Account created: `2024-09-30T12:25:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `hugolugilde` / `hugolugildegarcia@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 13 points — <a href="https://github.com/hugoromerorico/hugoromerorico.github.io">hugoromerorico/hugoromerorico.github.io</a></strong> · probable photos 14 · identity none</summary>
+
+- Owner: [hugoromerorico](https://github.com/hugoromerorico)
+- Live site: https://hugoromerorico.github.io/
+- Identity tier: **0**
+- Created / pushed: `2024-09-13T13:01:35Z` / `2026-01-02T17:01:43Z`
+- Account created: `2024-09-13T12:58:42Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Hugo Romero`
+- Commit identity hits: `none`
+- Latest commit author: `hugoromerorico` / `hugo.romero@masmovil.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `14`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (14)</summary>
+
+- `public/images/brain-blackbg.png`
+- `public/images/double-pendulum.png`
+- `public/images/game-of-life.png`
+- `public/images/grupo-sm.png`
+- `public/images/hugo-photo.png`
+- `public/images/hugo-teaching-original.jpeg`
+- `public/images/hugo-teaching.png`
+- `public/images/hugo-volley.jpeg`
+- `public/images/hugo-volley.png`
+- `public/images/mandelbrot.png`
+- `public/images/mandelbrot2.png`
+- `public/images/mas-movil.png`
+- `public/images/mas-orange.png`
+- `public/images/uc3m.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/amo-dta/hugo-a11y">amo-dta/hugo-a11y</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [amo-dta](https://github.com/amo-dta)
+- Live site: https://amo-dta.github.io/hugo-a11y/
+- Identity tier: **0**
+- Created / pushed: `2024-09-28T06:49:38Z` / `2024-09-28T07:02:38Z`
+- Account created: `2024-06-20T09:44:00Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `amo.dta`
+- Commit identity hits: `none`
+- Latest commit author: `amo` / `andrew.morrison@digital.gov.au`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/my-first-post.md`
+- `public/posts/index.html`
+- `public/posts/my-first-post/index.html`
+- `public/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/images/gohugo-default-sample-hero-image.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/reclusiveUrbanist/hugo-websiteTest2">reclusiveUrbanist/hugo-websiteTest2</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [reclusiveUrbanist](https://github.com/reclusiveUrbanist)
+- Live site: https://reclusiveUrbanist.github.io/hugo-websiteTest2/
+- Identity tier: **0**
+- Created / pushed: `2024-09-14T02:09:23Z` / `2024-09-14T02:35:12Z`
+- Account created: `2024-09-13T23:15:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `reclusiveUrbanist` / `marcos.hokanson@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `content/posts/my-first-post.md`
+- `public/posts/index.html`
+- `public/posts/my-first-post/index.html`
+- `public/posts/page/1/index.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/images/gohugo-default-sample-hero-image.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/liuzhilong62/blogs-jekyll">liuzhilong62/blogs-jekyll</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [liuzhilong62](https://github.com/liuzhilong62)
+- Live site: http://lastdba.com/
+- Identity tier: **1**
+- Created / pushed: `2024-08-10T02:45:42Z` / `2026-05-15T07:32:53Z`
+- Account created: `2019-02-22T03:01:26Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `liuzhilong62`
+- Commit identity hits: `liu`
+- Latest commit author: `liuzhilong62` / `liuzhilong62@outlook.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `5` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/AIOps/2026-01-21-AI时代下的DBA、写作、学习和未来.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-PostgreSQL FDW浅析.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-PostgreSQL事务浅析.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-PostgreSQL内存浅析.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-PostgreSQL分区表.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-PostgreSQL本地化.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-linux内存浅析.md`
+- `_posts/PostgreSQL内功修炼/2024-08-12-向量数据库：从0到original paper.md`
+- `_posts/PostgreSQL内功修炼/2024-08-13-PostgreSQL流复制.md`
+- `_posts/PostgreSQL内功修炼/2024-08-13-PostgreSQL逻辑复制.md`
+- `_posts/PostgreSQL内功修炼/2024-09-03-Postgresql CLOG文件及其从库同步解析.md`
+- `_posts/PostgreSQL内功修炼/2025-06-19-Linux内存进阶.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/WilmerNB/airspace-jekyll">WilmerNB/airspace-jekyll</a></strong> · probable photos 12 · identity none</summary>
+
+- Owner: [WilmerNB](https://github.com/WilmerNB)
+- Live site: https://WilmerNB.github.io/airspace-jekyll/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T02:10:49Z` / `2024-09-10T02:28:42Z`
+- Account created: `2024-09-03T01:27:45Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `WilmerNB` / `wil_j1515@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2016-05-20-my-example-post.md`
+- `_posts/2016-05-20-super-long-article.md`
+- `_posts/2016-05-20-this-post-demonstrates-post-content-styles.md`
+- `_posts/2016-05-20-welcome-to-jekyll.md`
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `img/call-to-action-bg.jpg`
+- `img/cotation.png`
+- `img/featue-bg.jpg`
+- `img/item-img1.jpg`
+- `img/portfolio/work1.jpg`
+- `img/portfolio/work2.jpg`
+- `img/portfolio/work3.jpg`
+- `img/portfolio/work4.jpg`
+- `img/portfolio/work5.jpg`
+- `img/portfolio/work6.jpg`
+- `img/slider-bg.jpg`
+- `img/wrapper-img.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/WilmerNB/parsa-jekyll">WilmerNB/parsa-jekyll</a></strong> · probable photos 22 · identity none</summary>
+
+- Owner: [WilmerNB](https://github.com/WilmerNB)
+- Live site: https://WilmerNB.github.io/parsa-jekyll/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T02:42:01Z` / `2024-09-10T02:47:33Z`
+- Account created: `2024-09-03T01:27:45Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `WilmerNB` / `wil_j1515@hotmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `24` / `22`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2019-04-14-organize-Your-Life.1.md`
+- `_posts/2019-04-14-organize-Your-Life.2.md`
+- `_posts/2019-04-14-organize-Your-Life.3.md`
+- `_posts/2019-04-14-organize-Your-Life.4.md`
+- `_posts/2019-04-14-organize-Your-Life.md`
+- `_posts/2019-05-14-charming-Evening-Field.1.md`
+- `_posts/2019-05-14-charming-Evening-Field.10.md`
+- `_posts/2019-05-14-charming-Evening-Field.11.md`
+- `_posts/2019-05-14-charming-Evening-Field.12.md`
+- `_posts/2019-05-14-charming-Evening-Field.2.md`
+- `_posts/2019-05-14-charming-Evening-Field.3.md`
+- `_posts/2019-05-14-charming-Evening-Field.4.md`
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/images/author.jpg`
+- `assets/images/contact.jpg`
+- `assets/images/featured-post/post-1.jpg`
+- `assets/images/featured-post/post-2.jpg`
+- `assets/images/featured-post/post-3.jpg`
+- `assets/images/featured-post/post-4.jpg`
+- `assets/images/featured-post/post-5.jpg`
+- `assets/images/masonary-post/post-1.jpg`
+- `assets/images/masonary-post/post-10.jpg`
+- `assets/images/masonary-post/post-11.jpg`
+- `assets/images/masonary-post/post-12.jpg`
+- `assets/images/masonary-post/post-13.jpg`
+- `assets/images/masonary-post/post-2.jpg`
+- `assets/images/masonary-post/post-3.jpg`
+- `assets/images/masonary-post/post-4.jpg`
+- `assets/images/masonary-post/post-5.jpg`
+- `assets/images/masonary-post/post-6.jpg`
+- `assets/images/masonary-post/post-7.jpg`
+- `assets/images/masonary-post/post-8.jpg`
+- `assets/images/masonary-post/post-9.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/LiuZhipeng99/blogJekyll">LiuZhipeng99/blogJekyll</a></strong> · probable photos 0 · identity liu</summary>
+
+- Owner: [LiuZhipeng99](https://github.com/LiuZhipeng99)
+- Live site: https://liuzhipeng99.github.io/blogJekyll/
+- Identity tier: **1**
+- Created / pushed: `2024-07-31T14:05:12Z` / `2025-02-26T08:19:16Z`
+- Account created: `2018-10-23T11:22:08Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `liu`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `LiuZhipeng99` / `1695949332@qq.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (12)</summary>
+
+- `_posts/2015-01-01-主题预览.md`
+- `_posts/2017-07-22-github配置ssh登陆.md`
+- `_posts/2017-09-20-git日常使用.md`
+- `_posts/2018-01-01-hessian-use.md`
+- `_posts/2018-01-21-解决GitPage百度不收录.md`
+- `_posts/2018-02-23-CentOS下搭建Aria2.md`
+- `_posts/2018-03-04-自己实现Object转Json.md`
+- `_posts/2018-03-10-CentOS搭建开发环境.md`
+- `_posts/2018-03-10-Git-Hook实现自动部署.md`
+- `_posts/2018-03-14-sso单点登陆.md`
+- `_posts/2018-03-28-用Virtualbox代替一键环境.md`
+- `_posts/2018-04-05-NanoHTTPD实现静态服务器.md`
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/juli027/airspace-jekyll-">juli027/airspace-jekyll-</a></strong> · probable photos 12 · identity none</summary>
+
+- Owner: [juli027](https://github.com/juli027)
+- Live site: https://juli027.github.io/airspace-jekyll-/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T02:10:47Z` / `2024-09-10T02:30:26Z`
+- Account created: `2024-09-03T01:29:08Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `juli027` / `julio.palacios.mendoza.18@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2016-05-20-my-example-post.md`
+- `_posts/2016-05-20-super-long-article.md`
+- `_posts/2016-05-20-this-post-demonstrates-post-content-styles.md`
+- `_posts/2016-05-20-welcome-to-jekyll.md`
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `img/call-to-action-bg.jpg`
+- `img/cotation.png`
+- `img/featue-bg.jpg`
+- `img/item-img1.jpg`
+- `img/portfolio/work1.jpg`
+- `img/portfolio/work2.jpg`
+- `img/portfolio/work3.jpg`
+- `img/portfolio/work4.jpg`
+- `img/portfolio/work5.jpg`
+- `img/portfolio/work6.jpg`
+- `img/slider-bg.jpg`
+- `img/wrapper-img.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/CandeH02/airspace-jekyll">CandeH02/airspace-jekyll</a></strong> · probable photos 12 · identity none</summary>
+
+- Owner: [CandeH02](https://github.com/CandeH02)
+- Live site: https://CandeH02.github.io/airspace-jekyll/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T02:21:57Z` / `2024-09-10T02:28:35Z`
+- Account created: `2024-09-03T01:31:47Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `CandeH02` / `chuamanc@isise.edu.pe`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `airspace-jekyll/_posts/2016-05-20-my-example-post.md`
+- `airspace-jekyll/_posts/2016-05-20-super-long-article.md`
+- `airspace-jekyll/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md`
+- `airspace-jekyll/_posts/2016-05-20-welcome-to-jekyll.md`
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `airspace-jekyll/img/call-to-action-bg.jpg`
+- `airspace-jekyll/img/cotation.png`
+- `airspace-jekyll/img/featue-bg.jpg`
+- `airspace-jekyll/img/item-img1.jpg`
+- `airspace-jekyll/img/portfolio/work1.jpg`
+- `airspace-jekyll/img/portfolio/work2.jpg`
+- `airspace-jekyll/img/portfolio/work3.jpg`
+- `airspace-jekyll/img/portfolio/work4.jpg`
+- `airspace-jekyll/img/portfolio/work5.jpg`
+- `airspace-jekyll/img/portfolio/work6.jpg`
+- `airspace-jekyll/img/slider-bg.jpg`
+- `airspace-jekyll/img/wrapper-img.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/fraubentz/jekyll-testing">fraubentz/jekyll-testing</a></strong> · probable photos 1 · identity liu</summary>
+
+- Owner: [fraubentz](https://github.com/fraubentz)
+- Live site: https://fraubentz.github.io/jekyll-testing/
+- Identity tier: **1**
+- Created / pushed: `2024-08-24T10:46:42Z` / `2024-08-24T10:46:44Z`
+- Account created: `2023-07-26T13:39:40Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `liu`
+- Profile name: `PY Liu`
+- Commit identity hits: `liu`
+- Latest commit author: `PY Liu //Frau.Bentz` / `140623725+fraubentz@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (7)</summary>
+
+- `_posts/2010-01-07-post-modified.md`
+- `_posts/2010-01-07-post-standard.md`
+- `_posts/2010-01-08-post-chat.md`
+- `_posts/2010-02-05-post-notice.md`
+- `_posts/2010-02-05-post-quote.md`
+- `_posts/2010-03-07-post-link.md`
+- `_posts/2019-04-18-welcome-to-jekyll.md`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `assets/images/bio-photo.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 11 points — <a href="https://github.com/lhcastanedac/airspace-jekyll">lhcastanedac/airspace-jekyll</a></strong> · probable photos 12 · identity none</summary>
+
+- Owner: [lhcastanedac](https://github.com/lhcastanedac)
+- Live site: https://lhcastanedac.github.io/airspace-jekyll/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T02:10:45Z` / `2024-09-10T02:28:31Z`
+- Account created: `2024-09-01T11:35:17Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `lhcastanedac` / `lcastanedac@isise.edu.pe`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `27` / `12`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (4)</summary>
+
+- `_posts/2016-05-20-my-example-post.md`
+- `_posts/2016-05-20-super-long-article.md`
+- `_posts/2016-05-20-this-post-demonstrates-post-content-styles.md`
+- `_posts/2016-05-20-welcome-to-jekyll.md`
+
+</details>
+
+<details><summary>Sample photos (12)</summary>
+
+- `img/call-to-action-bg.jpg`
+- `img/cotation.png`
+- `img/featue-bg.jpg`
+- `img/item-img1.jpg`
+- `img/portfolio/work1.jpg`
+- `img/portfolio/work2.jpg`
+- `img/portfolio/work3.jpg`
+- `img/portfolio/work4.jpg`
+- `img/portfolio/work5.jpg`
+- `img/portfolio/work6.jpg`
+- `img/slider-bg.jpg`
+- `img/wrapper-img.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/christophegauth/Photosnap">christophegauth/Photosnap</a></strong> · probable photos 19 · identity none</summary>
+
+- Owner: [christophegauth](https://github.com/christophegauth)
+- Live site: https://christophegauth.github.io/Photosnap/
+- Identity tier: **0**
+- Created / pushed: `2024-06-28T15:09:27Z` / `2024-06-28T15:17:32Z`
+- Account created: `2024-06-18T13:40:52Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `christophegauth` / `christophegauthiersokpoly@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `19` / `19`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (19)</summary>
+
+- `images/background.jpg`
+- `images/img_1.jpg`
+- `images/img_10.jpg`
+- `images/img_11.jpg`
+- `images/img_12.jpg`
+- `images/img_13.jpg`
+- `images/img_14.jpg`
+- `images/img_15.jpg`
+- `images/img_16.jpg`
+- `images/img_2.jpg`
+- `images/img_3.jpg`
+- `images/img_4.jpg`
+- `images/img_5.jpg`
+- `images/img_6.jpg`
+- `images/img_7.jpg`
+- `images/img_8.jpg`
+- `images/img_9.jpg`
+- `images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg`
+- `images/layout.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 12 points — <a href="https://github.com/Bilek-Petr/photosnap_site">Bilek-Petr/photosnap_site</a></strong> · probable photos 53 · identity none</summary>
+
+- Owner: [Bilek-Petr](https://github.com/Bilek-Petr)
+- Live site: https://bilek-petr.github.io/photosnap_site/
+- Identity tier: **0**
+- Created / pushed: `2024-08-08T20:26:02Z` / `2024-08-24T13:34:08Z`
+- Account created: `2024-06-17T11:13:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Bilek-Petr` / `p.bilek29@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `mountain`
+- Images / probable photos: `54` / `53`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `public/images/features/desktop/hero.jpg`
+- `public/images/features/mobile/hero.jpg`
+- `public/images/features/tablet/hero.jpg`
+- `public/images/home/desktop/beautiful-stories.jpg`
+- `public/images/home/desktop/create-and-share.jpg`
+- `public/images/home/desktop/designed-for-everyone.jpg`
+- `public/images/home/mobile/beautiful-stories.jpg`
+- `public/images/home/mobile/create-and-share.jpg`
+- `public/images/home/mobile/designed-for-everyone.jpg`
+- `public/images/home/tablet/beautiful-stories.jpg`
+- `public/images/home/tablet/create-and-share.jpg`
+- `public/images/home/tablet/designed-for-everyone.jpg`
+- `public/images/pricing/desktop/hero.jpg`
+- `public/images/pricing/mobile/hero.jpg`
+- `public/images/pricing/tablet/hero.jpg`
+- `public/images/shared/desktop/bg-beta.jpg`
+- `public/images/shared/mobile/bg-beta.jpg`
+- `public/images/shared/tablet/bg-beta.jpg`
+- `public/images/stories/desktop/18-days-voyage.jpg`
+- `public/images/stories/desktop/architecturals.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 12 points — <a href="https://github.com/JesseAnak7534/GLPP-Photos">JesseAnak7534/GLPP-Photos</a></strong> · probable photos 318 · identity jess</summary>
+
+- Owner: [JesseAnak7534](https://github.com/JesseAnak7534)
+- Live site: https://JesseAnak7534.github.io/GLPP-Photos/
+- Identity tier: **1**
+- Created / pushed: `2024-09-30T07:32:22Z` / `2024-10-24T10:56:15Z`
+- Account created: `2020-08-25T09:55:44Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jesse Azebiik`
+- Commit identity hits: `jess`
+- Latest commit author: `JesseAnak7534` / `70202302+JesseAnak7534@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `318` / `318`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `images/20240920_093321.jpg`
+- `images/20240920_093400.jpg`
+- `images/20240920_093406.jpg`
+- `images/20240920_094412.jpg`
+- `images/20240920_141819.jpg`
+- `images/20240920_141854.jpg`
+- `images/20240926_110452.jpg`
+- `images/20240927_134713.jpg`
+- `images/20240927_134805.jpg`
+- `images/20240927_134823.jpg`
+- `images/IMG_0839.JPG`
+- `images/IMG_0841.JPG`
+- `images/IMG_0843.JPG`
+- `images/IMG_0844.JPG`
+- `images/IMG_0845.JPG`
+- `images/IMG_0846.JPG`
+- `images/IMG_0847.JPG`
+- `images/IMG_0848.JPG`
+- `images/IMG_0849.JPG`
+- `images/IMG_0850.JPG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/LuizAbreu02/Photography_Page">LuizAbreu02/Photography_Page</a></strong> · probable photos 6 · identity none</summary>
+
+- Owner: [LuizAbreu02](https://github.com/LuizAbreu02)
+- Live site: https://LuizAbreu02.github.io/Photography_Page/
+- Identity tier: **0**
+- Created / pushed: `2024-06-05T18:25:01Z` / `2024-06-05T19:44:30Z`
+- Account created: `2024-06-03T23:22:46Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact, jekyll-build-pages`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Luiz Carlos De Abreu`
+- Commit identity hits: `none`
+- Latest commit author: `Luiz Carlos De Abreu` / `lcabreu02@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `6` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `img/img01.webp`
+- `img/img02.webp`
+- `img/img03.webp`
+- `img/img04.webp`
+- `img/img05.webp`
+- `img/img06.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/CantellanJess/CantellanPhotography.github.io">CantellanJess/CantellanPhotography.github.io</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [CantellanJess](https://github.com/CantellanJess)
+- Live site: https://CantellanJess.github.io/CantellanPhotography.github.io/
+- Identity tier: **1**
+- Created / pushed: `2024-06-25T18:40:55Z` / `2024-06-25T18:56:52Z`
+- Account created: `2023-04-04T19:34:30Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `Jessi Cantellan`
+- Commit identity hits: `jess`
+- Latest commit author: `CantellanJess` / `129898186+CantellanJess@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
