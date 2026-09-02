@@ -71055,5 +71055,289 @@
     "description": "Website for rifstar",
     "first_seen_utc": "2026-09-02T06:26:07.977287+00:00",
     "score": 9
+  },
+  {
+    "owner": "NatHazel",
+    "repository": "NatHazel/gallery",
+    "url": "https://github.com/NatHazel/gallery",
+    "pages_url": "https://NatHazel.github.io/gallery/",
+    "created_at": "2024-08-19T03:32:20Z",
+    "pushed_at": "2024-08-19T03:42:32Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Natalie Hazel",
+      "email": "natdaniellebrow@gmail.com",
+      "login": "NatHazel"
+    },
+    "owner_profile": {
+      "name": "Natalie Hazel",
+      "bio": "Visual artist, photographer",
+      "created_at": "2024-08-07T03:34:21Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "gallery/NaturalHazard/DSC_6227.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T11:25:14.775743+00:00",
+    "score": 8
+  },
+  {
+    "owner": "AfterPrahara",
+    "repository": "AfterPrahara/Gallery",
+    "url": "https://github.com/AfterPrahara/Gallery",
+    "pages_url": "https://AfterPrahara.github.io/Gallery/",
+    "created_at": "2024-08-31T23:21:30Z",
+    "pushed_at": "2025-01-12T16:40:26Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Rian Septiawan",
+      "email": "rianseptiawan@infitech.or.id",
+      "login": "Ryan-infitech"
+    },
+    "owner_profile": {
+      "name": "afterprahara",
+      "bio": "squad...",
+      "location": "Padang",
+      "created_at": "2024-08-31T23:20:57Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 43,
+    "probable_photo_count": 42,
+    "sample_photos": [
+      "assets/css/images/overlay.png",
+      "images/07.JPG",
+      "images/bg.jpg",
+      "images/fulls/01.jpg",
+      "images/fulls/02.JPG",
+      "images/fulls/03.JPG",
+      "images/fulls/04.JPG",
+      "images/fulls/05.JPG",
+      "images/fulls/06.jpg",
+      "images/fulls/07.JPG",
+      "images/fulls/08.jpg",
+      "images/fulls/09.JPG",
+      "images/fulls/10.JPG",
+      "images/fulls/11.JPG",
+      "images/fulls/Expo.mp3.jpg",
+      "images/fulls/fg.JPG",
+      "images/thumbs/01.jpg",
+      "images/thumbs/02.JPG",
+      "images/thumbs/03.JPG",
+      "images/thumbs/04.JPG"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T11:27:57.373919+00:00",
+    "score": 10
+  },
+  {
+    "owner": "galleryViewer",
+    "repository": "galleryViewer/galleryViewer",
+    "url": "https://github.com/galleryViewer/galleryViewer",
+    "pages_url": "https://galleryViewer.github.io/galleryViewer/",
+    "created_at": "2024-09-04T11:57:33Z",
+    "pushed_at": "2024-11-03T10:32:15Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "galleryViewer",
+      "email": "stageW3@proton.me",
+      "login": "galleryViewer"
+    },
+    "owner_profile": {
+      "created_at": "2024-09-04T11:53:29Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 16,
+    "probable_photo_count": 15,
+    "sample_photos": [
+      "assets/css/images/bg.jpg",
+      "assets/css/images/overlay.png",
+      "images/me.jpg",
+      "images/pic01.jpg",
+      "images/pic02.jpg",
+      "images/pic03.jpg",
+      "images/pic04.jpg",
+      "images/pic05.jpg",
+      "images/pic06.jpg",
+      "images/pic07.jpg",
+      "images/pic08.jpg",
+      "images/pic09.jpg",
+      "images/pic10.jpg",
+      "images/pic11.jpg",
+      "images/pic12.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T11:31:24.086766+00:00",
+    "score": 10
+  },
+  {
+    "owner": "brightvibesrock",
+    "repository": "brightvibesrock/image-gallery-starter",
+    "url": "https://github.com/brightvibesrock/image-gallery-starter",
+    "pages_url": "https://image-gallery-starter-git-main-brightvibesrocks-projects.vercel.app/",
+    "created_at": "2024-09-10T05:17:19Z",
+    "pushed_at": "2024-09-11T10:10:10Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "brightvibesrock",
+      "email": "brightvibesrock@gmail.com",
+      "login": "brightvibesrock"
+    },
+    "owner_profile": {
+      "name": "Jenny Dolan",
+      "bio": "my new profile!",
+      "created_at": "2024-08-24T07:48:19Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "public/jennycircle.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "Nextjs & Cloudinary Photo Gallery Template",
+    "first_seen_utc": "2026-09-02T11:33:03.303696+00:00",
+    "score": 8
+  },
+  {
+    "owner": "Pakhi-J",
+    "repository": "Pakhi-J/gallery",
+    "url": "https://github.com/Pakhi-J/gallery",
+    "pages_url": "https://Pakhi-J.github.io/gallery/",
+    "created_at": "2024-10-03T09:06:01Z",
+    "pushed_at": "2024-10-07T16:20:09Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "jess"
+    ],
+    "commit_author": {
+      "name": "Pakhi-J",
+      "email": "jessicaopey2@gmail.com",
+      "login": "Pakhi-J"
+    },
+    "owner_profile": {
+      "created_at": "2024-10-02T22:12:42Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 3,
+    "probable_photo_count": 3,
+    "sample_photos": [
+      "images/img 1.jpeg",
+      "images/img 2.jpeg",
+      "images/img 3.jpeg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T11:40:47.376663+00:00",
+    "score": 9
+  },
+  {
+    "owner": "xuanvi125",
+    "repository": "xuanvi125/IA02-Gallery",
+    "url": "https://github.com/xuanvi125/IA02-Gallery",
+    "pages_url": "https://xuanvi125.github.io/IA02-Gallery/",
+    "created_at": "2024-10-15T13:11:13Z",
+    "pushed_at": "2024-10-15T14:00:34Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [
+      "xuan"
+    ],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "xuan"
+    ],
+    "commit_author": {
+      "name": "xuanvi",
+      "email": "nguyenxuanvi770@gmail.com",
+      "login": "xuanvi125"
+    },
+    "owner_profile": {
+      "name": "Nguyễn Xuân Vi",
+      "bio": "Final-year student",
+      "created_at": "2023-10-27T09:16:26Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": "A homework that implements image fetching from the Unsplash API with infinite scroll functionality using React.",
+    "first_seen_utc": "2026-09-02T11:46:28.152647+00:00",
+    "score": 8
   }
 ]

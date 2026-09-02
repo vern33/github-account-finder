@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-09-02T05:52:05.665372+00:00`  
-Repositories inspected: `66884`  
-Candidates: `1470`
+Last run: `2026-09-02T11:23:15.955281+00:00`  
+Repositories inspected: `73326`  
+Candidates: `1476`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -59503,6 +59503,245 @@ None.
 - `img/thumbs/onepiece.png`
 - `img/thumbs/zoro.png`
 - `img/thumbs/zoro1.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/NatHazel/gallery">NatHazel/gallery</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [NatHazel](https://github.com/NatHazel)
+- Live site: https://NatHazel.github.io/gallery/
+- Identity tier: **0**
+- Created / pushed: `2024-08-19T03:32:20Z` / `2024-08-19T03:42:32Z`
+- Account created: `2024-08-07T03:34:21Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Natalie Hazel`
+- Commit identity hits: `none`
+- Latest commit author: `Natalie Hazel` / `natdaniellebrow@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `gallery/NaturalHazard/DSC_6227.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/AfterPrahara/Gallery">AfterPrahara/Gallery</a></strong> · probable photos 42 · identity none</summary>
+
+- Owner: [AfterPrahara](https://github.com/AfterPrahara)
+- Live site: https://AfterPrahara.github.io/Gallery/
+- Identity tier: **0**
+- Created / pushed: `2024-08-31T23:21:30Z` / `2025-01-12T16:40:26Z`
+- Account created: `2024-08-31T23:20:57Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `afterprahara`
+- Commit identity hits: `none`
+- Latest commit author: `Rian Septiawan` / `rianseptiawan@infitech.or.id`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `43` / `42`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `assets/css/images/overlay.png`
+- `images/07.JPG`
+- `images/bg.jpg`
+- `images/fulls/01.jpg`
+- `images/fulls/02.JPG`
+- `images/fulls/03.JPG`
+- `images/fulls/04.JPG`
+- `images/fulls/05.JPG`
+- `images/fulls/06.jpg`
+- `images/fulls/07.JPG`
+- `images/fulls/08.jpg`
+- `images/fulls/09.JPG`
+- `images/fulls/10.JPG`
+- `images/fulls/11.JPG`
+- `images/fulls/Expo.mp3.jpg`
+- `images/fulls/fg.JPG`
+- `images/thumbs/01.jpg`
+- `images/thumbs/02.JPG`
+- `images/thumbs/03.JPG`
+- `images/thumbs/04.JPG`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/galleryViewer/galleryViewer">galleryViewer/galleryViewer</a></strong> · probable photos 15 · identity none</summary>
+
+- Owner: [galleryViewer](https://github.com/galleryViewer)
+- Live site: https://galleryViewer.github.io/galleryViewer/
+- Identity tier: **0**
+- Created / pushed: `2024-09-04T11:57:33Z` / `2024-11-03T10:32:15Z`
+- Account created: `2024-09-04T11:53:29Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `galleryViewer` / `stageW3@proton.me`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `16` / `15`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (15)</summary>
+
+- `assets/css/images/bg.jpg`
+- `assets/css/images/overlay.png`
+- `images/me.jpg`
+- `images/pic01.jpg`
+- `images/pic02.jpg`
+- `images/pic03.jpg`
+- `images/pic04.jpg`
+- `images/pic05.jpg`
+- `images/pic06.jpg`
+- `images/pic07.jpg`
+- `images/pic08.jpg`
+- `images/pic09.jpg`
+- `images/pic10.jpg`
+- `images/pic11.jpg`
+- `images/pic12.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 8 points — <a href="https://github.com/brightvibesrock/image-gallery-starter">brightvibesrock/image-gallery-starter</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [brightvibesrock](https://github.com/brightvibesrock)
+- Live site: https://image-gallery-starter-git-main-brightvibesrocks-projects.vercel.app/
+- Identity tier: **0**
+- Created / pushed: `2024-09-10T05:17:19Z` / `2024-09-11T10:10:10Z`
+- Account created: `2024-08-24T07:48:19Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Jenny Dolan`
+- Commit identity hits: `none`
+- Latest commit author: `brightvibesrock` / `brightvibesrock@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `public/jennycircle.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/Pakhi-J/gallery">Pakhi-J/gallery</a></strong> · probable photos 3 · identity jess</summary>
+
+- Owner: [Pakhi-J](https://github.com/Pakhi-J)
+- Live site: https://Pakhi-J.github.io/gallery/
+- Identity tier: **1**
+- Created / pushed: `2024-10-03T09:06:01Z` / `2024-10-07T16:20:09Z`
+- Account created: `2024-10-02T22:12:42Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `jess`
+- Latest commit author: `Pakhi-J` / `jessicaopey2@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `3` / `3`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (3)</summary>
+
+- `images/img 1.jpeg`
+- `images/img 2.jpeg`
+- `images/img 3.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 8 points — <a href="https://github.com/xuanvi125/IA02-Gallery">xuanvi125/IA02-Gallery</a></strong> · probable photos 0 · identity xuan</summary>
+
+- Owner: [xuanvi125](https://github.com/xuanvi125)
+- Live site: https://xuanvi125.github.io/IA02-Gallery/
+- Identity tier: **1**
+- Created / pushed: `2024-10-15T13:11:13Z` / `2024-10-15T14:00:34Z`
+- Account created: `2023-10-27T09:16:26Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `xuan`
+- Profile identity hits: `none`
+- Profile name: `Nguyễn Xuân Vi`
+- Commit identity hits: `xuan`
+- Latest commit author: `xuanvi` / `nguyenxuanvi770@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
 
 </details>
 
