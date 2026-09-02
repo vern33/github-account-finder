@@ -71740,5 +71740,413 @@
     "description": null,
     "first_seen_utc": "2026-09-02T16:59:51.149628+00:00",
     "score": 9
+  },
+  {
+    "owner": "Kaliuzhnyi-Nazariy",
+    "repository": "Kaliuzhnyi-Nazariy/it-traveler",
+    "url": "https://github.com/Kaliuzhnyi-Nazariy/it-traveler",
+    "pages_url": "https://it-traveler-nine.vercel.app/",
+    "created_at": "2024-07-21T19:08:50Z",
+    "pushed_at": "2026-01-28T15:25:51Z",
+    "workflow_markers": [
+      "peaceiris/actions-gh-pages"
+    ],
+    "identity_hits": [
+      "liu"
+    ],
+    "profile_identity_hits": [
+      "liu"
+    ],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Kaliuzhnyi-Nazariy",
+      "email": "132183299+Kaliuzhnyi-Nazariy@users.noreply.github.com",
+      "login": "Kaliuzhnyi-Nazariy"
+    },
+    "owner_profile": {
+      "name": "Nazarii Kaliuzhnyi",
+      "bio": "HELLO WORLD! My name is Nazarii and I'm 19. I am a Full-Stack developer and I love it. ",
+      "email": "kaliuzhnyinazarii@gmail.com",
+      "created_at": "2023-04-30T04:08:52Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 2,
+    "probable_photo_count": 2,
+    "sample_photos": [
+      "src/assets/img/no-image.png",
+      "src/assets/img/static-map.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T19:52:40.870920+00:00",
+    "score": 13
+  },
+  {
+    "owner": "NourDoesCode",
+    "repository": "NourDoesCode/Modern-Travel-App",
+    "url": "https://github.com/NourDoesCode/Modern-Travel-App",
+    "pages_url": "https://NourDoesCode.github.io/Modern-Travel-App/",
+    "created_at": "2024-08-01T02:01:01Z",
+    "pushed_at": "2024-08-01T03:49:46Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Nour",
+      "email": "nourpow@gmail.com",
+      "login": "NourDoesML"
+    },
+    "owner_profile": {
+      "name": "Nour",
+      "created_at": "2024-06-30T18:53:02Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 13,
+    "probable_photo_count": 13,
+    "sample_photos": [
+      "public/boat.png",
+      "public/feature-bg.png",
+      "public/hero.png",
+      "public/img-1.png",
+      "public/img-2.png",
+      "public/pattern-bg.png",
+      "public/pattern.png",
+      "public/person-1.png",
+      "public/person-2.png",
+      "public/person-3.png",
+      "public/person-4.png",
+      "public/phone.png",
+      "public/phones.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:07:42.005584+00:00",
+    "score": 10
+  },
+  {
+    "owner": "Artem-portfolio",
+    "repository": "Artem-portfolio/travel",
+    "url": "https://github.com/Artem-portfolio/travel",
+    "pages_url": "https://Artem-portfolio.github.io/travel/",
+    "created_at": "2024-08-07T18:21:07Z",
+    "pushed_at": "2024-12-14T17:06:34Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Artem-portfolio",
+      "email": "artemsadko45@gmail.com",
+      "login": "Artem-portfolio"
+    },
+    "owner_profile": {
+      "name": "Shadko Artem",
+      "created_at": "2024-08-05T10:38:16Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 54,
+    "probable_photo_count": 54,
+    "sample_photos": [
+      "img/customers/01.png",
+      "img/customers/01.webp",
+      "img/customers/02.png",
+      "img/customers/02.webp",
+      "img/customers/03.png",
+      "img/customers/03.webp",
+      "img/discover/hero-img.png",
+      "img/discover/hero-img.webp",
+      "img/explore/img.jpg",
+      "img/explore/img.webp",
+      "img/hints/coco-de-heaven.jpg",
+      "img/hints/coco-de-heaven.webp",
+      "img/hints/heaven-resort.jpg",
+      "img/hints/heaven-resort.webp",
+      "img/hints/jake-anderson.jpg",
+      "img/hints/jake-anderson.webp",
+      "img/popular/bali.jpg",
+      "img/popular/bali.webp",
+      "img/popular/bangkok.jpg",
+      "img/popular/bangkok.webp"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:08:32.603998+00:00",
+    "score": 10
+  },
+  {
+    "owner": "Nhatty88",
+    "repository": "Nhatty88/TravelTasteLifestyle",
+    "url": "https://github.com/Nhatty88/TravelTasteLifestyle",
+    "pages_url": "https://github.com/Nhatty88",
+    "created_at": "2024-08-07T19:20:19Z",
+    "pushed_at": "2024-08-12T14:02:24Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "Nhatty88",
+      "email": "nhattynato@gmail.com",
+      "login": "Nhatty88"
+    },
+    "owner_profile": {
+      "created_at": "2024-08-07T16:59:40Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 1,
+    "probable_photo_count": 1,
+    "sample_photos": [
+      "images/IMG_8615.jpeg"
+    ],
+    "post_count_sampled": 3,
+    "sample_posts": [
+      "posts/comprehensive-guide-negros-occidental.html",
+      "posts/first-post.html",
+      "posts/my-github-blog.html"
+    ],
+    "description": "Config files for my GitHub profile.",
+    "first_seen_utc": "2026-09-02T20:09:24.626615+00:00",
+    "score": 9
+  },
+  {
+    "owner": "kanapathi-jessica",
+    "repository": "kanapathi-jessica/travel-web-site-project-1",
+    "url": "https://github.com/kanapathi-jessica/travel-web-site-project-1",
+    "pages_url": "https://kanapathi-jessica.github.io/travel-web-site-project-1/",
+    "created_at": "2024-08-09T14:10:16Z",
+    "pushed_at": "2024-08-09T14:10:56Z",
+    "workflow_markers": [],
+    "identity_hits": [
+      "jess"
+    ],
+    "profile_identity_hits": [
+      "jess"
+    ],
+    "commit_identity_hits": [
+      "jess"
+    ],
+    "commit_author": {
+      "name": "jessica-127",
+      "email": "kjessy127@gmail.com",
+      "login": "kanapathi-jessica"
+    },
+    "owner_profile": {
+      "name": "jessica-127",
+      "created_at": "2024-07-17T15:59:49Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 0,
+    "probable_photo_count": 0,
+    "sample_photos": [],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:17:30.975130+00:00",
+    "score": 11
+  },
+  {
+    "owner": "it-bulka",
+    "repository": "it-bulka/travel-agent",
+    "url": "https://github.com/it-bulka/travel-agent",
+    "pages_url": "https://it-bulka.github.io/travel-agent/",
+    "created_at": "2024-08-21T10:58:53Z",
+    "pushed_at": "2024-08-21T13:10:25Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [
+      "liu"
+    ],
+    "commit_author": {
+      "name": "Ivanna Liuba",
+      "email": "i.it.bulka@gmail.com",
+      "login": "it-bulka"
+    },
+    "owner_profile": {
+      "created_at": "2024-08-21T09:56:18Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 25,
+    "probable_photo_count": 16,
+    "sample_photos": [
+      "src/img/01.jpg",
+      "src/img/others/Subtract.png",
+      "src/img/others/house.png",
+      "src/img/others/scroll-down-text.png",
+      "src/img/partners/airbnb.png",
+      "src/img/partners/american-airlines.png",
+      "src/img/partners/expedia.png",
+      "src/img/partners/skyscanner.png",
+      "src/img/partners/traveloka.png",
+      "src/img/slider/bali.png",
+      "src/img/slider/bangkok.png",
+      "src/img/slider/dubai.png",
+      "src/img/slider/new-york.png",
+      "src/img/slider/paris.png",
+      "src/img/slider/santorini.png",
+      "src/img/slider/venice.png"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:23:41.403328+00:00",
+    "score": 9
+  },
+  {
+    "owner": "jporteria",
+    "repository": "jporteria/travelRecommendation",
+    "url": "https://github.com/jporteria/travelRecommendation",
+    "pages_url": "https://jporteria.github.io/travelRecommendation/",
+    "created_at": "2024-08-26T03:44:33Z",
+    "pushed_at": "2024-08-27T05:21:16Z",
+    "workflow_markers": [],
+    "identity_hits": [],
+    "profile_identity_hits": [
+      "jess",
+      "jessie"
+    ],
+    "commit_identity_hits": [
+      "jess",
+      "jessie"
+    ],
+    "commit_author": {
+      "name": "Jessie Porteria",
+      "email": "156392530+jporteria@users.noreply.github.com",
+      "login": "jporteria"
+    },
+    "owner_profile": {
+      "name": "Jessie Porteria",
+      "created_at": "2024-01-12T02:55:16Z"
+    },
+    "identity_tier": 1,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": false,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 7,
+    "probable_photo_count": 6,
+    "sample_photos": [
+      "images/angkorwat.jpg",
+      "images/boracay.jpg",
+      "images/brazil.jpg",
+      "images/elnido.jpg",
+      "images/japan.jpg",
+      "images/tajmahal.jpeg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:30:46.604321+00:00",
+    "score": 9
+  },
+  {
+    "owner": "ixons",
+    "repository": "ixons/TravelApp",
+    "url": "https://github.com/ixons/TravelApp",
+    "pages_url": "https://ixons.github.io/TravelApp/",
+    "created_at": "2024-08-26T06:42:16Z",
+    "pushed_at": "2024-09-30T03:19:29Z",
+    "workflow_markers": [
+      "actions/deploy-pages",
+      "actions/upload-pages-artifact"
+    ],
+    "identity_hits": [],
+    "profile_identity_hits": [],
+    "commit_identity_hits": [],
+    "commit_author": {
+      "name": "haidarakhs",
+      "email": "haidarakbar.hs@gmail.com",
+      "login": "haidarakhs"
+    },
+    "owner_profile": {
+      "name": "HaidarAkbar H.Setiawan",
+      "bio": "New Acoount\r\n",
+      "created_at": "2024-08-09T13:03:39Z"
+    },
+    "identity_tier": 0,
+    "nickname_hits": [],
+    "content_only_hits": [],
+    "account_created_in_window": true,
+    "dormant": false,
+    "is_personal_pages": false,
+    "tree_truncated": false,
+    "image_count": 56,
+    "probable_photo_count": 16,
+    "sample_photos": [
+      "build/web/assets/images/SCBD.jpeg",
+      "build/web/assets/images/city1.jpg",
+      "build/web/assets/images/city2.jpg",
+      "build/web/assets/images/city3.jpg",
+      "build/web/assets/images/city4.jpg",
+      "build/web/assets/images/city5.jpg",
+      "build/web/assets/images/city6.jpg",
+      "build/web/assets/images/jakut.jpg",
+      "images/SCBD.jpeg",
+      "images/city1.jpg",
+      "images/city2.jpg",
+      "images/city3.jpg",
+      "images/city4.jpg",
+      "images/city5.jpg",
+      "images/city6.jpg",
+      "images/jakut.jpg"
+    ],
+    "post_count_sampled": 0,
+    "sample_posts": [],
+    "description": null,
+    "first_seen_utc": "2026-09-02T20:30:58.659408+00:00",
+    "score": 10
   }
 ]

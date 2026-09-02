@@ -2,9 +2,9 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-09-02T16:37:27.908145+00:00`  
-Repositories inspected: `80736`  
-Candidates: `1483`
+Last run: `2026-09-02T19:49:02.506013+00:00`  
+Repositories inspected: `88312`  
+Candidates: `1491`
 
 <details>
 <summary><strong>Tier 2 · 18 points — <a href="https://github.com/liuxuan1024/lovezzx">liuxuan1024/lovezzx</a></strong> · probable photos 0 · identity liu, liuxuan, xuan</summary>
@@ -60083,6 +60083,347 @@ None.
 - `img/top-3.jpg`
 - `img/top-4-min.jpg`
 - `img/top-4.jpg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 13 points — <a href="https://github.com/Kaliuzhnyi-Nazariy/it-traveler">Kaliuzhnyi-Nazariy/it-traveler</a></strong> · probable photos 2 · identity liu</summary>
+
+- Owner: [Kaliuzhnyi-Nazariy](https://github.com/Kaliuzhnyi-Nazariy)
+- Live site: https://it-traveler-nine.vercel.app/
+- Identity tier: **1**
+- Created / pushed: `2024-07-21T19:08:50Z` / `2026-01-28T15:25:51Z`
+- Account created: `2023-04-30T04:08:52Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: `peaceiris/actions-gh-pages`
+- Identity hits: `liu`
+- Profile identity hits: `liu`
+- Profile name: `Nazarii Kaliuzhnyi`
+- Commit identity hits: `liu`
+- Latest commit author: `Kaliuzhnyi-Nazariy` / `132183299+Kaliuzhnyi-Nazariy@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `2` / `2`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (2)</summary>
+
+- `src/assets/img/no-image.png`
+- `src/assets/img/static-map.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/NourDoesCode/Modern-Travel-App">NourDoesCode/Modern-Travel-App</a></strong> · probable photos 13 · identity none</summary>
+
+- Owner: [NourDoesCode](https://github.com/NourDoesCode)
+- Live site: https://NourDoesCode.github.io/Modern-Travel-App/
+- Identity tier: **0**
+- Created / pushed: `2024-08-01T02:01:01Z` / `2024-08-01T03:49:46Z`
+- Account created: `2024-06-30T18:53:02Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Nour`
+- Commit identity hits: `none`
+- Latest commit author: `Nour` / `nourpow@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `13` / `13`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (13)</summary>
+
+- `public/boat.png`
+- `public/feature-bg.png`
+- `public/hero.png`
+- `public/img-1.png`
+- `public/img-2.png`
+- `public/pattern-bg.png`
+- `public/pattern.png`
+- `public/person-1.png`
+- `public/person-2.png`
+- `public/person-3.png`
+- `public/person-4.png`
+- `public/phone.png`
+- `public/phones.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/Artem-portfolio/travel">Artem-portfolio/travel</a></strong> · probable photos 54 · identity none</summary>
+
+- Owner: [Artem-portfolio](https://github.com/Artem-portfolio)
+- Live site: https://Artem-portfolio.github.io/travel/
+- Identity tier: **0**
+- Created / pushed: `2024-08-07T18:21:07Z` / `2024-12-14T17:06:34Z`
+- Account created: `2024-08-05T10:38:16Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `Shadko Artem`
+- Commit identity hits: `none`
+- Latest commit author: `Artem-portfolio` / `artemsadko45@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `54` / `54`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (20)</summary>
+
+- `img/customers/01.png`
+- `img/customers/01.webp`
+- `img/customers/02.png`
+- `img/customers/02.webp`
+- `img/customers/03.png`
+- `img/customers/03.webp`
+- `img/discover/hero-img.png`
+- `img/discover/hero-img.webp`
+- `img/explore/img.jpg`
+- `img/explore/img.webp`
+- `img/hints/coco-de-heaven.jpg`
+- `img/hints/coco-de-heaven.webp`
+- `img/hints/heaven-resort.jpg`
+- `img/hints/heaven-resort.webp`
+- `img/hints/jake-anderson.jpg`
+- `img/hints/jake-anderson.webp`
+- `img/popular/bali.jpg`
+- `img/popular/bali.webp`
+- `img/popular/bangkok.jpg`
+- `img/popular/bangkok.webp`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 9 points — <a href="https://github.com/Nhatty88/TravelTasteLifestyle">Nhatty88/TravelTasteLifestyle</a></strong> · probable photos 1 · identity none</summary>
+
+- Owner: [Nhatty88](https://github.com/Nhatty88)
+- Live site: https://github.com/Nhatty88
+- Identity tier: **0**
+- Created / pushed: `2024-08-07T19:20:19Z` / `2024-08-12T14:02:24Z`
+- Account created: `2024-08-07T16:59:40Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `none`
+- Latest commit author: `Nhatty88` / `nhattynato@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `1` / `1`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (3)</summary>
+
+- `posts/comprehensive-guide-negros-occidental.html`
+- `posts/first-post.html`
+- `posts/my-github-blog.html`
+
+</details>
+
+<details><summary>Sample photos (1)</summary>
+
+- `images/IMG_8615.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 11 points — <a href="https://github.com/kanapathi-jessica/travel-web-site-project-1">kanapathi-jessica/travel-web-site-project-1</a></strong> · probable photos 0 · identity jess</summary>
+
+- Owner: [kanapathi-jessica](https://github.com/kanapathi-jessica)
+- Live site: https://kanapathi-jessica.github.io/travel-web-site-project-1/
+- Identity tier: **1**
+- Created / pushed: `2024-08-09T14:10:16Z` / `2024-08-09T14:10:56Z`
+- Account created: `2024-07-17T15:59:49Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `jess`
+- Profile identity hits: `jess`
+- Profile name: `jessica-127`
+- Commit identity hits: `jess`
+- Latest commit author: `jessica-127` / `kjessy127@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `0` / `0`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (0)</summary>
+
+None.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/it-bulka/travel-agent">it-bulka/travel-agent</a></strong> · probable photos 16 · identity liu</summary>
+
+- Owner: [it-bulka](https://github.com/it-bulka)
+- Live site: https://it-bulka.github.io/travel-agent/
+- Identity tier: **1**
+- Created / pushed: `2024-08-21T10:58:53Z` / `2024-08-21T13:10:25Z`
+- Account created: `2024-08-21T09:56:18Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `none`
+- Commit identity hits: `liu`
+- Latest commit author: `Ivanna Liuba` / `i.it.bulka@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `25` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `src/img/01.jpg`
+- `src/img/others/Subtract.png`
+- `src/img/others/house.png`
+- `src/img/others/scroll-down-text.png`
+- `src/img/partners/airbnb.png`
+- `src/img/partners/american-airlines.png`
+- `src/img/partners/expedia.png`
+- `src/img/partners/skyscanner.png`
+- `src/img/partners/traveloka.png`
+- `src/img/slider/bali.png`
+- `src/img/slider/bangkok.png`
+- `src/img/slider/dubai.png`
+- `src/img/slider/new-york.png`
+- `src/img/slider/paris.png`
+- `src/img/slider/santorini.png`
+- `src/img/slider/venice.png`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 1 · 9 points — <a href="https://github.com/jporteria/travelRecommendation">jporteria/travelRecommendation</a></strong> · probable photos 6 · identity jess, jessie</summary>
+
+- Owner: [jporteria](https://github.com/jporteria)
+- Live site: https://jporteria.github.io/travelRecommendation/
+- Identity tier: **1**
+- Created / pushed: `2024-08-26T03:44:33Z` / `2024-08-27T05:21:16Z`
+- Account created: `2024-01-12T02:55:16Z` · in window `False`
+- Dormant signal: `False`
+- Pages workflow: ``
+- Identity hits: `none`
+- Profile identity hits: `jess, jessie`
+- Profile name: `Jessie Porteria`
+- Commit identity hits: `jess, jessie`
+- Latest commit author: `Jessie Porteria` / `156392530+jporteria@users.noreply.github.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `7` / `6`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (6)</summary>
+
+- `images/angkorwat.jpg`
+- `images/boracay.jpg`
+- `images/brazil.jpg`
+- `images/elnido.jpg`
+- `images/japan.jpg`
+- `images/tajmahal.jpeg`
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tier 0 · 10 points — <a href="https://github.com/ixons/TravelApp">ixons/TravelApp</a></strong> · probable photos 16 · identity none</summary>
+
+- Owner: [ixons](https://github.com/ixons)
+- Live site: https://ixons.github.io/TravelApp/
+- Identity tier: **0**
+- Created / pushed: `2024-08-26T06:42:16Z` / `2024-09-30T03:19:29Z`
+- Account created: `2024-08-09T13:03:39Z` · in window `True`
+- Dormant signal: `False`
+- Pages workflow: `actions/deploy-pages, actions/upload-pages-artifact`
+- Identity hits: `none`
+- Profile identity hits: `none`
+- Profile name: `HaidarAkbar H.Setiawan`
+- Commit identity hits: `none`
+- Latest commit author: `haidarakhs` / `haidarakbar.hs@gmail.com`
+- Nickname hits: `none`
+- Content/path hints: `none`
+- Images / probable photos: `56` / `16`
+- Tree truncated: `False`
+
+<details><summary>Sample posts (0)</summary>
+
+None.
+
+</details>
+
+<details><summary>Sample photos (16)</summary>
+
+- `build/web/assets/images/SCBD.jpeg`
+- `build/web/assets/images/city1.jpg`
+- `build/web/assets/images/city2.jpg`
+- `build/web/assets/images/city3.jpg`
+- `build/web/assets/images/city4.jpg`
+- `build/web/assets/images/city5.jpg`
+- `build/web/assets/images/city6.jpg`
+- `build/web/assets/images/jakut.jpg`
+- `images/SCBD.jpeg`
+- `images/city1.jpg`
+- `images/city2.jpg`
+- `images/city3.jpg`
+- `images/city4.jpg`
+- `images/city5.jpg`
+- `images/city6.jpg`
+- `images/jakut.jpg`
 
 </details>
 
