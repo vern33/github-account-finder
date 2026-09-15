@@ -11,8 +11,8 @@
 - Unique account owners investigated: **81,496**
 - Candidates recorded: **1,493**
 - Ranges stopped by result caps: **12**
-- Workflow runs: **101**
-- Last run (UTC): `2026-09-15T18:14:12.938014+00:00`
+- Workflow runs: **102**
+- Last run (UTC): `2026-09-15T21:27:08.583507+00:00`
 - Last API requests used: **1**
 - Last stop reason: `none`
 
