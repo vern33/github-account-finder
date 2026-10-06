@@ -11,8 +11,8 @@
 - Unique account owners investigated: **81,496**
 - Candidates recorded: **1,493**
 - Ranges stopped by result caps: **12**
-- Workflow runs: **206**
-- Last run (UTC): `2026-10-06T10:23:41.353585+00:00`
+- Workflow runs: **207**
+- Last run (UTC): `2026-10-06T17:13:44.614510+00:00`
 - Last API requests used: **1**
 - Last stop reason: `HTTPError: HTTP Error 401: Unauthorized`
 
