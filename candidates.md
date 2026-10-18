@@ -2,7 +2,7 @@
 
 Generated incrementally by GitHub Actions in discovery order. New candidates are appended at the end.
 
-Last run: `2026-10-18T05:57:51.481189+00:00`  
+Last run: `2026-10-18T11:12:26.964846+00:00`  
 Repositories inspected: `92170`  
 Candidates: `1493`
 
